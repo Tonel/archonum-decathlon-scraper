@@ -1,0 +1,112 @@
+{
+  "url": "https://www.decathlon.es/es/p/botas-de-futbol-viralto-i-fg-negro-y-rojo/343026/c382c343m8767183",
+  "productKey": "343026_c382c343m8767183",
+  "variantId": "c382c343m8767183",
+  "productId": "8767183",
+  "name": "BOTAS DE FÚTBOL VIRALTO I FG NEGRO Y ROJO",
+  "brand": "KIPSTA",
+  "description": "Con su suela FG equipada con FELX-H, su lengüeta ancha y su parte superior gruesa, el Viralto I te brinda un buen agarre y una buena estabilidad, en todo tipo de terreno seco (hierba o sintético).",
+  "stickers": [
+    "Últimas unidades"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas césped natural",
+    "Botas de fútbol FG"
+  ],
+  "price": {
+    "amount": 6.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": null,
+  "sizes": [],
+  "colors": [
+    {
+      "name": "negro ahumado / rojo eléctrico fluor",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "naranja girasol fluorescente",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "3 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 3 años."
+    }
+  ],
+  "features": [
+    {
+      "title": "Comodidad",
+      "text": "Exterior flexible, refuerzo textil y plantilla preformada."
+    },
+    {
+      "title": "Resistencia",
+      "text": "Vida útil media, gracias a los materiales y procesos utilizados."
+    },
+    {
+      "title": "Flexibilidad",
+      "text": "Flexibilidad multidireccional con tecnología FLEX-H y sistema DUAL HARDNESS"
+    },
+    {
+      "title": "Toque de balón",
+      "text": "Optimal Strike Zone: asimetría del eje de los cordones de -10°"
+    },
+    {
+      "title": "Agarre",
+      "text": "Taco redondo que garantiza un buen agarre en terreno natural y sintético."
+    },
+    {
+      "title": "Sujeción del producto",
+      "text": "Lengüeta ancha unida a la base, no se mueve durante la práctica y no se tuerce."
+    },
+    {
+      "title": "Facilidad para poner / quitar",
+      "text": "Gracias a su lengüeta, esta bota se pone y se ajusta muy fácilmente."
+    },
+    {
+      "title": "Cuidado fácil",
+      "text": "Limpieza con cepillo para una mayor vida útil del calzado."
+    }
+  ],
+  "specifications": [],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p2380403/k$f78f429439290884509eb038c0ad7a82/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2380401/k$f1e3dd8fb316d51380277d7ef2b6890c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2380400/k$0aed09770584705c09cfefdf9d332c33/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2380399/k$95a4445c7b4b9ee90c7443c459330fef/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2380397/k$436bc95d5b3f91073afea888498ba549/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2380398/k$be1d4e29d2199153e9b985630ab1b8ac/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2380395/k$24a44e5b4a7523d19f59d644808ee367/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2380396/k$7eba35491122ad2ca9df2fd0d77b2a57/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2457433/k$f917b89463f1fd9b368fad1eb5acf4dc/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:02:54.809Z"
+}

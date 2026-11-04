@@ -1,0 +1,183 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatilla-de-futbol-predator-club-sala-indoor/e87c390e-a49d-4264-aa5f-94051317d4cd/c255c1c4",
+  "productKey": "e87c390e-a49d-4264-aa5f-94051317d4cd_c255c1c4",
+  "variantId": "c255c1c4",
+  "productId": null,
+  "name": "Zapatilla de fútbol PREDATOR CLUB Sala Indoor",
+  "brand": "ADIDAS",
+  "description": "Zapatilla de fútbol sala con tecnología Powerspine para tirar más fuerte.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol sala",
+    "Zapatillas",
+    "Zapatillas niños",
+    "Zapatillas niños Adidas"
+  ],
+  "price": {
+    "amount": 60,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "20,00 € al mes",
+  "sizes": [
+    "1 mes",
+    "41 1/3 (UK 7.5)",
+    "42 (UK 8)",
+    "42 2/3 (UK 8.5)",
+    "43 1/3 (UK 9)",
+    "44 (UK 9)",
+    "44 2/3 (UK 10)"
+  ],
+  "colors": [
+    {
+      "name": "multicolor / negro / blanco",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "negro / blanco / rojo",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "rojo / negro / blanco",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "blanco / negro / blanco",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "azul claro / azul / amarillo",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "azul / amarillo",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Motivo",
+          "value": "Sin patrón"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Interior"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado bajo"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Tracción"
+        },
+        {
+          "name": "Impermeable",
+          "value": "No impermeable"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "Predator"
+        },
+        {
+          "name": "Nivel de práctica",
+          "value": "Perfeccionamiento"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        },
+        {
+          "name": "Temporada",
+          "value": "Todas las estaciones"
+        }
+      ]
+    },
+    {
+      "group": "Aviso legal",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4068812944772"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m26871280/k$d9b66f29befc60432a04bb4f08f237ab/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26871278/k$808ed2756c7010dc61a63779dda384f4/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26871277/k$2e01a38654667503c08b0e0014d2d2c6/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26871282/k$60e4971129b503a020b9bb05677b6502/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26871279/k$2f95ddb996b7f4a8e04e9264cb581700/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26871284/k$84db054ce3c01c5cdf69bcc9e28a4e6f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26871281/k$c9a823611297fb701a01b987dd1ca196/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36646434/k$def11ed04c5e1eefbfb31407cf4e5193/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:09:52.059Z"
+}

@@ -1,0 +1,137 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/kelme-zapatillas-de-futbol-sala-goleiro-naranja-azul-unisex/4da0bf46-25b2-4302-a020-619de69b0670/c20c145",
+  "productKey": "4da0bf46-25b2-4302-a020-619de69b0670_c20c145",
+  "variantId": "c20c145",
+  "productId": null,
+  "name": "Kelme Zapatillas De Fútbol Sala Goleiro Naranja Azul Unisex",
+  "brand": "KELME",
+  "description": "Kelme Zapatillas De Fútbol Sala Goleiro Naranja Azul Unisex. Suela de Goma de Perfil Bajo. Tallaje correcto, elige tu talla habitual. Kelme, Leave Your Mark.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol sala",
+    "Zapatillas",
+    "Zapatillas hombre",
+    "Zapatillas hombre todo"
+  ],
+  "price": {
+    "amount": 37.73,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "12,58 € al mes",
+  "sizes": [
+    "35 (UK 2.5)",
+    "37 (UK 4)",
+    "40 (UK 6.5)",
+    "41 (UK 7)",
+    "42 (UK 8)",
+    "43 (UK 8.5)",
+    "44 (UK 9.5)",
+    "45 (UK 10.5)",
+    "46 (UK 11)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Motivo",
+          "value": "Sin patrón"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordón tradicional"
+        },
+        {
+          "name": "Material",
+          "value": "Cuero artificial"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Amortiguación, soporte y confort"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Estilo",
+          "value": "Liso"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Aviso legal",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8445664376962"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m26836792/k$a2148613abd4a5a401cb7d155cfd7620/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26836784/k$454776818e6fa449ef1e64533c6cfd9b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26836118/k$e48d2c81f2c4d07f1de706f9dbb6a59c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26836148/k$3bdf5e482cc35e04f997c1703361e8ec/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26836135/k$d88c8ac58f88d4865b193905dfaa216c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26836313/k$59904fc0a55aa8bfc5081a7ab86ce303/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26836144/k$5e2d01288f5d1fee3b9ac84081060f61/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:20:01.259Z"
+}

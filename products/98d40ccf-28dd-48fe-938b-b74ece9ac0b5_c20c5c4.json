@@ -1,0 +1,121 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/bota-f50-league-multisuperficie/98d40ccf-28dd-48fe-938b-b74ece9ac0b5/c20c5c4",
+  "productKey": "98d40ccf-28dd-48fe-938b-b74ece9ac0b5_c20c5c4",
+  "variantId": "c20c5c4",
+  "productId": null,
+  "name": "Bota F50 League multisuperficie",
+  "brand": "ADIDAS",
+  "description": "Bota ligera para que corras más que nunca sobre varias superficies de césped artificial.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "Botas de futbol adidas niños",
+    "Botas de futbol adidas niños F50"
+  ],
+  "price": {
+    "amount": 62.3,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "20,77 € al mes",
+  "sizes": [
+    "41 1/3 (UK 7.5)",
+    "42 (UK 8)",
+    "42 2/3 (UK 8.5)",
+    "43 1/3 (UK 9)",
+    "44 2/3 (UK 10)",
+    "46 (UK 11)",
+    "46 2/3 (UK 11.5)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "8 en stock"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Todo tipo de terrenos"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "F50"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4067906397227"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m40601494/k$09d6989c5c15cc318d49f6121fd7ca36/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40601762/k$618a4d92bb48b1843b659d2d37a91106/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40601704/k$e7b1e0ceab844a88f60de2ccbaae8c35/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40601652/k$122f21845944853cd90ff716af6547ba/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40601616/k$e326265ca99a5fcfbfdd769c56bb5710/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40601588/k$7079583aed6a9d3d19a11bf7f6252811/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40601554/k$9f2f792ad361089038d8e0d1ec95afdb/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40601530/k$563df17d2648a2d38694ceb468643f14/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:15:09.712Z"
+}

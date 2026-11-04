@@ -1,0 +1,130 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/adidas-copa-pure-iv-club-fg-mg-nino-blanco-y-azul/5ae81007-baba-421a-a7b0-e9654c7c888f/c4c5",
+  "productKey": "5ae81007-baba-421a-a7b0-e9654c7c888f_c4c5",
+  "variantId": "c4c5",
+  "productId": null,
+  "name": "Adidas Copa Pure IV Club FG/MG Niño Blanco y azul",
+  "brand": "ADIDAS",
+  "description": "Botas de fútbol cómodas y versátiles para jóvenes jugadores, con parte superior sintética suave, ajuste seguro y tracción fiable.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "Botas de futbol adidas niños",
+    "Botas de futbol adidas niños Copa"
+  ],
+  "price": {
+    "amount": 60,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "20,00 € al mes",
+  "sizes": [
+    "33.5 (UK 1.5)",
+    "35.5 (UK 3)",
+    "38 2/3 (UK 5.5)",
+    "28.5 (UK 10.5C)",
+    "31.5 (UK 13C)"
+  ],
+  "colors": [
+    {
+      "name": "blanco / azul",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "blanco / azul / azul marino",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos fijos"
+        },
+        {
+          "name": "Material",
+          "value": "Piel"
+        },
+        {
+          "name": "Colección",
+          "value": "Copa"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4068818237052"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m36321604/k$e7f7ed7fde603a8ddd8217987ec46895/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36321811/k$5757b5fb91caa5666966931127c7bd80/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36322165/k$3a52cf53cfbb9add861bb3691a600319/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36322156/k$4fd092066e14e92222ccc380049977c3/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36322143/k$1c3169f3d1a9da31d8ba30020337b9a4/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36322129/k$4722b9e0c132992d3aa644d48a59aef0/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36321646/k$2b78ca0aa079762c6823c19857a96dc3/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40126726/k$bc5e331c663718e703ae5658055d836b/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:24:01.731Z"
+}

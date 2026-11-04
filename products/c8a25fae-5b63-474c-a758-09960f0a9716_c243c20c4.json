@@ -1,0 +1,107 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/guantes-portero-predator-training-adolescentes/c8a25fae-5b63-474c-a758-09960f0a9716/c243c20c4",
+  "productKey": "c8a25fae-5b63-474c-a758-09960f0a9716_c243c20c4",
+  "variantId": "c243c20c4",
+  "productId": null,
+  "name": "Guantes portero Predator Training (Adolescentes)",
+  "brand": "ADIDAS",
+  "description": "Perfecciona tu manejo del balón",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Portero",
+    "Guantes de portero",
+    "Guantes adidas"
+  ],
+  "price": {
+    "amount": 25,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": null,
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Correa"
+        },
+        {
+          "name": "Material",
+          "value": "Eva"
+        },
+        {
+          "name": "Colección",
+          "value": "Predator"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4067888687286"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m16561715/k$76c21297551a344b57811aad227b4230/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m16561731/k$2d1ef172f8fb04f9fc0326807ff5def6/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m16561753/k$fb9e16b3eb312e224801427ff9257292/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m16561761/k$35562210ac2a6630211ec7ec27cf32d3/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m16561765/k$ef71b5acc14a995924c104c68e4ce523/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:26:56.138Z"
+}

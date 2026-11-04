@@ -1,0 +1,113 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatillas-futbol-sala-ninos-joma-evolution-jr-26-in-negro/789cf378-6829-41d6-99cb-a2015034d1a1/c1",
+  "productKey": "789cf378-6829-41d6-99cb-a2015034d1a1_c1",
+  "variantId": "c1",
+  "productId": null,
+  "name": "Zapatillas Fútbol Sala Niños Joma Evolution Jr 26 IN Negro",
+  "brand": "JOMA",
+  "description": "Zapatillas Fútbol Sala Niños Joma Evolution Jr 26 IN Negro",
+  "stickers": [
+    "Novedad"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol sala",
+    "Zapatillas",
+    "Zapatillas niños",
+    "Zapatillas niños Joma"
+  ],
+  "price": {
+    "amount": 39,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "13,00 € al mes",
+  "sizes": [],
+  "colors": [
+    {
+      "name": "negro",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "blanco",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de terreno",
+          "value": "Parquet/gimnasio"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8447534961308"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m37026081/k$357832b98e7a6683b33aab158336ddb4/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36992663/k$24819b95e98ea617bfde65d0f67c2dc8/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36992657/k$c37f16af83c5735d8e7f3ab2df300e50/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36992647/k$7badfa833a6ef833b85fdfe6a653e11c/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:00:12.542Z"
+}

@@ -1,0 +1,93 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/bota-de-futbol-predator-league-multisuperficie/fd572b90-d0f1-4bfa-909a-51abbb07164c/c4c9",
+  "productKey": "fd572b90-d0f1-4bfa-909a-51abbb07164c_c4c9",
+  "variantId": "c4c9",
+  "productId": null,
+  "name": "Bota de fútbol Predator League multisuperficie",
+  "brand": "ADIDAS",
+  "description": "No falles ni un pase con estas botas, creadas para la máxima precisión en todo tipo de superficies.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "copia botas niños"
+  ],
+  "price": {
+    "amount": 63.2,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "21,07 € al mes",
+  "sizes": [
+    "25/27 (UK 7.5/9C)",
+    "25/27 (UK 7.5/9C)",
+    "25/27 (UK 7.5/9C)",
+    "25/27 (UK 7.5/9C)",
+    "25/27 (UK 7.5/9C)"
+  ],
+  "colors": [
+    {
+      "name": "blanco / verde",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "blanco",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m40002697/k$19e7410bfe5b42fbc3c805f3db531c5d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40003295/k$864a60c1e106fd699af974a12616edee/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40003226/k$65ffd1778b4088f6f8e52695aa55c5ac/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40003217/k$875a69b94891c855147e8235ed06b162/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40003201/k$cbed0482bab5e3a90e2837c4d9e41be1/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40002717/k$82c78843ad5a1996bde9ed7b468fee21/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40002712/k$fcb92b884dbb85969ce1eb09eb903fbe/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40002704/k$e8baa49a5321029e5a41010784ed1f59/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35463241/k$a8abaf64ac0314b38b3e1885ec280ba9/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35054470/k$61d30fb5f38d5c55a076af0fb1d2f8ba/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35054422/k$2e28be292c39e630384a7cff3df1563c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35054635/k$0390a19807b36ec1bf6be108613cea05/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35054509/k$ecfed8ef4903a3866175eaf1fe9c5f47/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35054668/k$4a88b3c894102ebed250049532cd939b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35054601/k$72749b66668616d0b3e690313604288f/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:22:22.293Z"
+}

@@ -1,0 +1,131 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/de-futbol-nike-phantom-gx-ii-academy-fg-mg/1db84063-05d6-43fd-9080-7d993b8c6865/c5c4",
+  "productKey": "1db84063-05d6-43fd-9080-7d993b8c6865_c5c4",
+  "variantId": "c5c4",
+  "productId": null,
+  "name": "Botas de fútbol Nike Jr Phantom GX II Academy FG/MG Mad Ambition Kids",
+  "brand": "NIKE",
+  "description": "Las botas de fútbol Nike Jr Phantom GX II Academy FG/MG Mad Ambition Kids, en color azul, están diseñadas para llevar la técnica de los jóvenes jugadores al siguiente nivel. Lanzadas en julio de",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas césped artificial",
+    "Botas de fútbol AG"
+  ],
+  "price": {
+    "amount": 60.85,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "20,28 € al mes",
+  "sizes": [
+    "36 (UK 3.5)",
+    "38.5 (UK 6)",
+    "38 (UK 12)"
+  ],
+  "colors": [
+    {
+      "name": "azul / blanco",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "negro / blanco",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "negro",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Hierba"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "197597357959"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m19262037/k$ad937afdfafa4a5dba3c67e142f80032/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19262043/k$a1fefdd4d083127411be669eb3771f28/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19262036/k$6bc5ddf3e8492f23de2e8355c7c5b389/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19262041/k$29870a4c17147c6aa7d5e94de6c5fb83/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19262035/k$3e01f9231ffc9d88fcece65232984c79/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m18865098/k$aa79996c5a1d3c6891f8eb655759a342/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m18865100/k$c46a3322539e9e750b80034b62fc6b1e/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:20:11.494Z"
+}

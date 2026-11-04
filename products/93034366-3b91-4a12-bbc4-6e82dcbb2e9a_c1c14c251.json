@@ -1,0 +1,138 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-future-9-match-mg-unisex-puma/93034366-3b91-4a12-bbc4-6e82dcbb2e9a/c1c14c251",
+  "productKey": "93034366-3b91-4a12-bbc4-6e82dcbb2e9a_c1c14c251",
+  "variantId": "c1c14c251",
+  "productId": null,
+  "name": "Botas de fútbol FUTURE 9 MATCH MG unisex PUMA",
+  "brand": "PUMA",
+  "description": "La Creatividad Empieza Con La Confianza En Tu Ajuste. Las Botas Future 9 Match Envuelven El Pie Con Una Parte Superior Ligera Y Una Cinta De Soporte En El Mediopié.",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas Puma",
+    "Botas future"
+  ],
+  "price": {
+    "amount": 84.99,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 94.5,
+    "currency": "EUR"
+  },
+  "financing": "28,33 € al mes",
+  "sizes": [
+    "40.5 (UK 7)",
+    "42 (UK 8)",
+    "42.5 (UK 8.5)",
+    "43 (UK 9)",
+    "44 (UK 9.5)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del dom, 8 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Césped artificial"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "Future"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4069161160219"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m26851681/k$c96568f22c3811e7f4fbe3c993d88a8b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26851635/k$d5e5d16a9fe84a69616e37945f1bb3b2/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26851614/k$cc711a3488cab40cd671ee16f89c8ec5/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26851702/k$88375c6d0c5f585386a9e532ea6372ae/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26851656/k$b718078fe6b51b54d4daf9dc1966a297/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26851715/k$a9385a032e17d140445bc20551305562/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35736571/k$65fc195b4fb9e445d4a0315e3831b5bb/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35737333/k$4b88753edf78bb0efe5d44fffad30f5b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35448072/k$019167b6bdc184068d885c3f0d71a69f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35448042/k$fb3fe6d87092af5d118e353c4e452e56/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35736721/k$5a2ae4bc28b1340e8512977295f63501/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35736689/k$c82dc4088bf6eab2d94763718ae38a55/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35736644/k$989a8c83ce1e143b761a87d7ca4535d0/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35736606/k$432b02a5f68291c4c2594976d5b86ef1/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34286759/k$75f91c63f014ce53243728e8a07b8708/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:19:24.989Z"
+}

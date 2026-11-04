@@ -1,0 +1,109 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatillas-futbol-sala-ninos-joma-toledo-jr-22-in-marino/c72364b3-39eb-400a-bed8-738fbd5c4212/c145",
+  "productKey": "c72364b3-39eb-400a-bed8-738fbd5c4212_c145",
+  "variantId": "c145",
+  "productId": null,
+  "name": "Zapatillas Fútbol Sala Niños Joma Toledo Jr 22 IN Marino",
+  "brand": "JOMA",
+  "description": "Zapatillas de fútbol sala de niño/niña. Este modelo clásico de futsal se ha elaborado con material resistente de buena calidad para que sean válidas para cualquier tarea.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol sala",
+    "Zapatillas",
+    "Zapatillas niños",
+    "Zapatillas niños Joma"
+  ],
+  "price": {
+    "amount": 19.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": null,
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de terreno",
+          "value": "Interior"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8445456735328"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m16998051/k$20985e223c76286e524a4bb26c4bb696/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m16998052/k$e0815472fcda4ca23b57e33b515c7a42/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m16998050/k$e1f8f167edf23be274a7c11d5ceb699a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m16998053/k$82ef34e890a38430ca478440cf3b2c6b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m8675076/k$c130529ee4013853f6580eb2868c57c2/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:40:53.286Z"
+}

@@ -1,0 +1,175 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatillas-new-balance-327-negras-black-con-moonbeam/18d09ed5-aec5-475d-94e9-b7225c7a77e5/c1",
+  "productKey": "18d09ed5-aec5-475d-94e9-b7225c7a77e5_c1",
+  "variantId": "c1",
+  "productId": null,
+  "name": "Zapatillas New Balance 327 Negras Black con moonbeam",
+  "brand": "NEW BALANCE",
+  "description": "Zapatillas New Balance 327 Negras Black con moonbeam",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas de futbolistas",
+    "Botas de Bellingham"
+  ],
+  "price": {
+    "amount": 81,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 97.2,
+    "currency": "EUR"
+  },
+  "financing": "27,00 € al mes",
+  "sizes": [
+    "36 (UK 3.5)",
+    "36.5 (UK 4)",
+    "37.5 (UK 5)",
+    "37 (UK 5)",
+    "39 (UK 6)",
+    "40 (UK 6.5)",
+    "40.5 (UK 7)",
+    "41 (UK 7.5)"
+  ],
+  "colors": [
+    {
+      "name": "negro",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "multicolor",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Motivo",
+          "value": "Sin patrón"
+        },
+        {
+          "name": "Tipo de suela",
+          "value": "Suela flexible"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Tira autoadherente y correa elástica"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado bajo"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Confort"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Estilo",
+          "value": "Tres tonos"
+        },
+        {
+          "name": "Colección",
+          "value": "Predator"
+        },
+        {
+          "name": "Nivel de práctica",
+          "value": "Todos los niveles"
+        },
+        {
+          "name": "Plantilla extraíble",
+          "value": "Plantilla extraíble"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        },
+        {
+          "name": "Temporada",
+          "value": "Todas las estaciones"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "0194768771644"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m39642530/k$b513fb6a5e0f56c3897dba9290b4fc30/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19993422/k$420e2ec5a1587dcfd1e0bbe4f3e2c06a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19993462/k$9898e991387996a43f61f64438309f2d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19993447/k$a352fb12d85b1a5fd1f5a9289eee6f1b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19993553/k$1dac6f9bf59d583b7d47b8721eba0666/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34927599/k$ef8210d621b482e2d74c4f57ebaef14b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m37591636/k$674595178cfde9881df1b5ca4a64308a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m37494646/k$103cf5b8f8bff1e0554e5c75aa6c2272/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m37494480/k$620abed33a84300cf8921575d440b001/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m37494483/k$4cc67eea2c69c61a69fb1ee4b9879c56/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T17:46:32.296Z"
+}

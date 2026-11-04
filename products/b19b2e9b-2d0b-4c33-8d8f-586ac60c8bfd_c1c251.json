@@ -1,0 +1,140 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/bota-de-futbol-predator-league-laceless-cesped-natural-seco-multisuperficie/b19b2e9b-2d0b-4c33-8d8f-586ac60c8bfd/c1c251",
+  "productKey": "b19b2e9b-2d0b-4c33-8d8f-586ac60c8bfd_c1c251",
+  "variantId": "c1c251",
+  "productId": null,
+  "name": "Bota de fútbol Predator League Laceless césped natural seco/multisuperficie",
+  "brand": "ADIDAS",
+  "description": "Ganar es el trato",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "Botas de futbol adidas niños",
+    "Botas de futbol adidas niños Predator"
+  ],
+  "price": {
+    "amount": 63.75,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 68.75,
+    "currency": "EUR"
+  },
+  "financing": "21,25 € al mes",
+  "sizes": [],
+  "colors": [
+    {
+      "name": "negro / gris",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "blanco / rosa / amarillo claro",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos fijos"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Sin apriete"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Hierba"
+        },
+        {
+          "name": "Material",
+          "value": "Punto"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "Predator"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4067892312181"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m23919581/k$6ee2b5ebc2783132db1d7f53c32cfd10/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19994312/k$6d98067a0fbb4cfcc6539926d44811d3/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19601039/k$dc1dfc49803e8d59254a82d95a9bbe30/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19600962/k$1ccae5a71d1612292920e268cf8cbcb6/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19601059/k$7b0af93aae0e73b96883b78bf61808fb/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19601093/k$eb0846cc39f9e3c80712938e6aeead79/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19600921/k$cba422e880d03b9b5afaac2a87a917a0/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:37:46.345Z"
+}

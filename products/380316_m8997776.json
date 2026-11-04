@@ -1,0 +1,138 @@
+{
+  "url": "https://www.decathlon.es/es/p/botas-de-futbol-predator-fg-club-nino-negro/380316/m8997776",
+  "productKey": "380316_m8997776",
+  "variantId": "m8997776",
+  "productId": "8997776",
+  "name": "Botas de fútbol Predator FG CLUB Niño Negro",
+  "brand": "ADIDAS",
+  "description": "Con las Predator Club, ofrece el estilo legendario a los jóvenes jugadores.La lengüeta plegable asegura tiros limpios y el exterior flexible garantiza comodidad para brillar en campos de césped blando.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "Botas de futbol adidas niños",
+    "Botas de futbol adidas niños Predator"
+  ],
+  "price": {
+    "amount": 54.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "18,33 € al mes",
+  "sizes": [
+    "33",
+    "34",
+    "35",
+    "36",
+    "37 1/3",
+    "38"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "1 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 1 año."
+    }
+  ],
+  "features": [
+    {
+      "title": "Precisión",
+      "text": "La lengüeta doblada y las piezas STRIKESKIN mejoran la precisión."
+    },
+    {
+      "title": "Comodidad",
+      "text": "Estructura flexible HYBRIDTOUCH para garantizar una libertad de movimientos fluida."
+    },
+    {
+      "title": "Impulso",
+      "text": "La suela exterior Controlplate asegura una estabilidad óptima."
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de terreno",
+          "value": "Hierba, Hierba sintética larga"
+        },
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos multisuperficies, Tacos fijos"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado bajo"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "Predator"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Control"
+        },
+        {
+          "name": "Tipo de plantilla",
+          "value": "Simple"
+        },
+        {
+          "name": "Nivel de rendimiento",
+          "value": "Palo"
+        }
+      ]
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p3107098/k$54d8527a502a81be69e065b56d884f7b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3107111/k$7876fc5f4bfd28927499ce74b79bb95a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3107094/k$6a9b3584c65d322959dd07b8c33e1bc0/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3107110/k$aeef6ae3cff5745cc6c733bdeca823fe/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3107096/k$bb56843977daafc666ccea65dcf1960e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3107101/k$477e50599c70c8336efcef241405665a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3107112/k$7e736f02272f14126b79017d055a3aed/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3107108/k$c7984ab50bee91dfd74ea816d9becc0e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3107105/k$d3edc9cbeb64d3fdddca2dc9c5678e50/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3107099/k$219975de4c6b7a44fd2795152ab08626/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:06:24.556Z"
+}

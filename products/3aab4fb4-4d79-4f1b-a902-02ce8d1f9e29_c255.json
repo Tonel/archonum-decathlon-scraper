@@ -1,0 +1,102 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-sala-munich-modelo-1511446-para-ninos/3aab4fb4-4d79-4f1b-a902-02ce8d1f9e29/c255",
+  "productKey": "3aab4fb4-4d79-4f1b-a902-02ce8d1f9e29_c255",
+  "variantId": "c255",
+  "productId": null,
+  "name": "Botas de futbol sala Munich modelo 1511446 para niños",
+  "brand": "MUNICH",
+  "description": "Botas de futbol sala Munich modelo 1511446 para Niños en color multicolor.",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol sala",
+    "Zapatillas",
+    "Zapatillas niños",
+    "Zapatillas niños todo"
+  ],
+  "price": {
+    "amount": 53.83,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 60.1,
+    "currency": "EUR"
+  },
+  "financing": "17,94 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Material",
+          "value": "Sintético"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8445648613472"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m26506139/k$af52a356d5d21dcacf8ec6da79067152/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26506136/k$373a566c57118122b415c2ce2b6a2891/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26506134/k$40e7affff81e6b0fbf6354df9abc72a8/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26506138/k$2284d7b56f2b9576084aafd3cd0d6cc2/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26506137/k$8f82d5310125e673d789177a8ab83053/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:12:28.053Z"
+}

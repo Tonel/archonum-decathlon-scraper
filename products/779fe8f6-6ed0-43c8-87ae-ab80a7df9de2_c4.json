@@ -1,0 +1,128 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatillas-futbol-sala-ninos-joma-top-flex-jr-26-in-blanco/779fe8f6-6ed0-43c8-87ae-ab80a7df9de2/c4",
+  "productKey": "779fe8f6-6ed0-43c8-87ae-ab80a7df9de2_c4",
+  "variantId": "c4",
+  "productId": null,
+  "name": "Zapatillas Fútbol Sala Niños Joma Top Flex Jr 26 IN Blanco",
+  "brand": "JOMA",
+  "description": "Zapatillas Fútbol Sala Niños Joma Top Flex Jr 26 IN Blanco",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol sala",
+    "Zapatillas",
+    "Zapatillas niños",
+    "Zapatillas niños Joma"
+  ],
+  "price": {
+    "amount": 38.45,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "12,82 € al mes",
+  "sizes": [],
+  "colors": [
+    {
+      "name": "blanco",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "azul marino",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "naranja",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "turquesa",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "rosa fucsia",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "azul royal",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8447534721438"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m36211470/k$19ccb6715b7744953cfcc0d92f23ee6e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36211588/k$3df91d4601aa9fa3929ba0c0e14ef49c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36211560/k$5fafdadceb9ccb606dfba8650282540e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36211541/k$a41e9a8b4a8e29753dbe47573d73eca8/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36211511/k$d81d2ad4c6adb2b24cfc3dd68a6c2ecd/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:45:01.440Z"
+}

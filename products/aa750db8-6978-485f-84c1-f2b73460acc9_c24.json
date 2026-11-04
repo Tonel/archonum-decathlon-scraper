@@ -1,0 +1,124 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/mochila-zapatero-skechers-8-5l-minneapolis/aa750db8-6978-485f-84c1-f2b73460acc9/c24",
+  "productKey": "aa750db8-6978-485f-84c1-f2b73460acc9_c24",
+  "variantId": "c24",
+  "productId": null,
+  "name": "Mochila Zapatero Skechers 8.5L Minneapolis",
+  "brand": "SKECHERS",
+  "description": "SKECHERS FW22",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Accesorios para botas",
+    "Todo accesorios"
+  ],
+  "price": {
+    "amount": 19.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": null,
+  "sizes": [],
+  "colors": [
+    {
+      "name": "rosa",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "negro",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Nº de compartimentos",
+          "value": "2 compartimentos"
+        },
+        {
+          "name": "Material",
+          "value": "Polyester"
+        },
+        {
+          "name": "Anchura",
+          "value": "12 cm"
+        },
+        {
+          "name": "Altura (en cm)",
+          "value": "34 cm"
+        },
+        {
+          "name": "Longitud (en cm)",
+          "value": "20 cm"
+        },
+        {
+          "name": "Volumen (en l)",
+          "value": "8 l"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8435583561525"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m40349819/k$79697fa0d6a866c46683cce057071acf/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40349878/k$8fe5ba9551b63ea4c754b2bc6bcabbe4/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40349861/k$5c3719be69178d364821c78a85d7641d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40349845/k$1159470a4bfa0019149f05cb1ad3eefe/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40349831/k$5730b1e8b5703cd39ebfe11872a565b6/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:44:39.476Z"
+}

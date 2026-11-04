@@ -1,0 +1,105 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/bota-futbol-nike-premier-fg/40cf2811-ea16-447d-8c32-d581292ae871/c1c4",
+  "productKey": "40cf2811-ea16-447d-8c32-d581292ae871_c1c4",
+  "variantId": "c1c4",
+  "productId": null,
+  "name": "Botas de fútbol Nike Premier III FG Negro/Blanco",
+  "brand": "NIKE",
+  "description": "Diseñadas para jugadores serios, estas botas de fútbol Nike Premier III FG de cuero de canguro ofrecen comfort y agarre en terreno seco.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas Nike"
+  ],
+  "price": {
+    "amount": 69.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "23,33 € al mes",
+  "sizes": [
+    "44 (UK 9.5)",
+    "44.5 (UK 10)",
+    "45 (UK 10)",
+    "46 (UK 11)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Material",
+          "value": "Piel"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "0195243536345"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m18759277/k$458790093128d765608bd03d18e845ee/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m18759273/k$83be43f5646c816807b349d94e00fc6b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m18759272/k$ef358c68dc3f3afa7b48690d8abf86f5/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m18759276/k$7e22821420dfb22287264dd9c30962cb/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m18759274/k$7aa72c326a531428d311fe7e8f38b5b8/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:51:08.775Z"
+}

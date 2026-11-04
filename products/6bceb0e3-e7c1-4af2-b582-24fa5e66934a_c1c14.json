@@ -1,0 +1,116 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatillas-deportivas-de-cuero-top-flex-2401-para-hombre-negro/6bceb0e3-e7c1-4af2-b582-24fa5e66934a/c1c14",
+  "productKey": "6bceb0e3-e7c1-4af2-b582-24fa5e66934a_c1c14",
+  "variantId": "c1c14",
+  "productId": null,
+  "name": "Zapatillas Deportivas de Cuero Top Flex 2401 para Hombre Negro",
+  "brand": "JOMA",
+  "description": "Producto de alta calidad de marca Joma. Para Senderismo.",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Joma",
+    "Botas de fútbol joma"
+  ],
+  "price": {
+    "amount": 78.3,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "26,10 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos estabilizados"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Césped artificial"
+        },
+        {
+          "name": "Material",
+          "value": "Piel"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8445954889691"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m39435901/k$cf7df71a3cd2880a5e630306ac69dd9c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m39435930/k$52f47da052e22577499df4afd0a09fc0/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m39435916/k$ff901efa64fc741ce16e796300151c54/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m39435904/k$1ca51133121372b8891cf298b0056f78/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m17877617/k$bbe43860e8b36fc845512ea99b8c4a0d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m39429445/k$0a931218c3dcca70365e2dd7351f91ce/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:10:10.097Z"
+}

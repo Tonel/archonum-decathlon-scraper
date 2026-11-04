@@ -1,0 +1,183 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-para-ninos-puma-ultra-5-play-tt/170e60fb-c22a-49f9-ae75-190fa9d323ce/c16",
+  "productKey": "170e60fb-c22a-49f9-ae75-190fa9d323ce_c16",
+  "variantId": "c16",
+  "productId": null,
+  "name": "Botas de fútbol para niños Puma Ultra 5 Play TT",
+  "brand": "PUMA",
+  "description": "Mejora el juego de tu hijo con las botas de fútbol ULTRA 5 de Puma. Estabilidad y ligereza para una velocidad máxima en el campo.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "copia botas niños"
+  ],
+  "price": {
+    "amount": 29.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": null,
+  "sizes": [],
+  "colors": [
+    {
+      "name": "morado",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "morado royal",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "azul",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Marcas de suela exterior",
+          "value": "No deja marcas"
+        },
+        {
+          "name": "Zapatos con marca izquierda o derecha",
+          "value": "Zapatos sin marca izquierda o derecha"
+        },
+        {
+          "name": "Lugar de práctica",
+          "value": "Interior"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Correa"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Césped artificial"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado bajo"
+        },
+        {
+          "name": "Tipo de forro",
+          "value": "Forro de tela"
+        },
+        {
+          "name": "Tipo de práctica",
+          "value": "Entrenamiento"
+        },
+        {
+          "name": "Tipo de pisada",
+          "value": "Neutra"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Impermeable",
+          "value": "No impermeable"
+        },
+        {
+          "name": "Tipo de costura",
+          "value": "Costura plana"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Nivel de práctica",
+          "value": "Todos los niveles"
+        },
+        {
+          "name": "Desmontable",
+          "value": "No desmontable"
+        },
+        {
+          "name": "Plantilla extraíble",
+          "value": "Plantilla no extraíble"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        },
+        {
+          "name": "Temporada",
+          "value": "Todas las estaciones"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4067979373678"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m19508199/k$63ce3da9b75b4a608b4f3548a65426c4/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19508191/k$5bd7ba705d952d53032f6c3e42f6ec60/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19508183/k$a2f20562edbde8e6de8a352931d4c8bc/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19508171/k$9902b7e79957c34859a0c06e57b3831c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19508176/k$e14815c2a68f0b0e0e7644e9fa19ffe3/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m24248116/k$00c63edd551b59555be5861b391398f2/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m24248098/k$bc34493c40cc1ad80386f802dcdd76e3/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:40:39.965Z"
+}

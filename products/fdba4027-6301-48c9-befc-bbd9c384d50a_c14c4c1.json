@@ -1,0 +1,90 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-future-9-match-tt-ninos-puma/fdba4027-6301-48c9-befc-bbd9c384d50a/c14c4c1",
+  "productKey": "fdba4027-6301-48c9-befc-bbd9c384d50a_c14c4c1",
+  "variantId": "c14c4c1",
+  "productId": null,
+  "name": "Botas de fútbol FUTURE 9 MATCH TT Niños PUMA",
+  "brand": "PUMA",
+  "description": "Da Rienda Suelta A Tu Creatividad Con Las Future 9 Match Juveniles.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "copia botas niños"
+  ],
+  "price": {
+    "amount": 49.95,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "16,65 € al mes",
+  "sizes": [
+    "33 (UK 1)",
+    "34 (UK 2)",
+    "34.5 (UK 2.5)",
+    "35 (UK 3)",
+    "36 (UK 3.5)",
+    "37 (UK 4)",
+    "26.5 (UK 9C)",
+    "37.5 (UK 4.5)",
+    "38.5 (UK 5.5)",
+    "38 (UK 12)"
+  ],
+  "colors": [
+    {
+      "name": "rojo / blanco / negro",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "azul",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m26162279/k$d806835fbfe8da498c92bc64c8025d28/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26162236/k$15e3ca8294cc8f7079813a631b98c3c6/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26162223/k$e792447bc35c83bc1b4fa8fe6378f0d2/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26162311/k$10f83203190dcbd83361cce6a1c1620d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26162254/k$248d52c031e3b2a0947e707e599a7d94/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26162337/k$8d450718b4731a3f4d1ab01cbcfaeede/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28440309/k$7ff9b5f18a3ee3db5bf493d061b314d9/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:41:10.228Z"
+}

@@ -1,0 +1,109 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatilla-para-running-para-hombre-joma-titanium-2608-naranja/0c64e91e-405a-4e40-81f8-561b3bb7b22a/c20",
+  "productKey": "0c64e91e-405a-4e40-81f8-561b3bb7b22a_c20",
+  "variantId": "c20",
+  "productId": null,
+  "name": "Zapatilla para Running para HOMBRE JOMA TITANIUM 2608 NARANJA",
+  "brand": "JOMA",
+  "description": "Zapatillas de running para un corredor habitual, que necesita mucha amortiguación, tanto porque hace muchos kilómetros o porque por su peso es lo más recomendable para evitar lesiones",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Joma",
+    "Botas de fútbol joma"
+  ],
+  "price": {
+    "amount": 44.95,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "14,98 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del dom, 8 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Amortiguación y soporte"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Ancho"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8447534252895"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m35223522/k$b92045e23a057787d9ed13fcce131b7a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35223538/k$7cae3fd16372317b6ec00c6b1faae11e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35223530/k$5f18df2a67246a5eeb7f3873a5a0732e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35223552/k$27154704c2ba0ccdd63e623b812edfc4/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m37666724/k$b92415bc790ac3cf9b0777c16574b7fe/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:01:48.186Z"
+}

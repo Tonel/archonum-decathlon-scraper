@@ -1,0 +1,124 @@
+{
+  "url": "https://www.decathlon.es/es/p/botas-de-futbol-adidas-x-x-crazyfast-4/X8825056/c4c22m8825056",
+  "productKey": "X8825056_c4c22m8825056",
+  "variantId": "c4c22m8825056",
+  "productId": "8825056",
+  "name": "Botas de fútbol Adidas X X CRAZYFAST.4",
+  "brand": "ADIDAS",
+  "description": "De peso ligero y transpirables. Estas zapatillas de fútbol Adidas tienen una suela exterior recubierta de tacos para disfrutar de movimientos más rápidos y una media suela EVA para mejor amortiguación.",
+  "stickers": [
+    "Últimas unidades"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas de futbolistas",
+    "Botas de Benzema"
+  ],
+  "price": {
+    "amount": 35.99,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 42.99,
+    "currency": "EUR"
+  },
+  "financing": "12,00 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "3 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 3 años."
+    }
+  ],
+  "features": [
+    {
+      "title": "Facilidad de desplazamiento",
+      "text": "Una suela exterior cubierta con tacos para disfrutar de movimientos más rápidos"
+    },
+    {
+      "title": "Amortiguación",
+      "text": "Una media suela EVA, para mejor amortiguación."
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de terreno",
+          "value": "Césped artificial"
+        },
+        {
+          "name": "Tipo de taco",
+          "value": "Sin tacos"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Personalización",
+          "value": "Personalizable"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado bajo"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "X"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Velocidad"
+        },
+        {
+          "name": "Tipo de plantilla",
+          "value": "Simple"
+        }
+      ]
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p2549197/k$c81f30412bd38085344b200eff5c1a2a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2549195/k$048cab821f2a38d7b9415e5613fb036b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2549189/k$b975a1d64c17f954f96ee14923281b3c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2549193/k$303d8757d9cb66860fd1ce8368867064/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2549191/k$4d649dab2095a910eee737c75866101a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2549185/k$a8dddb37e1344ecc148ea6e5af08a40c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2549187/k$7571a513f4820b4a0e95f0c3864f3ea1/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:05:42.271Z"
+}

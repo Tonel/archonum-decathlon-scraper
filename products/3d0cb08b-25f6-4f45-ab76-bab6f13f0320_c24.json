@@ -1,0 +1,102 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/de-futbol-para-hombre-joma-top-flex-ultimate-in/3d0cb08b-25f6-4f45-ab76-bab6f13f0320/c24",
+  "productKey": "3d0cb08b-25f6-4f45-ab76-bab6f13f0320_c24",
+  "variantId": "c24",
+  "productId": null,
+  "name": "Botas de fútbol para hombre Joma Top Flex Ultimate IN",
+  "brand": "JOMA",
+  "description": "Botas de fútbol para hombre Joma Top Flex Ultimate IN",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Joma",
+    "Botas de fútbol joma"
+  ],
+  "price": {
+    "amount": 87.6,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "29,20 € al mes",
+  "sizes": [
+    "40 (UK 7)",
+    "40.5 (UK 7.5)",
+    "42.5 (UK 8.5)",
+    "43 (UK 9)",
+    "43.5 (UK 10)",
+    "44.5 (UK 10.5)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8447368012436"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m28492534/k$705cd34e1cb1ed4df5a0f6ee427eb17d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28492605/k$1169b1cb54e10d4aaaf22218486a93b6/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28492559/k$0aa7cd6da098a4eb04369eb8d30391f7/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28493523/k$a4de00753895012fcaabf63a0574c0c0/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28493505/k$c4ce7c776b2fc17500319f508438d5d6/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28493463/k$1a096dbafdf0ba9cac09c5d818cb0cbf/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28493488/k$b785cfc237470b53c0ba95c1317e96ba/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:11:06.894Z"
+}

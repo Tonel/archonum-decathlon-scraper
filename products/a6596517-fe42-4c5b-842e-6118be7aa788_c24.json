@@ -1,0 +1,98 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-para-unisex-junior-puma-ultra-play-mg-jr/a6596517-fe42-4c5b-842e-6118be7aa788/c24",
+  "productKey": "a6596517-fe42-4c5b-842e-6118be7aa788_c24",
+  "variantId": "c24",
+  "productId": null,
+  "name": "Botas de Futbol para UNISEX JUNIOR PUMA ULTRA PLAY MG JR",
+  "brand": "PUMA",
+  "description": "Botas para jugar al futbol, ideales para los campos de futbol artificial",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "copia botas niños"
+  ],
+  "price": {
+    "amount": 29.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": null,
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del dom, 8 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4099686014469"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m17447726/k$2923b728f50e17fa5dfb8c943b106b52/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m17447723/k$beae2bee87dae18b21e9e3c9fb813cd9/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m17447721/k$734a8cf66d5529f4c0e2843e2367af2a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m17447722/k$d7329f88396f328f865638c413274932/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:33:18.702Z"
+}

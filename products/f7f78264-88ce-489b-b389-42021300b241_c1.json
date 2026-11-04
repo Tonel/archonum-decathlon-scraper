@@ -1,0 +1,116 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/de-futbol-ultra-match-negro/f7f78264-88ce-489b-b389-42021300b241/c1",
+  "productKey": "f7f78264-88ce-489b-b389-42021300b241_c1",
+  "variantId": "c1",
+  "productId": null,
+  "name": "Zapatillas de fútbol PUMA Ultra Match TT Negro",
+  "brand": "PUMA",
+  "description": "Diseñadas para el entrenamiento, estas zapatillas de fútbol Puma Ultra Match TT ofrecen ligereza y control para movimientos rápidos en el campo.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Puma",
+    "Botas de fútbol puma"
+  ],
+  "price": {
+    "amount": 78.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "26,33 € al mes",
+  "sizes": [
+    "40 (UK 6.5)",
+    "40.5 (UK 7)",
+    "41.5 (UK 7.5)",
+    "42 (UK 8)",
+    "42.5 (UK 8.5)",
+    "43 (UK 9)",
+    "43.5 (UK 9.5)",
+    "44 (UK 10)",
+    "45 (UK 10.5)",
+    "45 (UK 11)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Hierba sintética corta"
+        },
+        {
+          "name": "Material",
+          "value": "Sintético"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4099686009366"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m15508108/k$f1fef282484d59d5ee8ac127aa636bbb/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m15508115/k$ad2c687a180385284728e999e02e0dde/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m15508117/k$681d0389b43defb71aaed7e8e9110358/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m15508105/k$e539e2f94a660bda45d0bb0e2a815c56/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m15508111/k$637e445543293aa4a0188231d6278f65/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:25:51.416Z"
+}

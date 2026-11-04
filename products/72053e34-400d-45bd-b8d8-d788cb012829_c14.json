@@ -1,0 +1,98 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-futbol-cesped-artificial-unisex-joma-super-copa-2507-rojo-ligeras/72053e34-400d-45bd-b8d8-d788cb012829/c14",
+  "productKey": "72053e34-400d-45bd-b8d8-d788cb012829_c14",
+  "variantId": "c14",
+  "productId": null,
+  "name": "Botas Fútbol Cesped Artificial Unisex Joma Super Copa 2507 Rojo Ligeras",
+  "brand": "JOMA",
+  "description": "Botas Fútbol Cesped Artificial Unisex Joma Super Copa 2507 Rojo Ligeras-SUPS2507AG",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Joma",
+    "Botas de fútbol joma"
+  ],
+  "price": {
+    "amount": 29.95,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": null,
+  "sizes": [
+    "40 (UK 7.5)",
+    "41 (UK 7.5)",
+    "43,5 (UK 11)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del dom, 8 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8447150415261"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m35044337/k$b6b5acd3cec6c1cc42e33a4b88965396/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26611464/k$d343565186bbc3a399de1a4a18b62284/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26611456/k$304e32317ecca5a55b66e2cca34b3d1a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26611483/k$e4d5b5b94fc06df88c2be4ce5f42459e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26611471/k$c81be8f84897f16ef741e2edf5daa0a8/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35044337/k$b6b5acd3cec6c1cc42e33a4b88965396/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:07:51.062Z"
+}

@@ -1,0 +1,136 @@
+{
+  "url": "https://www.decathlon.es/es/p/puma-ultra-match-fg-ag-puma-blanco-rojo-adulto/X8822383/c4c14m8822383",
+  "productKey": "X8822383_c4c14m8822383",
+  "variantId": "c4c14m8822383",
+  "productId": "8822383",
+  "name": "Puma ULTRA Match FG/AG PUMA Blanco/Rojo Adulto",
+  "brand": "PUMA",
+  "description": "Convierte los segundos en récords con la nueva ULTRA Match.La suela de TPU SPEEDPLATE garantiza una tracción y propulsión óptimas para superar en velocidad a tus oponentes.",
+  "stickers": [
+    "Últimas unidades"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas de futbolistas",
+    "Botas de Coman"
+  ],
+  "price": {
+    "amount": 84.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "28,33 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "3 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 3 años."
+    }
+  ],
+  "features": [
+    {
+      "title": "Ligereza",
+      "text": "Exterior ligero y resistente para una velocidad inigualable."
+    },
+    {
+      "title": "Toque de balón",
+      "text": "Acabado GripControl para un dominio decisivo del balón."
+    },
+    {
+      "title": "Impulso",
+      "text": "Suela SPEEDPLATE ultrarrápida para una aceleración excepcional."
+    },
+    {
+      "title": "Comodidad",
+      "text": "Ajuste de corte bajo para adaptarse perfectamente al tobillo."
+    },
+    {
+      "title": "Resistencia a la abrasión",
+      "text": "Contrafuerte integrado para una sujeción de primera calidad."
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de terreno",
+          "value": "Hierba, Hierba sintética larga"
+        },
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos fijos"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Personalización",
+          "value": "Personalizable"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado bajo"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "Ultra"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Velocidad"
+        },
+        {
+          "name": "Tipo de plantilla",
+          "value": "Simple"
+        },
+        {
+          "name": "Jugadores",
+          "value": "Neymar"
+        }
+      ]
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p2522417/k$7e70ccd59bdcdb7c013ab42e62fdfc18/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2522413/k$150685709488be2441818f9130429a1b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2522415/k$1a7530e2e2f77d6ff37f4e4b6f0ef97b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2522416/k$d4ce08d39b2852106ee78176703cc611/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2522418/k$abbedd026d67541408ac8156e9b6ec98/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2522414/k$6e729f5caa07895ba62e50262da8cf13/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:27:14.649Z"
+}

@@ -1,0 +1,127 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/bota-de-futbol-sala-con-lengueta-plegable-predator-club/85fae812-67b1-47c3-a58c-f265d910e12a/c1c249c9",
+  "productKey": "85fae812-67b1-47c3-a58c-f265d910e12a_c1c249c9",
+  "variantId": "c1c249c9",
+  "productId": null,
+  "name": "Bota de fútbol sala con lengüeta plegable PREDATOR CLUB",
+  "brand": "ADIDAS",
+  "description": "Unas botas de fútbol sala con suela de goma: agarre fiable en pista cubierta",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "Botas de futbol adidas niños",
+    "Botas de futbol adidas niños Predator"
+  ],
+  "price": {
+    "amount": 55,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "18,33 € al mes",
+  "sizes": [
+    "33 (UK 1)",
+    "33.5 (UK 1.5)",
+    "35.5 (UK 3)",
+    "36 2/3 (UK 4)",
+    "38 (UK 5)",
+    "31.5 (UK 13C)"
+  ],
+  "colors": [
+    {
+      "name": "negro / plata / verde",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "blanco / rosa / negro",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "Predator"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4069987811715"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m38122013/k$8c2c4d92050cda084e2adb88b1b1741f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38122225/k$ca09a0b896f5c2bc8a1758e9b287c658/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38122179/k$7656bf202517ef4cbd70ec6ebbe68faf/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38122156/k$3febb5688d54da93b29c79c88947a0ae/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38122122/k$b90be56cafeff4f122315225aed8952d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38122094/k$fe8322ec688e97acd6665a9663c36e94/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38122070/k$733e822c7ec0e5b310c22e150a231dd0/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38122041/k$ea42495b38d7e67e0b1379d8d0202b90/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:11:07.443Z"
+}

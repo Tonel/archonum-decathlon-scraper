@@ -1,0 +1,122 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/bota-f50-club-cesped-natural-seco-multisuperficie/92b6b060-093e-4a2a-90d2-10c521c7fad0/c4c1c250",
+  "productKey": "92b6b060-093e-4a2a-90d2-10c521c7fad0_c4c1c250",
+  "variantId": "c4c1c250",
+  "productId": null,
+  "name": "Bota F50 Club césped natural seco / multisuperficie",
+  "brand": "ADIDAS",
+  "description": "bota cómoda para que siempre vayas un paso por delante en todo tipo de superficies.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "copia botas niños"
+  ],
+  "price": {
+    "amount": 41.5,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "13,83 € al mes",
+  "sizes": [],
+  "colors": [
+    {
+      "name": "blanco / negro / oro",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "morado / blanco / amarillo claro",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Hierba"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "F50"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4067906370657"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m25823857/k$064bb8efc675011f41d0b826fd262d62/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m25823855/k$7537ff1757bca4cd941998080c60b508/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m25823854/k$cf35dda90f0cc2192c9dbc630d589ada/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m25823859/k$013ecdb92c32da5d994f9e7e8977c68a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m25823856/k$e9bc974ed4ca3123540254c2df13ff88/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m25823860/k$41a4b39a1ec689c66fed23277e822c76/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m25823858/k$b3063ef19cc29abf79a21cca209eda74/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:24:59.379Z"
+}

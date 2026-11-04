@@ -1,0 +1,111 @@
+{
+  "url": "https://www.decathlon.es/es/p/zapatillas-de-futbol-sala-100-nino-azul/347304/c59c180m9005948",
+  "productKey": "347304_c59c180m9005948",
+  "variantId": "c59c180m9005948",
+  "productId": "9005948",
+  "name": "Zapatillas de fútbol sala 100 Niño Azul",
+  "brand": "KIPSTA",
+  "description": "¿Buscas unas zapatillas resistentes para iniciarte en el fútbol sala?Nuestros equipos las han diseñado para que te acompañen en el aprendizaje de tus primeros gestos técnicos de forma segura.",
+  "stickers": [
+    "Novedad"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Gimnasia escolar",
+    "Colecciones",
+    "Vuelta al Cole",
+    "Colección Vuelta al Cole",
+    "Vuelta al cole al mejor precio"
+  ],
+  "price": {
+    "amount": 12.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": null,
+  "sizes": [],
+  "colors": [
+    {
+      "name": "azul índigo / gris lunar",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "gris perla / gris perla / ocre beige",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "ultra blanco / azul índigo",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "negro ahumado / gris perla",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "2 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 2 años."
+    }
+  ],
+  "features": [
+    {
+      "title": "Facilidad para poner / quitar",
+      "text": "Su tira autoadherente y sus cordones elásticos facilitan la autonomía del niño"
+    },
+    {
+      "title": "Comodidad",
+      "text": "Con 5 mm de espuma EVA bajo el pie y una almohadilla de espuma EVA bajo el talón."
+    },
+    {
+      "title": "Resistencia a la abrasión",
+      "text": "Sus componentes de PU de 1,4 mm de grosor y la suela son resistentes a la abrasión"
+    },
+    {
+      "title": "Suela que no deja marcas",
+      "text": "Su suela no deja marcas en la pista de los gimnasios."
+    },
+    {
+      "title": "Adherencia",
+      "text": "Suela que no deja marcas para mejorar el agarre en los cambios de dirección"
+    },
+    {
+      "title": "Sujeción del producto",
+      "text": "Refuerzos en el interior para garantizar una óptima sujeción del pie."
+    }
+  ],
+  "specifications": [],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p3236977/k$d167daa5d5bfe3007d95c505bc5885a3/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3236979/k$4b618852b48450c338d2a12de27e8364/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3236981/k$d26a972578c6c31451bab4294dd8e642/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3236980/k$e88c3a6abed65ebc25c4c991bd1c917f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3236978/k$c932b3cd8c376da51a8c5318be1135da/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:04:58.136Z"
+}

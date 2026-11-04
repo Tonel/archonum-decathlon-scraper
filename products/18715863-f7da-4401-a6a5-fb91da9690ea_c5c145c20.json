@@ -1,0 +1,152 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-sala-para-unisex-junior-joma-toledo/18715863-f7da-4401-a6a5-fb91da9690ea/c5c145c20",
+  "productKey": "18715863-f7da-4401-a6a5-fb91da9690ea_c5c145c20",
+  "variantId": "c5c145c20",
+  "productId": null,
+  "name": "Botas de Futbol Sala para UNISEX JUNIOR JOMA TOLEDO",
+  "brand": "JOMA",
+  "description": "Botas para jugar al futbol sala, tanto en pistas indoor como en superficies más duras",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas Joma"
+  ],
+  "price": {
+    "amount": 28.63,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 32.98,
+    "currency": "EUR"
+  },
+  "financing": null,
+  "sizes": [
+    "33 (UK 1)",
+    "33.5 (UK 1.5)",
+    "34 (UK 2)",
+    "35 (UK 2.5)",
+    "35.5 (UK 3)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del dom, 8 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Motivo",
+          "value": "Sin patrón"
+        },
+        {
+          "name": "Tipo de taco",
+          "value": "Sin tacos"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Multicancha"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado bajo"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Agarre"
+        },
+        {
+          "name": "Tipo de costura",
+          "value": "Con costura"
+        },
+        {
+          "name": "Estilo",
+          "value": "Bitonal"
+        },
+        {
+          "name": "Nivel de práctica",
+          "value": "Iniciación"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        },
+        {
+          "name": "Temporada",
+          "value": "Todas las estaciones"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8447368106081"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m33989858/k$419c22ef3aeb58215a4ef57c73279190/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22212308/k$526914dcae82b80540a7f696046fe657/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22212317/k$ee4f546b17f9c7a29cd7491b06d05606/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22212305/k$ee52ff7bd545c10f74fe77d33615ac1f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22212337/k$9adebbda486572dd828fb15393898724/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m21263755/k$28978fb5db77ed152d9c177be9bac83c/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:47:38.764Z"
+}

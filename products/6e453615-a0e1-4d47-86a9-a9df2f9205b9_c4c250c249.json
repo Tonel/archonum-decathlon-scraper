@@ -1,0 +1,118 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-mizuno-morelia-sala-pro-tf/6e453615-a0e1-4d47-86a9-a9df2f9205b9/c4c250c249",
+  "productKey": "6e453615-a0e1-4d47-86a9-a9df2f9205b9_c4c250c249",
+  "variantId": "c4c250c249",
+  "productId": null,
+  "name": "Botas de fútbol Mizuno Morelia Sala Pro TF",
+  "brand": "MIZUNO",
+  "description": "Démarquez-vous sur el campo con los zapatos de fútbol Mizuno Morelia Sala Pro TF, que combinan confort, rendimiento y un estilo inigualable.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Mizuno"
+  ],
+  "price": {
+    "amount": 73.75,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "24,58 € al mes",
+  "sizes": [
+    "41 (UK 7.5)",
+    "42 (UK 7.5)",
+    "42.5 (UK 8.5)",
+    "44 (UK 10)",
+    "47 (UK 11)"
+  ],
+  "colors": [
+    {
+      "name": "blanco / oro / plata",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "multicolor",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "5059882847451"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m35721696/k$36e7086e12b9fdbd869981890258c8ac/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35720581/k$f27f939397ba1be844be074c904dfd71/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35720560/k$f84b5d124ed982fd78bdad3103d238cf/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35720545/k$4b860706fd791bfcb4c661c20701856b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35720528/k$e7dd4bf296cf28ad59b58e45fe40dec9/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35720514/k$adef7b7d386ab040c5640f9c1e6676ab/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:41:22.397Z"
+}

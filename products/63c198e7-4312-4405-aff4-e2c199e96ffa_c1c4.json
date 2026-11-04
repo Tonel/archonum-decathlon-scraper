@@ -1,0 +1,99 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-future-7-play/63c198e7-4312-4405-aff4-e2c199e96ffa/c1c4",
+  "productKey": "63c198e7-4312-4405-aff4-e2c199e96ffa_c1c4",
+  "variantId": "c1c4",
+  "productId": null,
+  "name": "Botas de Fútbol Future 7 Play para Hombre Negro",
+  "brand": "PUMA",
+  "description": "Producto de alta calidad de marca Puma. Para Senderismo.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas Puma",
+    "Botas future"
+  ],
+  "price": {
+    "amount": 49.11,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "16,37 € al mes",
+  "sizes": [
+    "40 (UK 7)",
+    "42.5 (UK 8.5)",
+    "44 (UK 10)",
+    "44.5 (UK 10.5)"
+  ],
+  "colors": [
+    {
+      "name": "negro / blanco",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "rosa / mango",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "blanco / negro",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "blanco / azul",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "blanco / azul / rosa",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m38513951/k$686fe92c06d85bb15801fbd8a9e724ea/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38514090/k$aad42ceee0feb1644f1be7641f70f8dd/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38514034/k$736c45ae8c888737b0b3735f72e02c16/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38514013/k$dd8ac259a92f4adaf798b5deec033e59/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m18185974/k$ac14c97d20a2ac6741d57a0d045080b8/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36748008/k$10079078527fa5b1a713dcdb5a758032/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m14989512/k$19f43e604ea99e3564ec084dba3cd7e7/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:18:32.186Z"
+}

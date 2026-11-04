@@ -1,0 +1,151 @@
+{
+  "url": "https://www.decathlon.es/es/p/botas-de-futbol-future-8-pro-fg-adulto-naranja/372381/c20m8967423",
+  "productKey": "372381_c20m8967423",
+  "variantId": "c20m8967423",
+  "productId": "8967423",
+  "name": "Botas de fútbol FUTURE 8 PRO FG Adulto Naranja",
+  "brand": "PUMA",
+  "description": "Una bota que se adapta de forma diferente, diseñada para los jugadores que marcan la diferencia.Jugadores, sed creativos con las FUTURE 8 PRO.",
+  "stickers": [
+    "Últimas unidades"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas de futbolistas",
+    "Botas Carvajal"
+  ],
+  "price": {
+    "amount": 139.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "34,99 € al mes",
+  "sizes": [],
+  "colors": [
+    {
+      "name": "naranja",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "blanco",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "1 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 1 año."
+    }
+  ],
+  "features": [
+    {
+      "title": "Comodidad",
+      "text": "Material de LYCRA® muy elástico para mayor sujeción y flexibilidad"
+    },
+    {
+      "title": "Sujeción del producto",
+      "text": "PWRTAPE en la parte media del pie para un bloqueo y una estabilidad superiores"
+    },
+    {
+      "title": "Toque de balón",
+      "text": "Tecnología GripControl para mejorar el agarre y el control."
+    },
+    {
+      "title": "Flexibilidad multidireccional",
+      "text": "La tecnología Dynamic Motion System ofrece flexibilidad y agilidad excelentes"
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de terreno",
+          "value": "Hierba, Césped artificial"
+        },
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos fijos"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Personalización",
+          "value": "Personalizable"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado bajo"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "Paquete de persecución caliente puma, Future"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Control"
+        },
+        {
+          "name": "Tipo de plantilla",
+          "value": "Simple"
+        },
+        {
+          "name": "Jugadores",
+          "value": "Neymar"
+        },
+        {
+          "name": "Nivel de rendimiento",
+          "value": "Pro"
+        }
+      ]
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p3021912/k$a0e05743cb7810682dc9613a50d96355/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3021917/k$7152a8ee36fce5a3fd64e61644b8d39e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3021913/k$3a6f06a7fd0ae435f3bfadb77b2d1fe8/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3021916/k$8c400c7be4c207646042f536882456e5/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3021915/k$9212594564c6384a28f040ab098d3522/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3021914/k$e0c273a8d08c6efd0535de0b78e9fe6f/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:40:52.913Z"
+}

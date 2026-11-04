@@ -1,0 +1,118 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-ua-magnetico-select-4-fg-negro-y-verde/9937ec94-0dfc-41ae-a5ef-b22e00549418/c1",
+  "productKey": "9937ec94-0dfc-41ae-a5ef-b22e00549418_c1",
+  "variantId": "c1",
+  "productId": null,
+  "name": "Botas de fútbol UA Magnetico Select 4 Fg Negro y verde",
+  "brand": "UNDER ARMOUR",
+  "description": "Botas de fútbol revolucionarias con ajuste perfecto instantáneo. Diseñadas para jugadores exigentes, estos tacos garantizan control y precisión en cada acción.",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas césped artificial",
+    "Todo Botas césped artificial"
+  ],
+  "price": {
+    "amount": 50,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 90,
+    "currency": "EUR"
+  },
+  "financing": "16,67 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos fijos"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Terreno seco"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "196886267368"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m19944617/k$d68fffab145c36a32de22f24fdd12f36/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19944619/k$92a4f3635449a51cce3fbea1897ac993/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19944618/k$ecec11aaa0f6321f13136a4e53a23af6/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19944616/k$a731e45851420021e611acda75766180/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19944620/k$91ef68edd75037f0182c5a8c2c5c3489/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:20:30.117Z"
+}

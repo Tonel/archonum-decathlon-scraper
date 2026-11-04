@@ -1,0 +1,126 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/de-futbol-maxima-2508-turf/449476fc-f677-4bf0-b2c6-f1bbf60276c0/c20",
+  "productKey": "449476fc-f677-4bf0-b2c6-f1bbf60276c0_c20",
+  "variantId": "c20",
+  "productId": null,
+  "name": "Deportivo Joma FUTBOL MAXIMA 2508 NARANJA TURF CMSport",
+  "brand": "JOMA",
+  "description": "REF. 3278 - MAXW2508TF (43)",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Joma",
+    "Botas de fútbol joma"
+  ],
+  "price": {
+    "amount": 34,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "11,33 € al mes",
+  "sizes": [
+    "40 (UK 7.5)",
+    "42 (UK 7.5)",
+    "44 (UK 9.5)",
+    "43 (UK 10)"
+  ],
+  "colors": [
+    {
+      "name": "naranja",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "rojo",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Césped artificial"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado bajo"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8447368028147"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m22827661/k$3cf921687afce16de00eddfca1e63190/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22827654/k$bad604f3967d9e3c20e0c1dc85d572fe/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22827657/k$d8b5797e2336301d8ae90322cd75b645/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22827578/k$c2bfd243f9edabcc188cedac00319f2b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m24485403/k$2267f40841d2017c0ee7359fe38fd0c5/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m24485405/k$2619c4011d9df8ffdafea57ca5939359/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:00:37.639Z"
+}

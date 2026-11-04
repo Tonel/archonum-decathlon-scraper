@@ -1,0 +1,135 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-puma-future-7-play-tt-noir/82f2d763-5afc-4331-bd12-63a599cb3646/c1c4",
+  "productKey": "82f2d763-5afc-4331-bd12-63a599cb3646_c1c4",
+  "variantId": "c1c4",
+  "productId": null,
+  "name": "Botas de fútbol PUMA Future 7 Play TT Noir",
+  "brand": "PUMA",
+  "description": "Diseñadas para el fútbol amateur en superficies artificiales, estas botas ofrecen ligereza y tracción para los jugadores en formación.",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas césped artificial",
+    "Botas multitacos y turf"
+  ],
+  "price": {
+    "amount": 45.95,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 57.95,
+    "currency": "EUR"
+  },
+  "financing": "15,32 € al mes",
+  "sizes": [],
+  "colors": [
+    {
+      "name": "negro / blanco",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "rosa / negro",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "blanco / rosa / negro",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Terreno duro"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4099686019563"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m33505711/k$7c2d58fef8ffb31f09361b1e3ae40208/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m33505697/k$6b142559a1563157c6e61951a0749ba8/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m33505694/k$c95807722d4b7c6c4d92ff0174aca6e6/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m33505722/k$d0c8d92727ba43e53d36c4420e35553b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m33505704/k$43f197069fda0f95c8f470c0949607a5/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m25875178/k$7fdcc5459438b6935faefe7613c2a9fc/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:10:06.024Z"
+}

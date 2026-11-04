@@ -1,0 +1,103 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-joma-powerful-jr-tf/b9e78849-eb98-46cf-95db-240444f9e6a2/c5",
+  "productKey": "b9e78849-eb98-46cf-95db-240444f9e6a2_c5",
+  "variantId": "c5",
+  "productId": null,
+  "name": "Botas de fútbol Joma Powerful JR TF",
+  "brand": "JOMA",
+  "description": "Botas de fútbol para niños Joma, ideales para césped artificial, con excelente control y comodidad.",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Joma",
+    "Botas de fútbol joma"
+  ],
+  "price": {
+    "amount": 35.9,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 43.9,
+    "currency": "EUR"
+  },
+  "financing": "11,97 € al mes",
+  "sizes": [
+    "27 (UK 9C)",
+    "28 (UK 9.5C)",
+    "29 (UK 10.5C)",
+    "30 (UK 11.5C)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8447368110378"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m23533897/k$f135c990816bd43f96312223c3b47040/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m23533900/k$0324950b57af97f123eeeb3386a5d72a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m23533899/k$133bb2721ec0456b4508848efa936ae1/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m23533903/k$6e8d6cb1e14bb2424b56bfe01bf3fc93/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m21131516/k$122e0405763fd41700f8ad24e36c16d8/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:34:56.315Z"
+}

@@ -1,0 +1,116 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-mizuno-morelia-ii-pro-fg/e2dbcf65-aa32-4b92-8307-616f38623ccc/c61c4",
+  "productKey": "e2dbcf65-aa32-4b92-8307-616f38623ccc_c61c4",
+  "variantId": "c61c4",
+  "productId": null,
+  "name": "Botas de fútbol Mizuno Morelia II Pro FG",
+  "brand": "MIZUNO",
+  "description": "Descubre las Zapatillas de fútbol Mizuno Morelia II Pro FG , que combinan comodidad, rendimiento y estilo para todos los amantes del fútbol.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Mizuno"
+  ],
+  "price": {
+    "amount": 65.55,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "21,85 € al mes",
+  "sizes": [
+    "41 (UK 7.5)",
+    "42 (UK 7.5)",
+    "42.5 (UK 8.5)",
+    "44 (UK 10)",
+    "44.5 (UK 10)",
+    "45 (UK 10)",
+    "46 (UK 10.5)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordón tradicional"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "5059882623130"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m33562619/k$62c482c93243129490d4da88abf0e895/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m33562587/k$3a20a88be9c5b1014ca5f2d2aef62a8d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m33562565/k$6d24c943a57c889c7abca2286065c1f0/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m24853098/k$ecd7f79cda1e3e67cce0602e052145e2/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m24853064/k$05efb30931d2a755823b2b0eec6b66bc/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:16:05.389Z"
+}

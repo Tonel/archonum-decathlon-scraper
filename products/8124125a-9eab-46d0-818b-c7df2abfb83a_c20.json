@@ -1,0 +1,114 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-para-ninos-adidas-f50-league-ag/8124125a-9eab-46d0-818b-c7df2abfb83a/c20",
+  "productKey": "8124125a-9eab-46d0-818b-c7df2abfb83a_c20",
+  "variantId": "c20",
+  "productId": null,
+  "name": "Botas de fútbol para niños adidas F50 League AG",
+  "brand": "ADIDAS",
+  "description": "Offrez à votre jeune footballeur des chaussures adidas F50 League AG, que combinent confort, rendimiento y estilo en el campo de juego.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "copia botas niños"
+  ],
+  "price": {
+    "amount": 70,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "23,33 € al mes",
+  "sizes": [
+    "31 (UK 12)",
+    "32 (UK 13.5C)",
+    "33 (UK 13.5C)"
+  ],
+  "colors": [
+    {
+      "name": "naranja",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "morado / multicolor",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Material",
+          "value": "Sintético"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4067906264109"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m24953339/k$9b3ca9f217cbde7cced6eca43fc99b45/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m24953318/k$bc85b3dcc1082ad909c4654d57168c08/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m24953309/k$9c6ac50cd27d50d2f8b63d0209a6e482/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m24953368/k$005ca36b2e07fc0837923af61f3e5c4f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m24953328/k$21d65ae1f16b0d64556922e157d46289/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m24953394/k$0681c8af4f0c3590510a7422522104e6/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m24953352/k$aa2c64e825e767c0a03b247acd8effa9/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:00:30.605Z"
+}

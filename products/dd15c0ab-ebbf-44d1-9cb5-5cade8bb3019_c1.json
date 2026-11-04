@@ -1,0 +1,113 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-para-ninos-oneteam-robero-teen-fg-ag/dd15c0ab-ebbf-44d1-9cb5-5cade8bb3019/c1",
+  "productKey": "dd15c0ab-ebbf-44d1-9cb5-5cade8bb3019_c1",
+  "variantId": "c1",
+  "productId": null,
+  "name": "Zapatillas de fútbol OneTeam Robero Teen FG/AG para niños",
+  "brand": "ONETEAM",
+  "description": "Zapatillas de fútbol OneTeam Robero Teen FG/AG para niños",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "copia botas niños"
+  ],
+  "price": {
+    "amount": 27.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": null,
+  "sizes": [
+    "36 (UK 3.5)",
+    "37 (UK 5)",
+    "40 (UK 6)",
+    "39 (UK 6.5)",
+    "38 (UK 12)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Césped artificial"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "5904823585384"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m27360889/k$9d69e390773c50664f3d3569bb3256d7/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m27360858/k$44cf99e2c13c7858bdea9b820d6b39d2/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m27360852/k$f0ca6353056a4254471e170d01ad65ba/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m27360920/k$b8d256f68cadca81696211ba61ebb70d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m27360869/k$07f6210883e5d34f0c93ee2d702e8519/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m27360939/k$8a7c63eccbbdce851634058e558a0138/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m27360904/k$eefabd4f9892dc57a3c0147088ae84b0/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:09:13.650Z"
+}

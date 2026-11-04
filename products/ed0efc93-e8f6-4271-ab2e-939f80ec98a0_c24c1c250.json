@@ -1,0 +1,119 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-adidas-f50-hyperfast-pro-fg/ed0efc93-e8f6-4271-ab2e-939f80ec98a0/c24c1c250",
+  "productKey": "ed0efc93-e8f6-4271-ab2e-939f80ec98a0_c24c1c250",
+  "variantId": "c24c1c250",
+  "productId": null,
+  "name": "Botas de fútbol adidas F50 Hyperfast Pro FG",
+  "brand": "ADIDAS",
+  "description": "Descubre las botas de fútbol adidas F50 Hyperfast Pro FG, diseñadas para ofrecer rendimiento, comodidad y estilo en el campo.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Adidas",
+    "Botas fútbol adidas"
+  ],
+  "price": {
+    "amount": 131.45,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "32,86 € al mes",
+  "sizes": [
+    "42 2/3 (UK 8.5)",
+    "44 (UK 9.5)",
+    "44 2/3 (UK 10)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del mar, 10 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4068818059807"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m34767258/k$bdd9042d4f8dc6b18dfa86868ad12c80/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35445048/k$07d3c73294af42df11dff9f441f5a622/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35444964/k$a2f05fb6647b3461cd36ee150feeffb0/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35445007/k$a88ff14deadb4fde112fcdec8fbd078b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35723959/k$61bc04f6d92df3336d329e513862940f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35723906/k$946e4b5431b3c4883ddee4be8e985bc3/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35723865/k$ea3b5cc7d8c89db0953cf37812b4656f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35723819/k$74e053ea8bccda5837c0656b58f7f3a3/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35445007/k$a88ff14deadb4fde112fcdec8fbd078b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34767117/k$13b9cb71fc98631f2baf145279da97cb/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34767093/k$50901240fe22b9a25a99a641cf60a02b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34767214/k$3a386b2ecf13bcd0cf0b753954475ba4/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34767181/k$31d21ba4fc019b028a04dc38c08335b2/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34767296/k$fc02492d5d1ccc9196687a793afc5014/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34767145/k$71ff81a6525910f49edb7685ab885fbd/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:22:09.950Z"
+}

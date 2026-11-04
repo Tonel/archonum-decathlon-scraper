@@ -1,0 +1,139 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-puma-future-7-play-mxsg/8e744b52-25e6-4273-92e5-07d101020269/c4",
+  "productKey": "8e744b52-25e6-4273-92e5-07d101020269_c4",
+  "variantId": "c4",
+  "productId": null,
+  "name": "Botas De Fútbol Puma Future 7 Play Mxsg",
+  "brand": "PUMA",
+  "description": "Descubre los TACOS PUMA FUTURE 7 Play MxSG, la elección definitiva para los creadores de juego. Agilidad máxima, ajuste perfecto y sensación precisa del balón para dominar el campo de fútbol.",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas de futbolistas",
+    "Botas Carvajal"
+  ],
+  "price": {
+    "amount": 45.25,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "15,08 € al mes",
+  "sizes": [
+    "41 (UK 7.5)",
+    "43 (UK 10)",
+    "44 (UK 10)",
+    "44.5 (UK 10)",
+    "46 (UK 10.5)",
+    "47 (UK 12)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del dom, 8 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de taco",
+          "value": "Tacoshíbridos"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Hierba mojada"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado bajo"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Colección",
+          "value": "Future"
+        },
+        {
+          "name": "Nivel de práctica",
+          "value": "Todos los niveles"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        },
+        {
+          "name": "Temporada",
+          "value": "Todas las estaciones"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4099686018481"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m15000888/k$47ec6dd67e0cb90f075a29300ad25bb7/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m15000887/k$7a4115b05d081d1bd1a6a9979ba8c18a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m15000886/k$8606e0f4a4d8bbb2a1d5efde9a31e043/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m15000885/k$14ee29e59fa1187479e23a60065f5da7/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m15000884/k$095102f0d3421e3bd953cf9389b0ded7/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m16064791/k$b79037b4cd7310df57b3118ad5ea2efd/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:10:45.040Z"
+}

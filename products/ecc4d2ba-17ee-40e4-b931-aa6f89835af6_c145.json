@@ -1,0 +1,118 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatillas-futbol-sala-ninos-joma-sala-max-jr-26-in-marino/ecc4d2ba-17ee-40e4-b931-aa6f89835af6/c145",
+  "productKey": "ecc4d2ba-17ee-40e4-b931-aa6f89835af6_c145",
+  "variantId": "c145",
+  "productId": null,
+  "name": "Zapatillas Fútbol Sala Niños Joma Sala Max Jr 26 IN Marino",
+  "brand": "JOMA",
+  "description": "Zapatillas Fútbol Sala Niños Joma Sala Max Jr 26 IN Marino",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol sala",
+    "Zapatillas",
+    "Zapatillas niños",
+    "Zapatillas niños Joma"
+  ],
+  "price": {
+    "amount": 37.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "12,66 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de taco",
+          "value": "Sin tacos"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Tira autoadherente"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Interior"
+        },
+        {
+          "name": "Material",
+          "value": "Cuero artificial"
+        },
+        {
+          "name": "Colección",
+          "value": "Top flex"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8447534975794"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m36213395/k$28d172f6d691ec0f9f484bd81454e7c2/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36213494/k$8d539e96a3603e9597e2e1efa73a5f3d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36213474/k$fc14a4df25c76c03203812f545b64648/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36213449/k$9c95b29cf9ff893e33b9e7b79ab56213/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36220769/k$8974b36c1fc42bd19ca937d51905e8bb/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36484775/k$b3a160f811bc38a88eb845cc38f17f84/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:28:20.970Z"
+}

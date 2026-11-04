@@ -1,0 +1,140 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-futbol-futbol-ninos-joma-toledo-jr-26-tf-naranja/e983ea74-fe42-4fae-8e26-9f399c7656a1/c20",
+  "productKey": "e983ea74-fe42-4fae-8e26-9f399c7656a1_c20",
+  "variantId": "c20",
+  "productId": null,
+  "name": "Botas Fútbol Fútbol Niños Joma Toledo Jr 26 TF Naranja",
+  "brand": "JOMA",
+  "description": "Botas Fútbol Fútbol Niños Joma Toledo Jr 26 TF Naranja",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "copia botas niños"
+  ],
+  "price": {
+    "amount": 34.2,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "11,40 € al mes",
+  "sizes": [],
+  "colors": [
+    {
+      "name": "naranja",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "negro",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "azul royal",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "rojo",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "verde anís",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "azul marino",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos multisuperficies"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Césped artificial"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8447628042081"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m36207026/k$21e29caa77f5c0d17922fbff02b30eb7/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36207507/k$df1b745832ec37c0fd56dfcbe6433f5d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36207495/k$c8d3dd02e67374985b9616eaf832ac5b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36207480/k$2c543cd55b54aeb962817b0871de43a4/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36207443/k$2b0f9ddaa404fe4f5a6e440bd1c4170d/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T17:58:13.826Z"
+}

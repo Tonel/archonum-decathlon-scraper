@@ -1,0 +1,126 @@
+{
+  "url": "https://www.decathlon.es/es/p/botas-de-futbol-puma-king-liga-fg-ag-adulto-negro/386934/m9030479",
+  "productKey": "386934_m9030479",
+  "variantId": "m9030479",
+  "productId": "9030479",
+  "name": "Botas de fútbol PUMA King Liga FG/AG Adulto Negro",
+  "brand": "PUMA",
+  "description": "Muestra tu magia en el campo con las KING LIGA.Combinando un toque agradable, plantilla Ortholite® y tacos cónicos, ofrecen un confort absoluto en terrenos duros y sintéticos.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas césped artificial",
+    "Botas de fútbol AG"
+  ],
+  "price": {
+    "amount": 99.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "33,33 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "1 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 1 año."
+    }
+  ],
+  "features": [
+    {
+      "title": "Comodidad",
+      "text": "La lengüeta regular se adapta a las diferentes formas del pie."
+    },
+    {
+      "title": "Toque de balón",
+      "text": "La parte superior está diseñada para ofrecer un toque natural y agradable."
+    },
+    {
+      "title": "Ligereza",
+      "text": "La suela ligera te mantiene estable tanto en césped natural como en superficies sintéticas."
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de terreno",
+          "value": "Hierba, Hierba sintética larga"
+        },
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos fijos"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Personalización",
+          "value": "Personalizable"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado bajo"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Confort"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        },
+        {
+          "name": "Tipo de plantilla",
+          "value": "Simple"
+        },
+        {
+          "name": "Colección",
+          "value": "King"
+        }
+      ]
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p3226509/k$71e057b7c3333a64aa72b93815f073f8/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3226506/k$6d5e285fdaed0ad27fcf7c542a3017e3/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3226510/k$7defdb5d3f22c7c8258f28f969bf89e4/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3226507/k$e51526b0171321c5dbda51ce01623cad/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3226505/k$c29af4b848d83f4f79aaaa42f6f0ad23/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3226508/k$4f8525d083449213142a7fe84258a853/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T17:46:15.553Z"
+}

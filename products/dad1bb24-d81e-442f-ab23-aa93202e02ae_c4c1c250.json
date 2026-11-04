@@ -1,0 +1,107 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatillas-de-futbol-nike-phantom-luna-2-club-mg-blancas-negras/dad1bb24-d81e-442f-ab23-aa93202e02ae/c4c1c250",
+  "productKey": "dad1bb24-d81e-442f-ab23-aa93202e02ae_c4c1c250",
+  "variantId": "c4c1c250",
+  "productId": null,
+  "name": "Zapatillas de fútbol Nike Phantom Luna 2 Club MG Blancas/Negras",
+  "brand": "NIKE",
+  "description": "Diseñadas para jugadores ocasionales, estas botas de fútbol Nike Phantom Luna 2 Club MG ofrecen comodidad y tracción en todo tipo de superficies.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas Nike"
+  ],
+  "price": {
+    "amount": 64.15,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "21,38 € al mes",
+  "sizes": [
+    "40 (UK 6.5)",
+    "41 (UK 7.5)",
+    "42 (UK 8)",
+    "42.5 (UK 8.5)",
+    "43 (UK 8.5)",
+    "44 (UK 9.5)",
+    "44.5 (UK 10)",
+    "45 (UK 10)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del mar, 10 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "0196974715801"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m38673242/k$af3d4333d04e4b5c2b6d207d6e226f87/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38834090/k$9bb72107a725fe50e1c4057cf2531abf/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38834047/k$de7ba42242556191840379e70d2e63ee/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:35:45.695Z"
+}

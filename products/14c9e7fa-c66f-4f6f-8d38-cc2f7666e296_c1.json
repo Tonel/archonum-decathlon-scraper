@@ -1,0 +1,131 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/joma-mundial-zapatillas-de-futbol-sala-indoor/14c9e7fa-c66f-4f6f-8d38-cc2f7666e296/c1",
+  "productKey": "14c9e7fa-c66f-4f6f-8d38-cc2f7666e296_c1",
+  "variantId": "c1",
+  "productId": null,
+  "name": "Zapatillas de fútbol de interior para hombre Joma Mundial Indoor 2601",
+  "brand": "JOMA",
+  "description": "Zapatillas de fútbol sala para hombre JOMA Mundial Indoor 2601: parte superior de piel, ventilación de malla VTS, puntera reforzada de microfibra.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Joma",
+    "Botas de fútbol joma"
+  ],
+  "price": {
+    "amount": 52.25,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "17,42 € al mes",
+  "sizes": [
+    "42 (UK 8.5)",
+    "42.5 (UK 8.5)",
+    "40/42 (UK 7/8)",
+    "41/42 (UK 7/8)",
+    "43/49 (UK 9/12.5)",
+    "44/47 (UK 9.5/12)",
+    "45/47 (UK 10.5/12)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Motivo",
+          "value": "Sin patrón"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Material",
+          "value": "Piel"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Agarre"
+        },
+        {
+          "name": "Estilo",
+          "value": "Liso"
+        },
+        {
+          "name": "Colección",
+          "value": "Mundial"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Aviso legal",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8447368907657"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m28694677/k$ba8f0de1231ea5bf16c530632b7b2db9/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28694599/k$31746249f9955c7694a7fbfdafbf3275/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28694574/k$f900060e4693f7e9494b1fc06ea22316/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28694652/k$5d7370f2634b3cfed26234379d11b3d5/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28694642/k$8e7e2882f7ff9c0d549af7aef1f6396a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28694660/k$51d3134166ecdc8e1797c13e73ff455e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28694626/k$464897ef9ab41c14a1dbdd534528eb76/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:23:36.899Z"
+}

@@ -1,0 +1,106 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/bota-de-futbol-con-lengueta-plegable-predator-league-cesped-natural-seco/d5366e4a-e996-4ef4-95f8-1cc56f85a0f9/c1",
+  "productKey": "d5366e4a-e996-4ef4-95f8-1cc56f85a0f9_c1",
+  "variantId": "c1",
+  "productId": null,
+  "name": "Bota de fútbol con lengüeta plegable PREDATOR LEAGUE césped natural seco",
+  "brand": "ADIDAS",
+  "description": "Una botas de fútbol con Nanostrike para mayor precisión al golpear el balón",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas de futbolistas",
+    "Botas de Bellingham"
+  ],
+  "price": {
+    "amount": 82.5,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "27,50 € al mes",
+  "sizes": [
+    "41 1/3 (UK 7.5)",
+    "42 (UK 8)",
+    "44.5 (UK 10.5)",
+    "45.5 (UK 11)"
+  ],
+  "colors": [
+    {
+      "name": "negro",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "rojo / negro / blanco",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "azul claro",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "negro / blanco / rojo",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "negro / rojo",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Agotado"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m26869813/k$067ac2e3805a0f5916797b4cec0bc92c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26869788/k$35f6d17161b006699dcd98755a1b2a7b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26869777/k$730464bf0e85dc32fa8e96d10217005c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26869835/k$843b1b0281f636e054c54141a5dd4764/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26869798/k$ad528c8f603e88e7a4dbe17b792ad79f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26869841/k$f802958eb73af4eb0524fde9bfc9b0a9/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26869822/k$93ff5d199c991a60d6892bcd087756a4/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36644354/k$da6066704fec01d4840d4b798f0292fb/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35448200/k$d9d48ca38bab4627578481227039783a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35732145/k$949a1e5f46ba680bee56f5a36919eba6/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35732099/k$7df4c8535efa77745446930fcf4b2792/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35732067/k$8506ad45c64983a34e6b97f21715c7e5/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35732031/k$9b3e85abba995ce03c998d14c60f0432/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35731987/k$6b6f0c26ec16be1e831d662846520cc4/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:31:30.912Z"
+}

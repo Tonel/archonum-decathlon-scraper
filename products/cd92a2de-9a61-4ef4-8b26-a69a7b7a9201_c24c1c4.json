@@ -1,0 +1,111 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/guante-de-portero-predator-training/cd92a2de-9a61-4ef4-8b26-a69a7b7a9201/c24c1c4",
+  "productKey": "cd92a2de-9a61-4ef4-8b26-a69a7b7a9201_c24c1c4",
+  "variantId": "c24c1c4",
+  "productId": null,
+  "name": "Guante de portero Predator Training",
+  "brand": "ADIDAS",
+  "description": "Unos guantes de portero orientados al entrenamiento, con palma de látex Soft Grip para un agarre fiable",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Portero",
+    "Guantes de portero",
+    "Guantes adidas"
+  ],
+  "price": {
+    "amount": 30,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "10,00 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Sin apriete"
+        },
+        {
+          "name": "Material",
+          "value": "Poliuretano"
+        },
+        {
+          "name": "Impermeable",
+          "value": "No impermeable"
+        },
+        {
+          "name": "Colección",
+          "value": "Predator"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4069999215501"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m36651507/k$7e4b7fd45376d3658d646db853c52f1c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36651589/k$a52d628bcf99d6ea702172cfc7a6aead/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36651546/k$d5d3f36ce903373c0019ba7dac90f7ad/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38186288/k$95f2abca8b071bb2d75c632537bab72e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38186283/k$72d510a32ff66b88c1b1fea1f63f1986/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m39423279/k$9ee5c84d296d73d28309ba0c2f3aaa22/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m39423260/k$0d088fead2626550c37b734125efe8a7/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:17:07.360Z"
+}

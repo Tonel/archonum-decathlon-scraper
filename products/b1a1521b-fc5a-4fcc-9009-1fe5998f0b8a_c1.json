@@ -1,0 +1,126 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-puma-ultra-7-fg-ag/b1a1521b-fc5a-4fcc-9009-1fe5998f0b8a/c1",
+  "productKey": "b1a1521b-fc5a-4fcc-9009-1fe5998f0b8a_c1",
+  "variantId": "c1",
+  "productId": null,
+  "name": "Botas de fútbol Puma Ultra 7 FG/AG",
+  "brand": "PUMA",
+  "description": "Desata tu velocidad en el campo con las botas de fútbol Puma Ultra 7, diseñadas para un rendimiento inigualable.",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Puma",
+    "Botas de fútbol puma"
+  ],
+  "price": {
+    "amount": 37,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 54.5,
+    "currency": "EUR"
+  },
+  "financing": "12,33 € al mes",
+  "sizes": [
+    "41 (UK 7.5)",
+    "42 (UK 8)",
+    "43 (UK 9)",
+    "44 (UK 9.5)",
+    "45 (UK 10.5)"
+  ],
+  "colors": [
+    {
+      "name": "negro",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "rojo / negro / blanco",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "rojo / blanco / multicolor",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "azul",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4070033124383"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m36836827/k$7bd35de2b62b6ecc990d1252d21efb13/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36836870/k$26c3fc439a1409553814b5a23705d8a5/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36836849/k$8a6f655e46853bd7766a5faed1c9bfec/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36836839/k$e88b407c64c330c9af5a24d57c33a5e9/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36836835/k$bed60df062e8ba2c78862e37776f5765/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36836832/k$ae4247ba1b8fcf72bfc3a240796dd185/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:17:45.740Z"
+}

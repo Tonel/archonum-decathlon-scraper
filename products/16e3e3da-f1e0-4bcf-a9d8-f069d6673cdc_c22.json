@@ -1,0 +1,163 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/kelme-botas-de-futbol-goleiro-turf-lima-unisex/16e3e3da-f1e0-4bcf-a9d8-f069d6673cdc/c22",
+  "productKey": "16e3e3da-f1e0-4bcf-a9d8-f069d6673cdc_c22",
+  "variantId": "c22",
+  "productId": null,
+  "name": "Kelme Botas De Fútbol Goleiro Turf Lima Unisex",
+  "brand": "KELME",
+  "description": "Kelme Botas De Fútbol Goleiro Turf Lima Unisex. Suela de Goma con tacos de Turf. Tallaje correcto, elige tu talla habitual. Kelme, Leave Your Mark.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas césped artificial",
+    "Todo Botas césped artificial"
+  ],
+  "price": {
+    "amount": 33.54,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "11,18 € al mes",
+  "sizes": [],
+  "colors": [
+    {
+      "name": "amarillo",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "amarillo / verde lima / azul",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "azul",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "negro",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "azul / amarillo",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "negro / morado / gris verdoso",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "negro / azul cerceta",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "azul / azul cerúleo / verde lima",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de terreno",
+          "value": "Césped artificial"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Amortiguación, soporte y confort"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Plantilla extraíble",
+          "value": "Plantilla extraíble"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Aviso legal",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8445664272653"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m22365142/k$1d813dade2dfc5b840808aa90b74b06a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22365211/k$8ddce1831beab94ad4d52815c9f785b1/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22365044/k$13b8d8b29a246d1112673dd540d9691b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22365001/k$4346ae76883af473843b8a274b5672dc/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22365090/k$5b84fd0adf470613429f838af891bb25/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22365760/k$e40bdab9066ff787e092d13505cafc2c/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:22:21.096Z"
+}

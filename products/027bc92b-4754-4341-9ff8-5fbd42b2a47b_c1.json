@@ -1,0 +1,154 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatillas-de-futbol-nike-phantom-gx-ii-academy-fg-mg/027bc92b-4754-4341-9ff8-5fbd42b2a47b/c1",
+  "productKey": "027bc92b-4754-4341-9ff8-5fbd42b2a47b_c1",
+  "variantId": "c1",
+  "productId": null,
+  "name": "Zapatillas de fútbol Nike Phantom GX II Academy FG/MG",
+  "brand": "NIKE",
+  "description": "Diseñado pensando en tu comodidad y rendimiento todos los días.",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Nike",
+    "Botas de fútbol nike"
+  ],
+  "price": {
+    "amount": 69.5,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 69.6,
+    "currency": "EUR"
+  },
+  "financing": "23,17 € al mes",
+  "sizes": [
+    "39",
+    "40",
+    "40,5",
+    "41",
+    "42",
+    "44",
+    "44,5",
+    "45",
+    "43 (UK 9)"
+  ],
+  "colors": [
+    {
+      "name": "negro",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "negro / gris oscuro",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "negro / blanco / oro",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "azul / azul bebé",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "rosa",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del mar, 10 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Hierba"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado bajo"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Amortiguación"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "197597341408"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m19243259/k$e8ec44b969dafa2e70e412fa0b0b37a5/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19243244/k$d0ee2c233993dbd4772a95a61d367237/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19243239/k$4d220781064d8bdea4f0e1cb3dda73b8/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19243257/k$6f639377e5711689750c3bbea66cf599/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19243241/k$61af7d0cdaff6d028f9522f3c7340e82/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:22:27.840Z"
+}

@@ -1,0 +1,182 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/bota-para-pista-cubierta-super-sala-competition-3-infantil/64782c61-bb64-46a5-9ac3-765f098aa0a0/c218c4c22",
+  "productKey": "64782c61-bb64-46a5-9ac3-765f098aa0a0_c218c4c22",
+  "variantId": "c218c4c22",
+  "productId": null,
+  "name": "Bota para pista cubierta Super Sala Competition 3 (infantil)",
+  "brand": "ADIDAS",
+  "description": "Una bota resistente para dominar la pista cubierta.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol sala",
+    "Zapatillas",
+    "Zapatillas niños",
+    "Zapatillas niños Adidas"
+  ],
+  "price": {
+    "amount": 47.3,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "15,77 € al mes",
+  "sizes": [
+    "35 (UK 2.5)",
+    "36 (UK 3.5)",
+    "36 2/3 (UK 4)",
+    "37 1/3 (UK 4.5)",
+    "28 (UK 10C)",
+    "29 (UK 11C)",
+    "30.5 (UK 12C)"
+  ],
+  "colors": [
+    {
+      "name": "azul royal / blanco / amarillo",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "blanco",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "blanco / negro / azul lago",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Motivo",
+          "value": "Sin patrón"
+        },
+        {
+          "name": "Tipo de taco",
+          "value": "Sin tacos"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Interior"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado bajo"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Agarre"
+        },
+        {
+          "name": "Impermeable",
+          "value": "No impermeable"
+        },
+        {
+          "name": "Tipo de costura",
+          "value": "Con costura"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Estilo",
+          "value": "Bitonal"
+        },
+        {
+          "name": "Colección",
+          "value": "Copa"
+        },
+        {
+          "name": "Nivel de práctica",
+          "value": "Perfeccionamiento"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        },
+        {
+          "name": "Temporada",
+          "value": "Todas las estaciones"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4067907528408"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m23919935/k$d71631e1d188c4a313185cdf22daab7f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22206921/k$8a068ffd3fc0ea5eda6f1513fcf0191f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22206878/k$d318b6d4d688053c2abcbc2eefb2899d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22206937/k$ca31a8aa952c8bd8274cd33e5235d2dc/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22206822/k$4baba9ed203a9f6c141066320ef7a185/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22206860/k$ca4e247b46ee5d888752a41bf233966f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22206906/k$be471e2a1ae18706ee3a386622088398/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22206892/k$5d63cb81bcf0853a7828498148637a07/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m39175695/k$e37ce862b99a0879e03b48f162facc07/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m39175709/k$7777d887051403dc1fe7b1ddaaf0a8c9/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:19:17.057Z"
+}

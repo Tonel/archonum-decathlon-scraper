@@ -1,0 +1,96 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-nike-modelo-mercurial-vapor-17-academy-para-hombre/458315b0-d1ba-4390-afbe-911c58f0ebe0/c14",
+  "productKey": "458315b0-d1ba-4390-afbe-911c58f0ebe0_c14",
+  "variantId": "c14",
+  "productId": null,
+  "name": "Botas de futbol Nike modelo Mercurial Vapor 17 Academy para hombre",
+  "brand": "NIKE",
+  "description": "Botas de futbol Nike modelo Mercurial Vapor 17 Academy para Hombre en color rojo. De la temporada Primavera-Verano 2026.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Nike",
+    "Botas de fútbol nike"
+  ],
+  "price": {
+    "amount": 101.3,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "33,77 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del mié, 11 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "198965320377"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m38922616/k$06f0b81dfef2a3249fda25e8b3d48d57/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38922715/k$09696e6f2afe6a6af2f9e11bea0d8bb1/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38922689/k$b2363f6d902568245d3a3e2ce8a3f36b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38922656/k$8ffe25d2d165781bab816c05ea3b7b90/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:46:18.589Z"
+}

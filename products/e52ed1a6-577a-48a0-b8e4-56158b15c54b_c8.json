@@ -1,0 +1,112 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-nino-joma-evolution-azul/e52ed1a6-577a-48a0-b8e4-56158b15c54b/c8",
+  "productKey": "e52ed1a6-577a-48a0-b8e4-56158b15c54b_c8",
+  "variantId": "c8",
+  "productId": null,
+  "name": "Botas de fútbol Niño Joma Evolution Azul",
+  "brand": "JOMA",
+  "description": "Descubre las botas de calidad de la marca Joma para un estilo moderno y cómodo. ¡Perfectas para cualquier ocasión!",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "copia botas niños"
+  ],
+  "price": {
+    "amount": 33.9,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 35.9,
+    "currency": "EUR"
+  },
+  "financing": "11,30 € al mes",
+  "sizes": [
+    "34 (UK 1.5)",
+    "35 (UK 2.5)",
+    "36 (UK 3)",
+    "37 (UK 4)",
+    "38 (UK 5)",
+    "32 (UK 13C)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8447150309089"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m19444469/k$6eaf07405f5006e9af61f3ac9e9d052d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19444466/k$6f9b9a2eedcfd4352b758f404c3542f8/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19444464/k$3e24933eebe3ca3f7cc087eb66eca630/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19444460/k$5f4b4482dd787af2f3b59ca2ba9380b0/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:41:36.776Z"
+}

@@ -1,0 +1,121 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatilla-de-futbol-f50-messi-club-moqueta/cace9c48-4441-4cb4-a079-88372cf8313e/c4c24c192",
+  "productKey": "cace9c48-4441-4cb4-a079-88372cf8313e_c4c24c192",
+  "variantId": "c4c24c192",
+  "productId": null,
+  "name": "Zapatilla de fútbol F50 Messi Club moqueta",
+  "brand": "ADIDAS",
+  "description": "Una zapatilla de fútbol con lengüeta suelta sintética que aporta más transpirabilidad durante los partidos",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "Botas de futbol adidas niños",
+    "Botas de futbol adidas niños F50"
+  ],
+  "price": {
+    "amount": 32,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "10,67 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del mar, 10 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Agotado"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Hierba"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "F50"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4068812112492"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m40001957/k$524728ea9c7ec2c99c412b7264840d99/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40002233/k$febe9a9869db454cd87bea84eaf84666/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40002188/k$d2d3a0ddec35f9c53f1b611e869e5184/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40002138/k$7827dde12ba32032c391a98013b2d46f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40002092/k$bf9e7b7ff19c5fc66204ffcbd3d934e5/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40002048/k$7ab2d8d1c3f7843031c682c8edad25f1/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40002010/k$e8c10a906042e7bb02caae6ddad200da/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40001969/k$fb37b9c537990bcdab98d7b14ec8e358/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:07:51.040Z"
+}

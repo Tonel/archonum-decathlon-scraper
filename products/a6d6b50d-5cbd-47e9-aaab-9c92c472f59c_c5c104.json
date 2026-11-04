@@ -1,0 +1,123 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/kelme-zapatillas-de-nino-final-elastic-turf-azul-unisex-kids/a6d6b50d-5cbd-47e9-aaab-9c92c472f59c/c5c104",
+  "productKey": "a6d6b50d-5cbd-47e9-aaab-9c92c472f59c_c5c104",
+  "variantId": "c5c104",
+  "productId": null,
+  "name": "Kelme Zapatillas De Niño Final Elastic Turf Azul Unisex Kids",
+  "brand": "KELME",
+  "description": "Kelme Zapatillas De Niño Final Elastic Turf Azul Unisex Kids. Fabricada en 100% Piel Sintética. . Kelme, Leave Your Mark.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas césped artificial",
+    "Botas multitacos y turf"
+  ],
+  "price": {
+    "amount": 34.93,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "11,64 € al mes",
+  "sizes": [
+    "33 (UK 1)",
+    "34 (UK 1.5)",
+    "28 (UK 9.5C)",
+    "29 (UK 10.5C)",
+    "30 (UK 11.5C)",
+    "31 (UK 12C)",
+    "32 (UK 13C)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos estabilizados"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordón tradicional"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Aviso legal",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8445664404481"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m26440728/k$15be007e1db0c513e85f5783b98ebdb5/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26441781/k$f621c73cfef41e889d01a04b6ff265fd/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26440682/k$c001a944485a8c1dd7b38e7af21e1e10/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26440742/k$fb26147713989c40384608eabf5f1947/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26826073/k$c12586f0ce504109489413da0c259d98/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26826078/k$5b454e77917555e4121a85c8d8d44586/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26826076/k$25d838e7c129e33de1e4a8ac80f2866e/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:27:00.126Z"
+}

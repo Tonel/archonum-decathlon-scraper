@@ -1,0 +1,153 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/bota-de-futbol-f50-club-messi-cesped-natural-seco-multisuperficie-adolescentes/b1e99c08-fc7b-44e6-8926-1c9ec87d95e8/c249c22",
+  "productKey": "b1e99c08-fc7b-44e6-8926-1c9ec87d95e8_c249c22",
+  "variantId": "c249c22",
+  "productId": null,
+  "name": "Bota de fútbol F50 Club Messi césped natural seco/multisuperficie (Adolescentes)",
+  "brand": "ADIDAS",
+  "description": "Emula a una leyenda del balón",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "Botas de futbol adidas niños",
+    "Botas de futbol adidas niños F50"
+  ],
+  "price": {
+    "amount": 46.9,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 46.95,
+    "currency": "EUR"
+  },
+  "financing": "15,63 € al mes",
+  "sizes": [
+    "35 (UK 2)",
+    "32 (UK 13.5C)"
+  ],
+  "colors": [
+    {
+      "name": "plata / amarillo",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "negro / amarillo",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "plata / amarillo / azul",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos fijos"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Terreno duro"
+        },
+        {
+          "name": "Jugadores",
+          "value": "Messi"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "F50"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4067904232599"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m40248750/k$a1e0a451cb9e5b8ce50edee6a5fd5b33/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40248870/k$40ef0ec6525fde3690c57f8971fa0bc0/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40248848/k$396ab31475d50ec4753b76e08b65d657/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40248825/k$5b8d5053c7c53f06c6d08f4bad7028b3/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40248804/k$ede4d5acf095967b53f40b149479579c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40248787/k$f671ec06c4b031d0e08d2bed4c8f7742/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40248766/k$660e009fea6827707bc51a9558e3e35f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40248742/k$00bae7518be83cb439533683584acc87/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:17:51.920Z"
+}

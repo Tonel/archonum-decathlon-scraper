@@ -1,0 +1,145 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatillas-futbol-sala-nino-kelme-goleiro/5143be1e-5e0b-4109-ae97-c092e60301f3/c5c22",
+  "productKey": "5143be1e-5e0b-4109-ae97-c092e60301f3_c5c22",
+  "variantId": "c5c22",
+  "productId": null,
+  "name": "Zapatillas Futbol Sala Niño Kelme Goleiro",
+  "brand": "KELME",
+  "description": "Este es uno de los modelos más buscados para Fútbol sala, ligeras, flexibles y duraderas asi se definen estas zapatillas de futsal Kelme.",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "copia botas niños"
+  ],
+  "price": {
+    "amount": 24.95,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 34.93,
+    "currency": "EUR"
+  },
+  "financing": null,
+  "sizes": [],
+  "colors": [
+    {
+      "name": "azul / amarillo",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "blanco / amarillo",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "blanco",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Motivo",
+          "value": "Sin patrón"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordón tradicional"
+        },
+        {
+          "name": "Material",
+          "value": "Sintético"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Amortiguación, soporte y confort"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Estilo",
+          "value": "Bitonal"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Aviso legal",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8445664291609"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m20914358/k$ebf5c02d0759562a7eaaed13523ab274/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m20914380/k$e0c1ea689b821884dcc26b8f2b15f66d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m20914367/k$540d66daf1f542c4249b26eedf0fc81f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m27365177/k$2861e3cb1e9057947d920f1a3169d6b6/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:44:51.523Z"
+}

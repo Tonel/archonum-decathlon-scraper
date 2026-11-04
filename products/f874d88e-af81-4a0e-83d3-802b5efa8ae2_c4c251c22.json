@@ -1,0 +1,125 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatilla-de-futbol-de-media-cana-f50-sparkfusion-league-moqueta/f874d88e-af81-4a0e-83d3-802b5efa8ae2/c4c251c22",
+  "productKey": "f874d88e-af81-4a0e-83d3-802b5efa8ae2_c4c251c22",
+  "variantId": "c4c251c22",
+  "productId": null,
+  "name": "Zapatilla de fútbol de media caña F50 SPARKFUSION LEAGUE moqueta",
+  "brand": "ADIDAS",
+  "description": "Una zapatilla de fútbol con suela de goma diseñada para jugar en terrenos de moqueta artificial",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "Botas de futbol adidas niños",
+    "Botas de futbol adidas niños F50"
+  ],
+  "price": {
+    "amount": 68.5,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "22,83 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos estabilizados"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Hierba"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "F50"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4068812188497"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m26869836/k$5640ff4f638b0d0e816f197a9c1b36c0/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26869823/k$174b3590c7137acadeab877ef5971e0f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26869814/k$acd766c1957ad13fbf148d02e2bdece5/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26869848/k$a5c5814632498fd00cd8d9c1ec562a21/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26869827/k$6105af5b7638f0dcf45fe476418d4063/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26869854/k$5749846e29ac99bd524811c0ff132f1c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26869843/k$db95c3f855963bf253be89fbe58a6dc5/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36644441/k$85e482d8440213104c7b24bcd2d4e823/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:20:46.743Z"
+}

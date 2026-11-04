@@ -1,0 +1,144 @@
+{
+  "url": "https://www.decathlon.es/es/p/botas-de-futbol-f50-hyperfast-league-sin-cordones-fg-mg-ninos-verde-adidas/386904/m9029570",
+  "productKey": "386904_m9029570",
+  "variantId": "m9029570",
+  "productId": "9029570",
+  "name": "Botas de fútbol F50 Hyperfast League sin cordones FG/MG Niños, Verde adidas",
+  "brand": "ADIDAS",
+  "description": "Haz brillar a tu hijo con estas zapatillas sin cordones F50 Hyperfast League.La caña Haloskin, la malla Haloshell+ y la suela FG te ofrecen una agilidad increíble y una velocidad óptima.",
+  "stickers": [
+    "Novedad"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "Botas de futbol adidas niños",
+    "Botas de futbol adidas niños F50"
+  ],
+  "price": {
+    "amount": 74.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "25,00 € al mes",
+  "sizes": [
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37 1/3",
+    "38"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "1 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 1 año."
+    }
+  ],
+  "features": [
+    {
+      "title": "Impulso",
+      "text": "La suela Sprintplate 360 ofrece un dinamismo adicional en terrenos blandos."
+    },
+    {
+      "title": "Transpirabilidad",
+      "text": "La caña Fiberskin mantiene los pies ventilados."
+    },
+    {
+      "title": "Toque de balón",
+      "text": "Caña Fiberskin con un estampado Sprintgrid para ayudarte a controlar el balón."
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de terreno",
+          "value": "Hierba, Hierba sintética larga"
+        },
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos fijos"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Sin cordones"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado bajo"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Velocidad"
+        },
+        {
+          "name": "Tipo de plantilla",
+          "value": "Simple"
+        },
+        {
+          "name": "Colección",
+          "value": "F50, Adidas final rush pack"
+        },
+        {
+          "name": "Jugadores",
+          "value": "Dembélé, Lamine yamal"
+        },
+        {
+          "name": "Nivel de rendimiento",
+          "value": "Partido / Liga"
+        }
+      ]
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p3241391/k$bfe3f1e0dddff4bf2883addc83851c41/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3241390/k$ec5506754554198038acf4b00059d374/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3241398/k$d4b9ae4a684c7e0bdd9cba8cd9fe3f73/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3241401/k$f9591081d46e7d93f94135d642fd24b1/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3241394/k$6a6cc76ce4b839bf65247986c9d00c29/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3241404/k$6b6fedd625e0440cbc18ae0fca3ad956/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3241399/k$617511b3104a5f410a08b13662083166/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3241395/k$e0630ec000917ebb86512cac10713e04/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3241406/k$7f40fd5506f2fe28dca8c3c3efac1a73/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T17:47:34.874Z"
+}

@@ -1,0 +1,124 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-futbol-futbol-ninos-joma-toledo-jr-26-tf-negro/e983ea74-fe42-4fae-8e26-9f399c7656a1/c1",
+  "productKey": "e983ea74-fe42-4fae-8e26-9f399c7656a1_c1",
+  "variantId": "c1",
+  "productId": null,
+  "name": "Botas Fútbol Fútbol Niños Joma Toledo Jr 26 TF Negro",
+  "brand": "JOMA",
+  "description": "Botas Fútbol Fútbol Niños Joma Toledo Jr 26 TF Negro",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "copia botas niños"
+  ],
+  "price": {
+    "amount": 35.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "12,00 € al mes",
+  "sizes": [],
+  "colors": [
+    {
+      "name": "negro",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "naranja",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "azul royal",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "rojo",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "verde anís",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "azul marino",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8447534736678"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m38257053/k$21c8001c7960eabae8414df44819bee7/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:38:20.842Z"
+}

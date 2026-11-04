@@ -1,0 +1,129 @@
+{
+  "url": "https://www.decathlon.es/es/p/botas-copa-gloro-turf-adulto-negro/358929/m8944495",
+  "productKey": "358929_m8944495",
+  "variantId": "m8944495",
+  "productId": "8944495",
+  "name": "Botas Copa Gloro Turf Adulto Negro",
+  "brand": "ADIDAS",
+  "description": "Con detalles icónicos inspirados en el Mundial, como la famosa lengüeta doblada, las Gloro ofrecen la máxima comodidad con el exterior de piel de vacuno.",
+  "stickers": [
+    "Últimas unidades"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "Botas de futbol adidas niños",
+    "Botas de futbol adidas niños Copa"
+  ],
+  "price": {
+    "amount": 14.99,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 89.99,
+    "currency": "EUR"
+  },
+  "financing": null,
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "3 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 3 años."
+    }
+  ],
+  "features": [
+    {
+      "title": "Comodidad",
+      "text": "Exterior de piel de vacuno."
+    },
+    {
+      "title": "Impulso",
+      "text": "Suela de goma con tacos diseñada para los terrenos de césped."
+    },
+    {
+      "title": "Toque de balón",
+      "text": "Entresuela Lightstrike para una total libertad de movimientos."
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado bajo"
+        },
+        {
+          "name": "Material",
+          "value": "Piel"
+        },
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos estabilizados"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Hierba sintética corta"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "Copa"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Control"
+        },
+        {
+          "name": "Tipo de plantilla",
+          "value": "Simple"
+        }
+      ]
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p2851969/k$f27bfb73a140238d5f4e06f6f7032a53/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2851972/k$acab882b7faa331bb9bcc25e0bc482a3/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2851976/k$e461bb06f2ecf3c69a385af41bc86de9/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2851973/k$a9c3bc7ac3d0b60554df73fca0058526/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2851968/k$a0e2208d2f7738b5fec9ca74a2d8b849/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2851970/k$4325c7c50ce3da399f178c934b0a0228/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2851971/k$14d1a89201b44737ab78f3e0ba1b5a9c/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:08:10.262Z"
+}

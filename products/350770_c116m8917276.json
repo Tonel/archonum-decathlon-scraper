@@ -1,0 +1,191 @@
+{
+  "url": "https://www.decathlon.es/es/p/botas-de-futbol-mujer-viralto-iii-w-mg-ag-rosa-power/350770/c116m8917276",
+  "productKey": "350770_c116m8917276",
+  "variantId": "c116m8917276",
+  "productId": "8917276",
+  "name": "Botas de fútbol mujer Viralto III-W mg/ag Rosa Power",
+  "brand": "KIPSTA",
+  "description": "¿Buscas una bota de fútbol cómoda y técnica? Con su exterior AIR MESH y su suela multidireccional FLEX-H, la VIRALTO III te aporta excelentes sensaciones para distribuir el juego.",
+  "stickers": [
+    "Últimas unidades"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas césped artificial",
+    "Botas de fútbol MG"
+  ],
+  "price": {
+    "amount": 29.99,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 31.99,
+    "currency": "EUR"
+  },
+  "financing": null,
+  "sizes": [],
+  "colors": [
+    {
+      "name": "rosa perla",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "ultra blanco",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "morado lavanda",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "3 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 3 años."
+    }
+  ],
+  "features": [
+    {
+      "title": "Comodidad",
+      "text": "Zapatillas adaptadas a los pies femeninos. Exterior en 3D AIR MESH, forro de antelina."
+    },
+    {
+      "title": "Resistencia",
+      "text": "Vida útil de 168 XP*, una de las mejores botas de fútbol evaluadas"
+    },
+    {
+      "title": "Flexibilidad multidireccional",
+      "text": "Flexibilidad multidireccional con tecnología FLEX-H y sistema DUAL HARDNESS"
+    },
+    {
+      "title": "Toque de balón",
+      "text": "La tecnología 3D AIRMESH ofrece excelentes sensaciones del balón en los pies"
+    },
+    {
+      "title": "Agarre",
+      "text": "Múltiples tacos para un buen agarre en terrenos sintéticos."
+    },
+    {
+      "title": "Sujeción del producto",
+      "text": "Cuello de punto elástico: abraza perfectamente el pie con cordones para ajustar."
+    },
+    {
+      "title": "Limitación de las irritaciones",
+      "text": "La plantilla tiene un revestimiento que limita las irritaciones"
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Nivel de práctica",
+          "value": "Experto"
+        },
+        {
+          "name": "Intensidad",
+          "value": "Intensidad alta"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Hierba sintética corta, Hierba sintética larga, Césped artificial"
+        },
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos redondos, Minitacos, Tacos fijos"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Personalización",
+          "value": "Personalizable"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado de media caña"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "Viralto"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        },
+        {
+          "name": "Peso (en g)",
+          "value": "220 g"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Control"
+        },
+        {
+          "name": "Tipo de plantilla",
+          "value": "Preformado"
+        },
+        {
+          "name": "Vida útil mínima",
+          "value": "168 usos"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p2775524/k$96528aa71e709f0ccf30483e4af15566/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2775532/k$8a6716cbfb81e4ca32cf9c42701e4c86/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2775530/k$a692d7da6cdb6fb318eec9b8b272ebb0/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2775528/k$51e02a2b721da858796759562fe03548/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2775522/k$e79f01b07217e7542151acbf1eee01f4/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2775531/k$fd27d6170618d56c1efff1fbd715603f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2775529/k$51ff3adb56b5e05a9892551b01a8a1dc/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2775525/k$c0b57c0c95defd984ea58309d5702c87/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2775523/k$aa41e3f6be93571af9a66c376c05a398/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2775526/k$5b64843f427bf77a2ef3ad95c8e12628/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T17:50:33.990Z"
+}

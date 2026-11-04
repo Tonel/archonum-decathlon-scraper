@@ -1,0 +1,135 @@
+{
+  "url": "https://www.decathlon.es/es/p/zapatillas-de-futbol-sala-future-9-play-nino-amarillo-azul-puma/379593/m9010883",
+  "productKey": "379593_m9010883",
+  "variantId": "m9010883",
+  "productId": "9010883",
+  "name": "Zapatillas de fútbol sala FUTURE 9 Play Niño Amarillo/Azul Puma",
+  "brand": "PUMA",
+  "description": "Con una suela exterior de goma que no deja marcas y de perfil bajo para interiores, para que puedas esquivar fácilmente a los defensores.",
+  "stickers": [
+    "Novedad"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol sala",
+    "Zapatillas",
+    "Zapatillas niños",
+    "Zapatillas niños Puma"
+  ],
+  "price": {
+    "amount": 35.99,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 39.99,
+    "currency": "EUR"
+  },
+  "financing": "12,00 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "1 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 1 año."
+    }
+  ],
+  "features": [
+    {
+      "title": "Comodidad",
+      "text": "Parte superior sintética ligera con lengüeta elástica."
+    },
+    {
+      "title": "Toque de balón",
+      "text": "Zonas de agarre en relieve para un mejor control del balón."
+    },
+    {
+      "title": "Adherencia",
+      "text": "Suela exterior de goma con tacos múltiples y de perfil bajo."
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Personalización",
+          "value": "Personalizable"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado bajo"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "Puma unleashed pack, Future"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Control"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Interior"
+        },
+        {
+          "name": "Tipo de plantilla",
+          "value": "Simple"
+        },
+        {
+          "name": "Tipo de taco",
+          "value": "Suela suave"
+        },
+        {
+          "name": "Nivel de rendimiento",
+          "value": "Palo"
+        }
+      ]
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p3192811/k$05084f1ded0f1821e7d930d3e0609652/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3192401/k$edb33f95522a00f44154c99ae24b8365/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3192399/k$aa4158b1143f0d67a28ee47b694546b8/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3192398/k$1598cc336fa5622e931efe812ba0d567/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3192397/k$f2f2be3e1f5325dcc97d0ff1585c9cde/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3192396/k$2664be31b7194a7be083c3b896007410/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:08:23.378Z"
+}

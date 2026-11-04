@@ -1,0 +1,117 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/bota-de-futbol-predator-pro-moqueta/ca928461-d4e7-4bc3-8e8c-c9f559beb856/c4c24c1",
+  "productKey": "ca928461-d4e7-4bc3-8e8c-c9f559beb856_c4c24c1",
+  "variantId": "c4c24c1",
+  "productId": null,
+  "name": "Bota de fútbol Predator Pro moqueta",
+  "brand": "ADIDAS",
+  "description": "Una bota de fútbol con espuma Lightstrike que proporciona un gran rendimiento y sensación de ligereza",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "Botas de futbol adidas niños",
+    "Botas de futbol adidas niños Predator"
+  ],
+  "price": {
+    "amount": 140,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "35,00 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos estabilizados"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Hierba"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "Predator"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4069987199585"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m35812094/k$bbc2733e5d79715a5a983ad4c1b8e269/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35812242/k$9d66118138784b8dee315fa8dfe2d7a3/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35812206/k$f115749a562bd217830cd6b0c5e61102/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35813209/k$c54e5f669c96326b0c1eab0b2ad939db/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35813191/k$7e15427787ccff93f1d5c75c029f57bf/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35813167/k$d0acd26e0690d33befc40434098cf27b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35813131/k$22959f7c8d0f00c54af10f4019223794/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36650580/k$ea27771111c8983802e2c9b347100a6d/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:35:40.569Z"
+}

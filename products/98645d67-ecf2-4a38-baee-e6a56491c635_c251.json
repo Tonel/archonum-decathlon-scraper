@@ -1,0 +1,117 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/kelme-zapatillas-de-futbol-sala-goleiro-indoor-gris-unisex/98645d67-ecf2-4a38-baee-e6a56491c635/c251",
+  "productKey": "98645d67-ecf2-4a38-baee-e6a56491c635_c251",
+  "variantId": "c251",
+  "productId": null,
+  "name": "Kelme Zapatillas De Fútbol Sala Goleiro Indoor Gris Unisex",
+  "brand": "KELME",
+  "description": "Kelme Zapatillas De Fútbol Sala Goleiro Indoor Gris Unisex. Suela de Goma de Perfil Bajo. Tallaje correcto, elige tu talla habitual. Kelme, Leave Your Mark.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol sala",
+    "Zapatillas",
+    "Zapatillas hombre",
+    "Zapatillas hombre todo"
+  ],
+  "price": {
+    "amount": 43.12,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "14,37 € al mes",
+  "sizes": [
+    "35 (UK 3)",
+    "36 (UK 3.5)",
+    "37 (UK 4)",
+    "39 (UK 6)",
+    "40.5 (UK 7)",
+    "40 (UK 7.5)",
+    "42 (UK 7.5)",
+    "41 (UK 8)",
+    "43 (UK 8.5)",
+    "42.5 (UK 8.5)",
+    "44 (UK 9.5)",
+    "44.5 (UK 10.5)",
+    "45 (UK 11)",
+    "46 (UK 11.5)",
+    "38 (UK 12)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Aviso legal",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8445664493010"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m36208918/k$072acc8baba7706899d16f29f76509c1/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36208907/k$f29e8d0cce66954767f501b34d3c71a6/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36208886/k$12b342711be39ca8a9c745de2cf50d82/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36208847/k$a0b178179a05a34781c92a772218e8fd/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36208811/k$bc31e956728bb8da77d9217c9a3ff409/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:18:16.156Z"
+}

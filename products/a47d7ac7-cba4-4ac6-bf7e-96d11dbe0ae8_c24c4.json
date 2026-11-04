@@ -1,0 +1,114 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-ultra-6-ultimate-ag-unisex-puma/a47d7ac7-cba4-4ac6-bf7e-96d11dbe0ae8/c24c4",
+  "productKey": "a47d7ac7-cba4-4ac6-bf7e-96d11dbe0ae8_c24c4",
+  "variantId": "c24c4",
+  "productId": null,
+  "name": "Botas de fútbol ULTRA 6 ULTIMATE AG unisex PUMA",
+  "brand": "PUMA",
+  "description": "Mete La Sexta Marcha Con Las Nuevas Ultra 6, Ahora Con Un Nuevo Empeine De Malla Técnica.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas de futbolistas",
+    "Botas de Coman"
+  ],
+  "price": {
+    "amount": 129.95,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "32,48 € al mes",
+  "sizes": [
+    "40.5 (UK 7)",
+    "41 (UK 7.5)",
+    "42.5 (UK 8.5)",
+    "44 (UK 9.5)",
+    "44.5 (UK 10)",
+    "45 (UK 10.5)",
+    "46 (UK 11)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de terreno",
+          "value": "Césped artificial"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Colección",
+          "value": "Ultra"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4069161196607"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m34738147/k$abdefbfbf5e441163e6ee7445e7ad72a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34738087/k$b743e4f88bddcc72b35c1654eb445b17/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34738054/k$2d4346eb07427e2e715632f5b89fcbda/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34738185/k$6549d893bc8fa5d06f41866d119007cf/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34738118/k$fe8367e468043daa90bcfc212bb5e60e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34738209/k$93a2a0e83012e7a717a1ce32356f1140/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:59:02.482Z"
+}

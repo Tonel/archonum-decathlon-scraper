@@ -1,0 +1,179 @@
+{
+  "url": "https://www.decathlon.es/es/p/zapatillas-de-futbol-sala-100-junior/347304/c200c200c32m8882900",
+  "productKey": "347304_c200c200c32m8882900",
+  "variantId": "c200c200c32m8882900",
+  "productId": "8882900",
+  "name": "Zapatillas de fútbol sala 100 Júnior",
+  "brand": "KIPSTA",
+  "description": "¿Buscas unas zapatillas resistentes para iniciarte en el fútbol sala?Nuestros equipos las han diseñado para que te acompañen en el aprendizaje de tus primeros gestos técnicos de forma segura.",
+  "stickers": [
+    "Primer precio técnico"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Gimnasia escolar",
+    "Colecciones",
+    "Vuelta al Cole",
+    "Colección Vuelta al Cole",
+    "Vuelta al cole al mejor precio"
+  ],
+  "price": {
+    "amount": 13.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": null,
+  "sizes": [],
+  "colors": [
+    {
+      "name": "gris perla / gris perla / ocre beige",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "ultra blanco / azul índigo",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "azul índigo / gris lunar",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "negro ahumado / gris perla",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "2 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 2 años."
+    }
+  ],
+  "features": [
+    {
+      "title": "Facilidad para poner / quitar",
+      "text": "Su tira autoadherente y sus cordones elásticos facilitan la autonomía del niño"
+    },
+    {
+      "title": "Comodidad",
+      "text": "Con 5 mm de espuma EVA bajo el pie y una almohadilla de espuma EVA bajo el talón."
+    },
+    {
+      "title": "Resistencia a la abrasión",
+      "text": "Sus componentes de PU de 1,4 mm de grosor y la suela son resistentes a la abrasión"
+    },
+    {
+      "title": "Suela que no deja marcas",
+      "text": "Su suela no deja marcas en la pista de los gimnasios."
+    },
+    {
+      "title": "Adherencia",
+      "text": "Suela que no deja marcas para mejorar el agarre en los cambios de dirección"
+    },
+    {
+      "title": "Sujeción del producto",
+      "text": "Refuerzos en el interior para garantizar una óptima sujeción del pie."
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Nivel de práctica",
+          "value": "Iniciación"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado bajo"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Impermeable",
+          "value": "No impermeable, Repelente al agua"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Confort, Agarre"
+        },
+        {
+          "name": "Plantilla extraíble",
+          "value": "Plantilla extraíble"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Interior"
+        },
+        {
+          "name": "Marcas de suela exterior",
+          "value": "No deja marcas"
+        },
+        {
+          "name": "Tipo de plantilla",
+          "value": "Simple"
+        },
+        {
+          "name": "Tipo de taco",
+          "value": "Suela suave"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p2613974/k$08c66649476449fbe4038bb19832497c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2613973/k$4922fd222322fc1ce35e3c39ca868099/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2613975/k$e9efc439ac898cb89081155a879eed12/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2613977/k$f4cefcad2e2868183f033167033c14b3/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2613979/k$58a340af9b2f859d68aefa717b5c143e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2613981/k$d51db86fdf21b8a068a611460ea211a1/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2613983/k$fa50963351cc1290378d154662bb2e5b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2613980/k$543dc8824f3cc249977d4d1e912d06c0/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2613978/k$93c80928ef60094d0e5133cf5fd505c7/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2613976/k$171ff43ac8a1c5949b78c0cd602f8008/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2613982/k$93456f7c666b005aa410a4acd623a4d4/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:03:23.081Z"
+}

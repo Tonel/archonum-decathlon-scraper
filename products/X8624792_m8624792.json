@@ -1,0 +1,107 @@
+{
+  "url": "https://www.decathlon.es/es/p/tacos-de-rugby-adidas-tpu-terreno-seco-sintetico/X8624792/m8624792",
+  "productKey": "X8624792_m8624792",
+  "variantId": "m8624792",
+  "productId": "8624792",
+  "name": "Tacos de Rugby Adidas TPU terreno seco sintético",
+  "brand": "ADIDAS",
+  "description": "Estos tacos recambiables Adidas de 9 y 6 mm para botas de rugby aportan estabilidad a los pies durante los cambios rápidos de dirección, así como un excelente agarre.Caja de 12 tacos de TPU",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Accesorios para botas",
+    "Todo accesorios"
+  ],
+  "price": {
+    "amount": 16.99,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 20.99,
+    "currency": "EUR"
+  },
+  "financing": null,
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "3 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 3 años."
+    }
+  ],
+  "features": [
+    {
+      "title": "Agarre",
+      "text": "Tacos recambiables de TPU para aumentar la fuerza y la precisión en el juego"
+    },
+    {
+      "title": "Compatibilidad",
+      "text": "Tacos adecuados para las gamas RS, X, NEMEZIZ, COPPA, PREDATOR de Adidas"
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de terreno",
+          "value": "Terreno seco"
+        },
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos recambiables"
+        },
+        {
+          "name": "Material",
+          "value": "Plástico"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Abrazadera de tornillo"
+        },
+        {
+          "name": "Embalaje",
+          "value": "Por 12"
+        },
+        {
+          "name": "Longitud del crampón",
+          "value": "6 mm, 9 mm"
+        }
+      ]
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p1917134/k$f995788b226fd2d078d32a1c806cc8d2/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2325015/k$052ae53ea06effd0d851f691a1e5c77f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2325016/k$d6555f7fe893ebfea456d6024d16087a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2325014/k$32da26db866ff5badfa34e4ece086052/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T17:56:15.158Z"
+}

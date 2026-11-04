@@ -1,0 +1,132 @@
+{
+  "url": "https://www.decathlon.es/es/p/bolsa-para-calzado-con-cordon-y-bolsillo-organizador-interior-essential-negro/340295/c382m8757422",
+  "productKey": "340295_c382m8757422",
+  "variantId": "c382m8757422",
+  "productId": "8757422",
+  "name": "Bolsa para calzado con cordón y bolsillo organizador interior ESSENTIAL negro",
+  "brand": "KIPSTA",
+  "description": "¿Estás buscando una bolsa para llevar y guardar tus zapatillas?Esta bolsa es ligera, robusta y práctica y cuenta con dos correas de cordón para llevarla como una mochila.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Accesorios para botas",
+    "Bolsa para botas"
+  ],
+  "price": {
+    "amount": 4.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": null,
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "3 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 3 años."
+    }
+  ],
+  "features": [
+    {
+      "title": "Ligereza",
+      "text": "Esta bolsa es ligera e ideal para llevar los zapatos."
+    },
+    {
+      "title": "Bolsillos",
+      "text": "1 bolsillo con cierre para las llaves o smartphone."
+    },
+    {
+      "title": "Resistencia",
+      "text": "El componente técnico y los cordones gruesos y de calidad hacen que esta bolsa sea robusta."
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Intensidad",
+          "value": "Intensidad baja, Intensidad media"
+        },
+        {
+          "name": "Tipo de apertura / cierre",
+          "value": "Cuerdecilla"
+        },
+        {
+          "name": "Nº de bolsillos",
+          "value": "1 bolsillo"
+        },
+        {
+          "name": "Nº de compartimentos",
+          "value": "1 compartimento"
+        },
+        {
+          "name": "Personalización",
+          "value": "Personalizable"
+        },
+        {
+          "name": "Plegable",
+          "value": "Sí"
+        },
+        {
+          "name": "Tipo de bolsa",
+          "value": "Bolsa pequeña"
+        },
+        {
+          "name": "Impermeable",
+          "value": "Repelente al agua"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        },
+        {
+          "name": "Peso (en g)",
+          "value": "72 g"
+        },
+        {
+          "name": "Tipo de cubierta",
+          "value": "Tapa blanda"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p2361799/k$3855cae533cd31464ad6a8c0d3ed75ff/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2361797/k$54a5bee67b4dcf03e93d8c9695912309/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2361796/k$8e080755a4cb2a1d896e4937859df775/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2361798/k$07ed47a03dfd3691795437d7b71d2320/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:12:00.752Z"
+}

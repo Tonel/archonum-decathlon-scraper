@@ -1,0 +1,154 @@
+{
+  "url": "https://www.decathlon.es/es/p/cordones-amarillo-fluo/327332/c132m8600259",
+  "productKey": "327332_c132m8600259",
+  "variantId": "c132m8600259",
+  "productId": "8600259",
+  "name": "Cordones amarillo fluo",
+  "brand": "KIPSTA",
+  "description": "¿Buscas unos cordones planos, finos y resistentes? Hemos desarrollado estos cordones, ligeramente elásticos, especialmente para el fútbol. Son aptos para todo el calzado deportivo.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Accesorios para botas",
+    "Todo accesorios"
+  ],
+  "price": {
+    "amount": 2.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": null,
+  "sizes": [
+    "110cm",
+    "125cm",
+    "140 cm"
+  ],
+  "colors": [
+    {
+      "name": "amarillo ácido fluorescente",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "naranja llama fluorescente",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "ultra blanco",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "negro ahumado",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "azul asfalto",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "3 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 3 años."
+    }
+  ],
+  "features": [
+    {
+      "title": "Sujeción del producto",
+      "text": "Permiten ajustar la sujeción de las botas a los pies."
+    },
+    {
+      "title": "Personalización",
+      "text": "Personaliza tus botas. Estos cordones están disponibles en 6 colores."
+    },
+    {
+      "title": "Adaptabilidad",
+      "text": "Cordones disponibles en varias tallas."
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Intensidad",
+          "value": "Intensidad alta, Todas las intensidades"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado bajo, Calzado alto"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones elásticos"
+        },
+        {
+          "name": "Impermeable",
+          "value": "No impermeable"
+        },
+        {
+          "name": "Material",
+          "value": "Polyester"
+        },
+        {
+          "name": "Tipo de cordón",
+          "value": "Elásticos"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        },
+        {
+          "name": "Embalaje",
+          "value": "Un par de calcetines"
+        },
+        {
+          "name": "Forma del cordón",
+          "value": "Plano"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p1991850/k$5dc1076cb40ff1bb01826d25a1110e46/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p1991830/k$09d1980e780be58330540e8507f2657c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p1991839/k$a2fc7403de4185ae143d5f3eee2cf603/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p1991833/k$3f63727d71d448df8f225644b44d2011/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:21:09.139Z"
+}

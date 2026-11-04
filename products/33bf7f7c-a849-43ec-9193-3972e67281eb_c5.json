@@ -1,0 +1,72 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/de-joma-dribling/33bf7f7c-a849-43ec-9193-3972e67281eb/c5",
+  "productKey": "33bf7f7c-a849-43ec-9193-3972e67281eb_c5",
+  "variantId": "c5",
+  "productId": null,
+  "name": "Botas de fútbol Joma Dribling 2503 Azul",
+  "brand": "JOMA",
+  "description": "Diseñadas para principiantes, estas botas de fútbol en sala Joma Dribling 2503 ofrecen comodidad y agarre para mejorar tus habilidades en el campo.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol sala",
+    "Zapatillas",
+    "Zapatillas hombre",
+    "Zapatillas hombre todo"
+  ],
+  "price": {
+    "amount": 34.09,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "11,36 € al mes",
+  "sizes": [
+    "42 (UK 8)",
+    "44.5 (UK 10)",
+    "44 (UK 11)",
+    "46 (UK 11)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del mar, 10 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m39926618/k$9a6c8e5908892f7e4f17cb31e36f1d93/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m39926703/k$21cd0a350a1a85d87979ffdeddeea54d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m39926693/k$6df862cb285039a4d29240fa8b3c0d08/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m39926676/k$4b27d8e05344c6a1d114049a150ee8e1/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m39926658/k$23c055d67e54893f553a88f1fcbb61d2/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m39926636/k$e24111728f7daae06187e93e3f2c6c77/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:18:57.330Z"
+}

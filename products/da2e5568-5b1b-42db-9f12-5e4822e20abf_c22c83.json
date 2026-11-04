@@ -1,0 +1,121 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/mizuno-monarcida-neo-amarillo/da2e5568-5b1b-42db-9f12-5e4822e20abf/c22c83",
+  "productKey": "da2e5568-5b1b-42db-9f12-5e4822e20abf_c22c83",
+  "variantId": "c22c83",
+  "productId": null,
+  "name": "Zapatos de fútbol Mizuno Monarcida Neo III Select AG Amarillo",
+  "brand": "MIZUNO",
+  "description": "Diseñadas para el fútbol en césped artificial, estas botas Mizuno ofrecen un excelente soporte y una adherencia óptima para movimientos precisos.",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas césped artificial",
+    "Todo Botas césped artificial"
+  ],
+  "price": {
+    "amount": 52.95,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 66.95,
+    "currency": "EUR"
+  },
+  "financing": "17,65 € al mes",
+  "sizes": [
+    "42 (UK 8)",
+    "42.5 (UK 8.5)",
+    "43 (UK 8.5)",
+    "44 (UK 10)",
+    "44.5 (UK 10)",
+    "45 (UK 10.5)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Césped artificial"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "5059431729900"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m15582149/k$524e0c127e3a355684dca989b0f7560c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m15582154/k$349b70cba1134df4307155276cefb76c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m15582157/k$34f1e751106000f3705e21bf16e04c62/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m15582142/k$41c37e694c1f1ef30d146f6c2044d10f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m18644600/k$17b70121e47a78ac3ad382abdd710376/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:21:49.510Z"
+}

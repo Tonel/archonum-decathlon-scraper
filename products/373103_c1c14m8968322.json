@@ -1,0 +1,136 @@
+{
+  "url": "https://www.decathlon.es/es/p/botas-de-futbol-mizuno-morelia-ii-pro-mg-ag-piel-adulto/373103/c1c14m8968322",
+  "productKey": "373103_c1c14m8968322",
+  "variantId": "c1c14m8968322",
+  "productId": "8968322",
+  "name": "Botas de fútbol Mizuno Morelia II PRO MG/AG piel Adulto",
+  "brand": "MIZUNO",
+  "description": "Celebrando el 40.º aniversario del icónico modelo de la marca,las Morelia II Pro combinan comodidad, precisión y ligereza para tus entrenamientos y partidos.",
+  "stickers": [
+    "Últimas unidades"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas césped artificial",
+    "Botas de fútbol AG"
+  ],
+  "price": {
+    "amount": 65.99,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 119.99,
+    "currency": "EUR"
+  },
+  "financing": "22,00 € al mes",
+  "sizes": [],
+  "colors": [
+    {
+      "name": "negro / rojo",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "negro / blanco",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "1 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 1 año."
+    }
+  ],
+  "features": [
+    {
+      "title": "Comodidad",
+      "text": "Acabados interiores suaves y piel de canguro en la puntera."
+    },
+    {
+      "title": "Ligereza",
+      "text": "250 g (talla 42)"
+    },
+    {
+      "title": "Polivalencia",
+      "text": "Suela adaptada a los terrenos para distribuir bien la presión."
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de terreno",
+          "value": "Hierba, Hierba sintética larga"
+        },
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos fijos"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Personalización",
+          "value": "Personalizable"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado de media caña"
+        },
+        {
+          "name": "Material",
+          "value": "Piel"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Control"
+        },
+        {
+          "name": "Tipo de plantilla",
+          "value": "Simple"
+        }
+      ]
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p2973639/k$697798e7f61204d02eadaeac9c19daee/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2973640/k$d134c2a6b183d4e91e80ced6c1a16d99/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2973638/k$fd50b78ee74d4a7de0dd35ea666f8556/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2973641/k$58d401d3da37169b5ca1b977b415cf5e/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:04:37.110Z"
+}

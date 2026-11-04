@@ -1,0 +1,92 @@
+{
+  "url": "https://www.decathlon.es/es/p/bolsa-zapatillas-plegable-azul-marino/184792/c158m8873720",
+  "productKey": "184792_c158m8873720",
+  "variantId": "c158m8873720",
+  "productId": "8873720",
+  "name": "Bolsa Zapatillas Plegable Azul Marino",
+  "brand": "DECATHLON",
+  "description": "Esta ligera bolsa para calzado te permite llevar tus zapatillas de cardio sin que se ensucien el resto de tus cosas. Se pliega muy fácilmente en su propio bolsillo integrado.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Accesorios para botas",
+    "Todo accesorios"
+  ],
+  "price": {
+    "amount": 2.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": null,
+  "sizes": [],
+  "colors": [
+    {
+      "name": "azul petróleo",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "negro ahumado",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "carbón / carbón",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "azul índigo / azul índigo",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Agotado"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "2 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 2 años."
+    }
+  ],
+  "features": [
+    {
+      "title": "compacidad",
+      "text": "Se pliega en su bolsillo para guardarla fácilmente y llevarla a cualquier parte."
+    },
+    {
+      "title": "Facilidad de uso",
+      "text": "Ayuda a mantener las pertenencias limpias. Fácil de cerrar gracias al cordón."
+    }
+  ],
+  "specifications": [],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p2724885/k$f34a578b9b74cf4b307911ee815c1879/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2724884/k$ae596dd452bb4385b1941d0b0602fa12/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2724883/k$8b47b66f4a09a97e02248965b44cddf7/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2724882/k$7a2a2669a2ba0a9334c2024b0a7f7930/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2724880/k$fcc64adeef24a22046dadc5241901c96/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:21:38.584Z"
+}

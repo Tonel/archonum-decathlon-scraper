@@ -1,0 +1,89 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatos-de-futbol-nike-phantom-6-low-pro-fg-azul-rosa/94cdc610-0a6b-4b17-b3fb-f4a50111b452/c43c4",
+  "productKey": "94cdc610-0a6b-4b17-b3fb-f4a50111b452_c43c4",
+  "variantId": "c43c4",
+  "productId": null,
+  "name": "Zapatos de fútbol Nike Phantom 6 Low Pro FG Azul/Rosa",
+  "brand": "NIKE",
+  "description": "Diseñadas para el fútbol, estas botas Nike Phantom 6 Low Pro FG ofrecen un soporte óptimo y una comodidad superior para un rendimiento mejorado en el campo.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas Nike"
+  ],
+  "price": {
+    "amount": 164.65,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "41,16 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del mar, 10 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "0198726578733"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m38338134/k$cca4f8527e3169645810313430f59f15/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38774505/k$5394f3260d9f25b3d58ca4fe8ec6f3ce/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38774463/k$848639e860f8ca72d1c8091995758a20/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38774423/k$b94ce8a7e4bc4ab5bf93cf7fcef8d0ef/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38774371/k$b237771e6f3eee158f549bf5d0633aaf/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38774332/k$be33f863b63431ff44877b390c7c0017/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:36:37.572Z"
+}

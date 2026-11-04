@@ -1,0 +1,125 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatillas-futbol-kelme-new-millenia-unisex-en-color-blanco/ce519542-f2ff-4730-8d9e-85c7ad39d2dd/c4",
+  "productKey": "ce519542-f2ff-4730-8d9e-85c7ad39d2dd_c4",
+  "variantId": "c4",
+  "productId": null,
+  "name": "Zapatillas Fútbol Kelme New Millenia Unisex En Color Blanco",
+  "brand": "KELME",
+  "description": "Calzado para futbol con tacos orientada para cesped artificial, aunque también utilizable para cesped natural. Bota de corte clásico con acabado en piel.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas césped artificial",
+    "Todo Botas césped artificial"
+  ],
+  "price": {
+    "amount": 29.9,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": null,
+  "sizes": [
+    "40 (UK 7.5)",
+    "41 (UK 8)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos multisuperficies"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordón tradicional"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Césped artificial"
+        },
+        {
+          "name": "Material",
+          "value": "Piel"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Aviso legal",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "6938999265282"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m22365936/k$920cefcccab57ad912ef7e1d0766bdc0/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22365883/k$6617fa052afd8876b73679caa23a47f9/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22366004/k$f2de2e631b0cdef5ffa6744ba8b008d7/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22365978/k$b8f221edf1dee5317035ddb41f573f9f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22365966/k$dc402ded92dc5dc24b0b8efda5a50d24/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22365891/k$b39fc05b68a8e14e54d02c3d773a5c07/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:16:34.246Z"
+}

@@ -1,0 +1,131 @@
+{
+  "url": "https://www.decathlon.es/es/p/zapatillas-futbol-sala-f50-club-nino-blanco-violeta-adidas/368345/c4c24m9029987",
+  "productKey": "368345_c4c24m9029987",
+  "variantId": "c4c24m9029987",
+  "productId": "9029987",
+  "name": "Zapatillas fútbol sala F50 Club Niño Blanco/Violeta adidas",
+  "brand": "ADIDAS",
+  "description": "Al igual que Dembélé, supera tus límites con las adidas F50, gracias sobre todo a su suela Sprintplate 360, que garantiza un movimiento dinámico en terrenos lisos.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol sala",
+    "Zapatillas",
+    "Zapatillas niños",
+    "Zapatillas niños Adidas"
+  ],
+  "price": {
+    "amount": 49.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "16,66 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "1 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 1 año."
+    }
+  ],
+  "features": [
+    {
+      "title": "Comodidad",
+      "text": "La caña Fiberskin te ofrece la máxima comodidad y sujeción en desplazamientos."
+    },
+    {
+      "title": "Transpirabilidad",
+      "text": "La caña Fiberskin mantiene los pies ventilados."
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Personalización",
+          "value": "Personalizable"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado bajo"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Velocidad"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Interior"
+        },
+        {
+          "name": "Tipo de plantilla",
+          "value": "Simple"
+        },
+        {
+          "name": "Tipo de taco",
+          "value": "Suela suave"
+        },
+        {
+          "name": "Jugadores",
+          "value": "Messi, Dembélé"
+        },
+        {
+          "name": "Colección",
+          "value": "F50"
+        },
+        {
+          "name": "Nivel de rendimiento",
+          "value": "Palo"
+        }
+      ]
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p3209988/k$718596e064107eec7a7d0cbe81a44177/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3209994/k$14d203c0f8d1e927e2e6fbb654bd412a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3209990/k$96a18dff99941ef8a0d24e9aacea2503/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3209998/k$2cfddd8597562db195ca91961beeac38/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3209985/k$26effd94ff36b52f0c6416337dfdd53b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3209984/k$53b86bbdf7d3061a6deb8818df656362/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3209989/k$0e43fee7f0975f3402336ef463171aa5/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:02:41.962Z"
+}

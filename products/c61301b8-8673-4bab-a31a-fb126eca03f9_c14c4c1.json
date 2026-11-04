@@ -1,0 +1,115 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-future-9-play-tt-infantiles-puma/c61301b8-8673-4bab-a31a-fb126eca03f9/c14c4c1",
+  "productKey": "c61301b8-8673-4bab-a31a-fb126eca03f9_c14c4c1",
+  "variantId": "c14c4c1",
+  "productId": null,
+  "name": "Botas de fútbol FUTURE 9 PLAY TT infantiles PUMA",
+  "brand": "PUMA",
+  "description": "Los Jóvenes Artistas Del Balón Pueden Dar Rienda Suelta A Su Creatividad Con Las Botas De Fútbol Future 9 Play. Cuentan Con Un Empeine Ligero Que Aporta Mayor Comodidad, Sujeción Y Durabilidad.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "Botas niños tacos"
+  ],
+  "price": {
+    "amount": 36.25,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "12,08 € al mes",
+  "sizes": [
+    "19 (UK 3C)",
+    "20 (UK 4C)",
+    "21 (UK 5C)",
+    "27 (UK 9C)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del mar, 10 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de terreno",
+          "value": "Hierba"
+        },
+        {
+          "name": "Material",
+          "value": "Sintético"
+        },
+        {
+          "name": "Colección",
+          "value": "Future"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4069161153860"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m26162324/k$9f0340f5e34e877224f94cfa7a461f7f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26162273/k$8f2248479b48e81751a07f6fb34b4e7f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26162252/k$ef81f03ad272c55766a52552f2e0995d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26162370/k$43489d6a47983c99319b11a583f3be5f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26162296/k$4f122f2f617082a012aa3096fdaf9f25/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26162394/k$a496b4ecf311f45545a04fae7ef7353e/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:58:06.396Z"
+}

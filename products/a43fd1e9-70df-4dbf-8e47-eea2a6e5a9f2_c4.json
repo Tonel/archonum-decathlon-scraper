@@ -1,0 +1,122 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-mizuno-alpha-iii-select/a43fd1e9-70df-4dbf-8e47-eea2a6e5a9f2/c4",
+  "productKey": "a43fd1e9-70df-4dbf-8e47-eea2a6e5a9f2_c4",
+  "variantId": "c4",
+  "productId": null,
+  "name": "Botas de fútbol Mizuno Alpha III Select FG",
+  "brand": "MIZUNO",
+  "description": "Domina el terreno con los zapatos de fútbol Mizuno Alpha III Select FG, combinando comodidad y rendimiento para cada partido.",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Mizuno"
+  ],
+  "price": {
+    "amount": 80.9,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 81.1,
+    "currency": "EUR"
+  },
+  "financing": "26,97 € al mes",
+  "sizes": [
+    "39 (UK 5)",
+    "40.5 (UK 7)",
+    "41 (UK 7.5)",
+    "42 (UK 7.5)",
+    "42 (UK 8)",
+    "43 (UK 9)",
+    "44 (UK 9.5)",
+    "43 (UK 10)",
+    "44 (UK 10)",
+    "45 (UK 10)",
+    "45 (UK 10.5)",
+    "47 (UK 12)"
+  ],
+  "colors": [
+    {
+      "name": "blanco",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "negro",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "5063264085195"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m36860928/k$6c8a239ce77eb5862efda1d823af2651/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36911587/k$994c56e6ae313a17d1507a859ba00421/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36911695/k$b6007ac0e5e3ddcec986aeb7dba7ca36/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36911654/k$cc3c5e8621a417e07cd2987a6d66ef16/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36911614/k$a9e6b72fb7e516030cf1a472cf380f7e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36911719/k$cdb467adcafd91de410dd4d7fa685d67/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:52:45.876Z"
+}

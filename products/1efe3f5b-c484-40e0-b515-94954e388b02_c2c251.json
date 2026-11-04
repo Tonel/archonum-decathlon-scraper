@@ -1,0 +1,103 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/secador-electrico-para-botas-zapatos-y-guantes-rapido-y-seguro-maxxdry/1efe3f5b-c484-40e0-b515-94954e388b02/c2c251",
+  "productKey": "1efe3f5b-c484-40e0-b515-94954e388b02_c2c251",
+  "variantId": "c2c251",
+  "productId": null,
+  "name": "Secador eléctrico para botas, zapatos y guantes, rápido y seguro - MaxxDry",
+  "brand": "MAXXDRY",
+  "description": "El secador de botas, zapatos y guantes MaxxDry Heavy Duty seca un par de botas, zapatos o guantes en aproximadamente una hora.",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Accesorios para botas",
+    "Secador para botas"
+  ],
+  "price": {
+    "amount": 47.99,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 59.99,
+    "currency": "EUR"
+  },
+  "financing": "16,00 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Agotado"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "3700006225137"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m14430077/k$2ef022b91d3748f27ef2ea6ba6b6b049/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m14430078/k$e343988e2112f84a5db99fc872714075/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m14430070/k$32f517d83309f4760fbbf039419e549d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m14430073/k$a90e8b49ec8cbf611b4be65f843678a3/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m14430075/k$d683b75c6189b81bda4c205937f99ae5/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m14430076/k$fc0340931b3dd27c2b80f27342f63549/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:46:47.951Z"
+}

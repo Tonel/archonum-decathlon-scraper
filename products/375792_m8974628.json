@@ -1,0 +1,113 @@
+{
+  "url": "https://www.decathlon.es/es/p/tacos-de-rugby-10-13-mm-atornillados-aluminio-todo-terreno-lote-de-16/375792/m8974628",
+  "productKey": "375792_m8974628",
+  "variantId": "m8974628",
+  "productId": "8974628",
+  "name": "Tacos de rugby 10/13 mm atornillados aluminio todo terreno, lote de 16",
+  "brand": "KIPSTA",
+  "description": "Caja de 16 tacos de aluminio con rosca estándar. Para botas de rugby híbridas y 8 tacos (salvo las híbridas adidas). Tallas disponibles:10/13 mm, 13/15 mm, 15/18 mm.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Accesorios para botas",
+    "Tacos de fútbol"
+  ],
+  "price": {
+    "amount": 11.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": null,
+  "sizes": [
+    "10 mm",
+    "13 mm",
+    "15 mm"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "2 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 2 años."
+    }
+  ],
+  "features": [
+    {
+      "title": "Modularidad",
+      "text": "Intercambiables con otras tallas, según el estado del terreno y la posición."
+    },
+    {
+      "title": "Compatibilidad",
+      "text": "Los pasos de rosca son estándar."
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Nivel de práctica",
+          "value": "Perfeccionamiento, Todos los niveles"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Terreno resbaladizo"
+        },
+        {
+          "name": "Longitud del crampón",
+          "value": "15 mm, 10 mm, 13 mm, 18 mm"
+        },
+        {
+          "name": "Material",
+          "value": "Aluminio"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Abrazadera de tornillo"
+        },
+        {
+          "name": "Embalaje",
+          "value": "Por 16"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": "Cómo reparar o reemplazar 2 años de garantía Taller Ayuda y soporte Devoluciones y reembolsos Instrucciones de cuidado Precauciones de uso No son compatibles con algunos modelos de botas adidas. Almacenamiento Guardar en un lugar seco y aireado, protegido de la humedad.",
+  "images": [
+    "https://contents.mediadecathlon.com/p3095457/k$cd1a4f0d1ee8f30a6d1616225f764dfe/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:25:22.592Z"
+}

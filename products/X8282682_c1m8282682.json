@@ -1,0 +1,143 @@
+{
+  "url": "https://www.decathlon.es/es/p/bota-de-futbol-mundial-team-turf-adulto-negro/X8282682/c1m8282682",
+  "productKey": "X8282682_c1m8282682",
+  "variantId": "c1m8282682",
+  "productId": "8282682",
+  "name": "Bota de fútbol Mundial Team Turf Adulto Negro",
+  "brand": "ADIDAS",
+  "description": "Esta bota de fútbol tiene una parte superior de piel y ante para mejorar tu toque de balón, ofreciendo además la máxima comodidad.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas adidas",
+    "Botas adidas clásicas"
+  ],
+  "price": {
+    "amount": 149.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "37,49 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "2 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 2 años."
+    }
+  ],
+  "features": [
+    {
+      "title": "Agarre",
+      "text": "Suela Turf"
+    },
+    {
+      "title": "Comodidad",
+      "text": "Piel de canguro."
+    },
+    {
+      "title": "Resistencia",
+      "text": "Mezcla de piel y ante en la puntera."
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Nivel de práctica",
+          "value": "Experto"
+        },
+        {
+          "name": "Frecuencia",
+          "value": "Intensiva"
+        },
+        {
+          "name": "Intensidad",
+          "value": "Intensidad alta"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado bajo"
+        },
+        {
+          "name": "Material",
+          "value": "Piel"
+        },
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos estabilizados"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Hierba sintética corta"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Ancho"
+        },
+        {
+          "name": "Colección",
+          "value": "Classic"
+        },
+        {
+          "name": "Peso (en g)",
+          "value": "375 g"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Control"
+        },
+        {
+          "name": "Tipo de plantilla",
+          "value": "Simple"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p1824901/k$ac480a9d270915d2ff008a9dcdbdf1a6/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3189356/k$294c976b3a5925075dd36f121a92460e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p1833810/k$7a813a81cb76bf7d71c3a685b73488ec/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p1833809/k$54497095cf5e55e7489c057ed5855dd5/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p1833808/k$5d360f3b26753d0ac9099cbff72e7b26/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p1833807/k$641cfe2c84c22e7469e4822375d2bb5e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p1833806/k$efdaf2139db62060d0f746c849d7ec58/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p1833811/k$9558ba0cc9c7262fcd46377809fcc424/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p1833805/k$2348fb281d2d918bfbc93deaf849c7e6/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p1833804/k$854df1e3d4a71f469ab2d477597d201e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p485251/k$61c3a9c5ecbce67ff35306517395fc31/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:06:41.045Z"
+}

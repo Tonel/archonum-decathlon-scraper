@@ -1,0 +1,89 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-futbol-futbol-ninos-joma-evolution-jr-26-tf-turquesa/1e9ffe70-68f7-4e4d-8721-1989fbdc5af5/c238",
+  "productKey": "1e9ffe70-68f7-4e4d-8721-1989fbdc5af5_c238",
+  "variantId": "c238",
+  "productId": null,
+  "name": "Botas Fútbol Fútbol Niños Joma Evolution Jr 26 TF Turquesa",
+  "brand": "JOMA",
+  "description": "Botas Fútbol Fútbol Niños Joma Evolution Jr 26 TF Turquesa",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "copia botas niños"
+  ],
+  "price": {
+    "amount": 37.51,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "12,50 € al mes",
+  "sizes": [],
+  "colors": [
+    {
+      "name": "turquesa",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "negro",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "naranja",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "blanco",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m36210838/k$b25f188d54b186c13bec0ed208a21265/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38240044/k$c441146ff9999ddc1e42a952a8229769/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38239995/k$e7e2d98c56c95c50fc0bd5a5c8aaec73/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38242748/k$5bd6ecff321f925a7f62ac63536f4622/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38357095/k$fc00dcc84398fbaf83fd8aa53e3430a3/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38357079/k$30439e957fe3796163e1d82e4d672bd7/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38357064/k$6697160a3fe7f470ea13490c026dd50d/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:28:21.145Z"
+}

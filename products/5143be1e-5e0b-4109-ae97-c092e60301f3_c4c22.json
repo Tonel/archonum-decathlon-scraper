@@ -1,0 +1,152 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatillas-futbol-sala-nino-kelme-goleiro/5143be1e-5e0b-4109-ae97-c092e60301f3/c4c22",
+  "productKey": "5143be1e-5e0b-4109-ae97-c092e60301f3_c4c22",
+  "variantId": "c4c22",
+  "productId": null,
+  "name": "Zapatillas Futbol Sala Niño Kelme Goleiro",
+  "brand": "KELME",
+  "description": "Este es uno de los modelos más buscados para Fútbol sala, ligeras, flexibles y duraderas asi se definen estas zapatillas de futsal Kelme.",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "copia botas niños"
+  ],
+  "price": {
+    "amount": 29.94,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 34.93,
+    "currency": "EUR"
+  },
+  "financing": null,
+  "sizes": [
+    "34 (UK 1)",
+    "30 (UK 11C)",
+    "31 (UK 12C)",
+    "32 (UK 13.5C)",
+    "33 (UK 13.5C)"
+  ],
+  "colors": [
+    {
+      "name": "blanco / amarillo",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "blanco",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "azul / amarillo",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del mar, 10 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Motivo",
+          "value": "Sin patrón"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordón tradicional"
+        },
+        {
+          "name": "Material",
+          "value": "Sintético"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Amortiguación, soporte y confort"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Estilo",
+          "value": "Bitonal"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Aviso legal",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8445664291210"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m20914403/k$0b7fd2e6fd76659d35e6d5d659929869/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m20914390/k$6e20f779d5ef5c192a5022d84dc5eb02/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m20914381/k$1be6e74c5ab8e521cdc057812647099e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m20914401/k$0575a3b182531a9d27da6cbb82b68cd2/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26378957/k$79db3f8e9ba881b3cac42b806092dea6/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:57:28.821Z"
+}

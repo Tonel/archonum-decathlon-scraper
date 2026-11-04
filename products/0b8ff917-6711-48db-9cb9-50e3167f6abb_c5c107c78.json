@@ -1,0 +1,150 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatillas-futbol-sala-adulto-kelme-goleiro/0b8ff917-6711-48db-9cb9-50e3167f6abb/c5c107c78",
+  "productKey": "0b8ff917-6711-48db-9cb9-50e3167f6abb_c5c107c78",
+  "variantId": "c5c107c78",
+  "productId": null,
+  "name": "Zapatillas Fútbol Sala Adulto Kelme Goleiro",
+  "brand": "KELME",
+  "description": "Descubre las Zapatillas de Fútbol Sala Kelme Goleiro. Diseño clásico, ajuste regular y suela de goma para un gran rendimiento.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol sala",
+    "Zapatillas",
+    "Zapatillas mujer",
+    "Zapatillas mujer todo"
+  ],
+  "price": {
+    "amount": 39.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "13,33 € al mes",
+  "sizes": [
+    "44 (UK 10)",
+    "46 (UK 11)"
+  ],
+  "colors": [
+    {
+      "name": "azul / azul cerúleo / verde lima",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "negro / rojo",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "azul",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "blanco / azul caribe / amarillo",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Motivo",
+          "value": "Sin patrón"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordón tradicional"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Amortiguación, soporte y confort"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Estilo",
+          "value": "Bitonal"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Aviso legal",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8445664289804"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m22457141/k$173f026fdded90acaf6b76c3c1e03c93/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22457138/k$66dc62c061b6d1514953b489e684c041/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22457136/k$e0d859b939bc07f092f9386def630aae/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22457144/k$87f15022a19d67689b4b9fb13e813d45/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22366204/k$b31cefaf6720692ddecbdf69e55695ca/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22366234/k$dc1af8799bce24e0db3e5757b27dbcfe/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:21:55.327Z"
+}

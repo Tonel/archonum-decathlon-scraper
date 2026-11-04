@@ -1,0 +1,135 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/puma-junior-future-9-play-fg-ag-negro/32f271cb-ed27-4966-bfdd-be62a1194aa8/c1",
+  "productKey": "32f271cb-ed27-4966-bfdd-be62a1194aa8_c1",
+  "variantId": "c1",
+  "productId": null,
+  "name": "Puma Junior Future 9 Play FG/AG Negro",
+  "brand": "PUMA",
+  "description": "Puma Future 9 Play FG/AG ofrece buen agarre con el balón, sujeción ligera y tracción fiable para jugar con confianza en campos duros y sintéticos.",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "Botas de futbol Puma niños",
+    "Botas de futbol Puma niños Future"
+  ],
+  "price": {
+    "amount": 34,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 50,
+    "currency": "EUR"
+  },
+  "financing": "11,33 € al mes",
+  "sizes": [
+    "33 (UK 1)",
+    "34 (UK 1.5)",
+    "35 (UK 2.5)",
+    "36 (UK 3.5)",
+    "37 (UK 4)",
+    "38 (UK 5)",
+    "28 (UK 10C)",
+    "29 (UK 11C)",
+    "32 (UK 13C)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos fijos"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "Future"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4070032970264"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m36911413/k$7f2a0fc80b36747ce2bc9fe6da6f34a2/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36911580/k$93a8398cd732bd1f5be169a2c8f490c4/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36911681/k$ae671bec9e3607622fff5d17a83b9588/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36911651/k$ce3139451f9527c65b95f864f274cf88/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36911621/k$de35000f567fc7309fef7058f678059f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36911588/k$15101b05ac1da331ecf0481c6bfa6b53/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36911455/k$664edcb942b8867c8e59000debee623f/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:41:58.258Z"
+}

@@ -1,0 +1,109 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatillas-de-futbol-puma-ultra-6-play-mg-naranja/f8261f75-d605-483f-8403-2bf60bb6340b/c20",
+  "productKey": "f8261f75-d605-483f-8403-2bf60bb6340b_c20",
+  "variantId": "c20",
+  "productId": null,
+  "name": "Zapatillas de fútbol PUMA Ultra 6 Play MG Naranja",
+  "brand": "PUMA",
+  "description": "Diseñadas para jugadores principiantes, estas botas de fútbol ofrecen ligereza y agarre en todo tipo de terrenos.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Puma",
+    "Botas de fútbol puma"
+  ],
+  "price": {
+    "amount": 37.1,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "12,37 € al mes",
+  "sizes": [
+    "40 (UK 6.5)",
+    "41 (UK 7.5)",
+    "42 (UK 8)",
+    "42.5 (UK 8.5)",
+    "43 (UK 9)",
+    "44 (UK 9.5)",
+    "44.5 (UK 10)",
+    "45 (UK 10.5)",
+    "46 (UK 11)",
+    "46.5 (UK 11.5)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Material",
+          "value": "Sintético"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4069156835979"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m38303199/k$52bda89d8142e22442f1da304ae023e2/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38779410/k$d38d597a64fecb7682fd8358f960953b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38779403/k$03134cc4909d15e50d80de15c522ccbc/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38779385/k$568c2e1688f01bcf8b41d810d37baccd/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38779369/k$c07fe7103f6f7425045f0ad648de9e02/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38779335/k$43616978cd726333ac6f371c45e98b2a/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:19:22.649Z"
+}

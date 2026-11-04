@@ -1,0 +1,92 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatos-de-futbol-adidas-f50-league-fg-mg-mid/5b5c7cbe-76e9-46b7-8899-3b817505871c/c24",
+  "productKey": "5b5c7cbe-76e9-46b7-8899-3b817505871c_c24",
+  "variantId": "c24",
+  "productId": null,
+  "name": "Zapatos de fútbol adidas F50 League FG/MG Mid",
+  "brand": "ADIDAS",
+  "description": "Diseñadas para el rendimiento en el campo, estas botas de fútbol adidas F50 League ofrecen un soporte óptimo y una tracción mejorada.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Adidas",
+    "Botas fútbol adidas"
+  ],
+  "price": {
+    "amount": 60.95,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "20,32 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4067904312550"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m38436449/k$744489e7d16767279e0cfa4131d8ab1f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38781872/k$7d21853df5b2bfed08dbf9884af44042/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38781868/k$6d6ea6d91c4ca5525dd8d462b8c8404e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38781856/k$8b636c4a87e96cc2eb915b41a73e03fe/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38781821/k$ae6fac389e440165d71b93f75021b2c1/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38781774/k$50854315eba61c86b8a926b1ad2c7562/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38781729/k$93ee2fa165582399aa556aebd172003b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38781664/k$f3eaedc6dd67a7dd519dec9e4d22e021/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:35:28.148Z"
+}

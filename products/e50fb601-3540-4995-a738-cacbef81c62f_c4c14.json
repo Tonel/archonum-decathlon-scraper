@@ -1,0 +1,145 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-ninos-future-play-mg-puma-white-fire-orchid-red/e50fb601-3540-4995-a738-cacbef81c62f/c4c14",
+  "productKey": "e50fb601-3540-4995-a738-cacbef81c62f_c4c14",
+  "variantId": "c4c14",
+  "productId": null,
+  "name": "Botas de fútbol Niños FUTURE PLAY MG PUMA White Fire Orchid Red",
+  "brand": "PUMA",
+  "description": "Un llamamiento a todos los jugadores. Inspiradas en el estilo de juego de Neymar Jr, las nuevas FUTURE PLAY han llegado para dominar el campo. Diseñado con el ADN deportivo de PUMA.",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Puma",
+    "Botas de fútbol puma"
+  ],
+  "price": {
+    "amount": 41.28,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 54,
+    "currency": "EUR"
+  },
+  "financing": "13,76 € al mes",
+  "sizes": [
+    "35 (UK 2.5)",
+    "36 (UK 3.5)",
+    "37 (UK 4)",
+    "40 (UK 7)"
+  ],
+  "colors": [
+    {
+      "name": "blanco / rojo",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "gris",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "azul oscuro / verde",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "verde / verde",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Césped artificial"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Colección",
+          "value": "Future"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4099683033913"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m14079817/k$3287ba9bc1a4a5d14bc05036b35bd913/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m14079818/k$581981f8a23d7b54c094941cabdbf34f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m13113164/k$b8f935b382dd9e4868b64cc4494af9f5/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m13113146/k$44fa21ce626bf0f4f37e0746d5bedf16/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m13113137/k$614fb46f6565f786346423ac0b7aa378/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m13113117/k$4ba4ad32a27bd5281127596857654645/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:06:09.385Z"
+}

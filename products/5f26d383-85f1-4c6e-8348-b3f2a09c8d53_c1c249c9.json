@@ -1,0 +1,135 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/bota-de-futbol-sala-predator-club-sala-para-ninos/5f26d383-85f1-4c6e-8348-b3f2a09c8d53/c1c249c9",
+  "productKey": "5f26d383-85f1-4c6e-8348-b3f2a09c8d53_c1c249c9",
+  "variantId": "c1c249c9",
+  "productId": null,
+  "name": "Bota de fútbol sala Predator Club Sala para niños",
+  "brand": "ADIDAS",
+  "description": "Bota de fútbol sala con empeine de material sintético que ofrece comodidad y agarre.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "Botas de futbol adidas niños",
+    "Botas de futbol adidas niños Predator"
+  ],
+  "price": {
+    "amount": 50,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "16,67 € al mes",
+  "sizes": [
+    "33 (UK 1)",
+    "33.5 (UK 1.5)",
+    "34 (UK 2)",
+    "35.5 (UK 3)",
+    "36 (UK 3.5)",
+    "36 2/3 (UK 4)",
+    "38 (UK 5)",
+    "38 2/3 (UK 5.5)",
+    "28.5 (UK 10.5C)",
+    "30 (UK 11.5C)",
+    "30.5 (UK 12C)",
+    "31 (UK 12.5C)",
+    "31.5 (UK 13C)",
+    "32 (UK 13.5C)"
+  ],
+  "colors": [
+    {
+      "name": "negro / plata / verde",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "blanco / rosa / negro",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "Predator"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4069987779534"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m37861043/k$eb8e0e0ada7defcab77cb9d48d9c589e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m37861144/k$917fad5563cedac280e9836febd1c8bc/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m37861135/k$e8ecbd95f9e36303924f0f4960e0366a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m37861255/k$71f638c95676f19574ab9010cd6d3280/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m37861243/k$149c283c7c4457e34e13513cf4f161ab/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m37861228/k$142fa2e650cdb8be86314eaa6f195b28/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m37861210/k$0360ad3a8c7d09fec4cfb7d5839cc8be/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m37861188/k$0a3b64e6967be3da832b1431a9964e15/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:08:40.985Z"
+}

@@ -1,0 +1,99 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-nike-phantom-6-low-club-fg-mg/884f588d-1b2e-4a4b-8a3b-b02da39bcbd4/c5",
+  "productKey": "884f588d-1b2e-4a4b-8a3b-b02da39bcbd4_c5",
+  "variantId": "c5",
+  "productId": null,
+  "name": "Botas de fútbol Nike Junior Phantom 6 Low Club FG/MG",
+  "brand": "NIKE",
+  "description": "Botas de fútbol versátiles para niños, ofrecen confort y control en múltiples superficies.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Nike",
+    "Botas de fútbol nike"
+  ],
+  "price": {
+    "amount": 64.23,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "21,41 € al mes",
+  "sizes": [
+    "35 (UK 2.5)",
+    "35.5 (UK 3)",
+    "37.5 (UK 4.5)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del mié, 11 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "198726456918"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m28925408/k$4015e4163d91e061a7489915625a168b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28925458/k$bd4fabc4f6a22a026fd0e2dd2848324e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28925438/k$6fb6285bdaedd158d4742cca5be36069/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28925477/k$35de8b0d438b101a5732c4fde6974848/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m29053375/k$37c8f5ed1e5865a78a6df41c8c43ade3/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m29053352/k$414b6627e2dfe9640c164b5198241893/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28925471/k$b9962457f2f93474550ef536b83880a9/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36268817/k$53e92b86d2def39d0f744845f8b12155/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36268778/k$afcf0db123d72c2610bd875f7fafe62a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36268890/k$20347fbc7a01ad3a6d3d99ab3a19a384/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36268853/k$d3e87ce66d5e287eac4d3ea9b39b8525/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:17:40.478Z"
+}

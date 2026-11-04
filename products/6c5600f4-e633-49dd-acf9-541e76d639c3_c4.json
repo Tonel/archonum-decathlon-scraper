@@ -1,0 +1,100 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/nino-futbol-zapatillas-multitaco-cesped-artificial-tt-puma-powercat-3-10-tt/6c5600f4-e633-49dd-acf9-541e76d639c3/c4",
+  "productKey": "6c5600f4-e633-49dd-acf9-541e76d639c3_c4",
+  "variantId": "c4",
+  "productId": null,
+  "name": "Niño Fútbol - Zapatillas multitaco césped artificial TT - Puma Powercat 3.10 TT",
+  "brand": "PUMA",
+  "description": "La Powercat 3.10 TT de Puma es una zapatilla de fútbol de niño ideal para hierba artificial de primera generación, aunque se adapta a diversas superficies. Características: talla infantil.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Puma",
+    "Botas de fútbol puma"
+  ],
+  "price": {
+    "amount": 35,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "11,67 € al mes",
+  "sizes": [
+    "22 (UK 6C)",
+    "35 (UK 2.5)",
+    "37 (UK 4)",
+    "37.5 (UK 4.5)",
+    "38 (UK 5)",
+    "39 (UK 6)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4050796970748"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m27901984/k$2bd407debc468d902fa10909ed63b062/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m27902009/k$2193ffbc0db87976e0b14a7a4a0e2a7a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m27901996/k$e498c1649fa805b0b52d97b760dda8ea/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m27902029/k$86fafd6f5504b0a392bcda3572e1900b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m27902021/k$d77298f114f17529b21195085d4e8cfe/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:30:32.226Z"
+}

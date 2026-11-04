@@ -1,0 +1,148 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-ultra-6-match-fg-ag-ninos-puma/194e3ba9-563f-47f0-b30f-68780262d93f/c5",
+  "productKey": "194e3ba9-563f-47f0-b30f-68780262d93f_c5",
+  "variantId": "c5",
+  "productId": null,
+  "name": "Botas de fútbol ULTRA 6 MATCH FG/AG Niños PUMA",
+  "brand": "PUMA",
+  "description": "Mete La Sexta Marcha Con Las Ultra 6.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "Botas de futbol Puma niños",
+    "Botas de futbol Puma niños Ultra"
+  ],
+  "price": {
+    "amount": 33.75,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "11,25 € al mes",
+  "sizes": [
+    "34 (UK 1)",
+    "35 (UK 2)",
+    "38 (UK 5)",
+    "33 (UK 13.5C)"
+  ],
+  "colors": [
+    {
+      "name": "azul",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "azul / blanco / rojo",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "mango",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos fijos"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Terreno duro"
+        },
+        {
+          "name": "Material",
+          "value": "Sintético"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "Ultra"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Aviso legal",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4069156841666"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m25707315/k$852431d6af023d4c73af03efbf2546b6/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m25687595/k$0416f7d83de4f4b47ed08d82cfeca99a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m25687583/k$dca7c67e61d5488aa3c850c73b78aa3e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m25687618/k$2e7ddb5fdfe259774a5440c15ff67e0e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m25687596/k$0b5492ee4119f4201ded706eb7210141/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m25707316/k$92f4e115792669681db2fbe7b7a98513/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:39:04.442Z"
+}

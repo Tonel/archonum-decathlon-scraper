@@ -1,0 +1,109 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/deportivo-joma-futbol-liga-5-2507-rojo-turf-cmsport/a4107577-2b5a-4355-8836-fb4b416bafff/c20",
+  "productKey": "a4107577-2b5a-4355-8836-fb4b416bafff_c20",
+  "variantId": "c20",
+  "productId": null,
+  "name": "Deportivo JOMA FUTBOL LIGA 5 2507 ROJO TURF CMSport",
+  "brand": "JOMA",
+  "description": "REF. 3315 - LIGW2507TF (43)",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Joma",
+    "Botas de fútbol joma"
+  ],
+  "price": {
+    "amount": 36,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "12,00 € al mes",
+  "sizes": [
+    "41 (UK 7)",
+    "42 (UK 7.5)",
+    "43 (UK 9)",
+    "44 (UK 10)"
+  ],
+  "colors": [
+    {
+      "name": "naranja",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "multicolor",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8447368023029"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m27540684/k$1fa4ad02013c17f642b5a6d156511c4b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m27540700/k$8315d59aa36740c800b01a3409de3ab7/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m27540693/k$5bdbabeacd277abc5276951ed47b11b3/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m27540711/k$f853b5ea20904da2ea9efcc4eede32ce/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m27540707/k$be233e2058671214826e2e458ffb7fd2/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:22:10.829Z"
+}

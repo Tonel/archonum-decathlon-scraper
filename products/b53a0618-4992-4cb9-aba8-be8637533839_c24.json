@@ -1,0 +1,110 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-puma-ultra-6-play-mg-rosa/b53a0618-4992-4cb9-aba8-be8637533839/c24",
+  "productKey": "b53a0618-4992-4cb9-aba8-be8637533839_c24",
+  "variantId": "c24",
+  "productId": null,
+  "name": "Botas de fútbol PUMA Ultra 6 Play MG Rosa",
+  "brand": "PUMA",
+  "description": "Diseñadas para los jóvenes jugadores, estas botas de fútbol ofrecen confort y adherencia sobre césped artificial y natural.",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Puma",
+    "Botas de fútbol puma"
+  ],
+  "price": {
+    "amount": 34.5,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 37.4,
+    "currency": "EUR"
+  },
+  "financing": "11,50 € al mes",
+  "sizes": [
+    "32 (UK 0.5)",
+    "33 (UK 1)",
+    "32.5 (UK 1.5)",
+    "34 (UK 2)",
+    "34.5 (UK 2.5)",
+    "35 (UK 2.5)",
+    "35.5 (UK 3)",
+    "36 (UK 3.5)",
+    "37 (UK 4)",
+    "37.5 (UK 4.5)",
+    "38 (UK 5)",
+    "38.5 (UK 5.5)",
+    "28 (UK 10C)",
+    "29 (UK 10.5C)",
+    "30 (UK 12)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4069161196089"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m38438258/k$249038b99f406098a0a8cd1b766aead3/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38779337/k$17e2f3951f39c5e6e175ae29b74e9679/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38779310/k$7791809a5d789b370d1de204f1b9231a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38779283/k$e4252a202175a5076a2af333629980c1/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38779255/k$2fd3257889459c36c139bf0cc8e283ca/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:33:15.818Z"
+}

@@ -1,0 +1,119 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatillas-futbol-puma-ultra-play-mg-jr-pink/132db07a-97e6-443b-a5b5-e6fd24f5bd56/c24c1",
+  "productKey": "132db07a-97e6-443b-a5b5-e6fd24f5bd56_c24c1",
+  "variantId": "c24c1",
+  "productId": null,
+  "name": "ZAPATILLAS FÚTBOL PUMA ULTRA PLAY MG Jr. Pink",
+  "brand": "PUMA",
+  "description": "Las Botas de Fútbol Puma Ultra Play MG Jr que describiste parecen ser una opción oficial de Puma, diseñadas con características específicas para brindar un rendimiento óptimo en campos de hierba",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "copia botas niños"
+  ],
+  "price": {
+    "amount": 29.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": null,
+  "sizes": [
+    "35 (UK 2.5)",
+    "36 (UK 3)",
+    "38 (UK 5)"
+  ],
+  "colors": [
+    {
+      "name": "rosa / negro",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "rosa",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "rosa orquídea",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4099686014506"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m14890902/k$55f015044eacd675889b0af92837852d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m14890907/k$a69b8d40b3aaa5f354361f1b48aa9b01/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m14890905/k$b63617692d9a41f6f8a26ed99105140b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m14890906/k$479818f7a8e17911fa6b74668a356550/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m17771239/k$8c9ad8c6a5174f4a47555966e922c632/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:32:50.003Z"
+}

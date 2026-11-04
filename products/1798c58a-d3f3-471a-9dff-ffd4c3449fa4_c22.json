@@ -1,0 +1,96 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/nino-futbol-botas-para-cesped-artificial-ag-puma-evopower-4-3-ag/1798c58a-d3f3-471a-9dff-ffd4c3449fa4/c22",
+  "productKey": "1798c58a-d3f3-471a-9dff-ffd4c3449fa4_c22",
+  "variantId": "c22",
+  "productId": null,
+  "name": "Niño Fútbol - Botas para césped artificial AG - Puma evoPOWER 4.3 AG",
+  "brand": "PUMA",
+  "description": "La evoPOWER 4.3 AG de Puma es una bota de fútbol de niño, de materiales de alta calidad y diseñada para césped artificial, con tacos que permiten agarre y precisión óptimos.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Puma",
+    "Botas de fútbol puma"
+  ],
+  "price": {
+    "amount": 55,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "18,33 € al mes",
+  "sizes": [
+    "38 (UK 5)",
+    "49 (UK 13.5)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4056205074793"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m27901987/k$4b230ed9f6d6724bfbde10fc219dd058/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m27902017/k$5903a76cc12731df874237a1b4586a54/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m27902004/k$d92a4892464f4398818086c33dec11df/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m27902036/k$fc3e8bdc8c6cb148cc154c7ed7996a87/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m27902027/k$e46aea6009c6b3f5e28627e68c73ee34/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:12:08.648Z"
+}

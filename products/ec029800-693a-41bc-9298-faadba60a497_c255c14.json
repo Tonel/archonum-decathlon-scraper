@@ -1,0 +1,183 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatillas-deportivas-fc-barcelona-con-luces-para-ninos-suela-de-tpr-multicolor/ec029800-693a-41bc-9298-faadba60a497/c255c14",
+  "productKey": "ec029800-693a-41bc-9298-faadba60a497_c255c14",
+  "variantId": "c255c14",
+  "productId": null,
+  "name": "Zapatillas Deportivas FC Barcelona con Luces para Niños Suela de TPR Multicolor",
+  "brand": "FC BARCELONA",
+  "description": "Zapatillas infantiles del FC Barcelona con suela flexible de TPR y luces integradas que se encienden al pisar. Acompañan la pisada en el colegio, el recreo y las extraescolares.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "copia botas niños"
+  ],
+  "price": {
+    "amount": 40.98,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "13,66 € al mes",
+  "sizes": [
+    "34 (UK 2)",
+    "26 (UK 8C)",
+    "27 (UK 8C)",
+    "25 (UK 9C)",
+    "28 (UK 10.5C)",
+    "29 (UK 11C)",
+    "30 (UK 11.5C)",
+    "31 (UK 12C)",
+    "32 (UK 13C)",
+    "33 (UK 13.5C)"
+  ],
+  "colors": [
+    {
+      "name": "multicolor / rojo",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "rojo",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "rojo / negro",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "rojo / verde",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "multicolor / negro",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "azul oscuro / negro",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "blanco / azul oscuro",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "azul oscuro / rojo",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "azul oscuro / rojo / gris",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "Abrir variación de color",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del mié, 11 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del mié, 11 nov"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones elásticos"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Flexibilidad"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Estilo",
+          "value": "Liso"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Aviso legal",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8445484690033"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m39233909/k$1eee5c21e2b04acd1aecf481758ac261/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m39233892/k$193e1dd62206360a1afd50e53b6de086/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m39233866/k$5bf084de504c237176789e011a86dc3d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m39233846/k$10936c0fa8c7f99689c49be24ebe7d73/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m39233820/k$883d4af798da0a94b50a482e4cc14280/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:07:12.571Z"
+}

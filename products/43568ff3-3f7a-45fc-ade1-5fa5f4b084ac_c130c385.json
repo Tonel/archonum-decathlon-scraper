@@ -1,0 +1,103 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatos-de-futsal-puma-truco-iii-jr-verde-fluorescente-rosa/43568ff3-3f7a-45fc-ade1-5fa5f4b084ac/c130c385",
+  "productKey": "43568ff3-3f7a-45fc-ade1-5fa5f4b084ac_c130c385",
+  "variantId": "c130c385",
+  "productId": null,
+  "name": "Zapatos de futsal PUMA Truco III Jr Verde/Fluorescente Rosa",
+  "brand": "PUMA",
+  "description": "Diseñadas para los jóvenes jugadores de futsal, estas zapatillas ofrecen comodidad y adherencia en superficies interiores.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol sala",
+    "Zapatillas",
+    "Zapatillas niños",
+    "Zapatillas niños Puma"
+  ],
+  "price": {
+    "amount": 37.7,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "12,57 € al mes",
+  "sizes": [
+    "33 (UK 1)",
+    "34.5 (UK 2.5)",
+    "35.5 (UK 3)",
+    "37.5 (UK 4.5)",
+    "38.5 (UK 5.5)"
+  ],
+  "colors": [
+    {
+      "name": "verde fluorescente / rosa neón flúor",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "verde fluorescente / rosa neón flúor / rosa claro",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4067979575195"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m38365080/k$c04f19da10e387af2638f3a014927eff/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38788683/k$de5c056e2ffdbc63f2624ed6dfe34a56/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:14:14.543Z"
+}

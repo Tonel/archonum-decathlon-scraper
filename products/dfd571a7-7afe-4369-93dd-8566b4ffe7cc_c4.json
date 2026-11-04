@@ -1,0 +1,99 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-para-hombre-joma-gol-fg/dfd571a7-7afe-4369-93dd-8566b4ffe7cc/c4",
+  "productKey": "dfd571a7-7afe-4369-93dd-8566b4ffe7cc_c4",
+  "variantId": "c4",
+  "productId": null,
+  "name": "Botas de fútbol para hombre Joma Gol FG",
+  "brand": "JOMA",
+  "description": "Botas de fútbol para hombre Joma Gol FG",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Joma",
+    "Botas de fútbol joma"
+  ],
+  "price": {
+    "amount": 38.94,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "12,98 € al mes",
+  "sizes": [
+    "41 (UK 7.5)",
+    "42 (UK 8)",
+    "43 (UK 8.5)",
+    "44 (UK 9)",
+    "45 (UK 10.5)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8447368003984"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m22637035/k$36f5bd9271a1388084b3107f176cd926/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22637011/k$517501b9a15a0ac07180d1faf16c51ce/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22637022/k$c290af86bcf263af2e3027d7039aae02/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22636992/k$12aee3be958f7ca3af6634f475927d94/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22637277/k$7692f35e9823ef24b6767292874c2a75/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:53:52.875Z"
+}

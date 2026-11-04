@@ -1,0 +1,160 @@
+{
+  "url": "https://www.decathlon.es/es/p/tacos-recambiables-universales-de-futbol-transparentes-de-aluminio-13-15-mm/327129/c312m8596954",
+  "productKey": "327129_c312m8596954",
+  "variantId": "c312m8596954",
+  "productId": "8596954",
+  "name": "Tacos recambiables universales de fútbol transparentes de aluminio 13-15 mm",
+  "brand": "KIPSTA",
+  "description": "Hemos concebido estos tacos para los futbolistas que quieren ajustar los tacos recambiables de sus botas, en función del tipo de terreno y del agarre deseado. Disponible en varios tamaños.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Accesorios para botas",
+    "Tacos de fútbol"
+  ],
+  "price": {
+    "amount": 8.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": null,
+  "sizes": [],
+  "colors": [
+    {
+      "name": "gris pedernal",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "gris pedernal / gris pedernal",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "3 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 3 años."
+    }
+  ],
+  "features": [
+    {
+      "title": "Compatibilidad",
+      "text": "Paso de rosca estándar. No apto para determinados modelos de la marca adidas."
+    },
+    {
+      "title": "Agarre",
+      "text": "Agarre excelente en terreno mullido/resbaladizo. Disponible en varios diámetros."
+    },
+    {
+      "title": "Facilidad de uso",
+      "text": "Se vende en una caja de transporte reutilizable. Llave a la venta por separado."
+    },
+    {
+      "title": "Fijación",
+      "text": "Formas geométricas validadas por un podólogo experto del deporte profesional."
+    },
+    {
+      "title": "Ligereza",
+      "text": "¡Te sorprenderá la ligereza de estos tacos recambiables!"
+    },
+    {
+      "title": "Resistencia",
+      "text": "Concebidos para uso intensivo, probados y validados por jugadores profesionales."
+    },
+    {
+      "title": "Facilidad de transporte",
+      "text": "Se venden en una caja de transporte práctica, de abertura fácil."
+    },
+    {
+      "title": "Superficie de carrera",
+      "text": "Base transparente de policarbonato y punta de aluminio."
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Nivel de práctica",
+          "value": "Todos los niveles"
+        },
+        {
+          "name": "Frecuencia",
+          "value": "Intensiva"
+        },
+        {
+          "name": "Longitud del crampón",
+          "value": "15 mm, 11 mm, 13 mm"
+        },
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos recambiables"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Tracción"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Abrazadera de tornillo"
+        },
+        {
+          "name": "Material",
+          "value": "Policarbonato"
+        },
+        {
+          "name": "Embalaje",
+          "value": "Por 12"
+        },
+        {
+          "name": "Intensidad",
+          "value": "Todas las intensidades"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p2043316/k$5fc5e8785a0c34519e43b6c0fb80c308/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2043315/k$a68bb7cb5db2e07a03256eca3b5da8e5/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2043319/k$7841420dfb9bcd005cc33e1d1486a958/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2043320/k$34b13ddc60046fd4d8d75afb17fdfde9/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2043314/k$0e14c5e63a1abd5aff12bbe9210e1d3a/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:17:37.898Z"
+}

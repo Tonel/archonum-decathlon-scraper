@@ -1,0 +1,101 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-futbol-nike-phantom-gx-ii-academy-fg-mg-mad-ready/027bc92b-4754-4341-9ff8-5fbd42b2a47b/c1c4c250",
+  "productKey": "027bc92b-4754-4341-9ff8-5fbd42b2a47b_c1c4c250",
+  "variantId": "c1c4c250",
+  "productId": null,
+  "name": "Botas fútbol Nike Phantom GX II Academy FG/MG Mad Ready",
+  "brand": "NIKE",
+  "description": "Botas Nike Phantom GX II Academy FG/MG Mad Ready. Antes de que te des cuenta, esta zapatilla de césped natural se convertirá en una de tus armas secretas definitivas.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Nike",
+    "Botas de fútbol nike"
+  ],
+  "price": {
+    "amount": 61.69,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "20,56 € al mes",
+  "sizes": [
+    "40 (UK 7.5)",
+    "42 (UK 8.5)",
+    "42.5 (UK 8.5)",
+    "43 (UK 8.5)",
+    "45.5 (UK 10.5)",
+    "45 (UK 11)"
+  ],
+  "colors": [
+    {
+      "name": "negro / blanco / oro",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "negro / gris oscuro",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "negro",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "azul / azul bebé",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "rosa",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m38854886/k$313ecea5937401943383623a6fb95c66/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38854906/k$fce38a4057e53b39a7ceee8d37f4485f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38854904/k$2ff6198e77cda2ad5be43dea426ec65f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38854899/k$59c5fbbf8dd5fd7fdd0fc1cb27ccfa60/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38854892/k$ac1bbeb30c51d068951098eb121272b9/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m16257104/k$a52a57c568818e3c846c09af377236de/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m16257116/k$cda187464bc4c3a0cde93590ca716c5c/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:56:04.556Z"
+}

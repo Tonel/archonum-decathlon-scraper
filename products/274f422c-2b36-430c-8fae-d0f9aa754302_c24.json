@@ -1,0 +1,116 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-futbol-ninos-nike-phantom-gx-ii-club-fg-mg/274f422c-2b36-430c-8fae-d0f9aa754302/c24",
+  "productKey": "274f422c-2b36-430c-8fae-d0f9aa754302_c24",
+  "variantId": "c24",
+  "productId": null,
+  "name": "Botas Fútbol Niños Nike Phantom GX II Club FG/MG",
+  "brand": "NIKE",
+  "description": "Botas para jugar al futbol, ideales para los campos de futbol con una superficie más dura.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Nike",
+    "Botas de fútbol nike"
+  ],
+  "price": {
+    "amount": 49.25,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "16,42 € al mes",
+  "sizes": [],
+  "colors": [
+    {
+      "name": "rosa",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "blanco",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Hierba"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "197593725882"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m19448324/k$178bcbbfe1c37b82b1799ee523b01159/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19448323/k$11c7a8740d2a76480c7b44b34aab9274/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19448321/k$81fe155624e3df3657f4dcb7b6bbec01/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19448325/k$6bb2d31ab7fe0e24c851c4b06eb1af48/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19448322/k$d5becea8683c958e4ae138f80f970d65/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:31:27.370Z"
+}

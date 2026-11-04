@@ -1,0 +1,176 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/bota-de-rugby-rs15-elite-cesped-natural-humedo/a3a32243-f3d2-416c-9243-4745a75fda72/c4c1",
+  "productKey": "a3a32243-f3d2-416c-9243-4745a75fda72_c4c1",
+  "variantId": "c4c1",
+  "productId": null,
+  "name": "Bota de rugby RS15 Elite césped natural húmedo",
+  "brand": "ADIDAS",
+  "description": "Despliega un juego ágil y explosivo",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas clásicas"
+  ],
+  "price": {
+    "amount": 101,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 140,
+    "currency": "EUR"
+  },
+  "financing": "33,67 € al mes",
+  "sizes": [
+    "36 2/3 (UK 4)",
+    "40 (UK 6.5)",
+    "44 (UK 9.5)"
+  ],
+  "colors": [
+    {
+      "name": "blanco / negro",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "azul royal / blanco / azul",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "rosa / negro / amarillo",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "negro / rojo bermellón",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del mar, 10 nov"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Motivo",
+          "value": "Sin patrón"
+        },
+        {
+          "name": "Tipo de taco",
+          "value": "Tacoshíbridos"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Terreno blando a suelo medio"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado bajo"
+        },
+        {
+          "name": "Material",
+          "value": "Piel"
+        },
+        {
+          "name": "Impermeable",
+          "value": "No impermeable"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Nivel de práctica",
+          "value": "Todos los niveles"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        },
+        {
+          "name": "Temporada",
+          "value": "Todas las estaciones"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4068811547608"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m24921808/k$896e2d944e9ed6c20e0a7c943796494d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36629203/k$9d7d4527744e3adf40e03a3dac84b473/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36629193/k$efc1e159fdb9361845c9095e1020e9cf/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36629175/k$79e80126a42226595edcd43e08b2871a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36629165/k$7f7ede5ba29868bccca9152c29d817a9/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36629152/k$296518d9c834cf78177fc4452c0e854e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m24921765/k$ee5d8cb5bb87c537358ef8788c2226f9/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m24921748/k$600a339e2c15616237a1be532b94d50c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m24921848/k$23dac66d07e310c36754a97f27b296b2/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m24921786/k$c06b4c002fa82a6195dd06f203d73ddc/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m24921870/k$037afa2deaf14b37a597f7ae89101a68/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m24921827/k$f5a69b13f9069fb806a565a3410b8970/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36629246/k$ea74079d155c4a34d4ce44151d9c0608/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36629237/k$812fdf57f36ced6a564c640ff18431fa/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36629217/k$33261c38fe92e80c42e71230de2de56c/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:15:03.790Z"
+}

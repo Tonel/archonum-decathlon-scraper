@@ -1,0 +1,142 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/kelme-zapatillas-de-futbol-sala-final-indoor-azul-unisex/7a1721ee-9aa2-4204-b8cf-35217dd98937/c5c104c78",
+  "productKey": "7a1721ee-9aa2-4204-b8cf-35217dd98937_c5c104c78",
+  "variantId": "c5c104c78",
+  "productId": null,
+  "name": "Kelme Zapatillas De Fútbol Sala Final Indoor Azul Unisex",
+  "brand": "KELME",
+  "description": "Kelme Zapatillas De Fútbol Sala Final Indoor Azul Unisex. Suela de Goma de Perfil Bajo. Tallaje correcto, elige tu talla habitual. Kelme, Leave Your Mark.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol sala",
+    "Zapatillas",
+    "Zapatillas hombre",
+    "Zapatillas hombre todo"
+  ],
+  "price": {
+    "amount": 34.74,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "11,58 € al mes",
+  "sizes": [
+    "40 (UK 6.5)",
+    "41 (UK 7)",
+    "42 (UK 8)",
+    "43 (UK 8.5)",
+    "44 (UK 9.5)",
+    "45 (UK 10.5)",
+    "46 (UK 11)"
+  ],
+  "colors": [
+    {
+      "name": "azul / azul vaquero / verde lima",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "blanco / negro / rojo",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Motivo",
+          "value": "Sin patrón"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordón tradicional"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Amortiguación, soporte y confort"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Estilo",
+          "value": "Liso"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Aviso legal",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8445664297991"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m22454242/k$b9222a84f8cee22f3eca9ed788c6f399/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22454639/k$158d17e60207954bf44168a5689caf77/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22454674/k$19e54cd13f58dbd73497c93fdd1722af/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22454699/k$0bd606645cec50496bb0764283da988b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22454422/k$c641c70fe5f85fe6782480db0131151b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22454654/k$55e3355a8ce798282d02e58761e881ea/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26466338/k$3c78925c363b5c1fced1352ce46494a1/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:26:34.556Z"
+}

@@ -1,0 +1,105 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-nike-modelo-fq8286-446-para-unisex/5d1a7a29-c816-47f7-bb93-befc8b305d15/c255",
+  "productKey": "5d1a7a29-c816-47f7-bb93-befc8b305d15_c255",
+  "variantId": "c255",
+  "productId": null,
+  "name": "Botas de futbol Nike modelo FQ8286-446 para unisex",
+  "brand": "NIKE",
+  "description": "Botas de futbol Nike modelo FQ8286-446 para Unisex en color multicolor.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Nike",
+    "Botas de fútbol nike"
+  ],
+  "price": {
+    "amount": 55.7,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "18,57 € al mes",
+  "sizes": [],
+  "colors": [
+    {
+      "name": "multicolor",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "azul",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Material",
+          "value": "Sintético"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "198726534616"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m28935606/k$492c081b301945381c2e4d6827fb9fca/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28935649/k$0d279c3eeef59bdbc36c31967383c0ec/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28935631/k$955ca8290dd49e873719ed4edd695165/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28935717/k$dc1074bc07da29b6cb73cb1317eb441d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28935684/k$d4b562b317c18fbfe8bbd58e723b4647/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28757733/k$c7d6a9797a81d7f113f9a3664099cbd2/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28757723/k$03bb57fe95a82b91e3f9026847d6c429/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36268895/k$acf56edf7514e463dfcc393ba421a42a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36268849/k$04a89fa9193fd5f7b9a563b916c94c98/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36268953/k$267d62274774513fae722ca7c3889ce7/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36268923/k$ca4f66dc3019c6e5c41c5609706349ec/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:31:15.445Z"
+}

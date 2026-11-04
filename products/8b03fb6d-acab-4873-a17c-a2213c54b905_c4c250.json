@@ -1,0 +1,108 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-para-ninos-joma-toledo-2692-turf/8b03fb6d-acab-4873-a17c-a2213c54b905/c4c250",
+  "productKey": "8b03fb6d-acab-4873-a17c-a2213c54b905_c4c250",
+  "variantId": "c4c250",
+  "productId": null,
+  "name": "Botas de fútbol para niños Joma Toledo 2692 Turf",
+  "brand": "JOMA",
+  "description": "¡Ofrezca a su joven futbolista unas botas de fútbol Joma Toledo 2692 Turf , que combinan comodidad, rendimiento y durabilidad en el campo!",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "Botas niños multitacos"
+  ],
+  "price": {
+    "amount": 37,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "12,33 € al mes",
+  "sizes": [
+    "33.5 (UK 1.5)",
+    "34 (UK 2)",
+    "35 (UK 3)",
+    "35.5 (UK 3)",
+    "36 (UK 3.5)",
+    "37 (UK 4)",
+    "37.5 (UK 4.5)",
+    "38 (UK 5)",
+    "32 (UK 13.5C)",
+    "33 (UK 13.5C)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos estabilizados"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8447628177165"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m37791772/k$c1b6f95e07f2e855c0bfa36cbfafe4d8/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m37791882/k$1b6c5bb2053302afb290ca5af3ddcf08/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m37791853/k$aecc770aab08052efae1a6ab95733e04/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m37791818/k$0cbecef7a660bef1b268d7d7092a189a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m37791793/k$d5682c0e5e70fc9e40ec3fa5a4871cda/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T17:58:22.067Z"
+}

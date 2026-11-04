@@ -1,0 +1,129 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/munich-g-3-kid-vco-452-zapatillas-infantiles-de-futbol-sala-con-triple-velcro/3a79344e-5afa-4735-accb-85f6db619fe3/c5",
+  "productKey": "3a79344e-5afa-4735-accb-85f6db619fe3_c5",
+  "variantId": "c5",
+  "productId": null,
+  "name": "MUNICH G-3 KID VCO 452 Zapatillas Infantiles de Fútbol Sala con Triple Velcro",
+  "brand": "MUNICH",
+  "description": "MUNICH es la marca de zapatillas más usada por profesionales de la LNFS y aficionad@s al futsal y pádel de España, Italia y Portugal.",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol sala",
+    "Zapatillas",
+    "Zapatillas niños",
+    "Zapatillas niños Munich"
+  ],
+  "price": {
+    "amount": 43.65,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 51.9,
+    "currency": "EUR"
+  },
+  "financing": "14,55 € al mes",
+  "sizes": [
+    "31 (UK 13C)",
+    "32 (UK 0.5)",
+    "26 (UK 8C)",
+    "28.5 (UK 10C)",
+    "30 (UK 11C)",
+    "29 (UK 12C)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de terreno",
+          "value": "Carretera"
+        },
+        {
+          "name": "Tipo de práctica",
+          "value": "Entrenamiento"
+        },
+        {
+          "name": "Material",
+          "value": "Sintético"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        },
+        {
+          "name": "Distancia",
+          "value": "Todas las distancias"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8445648671519"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m27415352/k$254efd57aa1247a182619075e0a72358/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m27415355/k$8c9ff6b6ef6405cdad4ec2486d618c18/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m27415353/k$df52a9bdcf3e76c368063c6c7f0a013f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m27412136/k$6417dee4a6b1ab92922677f9d956f672/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m27412131/k$b76847be90217cbe3e4d3fe37be48361/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:20:14.733Z"
+}

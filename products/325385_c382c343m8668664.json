@@ -1,0 +1,168 @@
+{
+  "url": "https://www.decathlon.es/es/p/botas-de-futbol-multitacos-adulto-viralto-i-tf-negras/325385/c382c343m8668664",
+  "productKey": "325385_c382c343m8668664",
+  "variantId": "c382c343m8668664",
+  "productId": "8668664",
+  "name": "Botas de Fútbol multitacos Adulto Viralto I TF Negras",
+  "brand": "KIPSTA",
+  "description": "¿Necesitas sentirte cómodo para expresar tus habilidades? Estas botas VIRALTO I, de exterior flexible, amplia lengüeta, suela multidireccional FLEX-H y amortiguación EVA, están hechas para ti.",
+  "stickers": [
+    "Últimas unidades"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Kipsta",
+    "Colección Viralto"
+  ],
+  "price": {
+    "amount": 23.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": null,
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "3 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 3 años."
+    }
+  ],
+  "features": [
+    {
+      "title": "Comodidad",
+      "text": "Exterior flexible, refuerzo textil y plantilla preformada."
+    },
+    {
+      "title": "Resistencia",
+      "text": "Resistencia a la abrasión gracias a los materiales y procesos utilizados."
+    },
+    {
+      "title": "Amortiguación",
+      "text": "Espuma EVA en toda la bota."
+    },
+    {
+      "title": "Flexibilidad",
+      "text": "Flexibilidad multidireccional con tecnología FLEX-H."
+    },
+    {
+      "title": "Toque de balón",
+      "text": "Optimal Strike Zone: asimetría del eje de los cordones de -10°"
+    },
+    {
+      "title": "Agarre",
+      "text": "Suela de goma natural con tacos estabilizados."
+    },
+    {
+      "title": "Sujeción del producto",
+      "text": "Lengüeta ancha unida a la base, no se mueve durante la práctica y no se tuerce."
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Nivel de práctica",
+          "value": "Perfeccionamiento"
+        },
+        {
+          "name": "Frecuencia",
+          "value": "Regular"
+        },
+        {
+          "name": "Intensidad",
+          "value": "Intensidad media"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Hierba sintética corta, Césped artificial, Terreno duro"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado bajo"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos estabilizados"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "Viralto"
+        },
+        {
+          "name": "Peso (en g)",
+          "value": "327g"
+        },
+        {
+          "name": "Vida útil mínima",
+          "value": "93 entrenamientos"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Control"
+        },
+        {
+          "name": "Tipo de plantilla",
+          "value": "Preformado"
+        },
+        {
+          "name": "Nivel de rendimiento",
+          "value": "Palo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p2332076/k$7c0df400a09b924f875ab5ae0a995732/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2332073/k$24157c82cdc5797188ed8c5b485631cf/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2332075/k$5ed02985001a48cda312e9fc4bb1b5ac/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2332074/k$8231cbc36329611b01043d7b0bfc9728/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2332077/k$9479424272e061ac6d48b6535006f7b5/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2332072/k$c1bee25f21a40b82ec4a1d7208657f1b/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:04:46.487Z"
+}

@@ -1,0 +1,136 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/bota-de-futbol-f50-sparkfusion-league-de-media-cana-para-cesped-natural/355b0279-fe69-4b35-bb98-9ae4aaa3efae/c24c4c24",
+  "productKey": "355b0279-fe69-4b35-bb98-9ae4aaa3efae_c24c4c24",
+  "variantId": "c24c4c24",
+  "productId": null,
+  "name": "Bota de fútbol de media caña F50 SPARKFUSION LEAGUE césped natural seco / césped",
+  "brand": "ADIDAS",
+  "description": "Una bota de fútbol con suela Sprintplate Fusion que ofrece tracción y agilidad en césped natural seco",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "Botas de futbol adidas niños",
+    "Botas de futbol adidas niños F50"
+  ],
+  "price": {
+    "amount": 95,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "31,67 € al mes",
+  "sizes": [
+    "37 1/3 (UK 4.5)",
+    "38 (UK 5)",
+    "38 2/3 (UK 5.5)",
+    "39 1/3 (UK 6)",
+    "40 (UK 6.5)",
+    "44 2/3 (UK 10)",
+    "46 (UK 11)",
+    "46 2/3 (UK 11.5)"
+  ],
+  "colors": [
+    {
+      "name": "rosa / blanco / rosa",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "verde claro / blanco / morado",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Terreno duro"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "F50"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4068818207031"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m36061702/k$3a49beb9f4480b5618dc35a51f81b72f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36061742/k$5e7de05aaefa40c3623965fb9f944d65/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36650261/k$3b07519b407851deda882b98ecaa0b9e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36650250/k$e4e3c9f27aec8e8d697aab013a9afc71/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36061882/k$6475ac51bd4c6dd11582896392aeeebd/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36061864/k$da81a184c7561a0e2690657e4d5f89f8/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36061840/k$61d35ed314b8247b27833cd5ed9a38cd/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36061808/k$65b7b8b57a2f9a1adbc4fbf193fb9a44/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36061780/k$c65201864a6c43e08d51bd88d5624a2d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36650284/k$04e081045f525d5a413f9772c891a4a5/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36650273/k$eba92e9287be453ad01126ebc8c3fb4f/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:24:15.501Z"
+}

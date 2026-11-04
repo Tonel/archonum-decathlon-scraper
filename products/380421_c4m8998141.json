@@ -1,0 +1,126 @@
+{
+  "url": "https://www.decathlon.es/es/p/chaqueta-de-entrenamiento-adidas-tiro-26-nino-blanco/380421/c4m8998141",
+  "productKey": "380421_c4m8998141",
+  "variantId": "c4m8998141",
+  "productId": "8998141",
+  "name": "Chaqueta de entrenamiento adidas Tiro 26 Niño Blanco",
+  "brand": "ADIDAS",
+  "description": "Creada para jugadores aficionados, esta versátil chaqueta te ofrece la máxima comodidad dentro y fuera del campo gracias a su material suave y a la tecnología Climacool que evacua el sudor.",
+  "stickers": [
+    "Últimas unidades"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Adidas",
+    "Sudaderas de fútbol adidas"
+  ],
+  "price": {
+    "amount": 39.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "13,33 € al mes",
+  "sizes": [
+    "7-8 AÑOS",
+    "9-10 AÑOS"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "1 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 1 año."
+    }
+  ],
+  "features": [
+    {
+      "title": "Transpirabilidad",
+      "text": "La tecnología CLIMACOOL evacua el sudor."
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Personalización",
+          "value": "Personalizable"
+        },
+        {
+          "name": "Tipo de cremallera",
+          "value": "Media cremallera"
+        },
+        {
+          "name": "Sistema de ventilación",
+          "value": "Sí"
+        },
+        {
+          "name": "Impermeable",
+          "value": "No impermeable"
+        },
+        {
+          "name": "Capucha",
+          "value": "Sin capucha"
+        },
+        {
+          "name": "Bolsillo",
+          "value": "Sin bolsillo"
+        },
+        {
+          "name": "Material",
+          "value": "Polyester"
+        },
+        {
+          "name": "Corte",
+          "value": "Estandar"
+        },
+        {
+          "name": "Estilo",
+          "value": "Liso"
+        },
+        {
+          "name": "Tipo de longitud",
+          "value": "Largo hasta la cadera"
+        },
+        {
+          "name": "Cortavientos",
+          "value": "No cortavientos"
+        },
+        {
+          "name": "Longitud de las mangas",
+          "value": "Manga larga"
+        }
+      ]
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p3104438/k$201f0bc24f3f6ea2b4fabc5491de09e2/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3104432/k$c55e8e0ee75a83e5a424a0bc88eef037/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3104427/k$9eef82aece0e31732f28e246551188f9/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3104430/k$0b89a4d567a8b15e993d4b3b950d7c87/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3104437/k$6e9b54a210aaa1b0aa22bb54c7e78fbc/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:44:33.175Z"
+}

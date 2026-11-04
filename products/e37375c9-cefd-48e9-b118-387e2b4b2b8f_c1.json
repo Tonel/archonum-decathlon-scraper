@@ -1,0 +1,143 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatillas-hombre-kelme-precision-negro/e37375c9-cefd-48e9-b118-387e2b4b2b8f/c1",
+  "productKey": "e37375c9-cefd-48e9-b118-387e2b4b2b8f_c1",
+  "variantId": "c1",
+  "productId": null,
+  "name": "Zapatillas Hombre Kelme Precision NEGRO",
+  "brand": "KELME",
+  "description": "Zapatillas Futbol Sala , flexibles y ligeras para no parar de marcar goles en tus entrenamientos , como en los partidos de tu liga , para ser el pichichi de tu equipo",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol sala",
+    "Zapatillas",
+    "Zapatillas hombre",
+    "Zapatillas hombre todo"
+  ],
+  "price": {
+    "amount": 40.34,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 44.95,
+    "currency": "EUR"
+  },
+  "financing": "13,45 € al mes",
+  "sizes": [
+    "41 (UK 7.5)",
+    "42 (UK 8)",
+    "43 (UK 9)",
+    "44 (UK 9.5)",
+    "45 (UK 10.5)"
+  ],
+  "colors": [
+    {
+      "name": "negro",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "blanco / azul",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "multicolor",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "blanco",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "azul",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "azul / turquesa",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del mar, 10 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Material",
+          "value": "Sintético"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8445664266805"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m18281090/k$fb5e6b6fad4ee50022a1072f22401531/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m18281086/k$f14675a30caa92be48ef4de11cd36dd8/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m18281084/k$6273691a5f3f514d33d0ccb39df36ac6/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m18755312/k$d2aa1e47fef9e3e3e38619ec19e252fe/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m18755308/k$b8748c8b7a16a281bc1462b95046d562/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:27:06.164Z"
+}

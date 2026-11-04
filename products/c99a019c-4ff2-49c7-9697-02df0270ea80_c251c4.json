@@ -1,0 +1,180 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatos-new-balance-530-grises/c99a019c-4ff2-49c7-9697-02df0270ea80/c251c4",
+  "productKey": "c99a019c-4ff2-49c7-9697-02df0270ea80_c251c4",
+  "variantId": "c251c4",
+  "productId": null,
+  "name": "Zapatos New Balance 530 Grises",
+  "brand": "NEW BALANCE",
+  "description": "Concebidas para un uso diario, estas sneakers New Balance 530 combinan confort moderno y estética retro con una parte superior de malla transpirable.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Sportswear",
+    "Sneakers",
+    "New Balance",
+    "Todo New Balance"
+  ],
+  "price": {
+    "amount": 98.28,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "32,76 € al mes",
+  "sizes": [
+    "36 (UK 3.5)",
+    "37 (UK 4)"
+  ],
+  "colors": [
+    {
+      "name": "gris / blanco",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "gris",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "blanco / mora",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "blanco",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "blanco / azul petróleo / gris",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "negro / blanco",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "negro / gris",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "azul / blanco",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "beige / blanco",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "Abrir variación de color",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Motivo",
+          "value": "Sin patrón"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Estilo",
+          "value": "Liso"
+        },
+        {
+          "name": "Colección",
+          "value": "Classic"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "0196941308692"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m38957099/k$6c92a6e84323babbb353dfdb5d951037/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38957117/k$977f9ef5d34f09b9baecea51ad9d1007/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38957108/k$2897d5b5d177bfa04858543584457c9f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m20297519/k$62c0a7e137e5753a92bab84655ca3303/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19993722/k$90bec44245d3ab8f1da87ab1f967f565/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34763551/k$3a88ae31d0ae76a315415f6403ea1cb7/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m37493697/k$cff58e28c933c90a250832b5664a4450/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m37492777/k$864e6a2e80f530e9cab2baf1856f4104/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m37492743/k$3d87734764e56bec7782d5b241037a54/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m37493701/k$1f8f21af1f2fcda7fb83c5d259427c51/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T17:53:37.271Z"
+}

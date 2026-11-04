@@ -1,0 +1,137 @@
+{
+  "url": "https://www.decathlon.es/es/p/botas-de-futbol-multitacos-future-9-play-turf-adulto-amarillo-azul-puma/379390/m9010850",
+  "productKey": "379390_m9010850",
+  "variantId": "m9010850",
+  "productId": "9010850",
+  "name": "Botas de fútbol multitacos FUTURE 9 Play Turf Adulto Amarillo/Azul Puma",
+  "brand": "PUMA",
+  "description": "Con suela exterior de goma, tacos múltiples y de perfil bajo, son ideales para superficies naturales duras y césped artificial (2G), para que puedas esquivar fácilmente a los defensas.",
+  "stickers": [
+    "EXCLUSIVO DECATHLON"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas de futbolistas",
+    "Botas Carvajal"
+  ],
+  "price": {
+    "amount": 59.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "20,00 € al mes",
+  "sizes": [
+    "UK 6 EU 39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "3 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 3 años."
+    }
+  ],
+  "features": [
+    {
+      "title": "Comodidad",
+      "text": "Parte superior sintética ligera con lengüeta elástica."
+    },
+    {
+      "title": "Toque de balón",
+      "text": "Zonas de agarre en relieve para un mejor control del balón."
+    },
+    {
+      "title": "Adherencia",
+      "text": "Suela exterior de goma con tacos múltiples y de perfil bajo."
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de terreno",
+          "value": "Césped artificial"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado bajo"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos estabilizados"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "Puma unleashed pack, Future"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Control"
+        },
+        {
+          "name": "Tipo de plantilla",
+          "value": "Simple"
+        },
+        {
+          "name": "Nivel de rendimiento",
+          "value": "Palo"
+        }
+      ]
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p3192795/k$d513ac8d82b97dd334c498610f1c29c4/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3192392/k$40ae89964f63054216e1fdb745aefd96/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3192393/k$375dfa9032d5e6a8b27df4d2c29b1d87/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3192394/k$d9c2e42cfc838cb5187ecca7f8a60de7/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3192390/k$73e5d137519be8ba9c658bc90718d5b9/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3192391/k$52ad757d8104c450b3248fd034a2911d/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:42:32.320Z"
+}

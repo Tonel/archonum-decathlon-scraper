@@ -1,0 +1,113 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-puma-future-9-play-ff/5d5124cf-f325-4f22-a566-eda88415d74e/c1",
+  "productKey": "5d5124cf-f325-4f22-a566-eda88415d74e_c1",
+  "variantId": "c1",
+  "productId": null,
+  "name": "Botas de fútbol Puma Future 9 Play FF",
+  "brand": "PUMA",
+  "description": "Exprime tu talento en el campo con las zapatillas de fútbol Puma Future 9 Play FF, que combinan comodidad y un rendimiento excepcional.",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Puma",
+    "Botas de fútbol puma"
+  ],
+  "price": {
+    "amount": 54.55,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 54.6,
+    "currency": "EUR"
+  },
+  "financing": "18,18 € al mes",
+  "sizes": [
+    "39 (UK 6)",
+    "46 (UK 11)"
+  ],
+  "colors": [
+    {
+      "name": "negro",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "beige",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del mar, 10 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4070032959160"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m37713618/k$8c1e647e188f7a81b9b3391afd5d6472/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m37713788/k$0d435d98b672e8881cd630b892452aa0/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m37713742/k$2ccdfdff9ae2efd04721bbfe4f81e5fa/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m37713723/k$52810eeab051a475258799283c765eea/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m37713688/k$b7ade8e8e8938eab3663ff3380e6bfcb/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m37713652/k$b4cdd5946689162d379541e269a3f638/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:33:17.773Z"
+}

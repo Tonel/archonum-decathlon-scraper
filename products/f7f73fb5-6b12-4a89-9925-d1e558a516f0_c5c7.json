@@ -1,0 +1,137 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/asics-gel-challenger-15-clay-gris-1041a508/f7f73fb5-6b12-4a89-9925-d1e558a516f0/c5c7",
+  "productKey": "f7f73fb5-6b12-4a89-9925-d1e558a516f0_c5c7",
+  "variantId": "c5c7",
+  "productId": null,
+  "name": "Asics Gel-challenger 15 Clay Gris 1041a508",
+  "brand": "ASICS",
+  "description": "Las ASICS GEL-CHALLENGER 15 CLAY combinan materiales de alta calidad y tecnología avanzada para ofrecer resistencia, estabilidad y confort, con un enfoque en la sostenibilidad ambiental.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas de futbolistas",
+    "Botas de Benzema"
+  ],
+  "price": {
+    "amount": 81.9,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "27,30 € al mes",
+  "sizes": [
+    "41.5 (UK 7.5)",
+    "42 (UK 8.5)",
+    "43.5 (UK 9)",
+    "44 (UK 9)",
+    "44.5 (UK 9.5)",
+    "45 (UK 10.5)",
+    "46 (UK 11.5)"
+  ],
+  "colors": [
+    {
+      "name": "azul / azul grisáceo",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "gris / azul grisáceo",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Motivo",
+          "value": "Sin patrón"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Estabilidad"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Estrecho"
+        },
+        {
+          "name": "Colección",
+          "value": "X"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4571633404177"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m36008785/k$d36a1680224dc5b7d066b138a1fec6d3/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36008879/k$a890918924af670b996f063784def315/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36008862/k$e2ac687d09812dbef76faf2081f6ce99/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36008842/k$674a33574109e0e29cb8c11137eb9e94/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36008821/k$5ae007144af06338ccff7b3196184ef4/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35881616/k$7f6f6e531814b8761832ee69e5fef945/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T17:58:26.155Z"
+}

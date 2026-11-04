@@ -1,0 +1,136 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/kelme-zapatillas-de-futbol-sala-goleiro-azul-verde-unisex/7ba1c678-1d57-4cf2-9432-70bf0a3a5f1e/c5c9",
+  "productKey": "7ba1c678-1d57-4cf2-9432-70bf0a3a5f1e_c5c9",
+  "variantId": "c5c9",
+  "productId": null,
+  "name": "Kelme Zapatillas De Fútbol Sala Goleiro Azul Verde Unisex",
+  "brand": "KELME",
+  "description": "Kelme Zapatillas De Fútbol Sala Goleiro Azul Verde Unisex. Suela de Goma de Perfil Bajo. Tallaje correcto, elige tu talla habitual. Kelme, Leave Your Mark.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol sala",
+    "Zapatillas",
+    "Zapatillas hombre",
+    "Zapatillas hombre todo"
+  ],
+  "price": {
+    "amount": 37.73,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "12,58 € al mes",
+  "sizes": [
+    "35 (UK 2.5)",
+    "36 (UK 3)",
+    "37 (UK 4)",
+    "38 (UK 5)",
+    "40 (UK 6.5)",
+    "41 (UK 7)",
+    "42 (UK 8)",
+    "43 (UK 8.5)",
+    "44 (UK 9.5)",
+    "45 (UK 10.5)",
+    "46 (UK 11)",
+    "46.5 (UK 11.5)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Motivo",
+          "value": "Sin patrón"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordón tradicional"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Amortiguación, soporte y confort"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Estilo",
+          "value": "Bitonal"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Aviso legal",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8445664376986"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m25812706/k$dde10c79adfbc2237690d9c81ed66799/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m25812693/k$c72ec6d8c85392614cab2ae1a6993cdb/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m25812701/k$43ea70010caf2b54bddf492a4d45428f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m25812721/k$f054ef82f4588ff050330b2fb26ebb45/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m25812686/k$47e2559d81daa0e06557d8c1b23edb20/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m25812713/k$f89153c8ecbc7dbb3b6754f84bbfe595/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26447649/k$d5cf43dd5a56054394eabd4f3f4437e9/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:56:33.445Z"
+}

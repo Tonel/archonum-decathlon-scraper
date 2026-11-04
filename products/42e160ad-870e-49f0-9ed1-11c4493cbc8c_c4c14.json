@@ -1,0 +1,134 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-future-8-match-mg-ninos-puma/42e160ad-870e-49f0-9ed1-11c4493cbc8c/c4c14",
+  "productKey": "42e160ad-870e-49f0-9ed1-11c4493cbc8c_c4c14",
+  "variantId": "c4c14",
+  "productId": null,
+  "name": "Botas de fútbol FUTURE 8 MATCH MG Niños PUMA",
+  "brand": "PUMA",
+  "description": "Da Rienda Suelta A Tu Creatividad Con Las Future 8 Match.",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "Botas de futbol Puma niños",
+    "Botas de futbol Puma niños Future"
+  ],
+  "price": {
+    "amount": 58.79,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 69.99,
+    "currency": "EUR"
+  },
+  "financing": "19,60 € al mes",
+  "sizes": [
+    "35 (UK 2)",
+    "36 (UK 3)",
+    "37.5 (UK 4)",
+    "38.5 (UK 5)",
+    "28 (UK 10.5C)",
+    "32 (UK 13C)"
+  ],
+  "colors": [
+    {
+      "name": "blanco / rojo",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "blanco / negro / rojo",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de terreno",
+          "value": "Césped artificial"
+        },
+        {
+          "name": "Material",
+          "value": "Sintético"
+        },
+        {
+          "name": "Colección",
+          "value": "Future"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4069156645356"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m23115898/k$11bd687dab742e0e8eb00f142f3aa85b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m23115873/k$ae20de87655576cb76cef70f6d254908/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m23115863/k$e071d190f5b0a929fcd6b2f64bb033ac/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m23115913/k$370ba8aaff4d4d0d8259494cadf3551a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m23115884/k$a5fdf126e896f1da0ccb380d7b342163/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m23115925/k$e8ab0c326ef8fbbb466554da9f72135e/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:20:08.841Z"
+}

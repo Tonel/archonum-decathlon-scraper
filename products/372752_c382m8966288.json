@@ -1,0 +1,138 @@
+{
+  "url": "https://www.decathlon.es/es/p/zapatillas-de-futbol-para-adultos-con-cordones-100-fgag-negras/372752/c382m8966288",
+  "productKey": "372752_c382m8966288",
+  "variantId": "c382m8966288",
+  "productId": "8966288",
+  "name": "Zapatillas de fútbol para adultos con cordones 100 FGAG, negras",
+  "brand": "KIPSTA",
+  "description": "¿Quieres tener unas buenas botas para empezar a jugar al fútbol?Hemos desarrollado las botas 100 priorizando la comodidad y la flexibilidad para acompañar tus primeros toques.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas césped artificial",
+    "Botas de fútbol MG"
+  ],
+  "price": {
+    "amount": 14.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": null,
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "2 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 2 años."
+    }
+  ],
+  "features": [
+    {
+      "title": "Comodidad",
+      "text": "Empeine más ancho para aportar mayor comodidad."
+    },
+    {
+      "title": "Agarre",
+      "text": "Tacos múltiples moldeados, perfectos para terrenos secos o sintéticos."
+    },
+    {
+      "title": "Control del balón",
+      "text": "Componente exterior flexible y las costuras favorecen el contacto con el balón."
+    },
+    {
+      "title": "Resistencia",
+      "text": "Suela de plástico inyectado para evitar que se despegue la parte superior."
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Nivel de práctica",
+          "value": "Iniciación"
+        },
+        {
+          "name": "Intensidad",
+          "value": "Intensidad baja"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Césped artificial, Terreno seco"
+        },
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos fijos"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado bajo"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Impermeable",
+          "value": "No impermeable"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Ancho"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Confort"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordón tradicional"
+        },
+        {
+          "name": "Tipo de plantilla",
+          "value": "Simple"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p3225526/k$8aca85268e1d80b6c334919ab304eeb8/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3225562/k$5b8a8aa819f66e9d6a47f426215cb731/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3225553/k$f4957b4aeabb119f30c638e807c40093/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3225531/k$77fd8cc9ca5a912830129f1d3f86984e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3225544/k$6ff324d1901ac5129a69bfc8bd25a939/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3225555/k$7dcd463d7c66107f2edde1471fd53921/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T17:47:01.123Z"
+}

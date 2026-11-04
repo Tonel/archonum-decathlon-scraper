@@ -1,0 +1,115 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-nike-mercurial-superfly-10-pro-fg-roja/b231d928-9a58-49e7-be00-8db62471b657/c553c1c403",
+  "productKey": "b231d928-9a58-49e7-be00-8db62471b657_c553c1c403",
+  "variantId": "c553c1c403",
+  "productId": null,
+  "name": "Botas de fútbol Nike Mercurial Superfly 10 Pro FG Roja",
+  "brand": "NIKE",
+  "description": "Diseñadas para la velocidad y la agilidad en el campo, estas botas de fútbol Nike ofrecen una comodidad óptima y una libertad de movimiento.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Sportswear",
+    "Sneakers",
+    "Nike",
+    "todo nike"
+  ],
+  "price": {
+    "amount": 147.93,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "36,98 € al mes",
+  "sizes": [],
+  "colors": [
+    {
+      "name": "verde luciérnaga flúor / negro / morado carmesí",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "rojo / negro / morado carmesí",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "rosa / negro",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "rosa / negro / rosa fluorescente",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del mar, 10 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "0198482749910"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m38338660/k$38dfa7b3a43db3b0066f8d2effee9912/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38775217/k$e144910c1b22b5f2bdbb4a386b664452/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38775199/k$e841160662690bb0e43919af00c732e4/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38775162/k$32f3221869e5a558714bbb9a4407cd21/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38775134/k$136a66710c6a5fa5f0f86a8f4ab6c9ab/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38775105/k$d758e7ca974f24d0f4fe09b4cd954847/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T17:54:55.592Z"
+}

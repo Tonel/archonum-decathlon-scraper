@@ -1,0 +1,136 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-mizuno-monarcida-neo-iii-pro-con-tacos-moldeados/dd19b9d6-7ac4-48b5-9834-18b72cb47cec/c14c4",
+  "productKey": "dd19b9d6-7ac4-48b5-9834-18b72cb47cec_c14c4",
+  "variantId": "c14c4",
+  "productId": null,
+  "name": "Botas de Fútbol Mizuno Monarcida Neo III Pro con Tacos Moldeados",
+  "brand": "MIZUNO",
+  "description": "Botas de fútbol con tacos moldeados diseñadas para precisión, velocidad y estabilidad en terreno seco.",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas mujer"
+  ],
+  "price": {
+    "amount": 62.05,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 62.55,
+    "currency": "EUR"
+  },
+  "financing": "20,68 € al mes",
+  "sizes": [
+    "41 (UK 7.5)",
+    "42.5 (UK 8.5)",
+    "44 (UK 10)",
+    "44.5 (UK 10)",
+    "45 (UK 10)",
+    "46 (UK 10.5)",
+    "47 (UK 11)"
+  ],
+  "colors": [
+    {
+      "name": "rojo / blanco",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "rojo brillante / blanco",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos fijos"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordón tradicional"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "5059882633801"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m22709346/k$0ad4168260ec1b6137b1f653b42a8254/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22709367/k$29f899dd86a8079b763a9c8f5211aa11/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22709369/k$0e3fabf7fecdfb3c8209e307dc240642/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22709350/k$e35cf72272b0890c07a597cfaf2f37e9/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22709359/k$393229414e76aa54999d895e6f2323e4/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:33:08.155Z"
+}

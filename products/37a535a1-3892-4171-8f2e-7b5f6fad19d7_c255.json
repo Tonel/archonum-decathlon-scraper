@@ -1,0 +1,109 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatillas-de-futsal-joma-top-flex-ultimate-2676-multicolor/37a535a1-3892-4171-8f2e-7b5f6fad19d7/c255",
+  "productKey": "37a535a1-3892-4171-8f2e-7b5f6fad19d7_c255",
+  "variantId": "c255",
+  "productId": null,
+  "name": "Zapatillas de futsal Joma Top Flex Ultimate 2676 Multicolor",
+  "brand": "JOMA",
+  "description": "Diseñadas para el futsal, estas zapatillas Joma ofrecen flexibilidad y confort gracias a su cuero natural y su suela de goma duradera.",
+  "stickers": [
+    "Novedad"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Joma",
+    "Botas de fútbol joma"
+  ],
+  "price": {
+    "amount": 115.95,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "38,65 € al mes",
+  "sizes": [
+    "42 (UK 8)",
+    "43 (UK 9)",
+    "44 (UK 9.5)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Material",
+          "value": "Piel"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8447534144473"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m39961442/k$9765c0a937bcd13bfee2c8176765d0e4/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m39961570/k$1e0a9b87a3aa90bbc3fa6e5e36b936b1/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m39961545/k$a50f1c751cac40be9aa7f8ac8583643a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m39961520/k$4eaadc980b0a1a3e95663476e4e95093/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m39961492/k$0394276c021143aa8378d7fbc018f8c7/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m39961470/k$b2d179af90090fdd43ac9675a0b68c0d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m39961456/k$7b8c2413dbe76f584d35f3f5432af82f/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:52:26.583Z"
+}

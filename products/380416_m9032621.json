@@ -1,0 +1,122 @@
+{
+  "url": "https://www.decathlon.es/es/p/chaqueta-de-entrenamiento-adidas-tiro-26-f50-adulto/380416/m9032621",
+  "productKey": "380416_m9032621",
+  "variantId": "m9032621",
+  "productId": "9032621",
+  "name": "Chaqueta de entrenamiento adidas Tiro 26 F50 Adulto",
+  "brand": "ADIDAS",
+  "description": "Creada para jugadores aficionados, esta versátil chaqueta te ofrece la máxima comodidad dentro y fuera del campo gracias a su material suave y a la tecnología Climacool que evacua el sudor.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Adidas",
+    "Sudaderas de fútbol adidas"
+  ],
+  "price": {
+    "amount": 49.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "16,66 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "1 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 1 año."
+    }
+  ],
+  "features": [
+    {
+      "title": "Transpirabilidad",
+      "text": "La tecnología CLIMACOOL evacua el sudor."
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Personalización",
+          "value": "Personalizable"
+        },
+        {
+          "name": "Impermeable",
+          "value": "No impermeable"
+        },
+        {
+          "name": "Capucha",
+          "value": "Sin capucha"
+        },
+        {
+          "name": "Bolsillo",
+          "value": "Sin bolsillo"
+        },
+        {
+          "name": "Material",
+          "value": "Polyester"
+        },
+        {
+          "name": "Corte",
+          "value": "Estandar"
+        },
+        {
+          "name": "Estilo",
+          "value": "Liso"
+        },
+        {
+          "name": "Tipo de longitud",
+          "value": "Largo hasta la cadera"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        },
+        {
+          "name": "Cortavientos",
+          "value": "No cortavientos"
+        },
+        {
+          "name": "Sistema de ventilación",
+          "value": "Fijo"
+        },
+        {
+          "name": "Longitud de las mangas",
+          "value": "Manga larga"
+        }
+      ]
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p3195306/k$1cd30eb6f8b772c669877290d83d3ea0/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3195304/k$e05748ebe3c542b0665334dc23eabcd7/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3195316/k$b1cdcd8fd7f405e402b62b8dcb661bc9/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3195309/k$cda5122914d4df047dbdbd8953322166/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3195310/k$7c6d6211d817371b416f3efa09b10cd6/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3195311/k$1eaee364fd68fbad9e8e31513b3178b0/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:02:47.666Z"
+}

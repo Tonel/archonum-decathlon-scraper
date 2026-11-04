@@ -1,0 +1,104 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatillas-de-tacos-para-nino-nike-mercurial-superfly-blanco/389bdaf7-6178-4645-bf39-3347d8bf11af/c4",
+  "productKey": "389bdaf7-6178-4645-bf39-3347d8bf11af_c4",
+  "variantId": "c4",
+  "productId": null,
+  "name": "Zapatillas de tacos para Niño Nike Mercurial superfly Blanco",
+  "brand": "NIKE",
+  "description": "Zapatilla de fútbol sala Nike Mercurial Superfly 11 para niño, de horma clásica, con parte superior sintética y textil, cordones, tobillera Knit y suela de goma resistente.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Nike",
+    "Botas de fútbol nike"
+  ],
+  "price": {
+    "amount": 54.9,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "18,30 € al mes",
+  "sizes": [
+    "22 (UK 5C)",
+    "5-6 años",
+    "38 (UK 4)",
+    "37 (UK 5)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "0198958426055"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m38239184/k$6f9f2b3f317273084daf986c9a88f145/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38239302/k$e391e939165524c60fd66f8dfcab64f6/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38239269/k$e62bd09910b0c09bad84bfe51adfd248/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38545440/k$910f69da895f65aa755851246f7fd372/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38545439/k$83aaedf998d800b6e4f5a4093cd5a083/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38545438/k$d7b56f0f14ae440b90e59df23435db94/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38545437/k$cad749772310afacf0d0ad46b4001261/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:30:23.697Z"
+}

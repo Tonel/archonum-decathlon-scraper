@@ -1,0 +1,78 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/kelme-zapatillas-de-futbol-sala-precision-azul-oro-unisex/bd82ee12-4d4f-44b2-b8c0-8b500054cc15/c5",
+  "productKey": "bd82ee12-4d4f-44b2-b8c0-8b500054cc15_c5",
+  "variantId": "c5",
+  "productId": null,
+  "name": "Kelme Zapatillas De Fútbol Sala Precision Azul-oro Unisex",
+  "brand": "KELME",
+  "description": "Kelme Zapatillas De Fútbol Sala Precision Azul-oro Unisex. Suela de Goma de Perfil Bajo. . Kelme, Leave Your Mark.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol sala",
+    "Zapatillas",
+    "Zapatillas hombre",
+    "Zapatillas hombre todo"
+  ],
+  "price": {
+    "amount": 41.93,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "13,98 € al mes",
+  "sizes": [
+    "35 (UK 3)",
+    "36 (UK 3.5)",
+    "39 (UK 6)",
+    "40.5 (UK 7)",
+    "40 (UK 7.5)",
+    "42 (UK 7.5)",
+    "42.5 (UK 8.5)",
+    "44 (UK 9.5)",
+    "46.5 (UK 11.5)",
+    "46 (UK 11.5)",
+    "38 (UK 12)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [],
+  "careAndUse": "Instrucciones de cuidado Limpieza Lavar en el programa para ropa delicada.",
+  "images": [
+    "https://contents.mediadecathlon.com/m26835452/k$d5cf3d87ef8b2a449ae1fd05f5f513d7/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26835427/k$ee9533aa5e52609a5c9536d4aaa0f164/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m33320376/k$88ffcc32b67298eb4356416d5544195f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26840340/k$83a2ad222f6841c51a772cda632e47b8/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26840337/k$d0b1f54b7dba720c6b64e2ff8ac69bd0/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:01:36.009Z"
+}

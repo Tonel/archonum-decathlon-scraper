@@ -1,0 +1,115 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-senderismo-botas-de-montana-ilinoi-para-hombre-negro/588a91ef-ea74-420b-ba76-1c51db37dcc8/c1",
+  "productKey": "588a91ef-ea74-420b-ba76-1c51db37dcc8_c1",
+  "variantId": "c1",
+  "productId": null,
+  "name": "Botas de Senderismo/Botas de Montaña Ilinoi para Hombre Negro",
+  "brand": "HI-TEC",
+  "description": "Producto de alta calidad de marca Hi-Tec. Para Senderismo.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Oferta completa"
+  ],
+  "price": {
+    "amount": 99.35,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "33,12 € al mes",
+  "sizes": [
+    "42 (UK 8)",
+    "43 (UK 9)",
+    "44 (UK 10)",
+    "46 (UK 11)",
+    "47 (UK 12)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Ajuste clásico"
+        },
+        {
+          "name": "Material",
+          "value": "Tejido"
+        },
+        {
+          "name": "Impermeable",
+          "value": "Resistente al agua"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "5063527554918"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m17392657/k$12f99fce59f713a19ebef67a472bf521/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m17753608/k$67d355d73bbac73a6ade5c40c2bdd309/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m17392656/k$1c314b920b3046e323fdaf3643ee00f5/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m17392658/k$be01445ba09fff659901d0d196e90977/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m17392659/k$ebb6762a41689853e4c07ec1036dc4c3/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36752584/k$55d2d65786c7a1c48a151a3a888ce509/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:22:23.471Z"
+}

@@ -1,0 +1,109 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-skechers-elite-skx-02/80447dda-a866-48ae-a729-ca5fed2b8ab9/c24",
+  "productKey": "80447dda-a866-48ae-a729-ca5fed2b8ab9_c24",
+  "variantId": "c24",
+  "productId": null,
+  "name": "Botas de fútbol Skechers Elite SKX 02",
+  "brand": "SKECHERS",
+  "description": "Mejora tu rendimiento en el campo con los zapatos de fútbol Skechers Elite SKX 02, que combinan comodidad y estilo moderno.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas Skechers"
+  ],
+  "price": {
+    "amount": 165,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "41,25 € al mes",
+  "sizes": [],
+  "colors": [
+    {
+      "name": "rosa",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "negro",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "rojo / negro",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Agotado"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "0198739595819"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m39102241/k$d39e6db71fdc821c3e3cc3e66563b345/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m39102278/k$7413df5e3e5f3b02164e41ad1103cf05/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m39102271/k$628a1d062be5611317a81d060b1e5955/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m39102260/k$cc5f67bf5c660e4680dafe1e46c48c36/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m39102251/k$0d01413907182791fffaca1416db4f8e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m39941953/k$a1f9ed0cc07b3abdba01a1b90e899ac9/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:46:26.071Z"
+}

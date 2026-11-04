@@ -1,0 +1,93 @@
+{
+  "url": "https://www.decathlon.es/es/p/limpiador-para-guantes-de-portero-futbol-glove-wash-20-ml/386098/m9026093",
+  "productKey": "386098_m9026093",
+  "variantId": "m9026093",
+  "productId": "9026093",
+  "name": "Limpiador para guantes de portero Fútbol - Glove Wash 20 ml",
+  "brand": "REUSCH",
+  "description": "Protege tus guantes con el limpiador Reusch.Gracias a este producto especialmente diseñado para los guantes de portero, puedes limpiar eficazmente tus guantes y conservar su agarre.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Accesorios para botas",
+    "Todo accesorios"
+  ],
+  "price": {
+    "amount": 12.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": null,
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "1 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 1 año."
+    }
+  ],
+  "features": [
+    {
+      "title": "Limitación de los olores",
+      "text": "El limpiador permite refrescar tus guantes con un olor agradable."
+    },
+    {
+      "title": "Aportación de frescor",
+      "text": "Permite limpiar a fondo los guantes de portero y el látex de las palmas."
+    },
+    {
+      "title": "Facilidad de transporte",
+      "text": "Botella fácil de llevar en tu bolsa de deporte."
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de aplicación",
+          "value": "Spray"
+        },
+        {
+          "name": "Volumen (en ml)",
+          "value": "200 ml"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p3124307/k$682c968b6fba64c2b23f1af281c80890/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3145961/k$44bb56bcb0acfadd1b477d5dc6a74552/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3145960/k$c06b6485c34061c2f8e17b68f64e29df/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3145963/k$9f4ff69aff66747733201ef2d68e9351/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3145962/k$f1cffbee99e63665a3527f1da619c43a/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:00:37.630Z"
+}

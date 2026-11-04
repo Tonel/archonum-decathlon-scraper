@@ -1,0 +1,98 @@
+{
+  "url": "https://www.decathlon.es/es/p/botas-de-futbol-hombre-mujer-viralto-i-mg-ag-blanco/376215/c426m8977704",
+  "productKey": "376215_c426m8977704",
+  "variantId": "c426m8977704",
+  "productId": "8977704",
+  "name": "Botas de fútbol hombre/mujer VIRALTO I MG/AG Blanco",
+  "brand": "KIPSTA",
+  "description": "Con su suela MG/AG equipada con FELX-H, su lengüeta ancha y su parte superior gruesa, las Viralto I te brindan un buen agarre y una buena estabilidad, en todo tipo de terreno seco (hierba o sintético).",
+  "stickers": [
+    "Novedad"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Kipsta",
+    "Colección Viralto"
+  ],
+  "price": {
+    "amount": 29.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": null,
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "2 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 2 años."
+    }
+  ],
+  "features": [
+    {
+      "title": "Comodidad",
+      "text": "Exterior flexible, refuerzo textil y plantilla preformada."
+    },
+    {
+      "title": "Resistencia",
+      "text": "Vida útil dentro de la media, gracias a los materiales y procesos utilizados."
+    },
+    {
+      "title": "Flexibilidad multidireccional",
+      "text": "Flexibilidad multidireccional con tecnología FLEX-H y sistema DUAL HARDNESS"
+    },
+    {
+      "title": "Toque de balón",
+      "text": "Optimal Strike Zone: asimetría del eje de los cordones de -10 °C"
+    },
+    {
+      "title": "Agarre",
+      "text": "Múltiples tacos para un buen agarre en terrenos sintéticos."
+    },
+    {
+      "title": "Sujeción del producto",
+      "text": "Lengüeta ancha unida a la base, no se mueve durante la práctica y no se tuerce."
+    },
+    {
+      "title": "Facilidad para poner / quitar",
+      "text": "Gracias a su lengüeta, esta bota se pone y se ajusta muy fácilmente."
+    }
+  ],
+  "specifications": [],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p3096035/k$d263bc2107edc3d9f953a65982d92c62/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3096024/k$73dadd1be77d8482ec163f894dbd1a8e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3058380/k$4abae038de3ad2ba86a8183f5cf96d69/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3096025/k$ef0980924363aeaa01c18017775febde/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3058371/k$390bc998446fa108305c709e41b33fa4/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3096032/k$c931604eb2e3d26dd12391a341415f8e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3096033/k$2adedeee7affa2c86a00dbd10d756ee7/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3096026/k$adec03634cd49bb792a13394d6b5b0d0/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3096031/k$e051ab3645c8fc134c08f65fcea7f02e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3096034/k$961e2c685e5851c2ce39a95e9533d2cb/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T17:51:26.646Z"
+}

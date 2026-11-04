@@ -1,0 +1,115 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/kelme-zapatillas-de-nino-goleiro-turf-elastic-negro-unisex/f866bdcc-2e0f-411a-aab2-0e6c45bd6fd8/c1",
+  "productKey": "f866bdcc-2e0f-411a-aab2-0e6c45bd6fd8_c1",
+  "variantId": "c1",
+  "productId": null,
+  "name": "Kelme Zapatillas De Niño Goleiro Turf Elastic Negro Unisex",
+  "brand": "KELME",
+  "description": "Kelme Zapatillas De Niño Goleiro Turf Elastic Negro Unisex. Fabricada en 86% Piel sintética + 14% Textil. Tallaje correcto, elige tu talla habitual. Kelme, Leave Your Mark.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas césped artificial",
+    "Botas multitacos y turf"
+  ],
+  "price": {
+    "amount": 39.92,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "13,31 € al mes",
+  "sizes": [
+    "25 (UK 6C)",
+    "31 (UK 12.5C)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos estabilizados"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordón tradicional"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Aviso legal",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8445664498572"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m33997627/k$cb751a98a798c629042163938896176d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m33997618/k$6c44ea25d474f30229812215addfe8c0/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m33997600/k$9c7f55221635a32b63dc8ff4370098e9/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m33997634/k$281ab4e9da968a37b4b5dd10d5dab819/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:37:16.208Z"
+}

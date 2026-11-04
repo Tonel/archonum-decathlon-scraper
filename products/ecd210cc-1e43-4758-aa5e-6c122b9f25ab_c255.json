@@ -1,0 +1,102 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-nike-modelo-phantom-6-low-academy-para-ninos-unisex/ecd210cc-1e43-4758-aa5e-6c122b9f25ab/c255",
+  "productKey": "ecd210cc-1e43-4758-aa5e-6c122b9f25ab_c255",
+  "variantId": "c255",
+  "productId": null,
+  "name": "Botas de futbol Nike modelo Phantom 6 Low Academy para niños unisex",
+  "brand": "NIKE",
+  "description": "Botas de futbol Nike modelo Phantom 6 Low Academy para Niños Unisex en color multicolor.",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "Botas niños tacos"
+  ],
+  "price": {
+    "amount": 62.88,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 64.99,
+    "currency": "EUR"
+  },
+  "financing": "20,96 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del mié, 11 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "198958355126"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m38903130/k$69b978e07827aa4b38b4ef70fb4e4a42/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38903212/k$17dc5585509347374d4ed21e8c2d578e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38903183/k$5d13fdb9ad74600464c072b20e119432/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38903159/k$024177b2b94081fd7b606bba2bf82b26/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38903145/k$3887594d262cf4c9f5f9ae7bfbd42a0e/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:45:41.374Z"
+}

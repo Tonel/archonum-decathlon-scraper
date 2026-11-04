@@ -1,0 +1,104 @@
+{
+  "url": "https://www.decathlon.es/es/p/tacos-de-aluminio-kipsta-10-13-mm-para-botas-de-futbol/180431/m8396393",
+  "productKey": "180431_m8396393",
+  "variantId": "m8396393",
+  "productId": "8396393",
+  "name": "Tacos de Aluminio Kipsta 10-13 mm para Botas de Fútbol",
+  "brand": "KIPSTA",
+  "description": "Estos tacos de aluminio están disponibles en 2 tamaños: 10 mm y 13 mm. El paso de rosca estándar permite adaptarlos a las botas de deportes colectivos con tacos.",
+  "stickers": [
+    "Últimas unidades"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Accesorios para botas",
+    "Todo accesorios"
+  ],
+  "price": {
+    "amount": 7.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": null,
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "3 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 3 años."
+    }
+  ],
+  "features": [
+    {
+      "title": "Facilidad de uso",
+      "text": "Paso de rosca estándar."
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Nivel de práctica",
+          "value": "Todos los niveles"
+        },
+        {
+          "name": "Frecuencia",
+          "value": "Intensiva"
+        },
+        {
+          "name": "Intensidad",
+          "value": "Intensidad media"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Terreno resbaladizo"
+        },
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos recambiables"
+        },
+        {
+          "name": "Material",
+          "value": "Acero"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p1293396/k$b62a8a96d3589b1586b9c4aa6c5c16dd/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p1293395/k$3fbf2571933f802ef5fb1e6f29cabdb9/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:30:29.018Z"
+}

@@ -1,0 +1,99 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/secador-de-calzados-natural-dryer-bags-cedar-wood/c614081d-2369-4865-ab20-896c271cd335/c22c100",
+  "productKey": "c614081d-2369-4865-ab20-896c271cd335_c22c100",
+  "variantId": "c22c100",
+  "productId": null,
+  "name": "Secador de calzados natural - Dryer Bags Cedar Wood",
+  "brand": "SIDAS",
+  "description": "El Dryer Bags Cedar Wood seca de forma natural todo tipo de calzado húmedo.",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Accesorios para botas",
+    "Secador para botas"
+  ],
+  "price": {
+    "amount": 14.85,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": null,
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "3661267127083"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m40626727/k$912284ab4aeb2f98a13b5ffa067a12b2/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40626738/k$80679a8b9966c59b059164f9d32101fe/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40626737/k$c231dafd7ad1e85dd800ab0d9069630d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40626736/k$bc139d5eed4c9f7f96af3bab236a9188/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m17586881/k$444503b87eec6b7c856e77f33434ffc3/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:47:00.651Z"
+}

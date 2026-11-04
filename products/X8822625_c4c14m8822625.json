@@ -1,0 +1,131 @@
+{
+  "url": "https://www.decathlon.es/es/p/puma-ultra-play-tf-blanco-rojo-adulto/X8822625/c4c14m8822625",
+  "productKey": "X8822625_c4c14m8822625",
+  "variantId": "c4c14m8822625",
+  "productId": "8822625",
+  "name": "PUMA ULTRA Play TF Blanco/Rojo Adulto",
+  "brand": "PUMA",
+  "description": "Convierte los segundos en récords con las nuevas ULTRA PLAY.Esta zapatilla lleva una parte superior sintética ligera y resistente combinada con una suela ultrarrápida de TPU SPEEDPLATE.",
+  "stickers": [
+    "Últimas unidades"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas césped artificial",
+    "Botas multitacos y turf"
+  ],
+  "price": {
+    "amount": 33.99,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 54.99,
+    "currency": "EUR"
+  },
+  "financing": "11,33 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "3 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 3 años."
+    }
+  ],
+  "features": [
+    {
+      "title": "Ligereza",
+      "text": "Exterior ligero y resistente para una velocidad inigualable."
+    },
+    {
+      "title": "Toque de balón",
+      "text": "Acabado GripControl para un dominio decisivo del balón."
+    },
+    {
+      "title": "Flexibilidad",
+      "text": "Caña extremadamente flexible para tener mejores sensaciones en los pies."
+    },
+    {
+      "title": "Comodidad",
+      "text": "Ajuste de corte bajo para adaptarse perfectamente al tobillo."
+    },
+    {
+      "title": "Resistencia",
+      "text": "Contrafuerte integrado para una sujeción de primera calidad."
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de terreno",
+          "value": "Hierba sintética corta, Terreno duro"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado bajo"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos estabilizados"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "Ultra"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Velocidad"
+        },
+        {
+          "name": "Tipo de plantilla",
+          "value": "Simple"
+        }
+      ]
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p2546760/k$4bac2ae00d799ac33d9ba115afdb1afb/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2546764/k$33d0f3284af43dd5581e3e3f017d3437/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2546765/k$d3d1429473ac3d4415d9be9f2f96a820/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2546762/k$a5a9a6c8b81605d2548c064176eb82ee/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2546766/k$b0c48f2ffe8a600f67bf957a2a268970/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2546767/k$5476207cebb2aced3827421422c4541b/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:19:01.974Z"
+}

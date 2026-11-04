@@ -1,0 +1,130 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-adidas/06e838d8-3958-40ec-95f0-1ace7e2e646b/c22",
+  "productKey": "06e838d8-3958-40ec-95f0-1ace7e2e646b_c22",
+  "variantId": "c22",
+  "productId": null,
+  "name": "Botas De Fútbol Adidas X Crazyfast League Fg Amarillas",
+  "brand": "ADIDAS",
+  "description": "Bota de fútbol Adidas X Crazyfast League FG, ligera para aceleraciones explosivas, con materiales reciclados para sostenibilidad.",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas césped artificial",
+    "Botas de fútbol AG"
+  ],
+  "price": {
+    "amount": 74.8,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "24,93 € al mes",
+  "sizes": [
+    "28.5cm",
+    "42 (UK 8)",
+    "43 1/3 (UK 9)",
+    "45 1/3 (UK 10.5)",
+    "44 (UK 11)",
+    "46 (UK 11.5)",
+    "46 2/3 (UK 11.5)",
+    "47 1/3 (UK 12)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos fijos"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Colección",
+          "value": "X crazyfast"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Aviso legal",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4066765221650"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m14909006/k$751857fceb6d7f96144a52dbed1fd127/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m14909033/k$528a5dac6c137871e4f0d4fa3a130828/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m14908974/k$65bffaf1bb632ad8b54bc9b4ab20d11a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m15253552/k$4c8e33ace77a3359f6259d55e70b0842/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m14908979/k$da24a48756ea3273368b121ffcc790f6/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m14906143/k$a19530ec11a1b1be7ae1e164c58fd08c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m14906144/k$d47b3635267574b9030322217bd7b1fd/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:33:54.499Z"
+}

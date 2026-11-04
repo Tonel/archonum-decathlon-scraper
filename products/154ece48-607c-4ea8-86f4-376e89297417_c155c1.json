@@ -1,0 +1,111 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-nike-vapor-16-club-glacier-blue/154ece48-607c-4ea8-86f4-376e89297417/c155c1",
+  "productKey": "154ece48-607c-4ea8-86f4-376e89297417_c155c1",
+  "variantId": "c155c1",
+  "productId": null,
+  "name": "Botas de fútbol Nike Vapor 16 Club Glacier Blue",
+  "brand": "NIKE",
+  "description": "Nike Vapor 16 Club Fg/Mg, Sneaker Uomo, Glacier Blue Black, 42.5 Eu",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Nike",
+    "Botas de fútbol nike"
+  ],
+  "price": {
+    "amount": 48.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "16,33 € al mes",
+  "sizes": [
+    "42.5 (UK 8.5)",
+    "45.5 (UK 10.5)",
+    "46 (UK 11)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de terreno",
+          "value": "Terreno mixto"
+        },
+        {
+          "name": "Material",
+          "value": "Tejido"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "0197597354330"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m20156624/k$9456d37fcbae7e4698069da3782166d0/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m20492077/k$8c87021c48090adba9b91d5e7c985be8/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m20492063/k$4f3144db49a23050ff68e63bb4047682/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19834234/k$9d8104c4bfba10076851c23d85f259fd/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19834235/k$a91791624268d8f7c242549601d8931a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m17719542/k$3702298af6b19e023563779641aa9da9/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m17719525/k$8b2fc8b1d1fc8534e43ae5c65bd518d1/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:14:49.344Z"
+}

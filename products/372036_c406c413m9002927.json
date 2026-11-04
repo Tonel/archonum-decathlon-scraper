@@ -1,0 +1,115 @@
+{
+  "url": "https://www.decathlon.es/es/p/zapatillas-de-futbol-para-adultos-clr-7-elite-fg-azul-edicion-antoine-griezmann/372036/c406c413m9002927",
+  "productKey": "372036_c406c413m9002927",
+  "variantId": "c406c413m9002927",
+  "productId": "9002927",
+  "name": "Zapatillas de fútbol para adultos CLR 7 Elite FG Azul, edición Antoine Griezmann",
+  "brand": "KIPSTA",
+  "description": "Las CLR:las auténticas botas de Antoine Griezmann Las CLR, ligeras con menos de 200 g en la talla 42, han sido diseñadas en colaboración con jugadores y jugadoras de alto nivel que buscan dinamismo.",
+  "stickers": [
+    "Novedad"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas Kipsta",
+    "Clr"
+  ],
+  "price": {
+    "amount": 79.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "26,66 € al mes",
+  "sizes": [],
+  "colors": [
+    {
+      "name": "azul delicado / azul marca Decathlon",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "ultra blanco / ultra blanco",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "amarillo pálido flúor",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "rosa ultra fluorescente",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "verde neón fluorescente",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "2 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 2 años."
+    }
+  ],
+  "features": [
+    {
+      "title": "Ligereza",
+      "text": "Materiales finos y ligeros para favorecer la velocidad."
+    },
+    {
+      "title": "Velocidad",
+      "text": "Suela Pebax Powered®:mayor retorno de energía."
+    },
+    {
+      "title": "Comodidad",
+      "text": "Skin Touch Control para dar sensación de segunda piel.Materiales flexibles."
+    },
+    {
+      "title": "Limitación de las irritaciones",
+      "text": "Almohadillas Poron® y plantilla con revestimiento antiirritaciones."
+    },
+    {
+      "title": "Agarre",
+      "text": "Tacos con forma de rombo para un mejor agarre en terrenos secos."
+    }
+  ],
+  "specifications": [],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p3140527/k$c2d34a841bda267c1c3e46eb52194a55/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3140613/k$1b94c6a573424b5ef26c46dae8c49ccc/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3236796/k$5222560531e8162a50643b6b23d1b594/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3140538/k$380897803e70584302b45e991980974c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3140565/k$ea0b134a30a18e70d1e3ecba92202099/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3236799/k$fce5d4927b8938306d7035d1650f25fd/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3140618/k$e9d9dddd16e4b2a5d2b190e67a992ae0/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3140580/k$7e87711d102c32eacfbb9bc8d3fd4a19/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3236800/k$a46e700f0d41e58247a3a18628010b40/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:01:12.331Z"
+}

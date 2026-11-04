@@ -1,0 +1,101 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/deportivo-joma-futbol-toledo-jr-2411-amarillo-fluor-artificial-grass-cmsport/89bedf87-f87c-481e-8b2d-7237b831ee91/c22",
+  "productKey": "89bedf87-f87c-481e-8b2d-7237b831ee91_c22",
+  "variantId": "c22",
+  "productId": null,
+  "name": "Deportivo Joma FUTBOL TOLEDO JR 2411 AMARILLO FLÚOR ARTIFICIAL GRASS CMSport",
+  "brand": "JOMA",
+  "description": "Deportivo Joma FUTBOL TOLEDO JR 2411 AMARILLO FLÚOR TURQUESA ARTIFICIAL GRASS CMSport",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "copia botas niños"
+  ],
+  "price": {
+    "amount": 34.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "11,66 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Material",
+          "value": "Sintético"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8445954887482"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m38854161/k$ddccd6db9c45ffb7371dcfc287fefa95/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38854211/k$e09e4e24a8f6a7d67317db6b5f0692b8/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38854195/k$d166990429fe5c360b643d0454a7dc73/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38854177/k$7cf88cffaf757f45dba01120b5e20f29/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m17953932/k$bd7108a3b33352556a20cb792cb1f496/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:25:19.730Z"
+}

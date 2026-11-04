@@ -1,0 +1,74 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatillas-futbol-sala-nino-joma-top-flex-jr-azul/57c4bf7d-20e9-4b49-910c-451232afa886/c8",
+  "productKey": "57c4bf7d-20e9-4b49-910c-451232afa886_c8",
+  "variantId": "c8",
+  "productId": null,
+  "name": "Zapatillas Futbol sala Niño Joma TOP FLEX JR Azul",
+  "brand": "JOMA",
+  "description": "Zapatilla Joma TOP FLEX JR. Es ligera, cómoda y ofrece un buen rendimiento. La parte superior en piel sintética. Perfecta para futbol sala",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol sala",
+    "Zapatillas",
+    "Zapatillas niños",
+    "Zapatillas niños Joma"
+  ],
+  "price": {
+    "amount": 43.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "14,66 € al mes",
+  "sizes": [
+    "36 (UK 3)",
+    "31",
+    "33",
+    "34",
+    "35",
+    "38",
+    "32 (UK 13C)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del mar, 10 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m22091927/k$b5283fdaa4cb91d29e5d19afc1c63a7f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22091928/k$0d99588fcef0a75af53722d1eb883223/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22091926/k$a6bc77e89298981a06203b3185dbb367/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22091925/k$f27f1808829a810699212027e2730934/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m20430094/k$72329023dbb840e667eb23aaa6b57890/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:13:14.695Z"
+}

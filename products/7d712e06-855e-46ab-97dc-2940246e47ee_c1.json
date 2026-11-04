@@ -1,0 +1,94 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-nike-jr-legend-10-club-fgmg-negro-ninos/7d712e06-855e-46ab-97dc-2940246e47ee/c1",
+  "productKey": "7d712e06-855e-46ab-97dc-2940246e47ee_c1",
+  "variantId": "c1",
+  "productId": null,
+  "name": "Botas de fútbol Nike Jr Legend 10 Club FgMg, Negro, Niños",
+  "brand": "NIKE",
+  "description": "Género: niños. Materiales: piel natural. Botas de fútbol Nike Jr Legend 10 Club FgMg #DV4352-040",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "Botas de futbol Nike niños"
+  ],
+  "price": {
+    "amount": 44.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "15,00 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "0196608062509"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m15903399/k$9faeb0fcbe2cf6b52b5be144f8c600e2/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m15903093/k$84ec0722782cd8faedc7aca9bb8efa0b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m15903046/k$a8614e35f780ede4713d898117a94b3b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m15903078/k$bfb1eedbdd59cad4e11885dddd9de4cd/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m15903046/k$a8614e35f780ede4713d898117a94b3b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26555053/k$1d1c6ce40c652ab470ee4cd03df0aca2/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:45:38.552Z"
+}

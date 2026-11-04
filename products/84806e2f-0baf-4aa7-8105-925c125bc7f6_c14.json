@@ -1,0 +1,119 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/de-futbol-tiempo-legend-10-academy/84806e2f-0baf-4aa7-8105-925c125bc7f6/c14",
+  "productKey": "84806e2f-0baf-4aa7-8105-925c125bc7f6_c14",
+  "variantId": "c14",
+  "productId": null,
+  "name": "Zapatos de fútbol Nike Tiempo Legend 10 Academy MG Naranja",
+  "brand": "NIKE",
+  "description": "Diseñadas para el fútbol, estos zapatos Nike Tiempo Legend 10 Academy MG ofrecen confort y adherencia en superficies naturales y sintéticas.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Todo fútbol"
+  ],
+  "price": {
+    "amount": 74.2,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "24,73 € al mes",
+  "sizes": [
+    "40 (UK 6.5)",
+    "42.5 (UK 8)"
+  ],
+  "colors": [
+    {
+      "name": "rojo",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "naranja",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "amarillo",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "0197602983449"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m25493631/k$c457268b28b5efaf81893c578ac78429/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m25493618/k$1e40cc72ef5039639a13f170af1ab287/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m25493616/k$5234e311286065b6e9e938d3a7d2f9a6/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m25493628/k$cf506f291ece17fddf40e72b39aeffd7/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m25493624/k$6f198bed283ed87f52c55277538ab49a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m25493633/k$668f2a3b746d8b7ce4ccf8ebf1f42e60/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:12:00.253Z"
+}

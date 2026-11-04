@@ -1,0 +1,86 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/puma-botas-de-futbol-puma-future-7-play-mg/f1d90e7d-cbf7-4676-8455-a0f00191e94e/c5",
+  "productKey": "f1d90e7d-cbf7-4676-8455-a0f00191e94e_c5",
+  "variantId": "c5",
+  "productId": null,
+  "name": "ZAPATILLAS FÚTBOL ADULTO PUMA FUTURE 7 PLAY MG. 107941 01",
+  "brand": "PUMA",
+  "description": "Botas de fútbol Puma Future 7 Play FG/AG fabricadas con materiales sintéticos y textiles parcialmente reciclados con una parte superior ligera, cuello elástico para un ajuste cómodo, detalles texturiz",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Baloncesto",
+    "Todo baloncesto"
+  ],
+  "price": {
+    "amount": 39.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "13,33 € al mes",
+  "sizes": [
+    "39 (UK 6)",
+    "41 (UK 8)",
+    "42 (UK 8)",
+    "43 (UK 8.5)",
+    "42.5 (UK 8.5)",
+    "44 (UK 9.5)",
+    "44 (UK 10)",
+    "45 (UK 11)",
+    "46 (UK 11.5)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m19023260/k$e375af3afa4e2042803f06a5d0a4eaef/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m18854613/k$486c20ef5d32e6ce427b9b3bec7fc804/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m18854617/k$9194bfef4ee9621bdf3652269ba27cce/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m18854614/k$0b6e0bef176ce0a231a24c6766391977/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35757381/k$b303f54c1ded5e5cc7331fed30fa86d7/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35757330/k$ee6b785314020536b6ce9e28341475b4/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35757256/k$3bee582e07edd01d5c1470946ffb1414/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35757207/k$689fee35748fd3355617e8f6aaac932b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35467859/k$2918156c90db3418465b8e475a2e7925/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34290444/k$a42c9db9de654bf960cb78c2c426b5ad/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34290380/k$abd30d730601265d2b0ca2aa23b92ce2/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34290614/k$73b370af3408e705df31184dd577fb36/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34290449/k$a06cd91810ca9ce3bde8c59827fa8283/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34290556/k$8223c4798577924aa3c2fef6db2628aa/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34290503/k$1608bdae00a9a43b7f67453fc543b6db/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:35:04.888Z"
+}

@@ -1,0 +1,152 @@
+{
+  "url": "https://www.decathlon.es/es/p/botas-de-futbol-adulto-eskudo-club-turf-amarillo/376957/c346m8981987",
+  "productKey": "376957_c346m8981987",
+  "variantId": "c346m8981987",
+  "productId": "8981987",
+  "name": "Botas de fútbol adulto, Eskudo Club Turf amarillo",
+  "brand": "KIPSTA",
+  "description": "Las botas Eskudo Club cuentan con amortiguación a lo largo de toda la suela.De este modo, garantizan un mejor apoyo, una comodidad óptima y resistencia.",
+  "stickers": [
+    "Novedad"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas césped artificial",
+    "Botas multitacos y turf"
+  ],
+  "price": {
+    "amount": 34.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "11,66 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "2 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 2 años."
+    }
+  ],
+  "features": [
+    {
+      "title": "Amortiguación",
+      "text": "Suela ancha y gruesa con amortiguación excelente bajo el pie."
+    },
+    {
+      "title": "Resistencia a la abrasión",
+      "text": "Componentes ultrarresistentes para proteger el calzado de la abrasión."
+    },
+    {
+      "title": "Toque de balón",
+      "text": "Puntera acolchada para un toque de balón mejorado."
+    },
+    {
+      "title": "Comodidad",
+      "text": "Plantilla moldeada de espuma EVA para ofrecer un confort óptimo."
+    },
+    {
+      "title": "Suela que no deja marcas",
+      "text": "Suela que no deja marcas en la pista,."
+    },
+    {
+      "title": "Sujeción del producto",
+      "text": "Refuerzo termoformado en el talón para una sujeción máxima."
+    },
+    {
+      "title": "Adherencia",
+      "text": "La suela de caucho favorece los apoyos en terrenos lisos."
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Intensidad",
+          "value": "Intensidad media"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Hierba sintética corta, Césped artificial, Terreno duro"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado bajo"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos estabilizados"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Control"
+        },
+        {
+          "name": "Colección",
+          "value": "Eskudo"
+        },
+        {
+          "name": "Tipo de plantilla",
+          "value": "Preformado"
+        },
+        {
+          "name": "Nivel de rendimiento",
+          "value": "Palo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p3140643/k$6092c2f4e9aa74cd532cf781b3e4dd63/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3140571/k$cd8685d5cee0540ab201195230ece35b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3140535/k$5c8e7009816cdd1cb8ac6f4762ef8f0e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3140591/k$e5b6b11a54996347fccbc8d2eaecaa42/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3140552/k$7ea3f96ba01f86a3243380b75293f62e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3140607/k$0d6f7306cc5c6ec17fd14a7c4db55def/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:00:28.772Z"
+}

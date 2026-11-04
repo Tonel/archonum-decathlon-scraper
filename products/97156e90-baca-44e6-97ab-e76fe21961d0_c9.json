@@ -1,0 +1,108 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatillas-futbol-sala-adulto-puma-truco-iii-107979-03/97156e90-baca-44e6-97ab-e76fe21961d0/c9",
+  "productKey": "97156e90-baca-44e6-97ab-e76fe21961d0_c9",
+  "variantId": "c9",
+  "productId": null,
+  "name": "ZAPATILLAS FÚTBOL SALA ADULTO PUMA TRUCO III. 107979 03",
+  "brand": "PUMA",
+  "description": "Si buscas rendimiento a la par que estilo en tus partido de fútbol sala estas Truco III de Puma son la opción que estabas buscando. Destacarás en la cancha, su parte superior de calidad",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Puma",
+    "Botas de fútbol puma"
+  ],
+  "price": {
+    "amount": 36,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "12,00 € al mes",
+  "sizes": [
+    "41 (UK 7.5)",
+    "42 (UK 8)",
+    "43 (UK 8.5)",
+    "44 (UK 9.5)",
+    "45 (UK 11)"
+  ],
+  "colors": [
+    {
+      "name": "verde",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "amarillo neón fluorescente",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del dom, 8 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4067979352482"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m17920900/k$ba7eeb06119cfb01187c2b96a6e25e27/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m17920899/k$046f83e5b6fcb333a8f4103b70af82b0/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m17920898/k$d41a0b886942b2561335590d0f07bdf6/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m17920895/k$f5c1d3502776872fe2467494aac8ea46/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38792815/k$9857f8d86c35ad1a70dedd2337e41de8/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38792765/k$5c92e46bd4dc1571436bfa60e8a5898f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38792725/k$e4fa2344772c9d118735a5915d81f486/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:09:59.567Z"
+}

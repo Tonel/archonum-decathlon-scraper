@@ -1,0 +1,144 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-ultra-nitro-7-match-fg-ag-unisex-puma/4c3c767c-849b-4677-9c90-d2bfd7565819/c1c9",
+  "productKey": "4c3c767c-849b-4677-9c90-d2bfd7565819_c1c9",
+  "variantId": "c1c9",
+  "productId": null,
+  "name": "Botas de fútbol ULTRA NITRO™ 7 MATCH FG/AG unisex PUMA",
+  "brand": "PUMA",
+  "description": "Potencia Tu Juego Al Máximo Cuando Vueles Con Las Botas Livianas Ultra Nitro™ 7 Match. Combinan Una Suela Speedsystem 2.",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas de futbolistas",
+    "Botas de Coman"
+  ],
+  "price": {
+    "amount": 55.5,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 64,
+    "currency": "EUR"
+  },
+  "financing": "18,50 € al mes",
+  "sizes": [
+    "40 (UK 6)",
+    "41 (UK 7)",
+    "42 (UK 7.5)",
+    "42.5 (UK 8)",
+    "43 (UK 8.5)",
+    "44 (UK 9)",
+    "44.5 (UK 9.5)",
+    "45 (UK 10)"
+  ],
+  "colors": [
+    {
+      "name": "negro / verde",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "azul",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "rojo / negro / blanco",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "4 en stock"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Terreno duro"
+        },
+        {
+          "name": "Material",
+          "value": "Sintético"
+        },
+        {
+          "name": "Colección",
+          "value": "Ultra"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4070032981673"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m36740392/k$fc328a6232f6693bf60825255d5f5026/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36740447/k$5096c005f1234829154c194ccc8040d1/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36740429/k$4237732ca8a30d595f87209073704b7d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36740417/k$c8ea05cab6bc8b8a1234d3007748c443/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36740406/k$770f9102f8016b63f4b102dc8d3c3b21/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36740397/k$c09c0fc462c3506f835ec4c4180f487f/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:54:04.751Z"
+}

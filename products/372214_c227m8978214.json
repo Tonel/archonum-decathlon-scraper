@@ -1,0 +1,175 @@
+{
+  "url": "https://www.decathlon.es/es/p/botas-de-futbol-multitacos-clr-tf-low-red-storm-blanco-amarillo/372214/c227m8978214",
+  "productKey": "372214_c227m8978214",
+  "variantId": "c227m8978214",
+  "productId": "8978214",
+  "name": "Botas de Fútbol multitacos CLR TF Low Red Storm blanco amarillo",
+  "brand": "KIPSTA",
+  "description": "¿Buscas unas botas ligeras para correr más rápido? Las CLR , con exterior ultrafino y suela de Pebax®, te aportan explosividad, reactividad y velocidad.",
+  "stickers": [
+    "Novedad"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas Kipsta",
+    "Clr"
+  ],
+  "price": {
+    "amount": 59.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "20,00 € al mes",
+  "sizes": [],
+  "colors": [
+    {
+      "name": "ultra blanco",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "rosa ultra fluorescente",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "2 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 2 años."
+    }
+  ],
+  "features": [
+    {
+      "title": "Impulso",
+      "text": "Mejora tu velocidad gracias a una suela ligera y reactiva de Pebax®Powered."
+    },
+    {
+      "title": "Resistencia a la abrasión",
+      "text": "Botas con un diseño y una construcción concebidas para durar más tiempo."
+    },
+    {
+      "title": "Agarre",
+      "text": "Suela de caucho de gran calidad, resistente a la abrasión."
+    },
+    {
+      "title": "toque del balón",
+      "text": "Disfruta de una sensación segunda piel gracias al concepto Skin Control."
+    },
+    {
+      "title": "Peso",
+      "text": "Juega con ligereza gracias a sus materiales finos, ligeros y flexibles"
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Nivel de práctica",
+          "value": "Experto"
+        },
+        {
+          "name": "Frecuencia",
+          "value": "Intensiva"
+        },
+        {
+          "name": "Intensidad",
+          "value": "Intensidad alta"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Hierba sintética corta, Césped artificial, Terreno duro"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado alto"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos estabilizados"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Estrecho"
+        },
+        {
+          "name": "Colección",
+          "value": "Clr"
+        },
+        {
+          "name": "Peso (en g)",
+          "value": "268g"
+        },
+        {
+          "name": "Vida útil mínima",
+          "value": "95 entrenamientos"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Velocidad"
+        },
+        {
+          "name": "Tipo de plantilla",
+          "value": "Preformado + almohadillas"
+        },
+        {
+          "name": "Jugadores",
+          "value": "Griezmann"
+        },
+        {
+          "name": "Nivel de rendimiento",
+          "value": "Pro"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p3140534/k$dc0badcee5a95db73bcdc59386c4d41c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3140636/k$1d8e35b0dcd80dbd85daaa580204d9ee/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3140575/k$50a42af0443dc33f223fd72c9152f923/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3140629/k$014cd587f878bd758607df0ab96ff95b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3140644/k$1da555055e15a29811066d9f88156d06/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3140561/k$95f657a631cb351cc5c964ffa9610b77/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:44:35.734Z"
+}

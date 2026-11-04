@@ -1,0 +1,105 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-adidas-predator-freak-3-laceless-negro-amarillo/d53c3df8-cefe-4fcb-aa62-3dae68f19bf0/c1c4c22",
+  "productKey": "d53c3df8-cefe-4fcb-aa62-3dae68f19bf0_c1c4c22",
+  "variantId": "c1c4c22",
+  "productId": null,
+  "name": "Botas de fútbol adidas Predator Freak.3 Laceless Negro/Amarillo",
+  "brand": "ADIDAS",
+  "description": "Diseñadas para los jóvenes futbolistas, estas botas adidas Predator Freak.3 ofrecen un soporte óptimo y un control del balón mejorado.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "copia botas niños"
+  ],
+  "price": {
+    "amount": 79.15,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "26,38 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de terreno",
+          "value": "Hierba"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4064037560827"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m17823735/k$f1c1670f652262cb37dc7008d3c817ac/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m17141110/k$ea3b8b7258977592df06f1b7ffea3efd/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m17823757/k$5c17292286c10a8a97a4b040ca64fa7f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m17823781/k$0cd31f348d6378b8f3835e105a165f3d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m17823706/k$a7354431f81b95e91238c6e831127069/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:41:24.602Z"
+}

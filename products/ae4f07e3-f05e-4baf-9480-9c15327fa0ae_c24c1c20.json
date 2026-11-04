@@ -1,0 +1,109 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-adidas-x-ghosted-3-tf-j-rosa-negro-naranja/ae4f07e3-f05e-4baf-9480-9c15327fa0ae/c24c1c20",
+  "productKey": "ae4f07e3-f05e-4baf-9480-9c15327fa0ae_c24c1c20",
+  "variantId": "c24c1c20",
+  "productId": null,
+  "name": "Botas de fútbol adidas x ghosted.3 tf j Rosa/Negro/Naranja",
+  "brand": "ADIDAS",
+  "description": "Diseñadas para los jóvenes futbolistas, estas zapatillas ligeras ofrecen un soporte óptimo y tracción en superficies sintéticas.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas césped artificial",
+    "Botas multitacos y turf"
+  ],
+  "price": {
+    "amount": 48,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "16,00 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos estabilizados"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Terreno duro"
+        },
+        {
+          "name": "Material",
+          "value": "Sintético"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4064037865571"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m4790915/k$3eeace9e92c0fc2a6d442798a5a4d2be/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m4790917/k$25aa7bbaafb3ac87f237574026e3f788/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m4790919/k$1d1a3335161ec3e3bb3440dbc465097a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m4790923/k$7a0b8e5518401234cb393d36d1885833/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m27647064/k$dbee19129d2414fada7a4b4d4e749518/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:23:30.611Z"
+}

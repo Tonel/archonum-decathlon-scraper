@@ -1,0 +1,104 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-para-hombre-joma-aguila-tf/e57fc556-2e36-42e3-85d4-00f54e17741b/c1c9",
+  "productKey": "e57fc556-2e36-42e3-85d4-00f54e17741b_c1c9",
+  "variantId": "c1c9",
+  "productId": null,
+  "name": "Botas de fútbol para hombre Joma Aguila 2501 TF",
+  "brand": "JOMA",
+  "description": "Botas de fútbol para hombre Joma Aguila 2501 TF",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Joma",
+    "Botas de fútbol joma"
+  ],
+  "price": {
+    "amount": 34.09,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "11,36 € al mes",
+  "sizes": [
+    "41 (UK 7.5)",
+    "40 (UK 8)",
+    "42 (UK 8)",
+    "43 (UK 8.5)",
+    "44 (UK 9)",
+    "45 (UK 10.5)",
+    "46 (UK 11.5)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del mar, 10 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8447368009627"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m34885873/k$2e8339fb6c3e6180b0dfbd6e6d0fa740/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34885908/k$d43dc109fa40ca4d05dd57b4256b5472/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34885903/k$2cbe5b34baae881b6da9ddbc6cbdebc2/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34885916/k$a280e52c590a5ff26a53a1ae22a33687/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34885914/k$6760fae1475ab337c344f407cbb1722f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34885919/k$34693db3e20debad6736e2cfd8868e25/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34885911/k$a66133790b3ab7d199083bee1f82b13b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35822666/k$798020e8c5a112c5333e42a1e6f3260d/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:19:46.435Z"
+}

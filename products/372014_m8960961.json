@@ -1,0 +1,138 @@
+{
+  "url": "https://www.decathlon.es/es/p/botas-de-futbol-multitacos-future-8-play-turf-adulto-naranja/372014/m8960961",
+  "productKey": "372014_m8960961",
+  "variantId": "m8960961",
+  "productId": "8960961",
+  "name": "Botas de fútbol multitacos FUTURE 8 Play Turf Adulto Naranja",
+  "brand": "PUMA",
+  "description": "Jugadores, dad rienda suelta a vuestra creatividad con las FUTURE 8 PLAY.La parte superior ligera ofrece comodidad y soporte, mientras que las líneas en la puntera añaden agarre al balón.",
+  "stickers": [
+    "Últimas unidades"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas césped artificial",
+    "Botas multitacos y turf"
+  ],
+  "price": {
+    "amount": 24.99,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 59.99,
+    "currency": "EUR"
+  },
+  "financing": null,
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "1 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 1 año."
+    }
+  ],
+  "features": [
+    {
+      "title": "Comodidad",
+      "text": "Parte superior ligera con lengüeta LYCRA® que proporciona comodidad y sujeción."
+    },
+    {
+      "title": "Adherencia",
+      "text": "Suela adecuada para superficies duras y césped artificial (2G)."
+    },
+    {
+      "title": "Toque de balón",
+      "text": "Las líneas en relieve en la puntera ofrecen mayor control del balón."
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de terreno",
+          "value": "Césped artificial"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Personalización",
+          "value": "Personalizable"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado bajo"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos estabilizados"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "Paquete de persecución caliente puma, Future"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Control"
+        },
+        {
+          "name": "Tipo de plantilla",
+          "value": "Simple"
+        },
+        {
+          "name": "Jugadores",
+          "value": "Neymar"
+        },
+        {
+          "name": "Nivel de rendimiento",
+          "value": "Palo"
+        }
+      ]
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p3021937/k$896c5e5c7401885a4801383cd7eec48e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3021932/k$85aa5547784390704556e3759da219b0/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3021933/k$a5e3458dc39bfcd722c0d37f18e3faf7/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3021934/k$7d6d9798dfc1eb9ae63a517016debbe0/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3021935/k$038ba7da07e283a42c0ab7f28e8aa63f/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:18:16.991Z"
+}

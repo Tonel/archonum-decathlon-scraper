@@ -1,0 +1,159 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatillas-adidas-modelo-x-plr-path-para-mujer/53a9fb92-ba94-4fb4-b1db-be814e84ce0d/c24c4c199",
+  "productKey": "53a9fb92-ba94-4fb4-b1db-be814e84ce0d_c24c4c199",
+  "variantId": "c24c4c199",
+  "productId": null,
+  "name": "Zapatillas Adidas modelo X_PLR Path para mujer",
+  "brand": "ADIDAS",
+  "description": "Zapatillas Adidas modelo X_PLR Path para Mujer en color .",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Sportswear",
+    "Todo Sportswear"
+  ],
+  "price": {
+    "amount": 76.25,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "25,42 € al mes",
+  "sizes": [],
+  "colors": [
+    {
+      "name": "rosa / blanco / naranja coral pálido",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "negro / rosa / blanco",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "blanco / beige",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "rosa / blanco",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "blanco / beige / blanco",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Motivo",
+          "value": "Sin patrón"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Material",
+          "value": "Punto"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Confort"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Estilo",
+          "value": "Liso"
+        },
+        {
+          "name": "Colección",
+          "value": "X"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4068807062979"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m27128410/k$0e4e7c8a1e1a55e1113a6d276b7815f9/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35443988/k$0d9462a6d983a0c719ef1bec50d8d3f2/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35443534/k$1fe6ba3e8cd11bff994703dde59e143b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35443548/k$b26ceecb47c1b57e49118b11cdced0d7/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35722112/k$fee8de5549d8d082fb0cdaeb6ed47b43/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35722105/k$4de6b90fc65573bb0040f8e9afc1378c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35722100/k$9799ee6c188df83d2acc6a93128ebd4f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35722089/k$0bb38e9b5474f3b9c5968c5824cd46ec/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35443548/k$b26ceecb47c1b57e49118b11cdced0d7/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m27125694/k$6f97c8901ae17bed88d8d6b721013d8b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m27125690/k$64e0c149c0d272debad2c23cb78d4c83/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m27125700/k$d74ff37eb5698ec6ca3ccbe93ca0bd73/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m27125698/k$ea7e2e283e22cb77213476cc68eb0a35/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m27125702/k$e87c55d34359406c13f0728c3cc25208/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m27125696/k$d5475d4b7f578c346b4e94287d633318/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:11:05.639Z"
+}

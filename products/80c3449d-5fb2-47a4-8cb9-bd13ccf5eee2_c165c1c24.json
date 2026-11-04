@@ -1,0 +1,167 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-puma/80c3449d-5fb2-47a4-8cb9-bd13ccf5eee2/c165c1c24",
+  "productKey": "80c3449d-5fb2-47a4-8cb9-bd13ccf5eee2_c165c1c24",
+  "variantId": "c165c1c24",
+  "productId": null,
+  "name": "Botas de fútbol Puma Future 8 Match FG/AG",
+  "brand": "PUMA",
+  "description": "Domina el terreno con las Zapatos de Fútbol Puma Future 8 Match FG/AG para niños: estilo, comodidad y rendimiento se unen.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas de futbolistas",
+    "Botas Carvajal"
+  ],
+  "price": {
+    "amount": 47,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "15,67 € al mes",
+  "sizes": [
+    "36 (UK 3.5)",
+    "37 (UK 4)",
+    "38 (UK 5)"
+  ],
+  "colors": [
+    {
+      "name": "amarillo limón / negro / rosa",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "negro / morado / rojo flúo",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "negro / gris verdoso / verde",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "negro",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "negro / blanco / rojo flúo",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "amarillo / negro / rosa",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "negro / verde",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordón tradicional"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Terreno blando a suelo medio"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "Future"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4067983089930"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m21405803/k$388d877b33b39918b91ad10fa1ae848f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m21405811/k$eb41f943940c56bb1c0b5983b66ce462/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m21405840/k$00ec6411ecfac36910069255ae951f1a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m21405832/k$4b7963a6cd3e631db1a59fc343bb9ef3/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m21405894/k$62dd969f6a4de72163f9d2f42251d03a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m21405895/k$d36802be6e0db88b503738ce6003276c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35742201/k$c2cbc9894c763d4d3fd9d1f72378e7c1/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35742168/k$aa4e2ade0156710a6ec8da48a6e3f46d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35449771/k$d8e87b002edf2849cc54119ab9d45a44/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35449751/k$9d34d37fd8f571f4406cada6ed48952a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35742295/k$7ee7761cc7bfe3e3aa1d16ba715704da/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35742284/k$16f4573f7e524d56f9d2e284691cea3c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35742261/k$dc6242f2d75157ef880b4d2621c9d82a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35742238/k$c7b4f7f849aae12d0b2bdb9ac71c6849/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35053686/k$5431d6db53bbf8f696a8436838409499/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:21:58.592Z"
+}

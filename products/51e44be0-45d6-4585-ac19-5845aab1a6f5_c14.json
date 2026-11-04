@@ -1,0 +1,106 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/bota-de-futbol-con-lengueta-plegable-predator-league-cesped-artificial/51e44be0-45d6-4585-ac19-5845aab1a6f5/c14",
+  "productKey": "51e44be0-45d6-4585-ac19-5845aab1a6f5_c14",
+  "variantId": "c14",
+  "productId": null,
+  "name": "Bota de fútbol con lengüeta plegable PREDATOR LEAGUE césped artificial",
+  "brand": "ADIDAS",
+  "description": "Botas de fútbol con tecnología Nanostrike para precisión en el golpeo.",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "Botas de futbol adidas niños",
+    "Botas de futbol adidas niños Predator"
+  ],
+  "price": {
+    "amount": 47.5,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 48.5,
+    "currency": "EUR"
+  },
+  "financing": "15,83 € al mes",
+  "sizes": [],
+  "colors": [
+    {
+      "name": "rojo",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "rojo / negro / blanco",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "negro / blanco / rojo",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "negro",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "azul claro / azul / amarillo",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "azul claro",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Agotado"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m27494902/k$d1d186890d066f4c768880be11a426dd/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m27494900/k$f9d8e64bc451b4c311fd89c0a4d055d8/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m27494899/k$0e1fa71364633cc150f07081341cf52a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m27494904/k$f06c4cdc513f49a00f11d8a25f6319aa/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m27494901/k$f774e6ee48d1c4646813dc98b64fce59/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m27494905/k$9418b1edcf2d7a7e38f9e2fe82085554/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m27494903/k$60efc4e38d01ca096d7be97addc42d23/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36644264/k$23e449161123337ccd72670f9a231dd7/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:00:29.318Z"
+}

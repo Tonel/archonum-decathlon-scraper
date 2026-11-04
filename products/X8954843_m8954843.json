@@ -1,0 +1,107 @@
+{
+  "url": "https://www.decathlon.es/es/p/zapatilla-futbol-sala-munich-g3-kid-profit-nino/X8954843/m8954843",
+  "productKey": "X8954843_m8954843",
+  "variantId": "m8954843",
+  "productId": "8954843",
+  "name": "Zapatilla fútbol sala Munich G3 Kid Profit niño",
+  "brand": "MUNICH",
+  "description": "Esta zapatilla favorece al control y nos protege de posibles esguinces al dotar a la zapatilla de gran capacidad de torsión.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol sala",
+    "Zapatillas",
+    "Zapatillas niños",
+    "Zapatillas niños todo"
+  ],
+  "price": {
+    "amount": 47.99,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 55.99,
+    "currency": "EUR"
+  },
+  "financing": "16,00 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "3 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 3 años."
+    }
+  ],
+  "features": [
+    {
+      "title": "Resistencia a la abrasión",
+      "text": "Material sintético resistente a la abrasión."
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de terreno",
+          "value": "Todo tipo de terrenos"
+        },
+        {
+          "name": "Tipo de taco",
+          "value": "Sin tacos"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado bajo"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Material",
+          "value": "Sintético"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Control"
+        },
+        {
+          "name": "Tipo de plantilla",
+          "value": "Simple"
+        }
+      ]
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p2779597/k$f4c8186abec5a4e0e3bb2eca9c1e93b0/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2779596/k$cd8064e1d80192f83be97747a9b9d7d3/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2779598/k$d5fdbebf9b97182823b6d1e0fe30a87b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2779595/k$d81ae2780a4e6ffcbd45c8a76b07b715/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T17:45:45.939Z"
+}

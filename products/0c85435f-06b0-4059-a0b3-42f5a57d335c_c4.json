@@ -1,0 +1,107 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-futbol-futbol-adulto-joma-score-23-ag-blanco/0c85435f-06b0-4059-a0b3-42f5a57d335c/c4",
+  "productKey": "0c85435f-06b0-4059-a0b3-42f5a57d335c_c4",
+  "variantId": "c4",
+  "productId": null,
+  "name": "Botas Fútbol Fútbol Adulto Joma Score 23 AG Blanco",
+  "brand": "JOMA",
+  "description": "Botas de fútbol para jugar en césped artificial (AG). Se trata de unas botas de fútbol polivalentes, que te darán la combinación perfecta entre velocidad pura y control del balón.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Joma",
+    "Botas de fútbol joma"
+  ],
+  "price": {
+    "amount": 57.8,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "19,27 € al mes",
+  "sizes": [
+    "39 (UK 5.5)",
+    "42 (UK 8)",
+    "43 (UK 8.5)",
+    "43.5 (UK 9)",
+    "44 (UK 9.5)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de terreno",
+          "value": "Terreno seco"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8445757922663"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m19125075/k$3e7c2285ffe64d674403dd8a2f0f3620/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19125074/k$b4c16b001007dc4b377697c899a64019/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m14812966/k$a2f87a5354ffe6b423bf9d706a0c6fa1/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19125073/k$8b80e87c74f5e1a71303d55e105fd605/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m14809091/k$0f7c4c1a41769d63d5220b3625f695d5/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:13:56.806Z"
+}

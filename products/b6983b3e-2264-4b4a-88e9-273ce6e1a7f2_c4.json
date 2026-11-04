@@ -1,0 +1,142 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-puma-future-8-play-tt/b6983b3e-2264-4b4a-88e9-273ce6e1a7f2/c4",
+  "productKey": "b6983b3e-2264-4b4a-88e9-273ce6e1a7f2_c4",
+  "variantId": "c4",
+  "productId": null,
+  "name": "Botas de fútbol Puma Future 8 Play TT",
+  "brand": "PUMA",
+  "description": "Explora tu potencial en el campo con las zapatillas de fútbol Puma Future 8 Play TT, que combinan comodidad y un rendimiento inigualable.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Puma",
+    "Botas de fútbol puma"
+  ],
+  "price": {
+    "amount": 65.9,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "21,97 € al mes",
+  "sizes": [],
+  "colors": [
+    {
+      "name": "blanco",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "blanco / azul",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "naranja",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "multicolor",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del mar, 10 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de taco",
+          "value": "Sin tacos"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Hierba"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4069156649620"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m34105856/k$82fcefb7244ae2ce50b98341c9399131/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34105843/k$44ebbf82c49ae645fe6d2405bdb9cf03/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34105827/k$7250aa6bdba058d92356fd0823f199bf/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34105861/k$44db2deca8a17bb7009235096c4d1b22/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34105851/k$82e05682471e31287054c8c468b8f117/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28777986/k$8b86bc531300670fe6d1c30832374eb8/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28170912/k$9ad4cc15b4cc69662c7403c9088e9c3b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36651091/k$ea74d88f729c02bd5cdb261a940339b0/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36651055/k$1988c32f649a33a5f09f1ee4c1eeb300/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:21:30.628Z"
+}

@@ -1,0 +1,93 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/adulto-futbol-sala-zapatillas-para-pista-interior-it-puma-v6-11-it/ea918ae7-b2fe-4534-8432-a3028a330a83/c22",
+  "productKey": "ea918ae7-b2fe-4534-8432-a3028a330a83_c22",
+  "variantId": "c22",
+  "productId": null,
+  "name": "Adulto Fútbol sala - Zapatillas para pista interior IT - Puma v6.11 IT",
+  "brand": "PUMA",
+  "description": "La v6.11 IT de Puma es una zapatilla de fútbol de materiales de calidad superior, diseñada para pistas de interior, que permite agarre y precisión óptimos en cada movimiento.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Puma",
+    "Botas de fútbol puma"
+  ],
+  "price": {
+    "amount": 35,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "11,67 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4051411562805"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m27901882/k$58dc003d9d62376edf873bf408532aa8/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m27901904/k$a7494db2f6accbb36190a9af0975cc9a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m27901891/k$5a0c212fdc9acc8389512e6302f4bf93/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m27901928/k$ee19aad04f6e5491d430fbbce02e9219/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m27901915/k$b3dcbd3bf00810418a5c56f511979396/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:17:01.754Z"
+}

@@ -1,0 +1,137 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-future-9-play-turf-ninos-puma/b075f939-4133-4d3b-91c2-97e5aec061de/c24c20",
+  "productKey": "b075f939-4133-4d3b-91c2-97e5aec061de_c24c20",
+  "variantId": "c24c20",
+  "productId": null,
+  "name": "Botas de fútbol FUTURE 9 PLAY Turf Niños PUMA",
+  "brand": "PUMA",
+  "description": "Da Rienda Suelta A Tu Creatividad Con Las Future 9 Play Juveniles.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "Botas de futbol Puma niños",
+    "Botas de futbol Puma niños Future"
+  ],
+  "price": {
+    "amount": 54,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "18,00 € al mes",
+  "sizes": [
+    "37 (UK 4)",
+    "37.5 (UK 4.5)",
+    "38 (UK 5)"
+  ],
+  "colors": [
+    {
+      "name": "rosa / naranja",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "negro",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "rojo / blanco / negro",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "negro / rojo / gris",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos estabilizados"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Hierba"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Colección",
+          "value": "Future"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4069161177606"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m34738068/k$bcf2d81dbc4339c5f9b80517a82d97b0/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34738006/k$7aa21a6b92abe6c2b0ac4a222e1acdc6/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34737983/k$4a9a459bf34d559a513f0a00c8bbfc45/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34738101/k$597d1b9d06be304ae61b082207114825/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34738034/k$4c7287f27a46776e0782f465f639c482/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34738134/k$d10b18a695cb16fc6d7ad9ad7449d2af/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35192807/k$4be1c95b60263d451c2ccb02a3298aae/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:47:57.330Z"
+}

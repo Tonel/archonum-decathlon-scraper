@@ -1,0 +1,146 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatilla-de-futbol-con-lengueta-plegable-predator-club-indoor/e441590e-34be-4adb-9efd-451e94ffd53f/c20",
+  "productKey": "e441590e-34be-4adb-9efd-451e94ffd53f_c20",
+  "variantId": "c20",
+  "productId": null,
+  "name": "Zapatilla de fútbol con lengüeta plegable PREDATOR CLUB Indoor",
+  "brand": "ADIDAS",
+  "description": "zapatilla de fútbol sala con material sintético suave para mayor comodidad",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "Botas de futbol adidas niños",
+    "Botas de futbol adidas niños Predator"
+  ],
+  "price": {
+    "amount": 43,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 43.2,
+    "currency": "EUR"
+  },
+  "financing": "14,33 € al mes",
+  "sizes": [
+    "36 2/3 (UK 4)",
+    "38 2/3 (UK 5.5)",
+    "29 (UK 10.5C)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del mar, 10 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Motivo",
+          "value": "Sin patrón"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Interior"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado bajo"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Impermeable",
+          "value": "No impermeable"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "Predator"
+        },
+        {
+          "name": "Nivel de práctica",
+          "value": "Perfeccionamiento"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4068815931441"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m26870510/k$64079bc3706aaf183ea4f20e8fdf3f2b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26870494/k$704d5353e2a257708015b596fc56b65e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26870488/k$98ef8abb291044a694f5d90c4ffdae0a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26870522/k$8456f31e812d6107defe016b7d3721e5/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26870502/k$d2ee5eb439d158742df451e887400491/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26870529/k$f12b84f3a32cdf4b96c91ff132b46099/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26870517/k$e6ff78e440444fda45fef1dbb7b391e1/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36646031/k$4bbd608fd632c7182fcbf5c089ad7fb9/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:28:44.077Z"
+}

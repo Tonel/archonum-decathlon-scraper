@@ -1,0 +1,143 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/adidas-predator-league-fg-botas-de-futbol-para-ninos/b6f8385c-9adc-4f95-b4ec-2d260970dabd/c5c22c12",
+  "productKey": "b6f8385c-9adc-4f95-b4ec-2d260970dabd_c5c22c12",
+  "variantId": "c5c22c12",
+  "productId": null,
+  "name": "adidas Predator League FG Botas de fútbol para niños",
+  "brand": "ADIDAS",
+  "description": "Botas de fútbol adidas Predator League FG para niños - empeine sintético Nanostrike, suela Strikeframe y tacos moldeados para superficies naturales.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "copia botas niños"
+  ],
+  "price": {
+    "amount": 68,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "22,67 € al mes",
+  "sizes": [
+    "34 (UK 2)",
+    "37 1/3 (UK 4.5)"
+  ],
+  "colors": [
+    {
+      "name": "azul / amarillo / verde oscuro",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "negro",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "rojo",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "azul",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del mar, 10 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos fijos"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Terreno duro"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Colección",
+          "value": "Adidas ice cold paquete de precisión"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4068812944819"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m34316477/k$d5c4f7c6c8a06119eb80bc434149cbeb/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34802438/k$dc34091eaea18f45f1a8fb4e632c0de3/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34802405/k$a38a82c092114774e4c1b849b64b16a0/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34802522/k$aa96988f58a7567b8cf71c73bfa9bb78/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34802470/k$9fcd6db1cd004c33ddfe2f95ec8879a9/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34802539/k$9108c921efd8f5c4ea86eb11c915d993/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34802495/k$f4a37fb62b39b8192feb022d0b4d7cea/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:33:50.129Z"
+}

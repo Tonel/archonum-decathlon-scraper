@@ -1,0 +1,149 @@
+{
+  "url": "https://www.decathlon.es/es/p/botas-de-futbol-multitacos-predator-club-nino-negro-turf-adidas/380257/c1c14m9027642",
+  "productKey": "380257_c1c14m9027642",
+  "variantId": "c1c14m9027642",
+  "productId": "9027642",
+  "name": "Botas de fútbol multitacos Predator Club Niño Negro Turf adidas",
+  "brand": "ADIDAS",
+  "description": "La Predator Club Turf es la aliada de los jóvenes campeones.Ofreciendo comodidad, agarre y facilidad para calzarse, permite desarrollar la técnica con precisión y estilo.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "Botas de futbol adidas niños",
+    "Botas de futbol adidas niños Predator"
+  ],
+  "price": {
+    "amount": 49.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "16,66 € al mes",
+  "sizes": [],
+  "colors": [
+    {
+      "name": "negro / rojo",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "negro",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "blanco",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "rojo",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "1 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 1 año."
+    }
+  ],
+  "features": [
+    {
+      "title": "Comodidad",
+      "text": "La parte superior sintética está forrada con tejido suave para dar más comodidad"
+    },
+    {
+      "title": "Agarre",
+      "text": "Suela con tacos diseñada para jugar de manera precisa en terrenos de césped."
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Personalización",
+          "value": "Personalizable"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado bajo"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos estabilizados"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Hierba sintética corta"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "Predator"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Control"
+        },
+        {
+          "name": "Tipo de plantilla",
+          "value": "Simple"
+        },
+        {
+          "name": "Nivel de rendimiento",
+          "value": "Palo"
+        }
+      ]
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p3161408/k$129e702826033b9828f694d5d6d0ed29/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3161396/k$9e0ec73fec50c95b04b2d9fa51489fd9/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3161390/k$9e90d2aa7b449d6cc426b9b91cee823e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3161406/k$d4c7de49aac95cac092caa35d31ee0e7/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3161404/k$8a8ffc2f8121102e3b2ab0de58c34864/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3161399/k$670e5063eaa48336a5f5bb15cc274e90/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3161401/k$f8da836512e69a1d9a7043c0066d90b8/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T17:50:36.758Z"
+}

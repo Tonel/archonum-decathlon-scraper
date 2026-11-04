@@ -1,0 +1,67 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/kelme-zapatillas-de-nino-precision-shadow-azul-unisex-kids/ed3ced7c-9f62-42ff-8995-ec32957dc838/c5",
+  "productKey": "ed3ced7c-9f62-42ff-8995-ec32957dc838_c5",
+  "variantId": "c5",
+  "productId": null,
+  "name": "Kelme Zapatillas De Niño Precision Shadow Azul Unisex Kids",
+  "brand": "KELME",
+  "description": "Kelme Zapatillas De Niño Precision Shadow Azul Unisex Kids. Fabricada en 45% Piel sintética + 35% Microfibra + 20% Textil. Tallaje correcto, elige tu talla habitual. Kelme, Leave Your Mark.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Fútbol sala",
+    "Zapatillas fútbol sala"
+  ],
+  "price": {
+    "amount": 24.95,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": null,
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m27613245/k$124910ffbcb0fe2fd0d1a7223193811e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m27613244/k$73577606b4bb2c97328182be28e60d10/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m27613241/k$a9b06c6876ee314bcf19647aaa7ac91c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m33632901/k$15ab75e8abd0a3443d2310d830be18e2/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m33632899/k$591012b127b259925ec5258caf2188df/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m33632902/k$e6c2b368cd228966d175c7efb3813117/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m33632900/k$0b0ed62590b344e99cf0675834fdb094/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:32:53.608Z"
+}

@@ -1,0 +1,128 @@
+{
+  "url": "https://www.decathlon.es/es/p/botas-de-futbol-future-9-pro-fg-ag-adulto-rojo/379252/m8993629",
+  "productKey": "379252_m8993629",
+  "variantId": "m8993629",
+  "productId": "8993629",
+  "name": "Botas de fútbol FUTURE 9 Pro FG/AG Adulto Rojo",
+  "brand": "PUMA",
+  "description": "Las zonas 3D te ofrecen mayor control del balón para que cada toque cuente el doble.La forma y la ubicación de los tacos permiten una agilidad de 360° y una libertad de movimientos total.",
+  "stickers": [
+    "Últimas unidades"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas césped artificial",
+    "Botas de fútbol MG"
+  ],
+  "price": {
+    "amount": 46.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "15,66 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "1 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 1 año."
+    }
+  ],
+  "features": [
+    {
+      "title": "Comodidad",
+      "text": "Material tecnológico con doble capa."
+    },
+    {
+      "title": "Sujeción del producto",
+      "text": "Banda de sujeción en la parte central del pie para ofrecer una sujeción y estabilidad óptimas."
+    },
+    {
+      "title": "Toque de balón",
+      "text": "Zonas de agarre en relieve para un mejor control del balón."
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de terreno",
+          "value": "Hierba, Césped artificial"
+        },
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos fijos"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado bajo"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "Puma unleashed pack, Future"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Control"
+        },
+        {
+          "name": "Tipo de plantilla",
+          "value": "Simple"
+        },
+        {
+          "name": "Nivel de rendimiento",
+          "value": "Pro"
+        }
+      ]
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p3070018/k$406aea1601de4886edf71209b1dccd24/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3070021/k$18306777fa3e1e8461ecad9c3209fab3/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3070020/k$01974b8313a498acbb72c99263756ff9/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3070023/k$1d268d919356526cc9f8770a2658e3d7/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3070027/k$5fc4206d60d5e48626020a7e7f8d71da/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3070025/k$434b7fbab33512a05206cca896fc8610/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T17:53:09.130Z"
+}

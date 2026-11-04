@@ -1,0 +1,122 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-futbol-futbol-ninos-joma-evolution-jr-26-tf-naranja/1e9ffe70-68f7-4e4d-8721-1989fbdc5af5/c20",
+  "productKey": "1e9ffe70-68f7-4e4d-8721-1989fbdc5af5_c20",
+  "variantId": "c20",
+  "productId": null,
+  "name": "Botas Fútbol Fútbol Niños Joma Evolution Jr 26 TF Naranja",
+  "brand": "JOMA",
+  "description": "Botas Fútbol Fútbol Niños Joma Evolution Jr 26 TF Naranja",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "copia botas niños"
+  ],
+  "price": {
+    "amount": 42,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "14,00 € al mes",
+  "sizes": [],
+  "colors": [
+    {
+      "name": "naranja",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "negro",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "turquesa",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "blanco",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de taco",
+          "value": "Minitacos"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8447534964408"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m36208981/k$e956043b76d0e4a98adf896275b768f4/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38851721/k$6b329db436b3f3ebc3a61f304bc983d0/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36209065/k$091d68b64e23df6cef08a495d40ebffe/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36209034/k$efc0df465cc7c1d1601c25fc7ba74d0c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38851712/k$1fdd9df27d551a6b91d3d58cce271337/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:22:28.193Z"
+}

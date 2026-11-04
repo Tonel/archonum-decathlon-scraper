@@ -1,0 +1,116 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-joma-modelo-scjw2504tfv-para-ninos/6c8df6f3-6002-40a2-bc24-55f4dbb59ffe/c5",
+  "productKey": "6c8df6f3-6002-40a2-bc24-55f4dbb59ffe_c5",
+  "variantId": "c5",
+  "productId": null,
+  "name": "Botas de futbol Joma modelo SCJW2504TFV para niños",
+  "brand": "JOMA",
+  "description": "Botas de futbol Joma modelo SCJW2504TFV para Niños en color multicolor.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas césped artificial",
+    "Botas de fútbol AG"
+  ],
+  "price": {
+    "amount": 37.51,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "12,50 € al mes",
+  "sizes": [
+    "33 (UK 1)",
+    "34 (UK 1.5)",
+    "25 (UK 6C)",
+    "35 (UK 2.5)",
+    "24 (UK 7C)",
+    "27 (UK 9C)",
+    "28 (UK 9C)",
+    "29 (UK 10.5C)",
+    "30 (UK 11.5C)",
+    "31 (UK 12C)",
+    "32 (UK 13C)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del mar, 10 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Correa"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Hierba sintética corta"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8447368122142"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m21971865/k$5d08d88d894d26957a38c6654f95b656/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m21971867/k$e47cf98f2ad993e18bcb1bab21d9c831/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m21971864/k$d23ba967f0164583d6eaa5857bcb4bc2/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m21971866/k$5c93bd4aa67ae2bd689ba476a781ae35/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:43:54.738Z"
+}

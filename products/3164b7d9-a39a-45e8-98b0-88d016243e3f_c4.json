@@ -1,0 +1,147 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/kelme-botas-de-futbol-agility-lite-blanco-unisex/3164b7d9-a39a-45e8-98b0-88d016243e3f/c4",
+  "productKey": "3164b7d9-a39a-45e8-98b0-88d016243e3f_c4",
+  "variantId": "c4",
+  "productId": null,
+  "name": "Kelme Botas De Fútbol Agility Lite Blanco Unisex",
+  "brand": "KELME",
+  "description": "Kelme Botas De Fútbol Agility Lite Blanco Unisex. Suela de TPU con tacos de MG. Tallaje correcto, elige tu talla habitual. Kelme, Leave Your Mark.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas césped artificial",
+    "Todo Botas césped artificial"
+  ],
+  "price": {
+    "amount": 38.94,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "12,98 € al mes",
+  "sizes": [
+    "39 (UK 6)",
+    "40 (UK 7.5)",
+    "42 (UK 7.5)",
+    "41 (UK 8)",
+    "43 (UK 8.5)",
+    "44 (UK 9.5)",
+    "45 (UK 11)",
+    "46 (UK 11.5)"
+  ],
+  "colors": [
+    {
+      "name": "blanco",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "negro",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del mar, 10 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Motivo",
+          "value": "Sin patrón"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordón tradicional"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Amortiguación, soporte y confort"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Estilo",
+          "value": "Bitonal"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Aviso legal",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8445664303173"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m22365002/k$02deba57f715471ffcafa30eaaf33bf4/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22366334/k$cab35cddfcc973cf8f4ddb17caf1d482/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22365099/k$2281ab6de4aea1c99e60c4bb5197ebd0/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22364952/k$2a83ff2d98540f7f02beec0f07687849/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22365151/k$f26c5722c937966b7d34c5f0c2878013/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22365051/k$f1efa284fff6c7cafa82fc845cbf8f64/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26465729/k$add943f414a0a4fd6793bd51a039684b/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:49:33.916Z"
+}

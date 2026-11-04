@@ -1,0 +1,141 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/sneakers-deportivas-asics-gel-nyc-beige/7c0e29c7-3561-4efe-9254-64df10bea7f2/c255",
+  "productKey": "7c0e29c7-3561-4efe-9254-64df10bea7f2_c255",
+  "variantId": "c255",
+  "productId": null,
+  "name": "Sneakers Deportivas Asics GEL-NYC Beige",
+  "brand": "ASICS",
+  "description": "ASICS en color Beige y cuero y otros materiales, cómodas sneakers con un toque de moda para tus looks casuales en tus paseos diarios.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Sportswear",
+    "Todo Sportswear"
+  ],
+  "price": {
+    "amount": 107.8,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "35,93 € al mes",
+  "sizes": [
+    "38 (UK 4.5)",
+    "42.5 (UK 8)"
+  ],
+  "colors": [
+    {
+      "name": "multicolor",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "gris",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "beige",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "blanco",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "crema / gris perla / gris",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Tira autoadherente y correa elástica"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado bajo"
+        },
+        {
+          "name": "Material",
+          "value": "Punto"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4550456223899"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m39642964/k$7142799c953ef27d84d6a70c6f124ca0/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m17648256/k$5e252d982c801d285ca07bcd777e7773/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m17648308/k$1c2477a231c0235d21dd922ff0da1de9/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m17648176/k$2471af58e0b45bd1002d691cedcb98c8/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m17648223/k$5ea4c51949e085730406e9eb36227050/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m18136520/k$f91528f11cea92d95f6cef2dd4c48678/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T17:55:48.760Z"
+}

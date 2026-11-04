@@ -1,0 +1,67 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/guantes-de-portero-de-futbol-shadow-beast-3-0-para-adulto/8c231f3f-328a-4c0e-8789-fdd9f1dd8132/c1c4",
+  "productKey": "8c231f3f-328a-4c0e-8789-fdd9f1dd8132_c1c4",
+  "variantId": "c1c4",
+  "productId": null,
+  "name": "Guantes de portero de fútbol Shadow BEAST 3.0 para adulto",
+  "brand": "T1TAN",
+  "description": "Guantes de portero profesionales para césped",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Portero",
+    "Guantes de portero",
+    "Guantes Titan"
+  ],
+  "price": {
+    "amount": 89.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "30,00 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m21853401/k$a55817688a694524eec1939ae55bfcaa/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m21853394/k$80924c81057345351f16c4e7a7b026a4/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m21853392/k$94e2b28e684a70cb4b2b7ee8b7a4add0/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m21853397/k$915748050c358ac40c5d808f62b47bfc/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m21853390/k$60bcec9b7e2d9db877b12feedbbdc9d9/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m21853403/k$2f6ebaa6bc41346e44536b6a7f4b0e80/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:43:35.733Z"
+}

@@ -1,0 +1,135 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/bota-con-lengueta-plegable-predator-league-jude-bellingham-cesped-natural-seco/cda09845-7184-436b-bb2f-b6552ef8632d/c1",
+  "productKey": "cda09845-7184-436b-bb2f-b6552ef8632d_c1",
+  "variantId": "c1",
+  "productId": null,
+  "name": "Bota con lengüeta plegable Predator League Jude Bellingham césped natural seco /",
+  "brand": "ADIDAS",
+  "description": "Chuta como Jude Bellingham con esta versátil bota.",
+  "stickers": [
+    "Novedad"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "Botas de futbol adidas niños",
+    "Botas de futbol adidas niños Predator"
+  ],
+  "price": {
+    "amount": 126.2,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "31,55 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos fijos"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Terreno seco"
+        },
+        {
+          "name": "Jugadores",
+          "value": "Bellingham"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "Predator"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Aviso legal",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4068811514525"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m40000006/k$5b94047ab1b16782603cfb375c3afab8/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40000278/k$2058d135908595ee18c64159646727aa/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40000241/k$f0162728182b322d4cf445a90d3ee2c6/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40000205/k$06e75ac1d53717278bc65ae15d3886c2/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40000159/k$0212e5941014a109463d493c16d012cf/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40000119/k$40af5440fcbe347ae643b599f620b479/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40000083/k$cbb32264ffee8f062cafb290f39b3486/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40000044/k$075f0f48e7ea78bb8ed38b4e3f86a361/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:39:23.847Z"
+}

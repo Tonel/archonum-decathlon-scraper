@@ -1,0 +1,100 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/nino-futbol-sala-zapatillas-para-pista-interior-it-puma-evospeed-5-4-it/b76a57f5-436b-4005-914c-f092324d991d/c1",
+  "productKey": "b76a57f5-436b-4005-914c-f092324d991d_c1",
+  "variantId": "c1",
+  "productId": null,
+  "name": "Niño Fútbol sala - Zapatillas para pista interior IT - Puma evoSPEED 5.4 IT",
+  "brand": "PUMA",
+  "description": "La evoSPEED 5.4 IT de Puma es una zapatilla de fútbol de niño diseñada para pistas de interior, de materiales de calidad superior para un agarre y una precisión óptimos.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Puma",
+    "Botas de fútbol puma"
+  ],
+  "price": {
+    "amount": 25.5,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": null,
+  "sizes": [
+    "33 (UK 1)",
+    "28 (UK 9.5C)",
+    "30 (UK 11C)",
+    "32 (UK 13.5C)",
+    "46 (UK 11)",
+    "47 (UK 12)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4055263067525"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m27902622/k$a056107939c30ced664ce06dffd40a97/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m27902628/k$94335b231c87dfae6fdbde9e639d266d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m27902625/k$eb37ac9c4369d2dfe83ec50e866e791f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m27902632/k$b47495c120f1429e765580caf12921de/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m27902630/k$e6d3cce092c85af4f659ff43db47a89e/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:27:50.628Z"
+}

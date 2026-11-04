@@ -1,0 +1,131 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-futbol-futbol-adulto-joma-evolution-24-ag-turquesa/290b7da3-6ac0-4e3e-a6cd-ed2215130312/c238c22c126",
+  "productKey": "290b7da3-6ac0-4e3e-a6cd-ed2215130312_c238c22c126",
+  "variantId": "c238c22c126",
+  "productId": null,
+  "name": "Botas Fútbol Fútbol Adulto Joma Evolution 24 AG Turquesa",
+  "brand": "JOMA",
+  "description": "Botas Fútbol Fútbol Adulto Joma Evolution 24 AG Turquesa",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Joma",
+    "Botas de fútbol joma"
+  ],
+  "price": {
+    "amount": 39.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "13,33 € al mes",
+  "sizes": [
+    "28 (UK 9C)",
+    "43 (UK 9)"
+  ],
+  "colors": [
+    {
+      "name": "turquesa / amarillo / naranja coral fluorescente",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "turquesa / amarillo / gris plateado",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "turquesa / amarillo / verde everglade",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos redondos"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Césped artificial"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Ancho"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8445954835797"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m18578428/k$fa59181fa3cc4a2cd721fb9bd4223ff9/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m18578430/k$91896bb857275bfba75e4d2cd9020ff3/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34639014/k$e1aa614b703966337a0f5a0cf37fb014/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34639017/k$567c9a31a8f9b9943200358af810218a/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:54:17.818Z"
+}

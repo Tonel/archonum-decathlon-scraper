@@ -1,0 +1,110 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-futbol-joma-maxima/fecb0ee6-c46f-49de-a979-49c0176ed7cd/c5",
+  "productKey": "fecb0ee6-c46f-49de-a979-49c0176ed7cd_c5",
+  "variantId": "c5",
+  "productId": null,
+  "name": "Botas Futbol Joma Maxima",
+  "brand": "JOMA",
+  "description": "Las botas de fútbol Joma ofrecen comodidad, resistencia y excelente agarre para césped sintético. Incorporan ventilación VTS, refuerzo PROTECTION y suela multitacos para máximo rendimiento",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Joma",
+    "Botas de fútbol joma"
+  ],
+  "price": {
+    "amount": 34.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "11,66 € al mes",
+  "sizes": [
+    "40 (UK 6.5)",
+    "41 (UK 7)",
+    "42 (UK 8)",
+    "43 (UK 8.5)",
+    "44 (UK 9.5)",
+    "45 (UK 10.5)",
+    "46 (UK 11)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8447150009835"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m18527784/k$0875c7cb65f46b5c66d6250830df21a5/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m18527785/k$a5613f5b76230a97075b3ac64942b068/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m18527788/k$97e6670b9aed2e5bda49ca4febf14b66/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m18527783/k$f54c51c5532d9de01e42a3ff60b6e6a7/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m18607447/k$2412ac9066ab0d8d0d68c3f5293d2447/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m8206655/k$9977becadf7d2441ffd17cf75e8a22f3/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:34:18.971Z"
+}

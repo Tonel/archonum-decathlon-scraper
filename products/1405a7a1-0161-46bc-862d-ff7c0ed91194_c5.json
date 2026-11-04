@@ -1,0 +1,97 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-sala-joma-modelo-tojw2503in-para-ninos/1405a7a1-0161-46bc-862d-ff7c0ed91194/c5",
+  "productKey": "1405a7a1-0161-46bc-862d-ff7c0ed91194_c5",
+  "variantId": "c5",
+  "productId": null,
+  "name": "Botas de futbol sala Joma modelo TOJW2503IN para niños",
+  "brand": "JOMA",
+  "description": "Botas de futbol sala Joma para Niños en color azul.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol sala",
+    "Zapatillas",
+    "Zapatillas niños",
+    "Zapatillas niños Joma"
+  ],
+  "price": {
+    "amount": 38.93,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "12,98 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del mar, 10 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Material",
+          "value": "Sintético"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8447368105961"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m26504816/k$4c0fc57b708a543c97c130cabce7276b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26504812/k$2e7f11ac8984dff72ebc4c28d7083fa5/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26504810/k$49405ab4fb30ca3583ab0559373fc1d2/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26504815/k$bcd8837f7047c3b8dc506562c27c534d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26504814/k$1053a9ba6051d521fe2cfc1b76a1cfc0/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:42:50.271Z"
+}

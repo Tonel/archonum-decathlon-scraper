@@ -1,0 +1,141 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatilla-futbol-sala-hombre-munich-g3-azul/12bdee03-05fb-471c-b26b-e7b1d053cd0f/c5",
+  "productKey": "12bdee03-05fb-471c-b26b-e7b1d053cd0f_c5",
+  "variantId": "c5",
+  "productId": null,
+  "name": "Zapatilla Futbol Sala Hombre Munich G3 azul",
+  "brand": "MUNICH",
+  "description": "Estas zapatillas son las predilectas para los amantes del futbol sala, refuerzos en la puntera, buenos materiales y gran toque del balon",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol sala",
+    "Zapatillas",
+    "Zapatillas hombre",
+    "Zapatillas hombre todo"
+  ],
+  "price": {
+    "amount": 52.92,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 66.91,
+    "currency": "EUR"
+  },
+  "financing": "17,64 € al mes",
+  "sizes": [
+    "39 (UK 5)",
+    "36cm",
+    "40 (UK 6)",
+    "41 (UK 7)",
+    "33 (UK 13.5C)",
+    "42 (UK 7.5)",
+    "43 (UK 10)",
+    "44 (UK 10)",
+    "45 (UK 10)"
+  ],
+  "colors": [
+    {
+      "name": "azul",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "negro",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "rojo",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "blanco",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Material",
+          "value": "Sintético"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8445648474318"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m17701439/k$aebc3488b7740e6afa2157d58bd4245b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m17701771/k$58d17f7872bbae80388935c645097515/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m17701751/k$feb8fa7543be882a90ea878d47526636/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m17701803/k$d662beccfdfab65e98bff2ea8f84f097/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m17701746/k$706fa8138b1d42ef95d06e022ab8e995/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:28:43.079Z"
+}

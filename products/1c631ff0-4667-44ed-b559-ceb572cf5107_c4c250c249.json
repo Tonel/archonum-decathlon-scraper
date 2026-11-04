@@ -1,0 +1,118 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/tacos-mizuno-morelia-ii-club-blanco-y-dorado/1c631ff0-4667-44ed-b559-ceb572cf5107/c4c250c249",
+  "productKey": "1c631ff0-4667-44ed-b559-ceb572cf5107_c4c250c249",
+  "variantId": "c4c250c249",
+  "productId": null,
+  "name": "Tacos Mizuno Morelia II Club Blanco y dorado",
+  "brand": "MIZUNO",
+  "description": "Esta bota con tacos moldeados ofrece flexibilidad, estabilidad y comodidad gracias a una pala suave y una suela TPU resistente, que proporciona apoyo seguro y tracción fiable en distintos terrenos.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Mizuno"
+  ],
+  "price": {
+    "amount": 61.15,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "20,38 € al mes",
+  "sizes": [
+    "39 (UK 5)",
+    "40 (UK 6)",
+    "40.5 (UK 6)",
+    "41 (UK 7.5)",
+    "42 (UK 7.5)",
+    "42.5 (UK 8.5)",
+    "43 (UK 10)",
+    "44 (UK 10)",
+    "44.5 (UK 10)",
+    "45 (UK 10)",
+    "46 (UK 10.5)",
+    "47 (UK 11)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos fijos"
+        },
+        {
+          "name": "Material",
+          "value": "Piel"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "5059882897807"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m26065182/k$ec6703bb6600ce03cf0bfe866fd69466/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26065179/k$2e2a0781ac02dc33ad2b1b71fc7e17df/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26065178/k$cd0df645eee4ac9e50e934fc00b28cfb/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26065181/k$56322bd60dbf3bd989df2e4ef1a16dc7/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26065180/k$9b3c37d7669a340dc3468fa3df59e9d4/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m27168578/k$b18bab9b211e7bd428634e2d7683ac89/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:18:34.218Z"
+}

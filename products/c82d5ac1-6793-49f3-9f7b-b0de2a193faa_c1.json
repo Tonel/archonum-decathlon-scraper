@@ -1,0 +1,135 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-para-ninos-adidas-f50-club-in/c82d5ac1-6793-49f3-9f7b-b0de2a193faa/c1",
+  "productKey": "c82d5ac1-6793-49f3-9f7b-b0de2a193faa_c1",
+  "variantId": "c1",
+  "productId": null,
+  "name": "Zapatilla de fútbol F50 CLUB para moqueta infantil",
+  "brand": "ADIDAS",
+  "description": "Zapatillas con suela texturizada para una tracción extra.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "copia botas niños"
+  ],
+  "price": {
+    "amount": 59.1,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "19,70 € al mes",
+  "sizes": [],
+  "colors": [
+    {
+      "name": "azul / amarillo / turquesa",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "amarillo / negro / rojo",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del mar, 10 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos estabilizados"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Hierba"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "F50"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4068812672064"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m28115911/k$5211f963d866ad44de5f99013229f80d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28115889/k$a6a08ced8bec95f06dd478014af96123/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28115872/k$4766ec0e69036e685c75d4c5201eb3c4/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28115931/k$1eef3608d072dcd1c6b80559cc94eab6/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28115519/k$a674f8379f4bafd715e083df8a8d312f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28115554/k$3116bb6a746eabf565df918c26437d6b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28115540/k$dc0bdb6fd44da441c3339a01b24034e2/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36644361/k$648a563876f51e467d2d658add4beae9/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:49:04.960Z"
+}

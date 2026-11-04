@@ -1,0 +1,103 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatilla-de-futbol-sala-munich-g-3-para-nino-a-azul/5b1eeacd-c0f6-458d-a743-c2af374ee81a/c5c14",
+  "productKey": "5b1eeacd-c0f6-458d-a743-c2af374ee81a_c5c14",
+  "variantId": "c5c14",
+  "productId": null,
+  "name": "Zapatilla de fútbol sala MUNICH G-3 para niño/a azul",
+  "brand": "MUNICH",
+  "description": "MUNICH es la marca de zapatillas más usada por profesionales de la LNFS y aficionad@s al futsal y pádel de España, Italia y Portugal.",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol sala",
+    "Zapatillas",
+    "Zapatillas niños",
+    "Zapatillas niños todo"
+  ],
+  "price": {
+    "amount": 39.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "13,33 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de terreno",
+          "value": "Interior"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8445648023554"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m15563552/k$b592f57c5d97639d19dfde18e466a40b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m15563551/k$976f7cbdf0a7593839a9df1296299e28/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m10426803/k$c2181de017caa745c75366551fe93948/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m10426777/k$c4e10eff9a6a90a6dc495cbc5b027351/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m10426795/k$815e323c155f6a7527f1e80035df5b5a/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:54:16.278Z"
+}

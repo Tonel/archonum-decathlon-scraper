@@ -1,0 +1,128 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatilla-de-futbol-con-lengueta-plegable-predator-club-moqueta/2728ba7d-eb7f-46f4-b13e-8bb3e9e97d8d/c6c5c22",
+  "productKey": "2728ba7d-eb7f-46f4-b13e-8bb3e9e97d8d_c6c5c22",
+  "variantId": "c6c5c22",
+  "productId": null,
+  "name": "Zapatilla de fútbol con lengüeta plegable PREDATOR CLUB moqueta",
+  "brand": "ADIDAS",
+  "description": "Zapatilla de fútbol con lengüeta plegable para una superficie de golpeo suave.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "copia botas niños"
+  ],
+  "price": {
+    "amount": 61.9,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "20,63 € al mes",
+  "sizes": [
+    "36 2/3 (UK 4)",
+    "38 (UK 5)",
+    "38 2/3 (UK 5.5)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos estabilizados"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Hierba"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "Predator"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4068815916073"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m28245998/k$4021e69dcafed57e582c922fe4a18512/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28245485/k$bd83093bb239243872242ad21258aa8d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28245461/k$9bb43fc07f7951f7077cb7c964f8bcad/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28245532/k$a064e43a84ac92cee43104c7ee78f661/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28245508/k$5688a3ade67be5b572dbe5dda0977cb6/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28245537/k$a742772d662339bc4646133deb4a17a5/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28245525/k$73da6c245a68334cc31b6602f1fcb57e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36644333/k$5af82a5bf435ea3263d7cd2e06ac7ee9/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:23:11.706Z"
+}

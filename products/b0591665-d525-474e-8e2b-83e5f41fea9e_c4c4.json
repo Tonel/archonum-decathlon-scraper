@@ -1,0 +1,126 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatillas-de-futbol-nike-tiempo-legend-10-academy-mg-para-adultos/b0591665-d525-474e-8e2b-83e5f41fea9e/c4c4",
+  "productKey": "b0591665-d525-474e-8e2b-83e5f41fea9e_c4c4",
+  "variantId": "c4c4",
+  "productId": null,
+  "name": "Zapatillas de Fútbol Nike Tiempo Legend 10 Academy MG para Adultos",
+  "brand": "NIKE",
+  "description": "Scarpe Calcio Adulto NIKE TIEMPO LEGEND 10 ACADEMY MG 9.5 (43) 401 COPA/WHITE",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Nike",
+    "Botas de fútbol nike"
+  ],
+  "price": {
+    "amount": 142.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "35,74 € al mes",
+  "sizes": [],
+  "colors": [
+    {
+      "name": "blanco / blanco",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "aguamarina",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "azul",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos fijos"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Todo tipo de terrenos"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Aviso legal",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "0197862788556"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m23308535/k$ca9c0dcaf952411939c8b9198cad3587/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22903659/k$d42c439b12612dcac912688daf87135d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22903655/k$7df9d0317458c1c51df3d129e915c7f2/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22903673/k$27627309184cae3587c970aa17a9d324/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22903666/k$18d61a36f0641876157c4752cb0c168f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22903666/k$18d61a36f0641876157c4752cb0c168f/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:56:42.987Z"
+}

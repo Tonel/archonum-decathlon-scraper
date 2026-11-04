@@ -1,0 +1,115 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatillas-nino-joma-tojw2501in/7c97a0d3-0fc2-4d34-b371-903288c1d687/c1c9",
+  "productKey": "7c97a0d3-0fc2-4d34-b371-903288c1d687_c1c9",
+  "variantId": "c1c9",
+  "productId": null,
+  "name": "Zapatos de fútbol Joma Toledo 2501 Jr IN Negro/Verde",
+  "brand": "JOMA",
+  "description": "Diseñadas para jóvenes jugadores, estas botas de fútbol Joma ofrecen comodidad y agarre en superficies interiores.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas Joma"
+  ],
+  "price": {
+    "amount": 29.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": null,
+  "sizes": [
+    "34 (UK 2)",
+    "35 (UK 3.5)",
+    "31 (UK 12.5C)"
+  ],
+  "colors": [
+    {
+      "name": "negro / verde",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "negro",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del mié, 4 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del mié, 4 nov"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de terreno",
+          "value": "Carretera"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8447368104094"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m34632854/k$20b5383d1f510640e92bd69798dabbb1/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34632850/k$f6ed493279a14c0c15e6692a4beca4b7/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34632846/k$bbf0963485c3421322e4a89e437cdef3/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34632857/k$99c0af01dd8d2dca4fad2bc8973f8601/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34632852/k$86cd9abdd2faee922d293e3b20df3221/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:23:07.212Z"
+}

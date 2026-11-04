@@ -1,0 +1,137 @@
+{
+  "url": "https://www.decathlon.es/es/p/botas-de-futbol-x-3-fg-adidas-adulto/X8624661/m8624661",
+  "productKey": "X8624661_m8624661",
+  "variantId": "m8624661",
+  "productId": "8624661",
+  "name": "BOTAS DE FÚTBOL X .3 FG ADIDAS ADULTO",
+  "brand": "ADIDAS",
+  "description": "Cálzate las X Ghosted y descubre el nivel superior de velocidad. Las llevan los mejores como Mohammed Salah o Karim Benzema.",
+  "stickers": [
+    "Últimas unidades"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas de futbolistas",
+    "Botas de Benzema"
+  ],
+  "price": {
+    "amount": 41.99,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 44.99,
+    "currency": "EUR"
+  },
+  "financing": "14,00 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "3 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 3 años."
+    }
+  ],
+  "features": [
+    {
+      "title": "Ligereza",
+      "text": "Exterior Speedskin de tela ultra ligera."
+    },
+    {
+      "title": "Impulso",
+      "text": "Tacos TPU para máxima tracción."
+    },
+    {
+      "title": "toque del balón",
+      "text": "Lengüeta stretch para calzarlas fácilmente y para un toque óptimo del balón."
+    },
+    {
+      "title": "Resistencia",
+      "text": "Suela de TPU."
+    },
+    {
+      "title": "Agarre",
+      "text": "Suela multi-superficies."
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de terreno",
+          "value": "Hierba, Hierba sintética larga"
+        },
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos fijos"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado bajo"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "X"
+        },
+        {
+          "name": "Tipo de suela",
+          "value": "Simple"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Velocidad"
+        },
+        {
+          "name": "Tipo de plantilla",
+          "value": "Simple"
+        }
+      ]
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p1990533/k$2521e82878d7e8500f512ecfab47c2df/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p1990540/k$c0e4a1275adba078cc0960fb7d3c6502/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p1990532/k$508d776f8546d428463f6375519ad26a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p1990531/k$03a175a06cf75543eb2068ae75f17975/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p1990538/k$f01f875e84b1953d1915b1cb7dbe021c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p1990537/k$b943fe89db12ab3f02c1482d0073646d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p1990536/k$b5126746c9f67921d56403c296f46799/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p1990534/k$33a7ea8970a8b86a673e344bf80e8f34/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:08:57.890Z"
+}

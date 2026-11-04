@@ -1,0 +1,76 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatillas-deportivas-infantiles-joma-toledo-jr/a75a9381-4417-462a-bde7-674232c8a154/c4c5",
+  "productKey": "a75a9381-4417-462a-bde7-674232c8a154_c4c5",
+  "variantId": "c4c5",
+  "productId": null,
+  "name": "Zapatillas deportivas infantiles Joma Toledo JR",
+  "brand": "JOMA",
+  "description": "Unos zapatos excepcionales, diseñados para que cada paso sea único",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "copia botas niños"
+  ],
+  "price": {
+    "amount": 38.72,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "12,91 € al mes",
+  "sizes": [
+    "36 (UK 3.5)",
+    "37 (UK 4)",
+    "38 (UK 4)",
+    "39 (UK 7)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m34941431/k$58ac62844d710e9fe07dac49054c73e1/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34941334/k$2af405a292a77248f34df9c56c1f84d1/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34941305/k$cc835c5f8b4cba76bf64f84bc341c900/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34941417/k$198dfa2f6b94f5f053d17714e95a8972/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34941408/k$c6377d4a02227cee37ca625074b75ded/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34941454/k$89db70823e5fc5e5bb9a252fe51ba4b0/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34941372/k$ddf81e5f5e42bf8ac2cee05eed21be0f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36561117/k$01dbe47306663fdcbbe60d2fa74a21e2/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36561072/k$278cfeab1a06929f19b5724fd7637e8e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36561160/k$71d52aec918bf5d4bd9f6fea424271b7/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:31:25.288Z"
+}

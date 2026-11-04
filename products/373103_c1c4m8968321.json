@@ -1,0 +1,137 @@
+{
+  "url": "https://www.decathlon.es/es/p/botas-de-futbol-mizuno-morelia-ii-pro-fg-piel-adulto/373103/c1c4m8968321",
+  "productKey": "373103_c1c4m8968321",
+  "variantId": "c1c4m8968321",
+  "productId": "8968321",
+  "name": "Botas de futbol Mizuno Morelia II PRO FG piel Adulto",
+  "brand": "MIZUNO",
+  "description": "Celebrando el 40.º aniversario del icónico modelo de la marca,las Morelia II Pro combinan comodidad, precisión y ligereza para tus entrenamientos y partidos.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas césped artificial",
+    "Botas de fútbol AG"
+  ],
+  "price": {
+    "amount": 95.99,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 119.99,
+    "currency": "EUR"
+  },
+  "financing": "32,00 € al mes",
+  "sizes": [],
+  "colors": [
+    {
+      "name": "negro / blanco",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "negro / rojo",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "1 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 1 año."
+    }
+  ],
+  "features": [
+    {
+      "title": "Comodidad",
+      "text": "Acabados interiores suaves y piel de canguro en la puntera."
+    },
+    {
+      "title": "Ligereza",
+      "text": "250 g (talla 42)"
+    },
+    {
+      "title": "Polivalencia",
+      "text": "Suela adaptada a los terrenos para distribuir bien la presión."
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de terreno",
+          "value": "Hierba, Hierba sintética larga"
+        },
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos fijos"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Personalización",
+          "value": "Personalizable"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado de media caña"
+        },
+        {
+          "name": "Material",
+          "value": "Piel"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Control"
+        },
+        {
+          "name": "Tipo de plantilla",
+          "value": "Simple"
+        }
+      ]
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p2973646/k$cd9b8f36ffb741d18bba739b6b64508d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3010489/k$183d7e309b684960b9ee399b2d25a567/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3010443/k$be59d3c297e79ff900ca7673af2dc49a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3010444/k$2a65b7d66b261664315e8e7c6de0a05a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2973644/k$a866be4e15cf15365c1e1f249a08b191/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2973643/k$bab2c0164845dedd8f51386a66f90e36/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2973645/k$82138abac4168c575cba424c496baef9/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T17:52:27.097Z"
+}

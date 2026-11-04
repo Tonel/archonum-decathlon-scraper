@@ -1,0 +1,75 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-futbol-futbol-adulto-joma-gol-24-ag-blanco/a342f9b0-2158-4efe-b64d-856aacc2f54b/c4",
+  "productKey": "a342f9b0-2158-4efe-b64d-856aacc2f54b_c4",
+  "variantId": "c4",
+  "productId": null,
+  "name": "Botas Fútbol Fútbol Adulto Joma Gol 24 AG Blanco",
+  "brand": "JOMA",
+  "description": "Botas Fútbol Fútbol Adulto Joma Gol 24 AG Blanco",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Joma",
+    "Botas de fútbol joma"
+  ],
+  "price": {
+    "amount": 30.55,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "10,18 € al mes",
+  "sizes": [
+    "41 (UK 7)",
+    "42 (UK 8)",
+    "42.5 (UK 8.5)",
+    "43 (UK 8.5)",
+    "43.5 (UK 9)",
+    "44 (UK 9.5)",
+    "44.5 (UK 10)",
+    "45 (UK 10.5)",
+    "46 (UK 11)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m15809660/k$df8e2931479fd2f7b12ba8a404faec7d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m15809659/k$ff6a17920f53c4d5c0641e68374d0fb8/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m15809658/k$c4d048b97e4d584fa37b4e69c00f4d43/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m15809657/k$0815943a3edcdb1273b73b167483e699/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:24:09.090Z"
+}

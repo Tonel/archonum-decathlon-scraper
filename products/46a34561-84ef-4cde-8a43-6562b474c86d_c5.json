@@ -1,0 +1,111 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-sala-joma-modelo-tojs2504in-para-ninos-unisex/46a34561-84ef-4cde-8a43-6562b474c86d/c5",
+  "productKey": "46a34561-84ef-4cde-8a43-6562b474c86d_c5",
+  "variantId": "c5",
+  "productId": null,
+  "name": "Botas de futbol sala Joma modelo TOJS2504IN para niños unisex",
+  "brand": "JOMA",
+  "description": "Botas de futbol sala Joma modelo TOJS2504IN para Niños Unisex en color azul De la temporada Primavera-Verano 2025.",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol sala",
+    "Zapatillas",
+    "Zapatillas niños",
+    "Zapatillas niños Joma"
+  ],
+  "price": {
+    "amount": 33.9,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 35.9,
+    "currency": "EUR"
+  },
+  "financing": "11,30 € al mes",
+  "sizes": [
+    "32",
+    "35",
+    "33",
+    "34",
+    "37",
+    "38",
+    "36 (UK 3.5)",
+    "31 (UK 12C)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Material",
+          "value": "Sintético"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8447150446371"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m26096239/k$f8ce339c08c3ce079f66c96eb19cd672/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26096132/k$2decf32b4e720c896ca081eb2891cf60/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26096080/k$f9acc3b41cab2f25ac875aa7fb186e18/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26096203/k$5f4a0052eab87d7bc21242c1dd02e300/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26096167/k$501291917f434e281cbe8055a71f179d/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:02:43.125Z"
+}

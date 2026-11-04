@@ -1,0 +1,142 @@
+{
+  "url": "https://www.decathlon.es/es/p/botas-de-futbol-nino-con-cordones-100-fg-negro-y-amarillo/342876/c382c132m8766040",
+  "productKey": "342876_c382c132m8766040",
+  "variantId": "c382c132m8766040",
+  "productId": "8766040",
+  "name": "Botas de fútbol niño con cordones 100 FG negro y amarillo",
+  "brand": "KIPSTA",
+  "description": "¿Buscas un buen calzado para que tu hijo pueda iniciarse en el fútbol? Hemos desarrollado las botas 100 priorizando la comodidad y la flexibilidad para acompañar tus primeros golpes.",
+  "stickers": [
+    "Primer precio técnico"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "copia botas niños"
+  ],
+  "price": {
+    "amount": 11.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": null,
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "2 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 2 años."
+    }
+  ],
+  "features": [
+    {
+      "title": "Comodidad",
+      "text": "Empeine más ancho para aportar mayor comodidad."
+    },
+    {
+      "title": "Agarre",
+      "text": "Múltiples tacos fijos pequeños para favorecer los apoyos en terrenos secos."
+    },
+    {
+      "title": "Control del balón",
+      "text": "Componente exterior flexible y las costuras favorecen el contacto con el balón."
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Nivel de práctica",
+          "value": "Iniciación"
+        },
+        {
+          "name": "Intensidad",
+          "value": "Intensidad baja"
+        },
+        {
+          "name": "Lugar de práctica",
+          "value": "Estadio, Exterior"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Hierba"
+        },
+        {
+          "name": "Personalización",
+          "value": "Personalizable"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado bajo"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Impermeable",
+          "value": "No impermeable"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Ancho"
+        },
+        {
+          "name": "Plantilla extraíble",
+          "value": "Plantilla extraíble"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordón tradicional"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p2380466/k$7ea093e4cb631bc24979b5ccec59a628/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2380464/k$d1f7aa2ff061b203bd1e477e06307e66/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2380463/k$7e65a8c42d319142f414eea3200aef09/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2380462/k$4bb33626972572e5423134bb4cc0a345/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2380461/k$00b5b257f75dfe53b067ad84530231e6/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2380460/k$b2528427ad4f3d0b2cdf0d61572e1903/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2380459/k$684d7de3bd83f0932cefe9095901c4f4/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2515824/k$7bd3a1f3d0a3499143b00924e931e307/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2515816/k$8156437dcdab98f883928d40c8f33070/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2515814/k$907bcb4f9c840dcc71894efd2e2b512b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2515807/k$04bcc7b5ea43b3622511eb68868a7258/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2515791/k$6ee7222e27c75b1c6f2465903eea5612/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:02:43.693Z"
+}

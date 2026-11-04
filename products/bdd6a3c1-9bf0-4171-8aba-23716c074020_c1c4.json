@@ -1,0 +1,128 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/de-futbol-future-7-match-negro/bdd6a3c1-9bf0-4171-8aba-23716c074020/c1c4",
+  "productKey": "bdd6a3c1-9bf0-4171-8aba-23716c074020_c1c4",
+  "variantId": "c1c4",
+  "productId": null,
+  "name": "Zapatos de fútbol Puma Future 7 Match TT Negro",
+  "brand": "PUMA",
+  "description": "Diseñadas para el fútbol en superficies artificiales, estas zapatillas Puma ofrecen confort y control del balón para los jugadores semiprofesionales.",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Puma",
+    "Botas de fútbol puma"
+  ],
+  "price": {
+    "amount": 63.65,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "21,22 € al mes",
+  "sizes": [
+    "39 (UK 5.5)",
+    "40 (UK 6.5)",
+    "40.5 (UK 6.5)",
+    "42 (UK 8)",
+    "43 (UK 9)"
+  ],
+  "colors": [
+    {
+      "name": "negro / blanco",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "negro / blanco / negro",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del mar, 10 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Césped artificial"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4099686067915"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m15505186/k$16bdfca5d182732795ff33160dc9255c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m15505203/k$7171f8cac49b16b23eab3fe30cbe687d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m15505184/k$a5df87a1977b2627e72baa29e75b229d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m15505189/k$c5e89cea8dadceba7d2c4ea90de37563/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m15505193/k$d464a6dd4a817f613c9bcb79c441c40b/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:26:44.744Z"
+}

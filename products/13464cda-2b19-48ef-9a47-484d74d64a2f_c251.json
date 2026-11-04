@@ -1,0 +1,115 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/nike-tiempo-legend-10-academy-fg-mg-botas-de-entrenamiento/13464cda-2b19-48ef-9a47-484d74d64a2f/c251",
+  "productKey": "13464cda-2b19-48ef-9a47-484d74d64a2f_c251",
+  "variantId": "c251",
+  "productId": null,
+  "name": "Nike Tiempo Legend 10 Academy FG/MG - Botas de Entrenamiento",
+  "brand": "NIKE",
+  "description": "Botas de fútbol Nike Tiempo Legend 10 Academy FG/MG - ideales para entrenar y jugar en césped natural y artificial, pertenecientes a la colección Scary Good.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Nike",
+    "Botas de fútbol nike"
+  ],
+  "price": {
+    "amount": 79.08,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "26,36 € al mes",
+  "sizes": [
+    "42 (UK 8)",
+    "43 (UK 9)"
+  ],
+  "colors": [
+    {
+      "name": "gris",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "azul",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del mar, 10 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Tracción"
+        },
+        {
+          "name": "Estilo",
+          "value": "Textured"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "198482803605"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m34312081/k$7be9bdfb1ece4a41a16b324277deb334/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:29:47.526Z"
+}

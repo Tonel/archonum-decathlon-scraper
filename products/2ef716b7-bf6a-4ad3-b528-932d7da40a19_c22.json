@@ -1,0 +1,115 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/munich-debut-07-zapatillas-de-futbol-sala-profesionales-amarillo-fluor-y-marino/2ef716b7-bf6a-4ad3-b528-932d7da40a19/c22",
+  "productKey": "2ef716b7-bf6a-4ad3-b528-932d7da40a19_c22",
+  "variantId": "c22",
+  "productId": null,
+  "name": "MUNICH DEBUT 07 Zapatillas de Fútbol Sala Profesionales Amarillo Flúor y Marino",
+  "brand": "MUNICH",
+  "description": "MUNICH es la marca de zapatillas más usada por profesionales de la LNFS y aficionad@s al futsal y pádel de España, Italia y Portugal.",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol sala",
+    "Zapatillas",
+    "Zapatillas hombre",
+    "Zapatillas hombre todo"
+  ],
+  "price": {
+    "amount": 55.8,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 60,
+    "currency": "EUR"
+  },
+  "financing": "18,60 € al mes",
+  "sizes": [
+    "39 (UK 6.5)",
+    "40 (UK 7.5)",
+    "42 (UK 8)",
+    "41 (UK 9)",
+    "43 (UK 9)",
+    "44 (UK 10)",
+    "45 (UK 11)",
+    "46 (UK 11.5)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Material",
+          "value": "Sintético"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8445648666089"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m28082447/k$f36bee66fd6647042764dc14e9a75c33/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28082517/k$30270a98ecdc39d2e69c02df1f451f5d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28082488/k$e04a1afad712b6c717b95a923040c0bf/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28082598/k$2cef0c699890d625d5f32615560b0f2d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28082536/k$0c6d5da741bfde1e2c770b8c41ed31e2/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:15:08.707Z"
+}

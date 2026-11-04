@@ -1,0 +1,113 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-para-ninos-skechers-fg/87bc6253-30ee-4738-8eea-62f320a9fb91/c5",
+  "productKey": "87bc6253-30ee-4738-8eea-62f320a9fb91_c5",
+  "variantId": "c5",
+  "productId": null,
+  "name": "Botas de fútbol para niños Skechers FG",
+  "brand": "SKECHERS",
+  "description": "Ofrez a su joven futbolista lo mejor con los zapatos de fútbol Skechers para rendimiento y comodidad en el campo.",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "copia botas niños"
+  ],
+  "price": {
+    "amount": 39,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 40,
+    "currency": "EUR"
+  },
+  "financing": "13,00 € al mes",
+  "sizes": [
+    "34 (UK 2)",
+    "35 (UK 3)",
+    "36 (UK 3.5)",
+    "37 (UK 4)",
+    "38 (UK 5)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "1 en stock"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones elásticos"
+        },
+        {
+          "name": "Material",
+          "value": "Sintético de espuma"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "0199252846662"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m36606471/k$577c1497acfb24e4bea915577a6757d6/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36606519/k$4361f95814fa354f6fbb520e4579f71f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36606508/k$c98d55c8599d102343f915bed78ef434/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36606496/k$ff7e8e1effa74e2907e11f1476893328/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36606481/k$55ac2e8af682b8dcae093da8b1c8b41e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m37851270/k$f9b4a5efe52bec495c54fe8b4984ae2b/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:11:53.909Z"
+}

@@ -1,0 +1,93 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/secador-zapatillas-botas-futbol-g-heat-ozono/61992311-db6f-4082-ae9a-0a4500ca6749/c1",
+  "productKey": "61992311-db6f-4082-ae9a-0a4500ca6749_c1",
+  "variantId": "c1",
+  "productId": null,
+  "name": "Secador Zapatillas Botas Fútbol G-Heat Ozono",
+  "brand": "G-HEAT",
+  "description": "Nuestro secador de calzado elimina los malos olores, elimina las bacterias y evita el moho causado por la humedad... Su equipo durará más.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Accesorios para botas",
+    "Secador para botas"
+  ],
+  "price": {
+    "amount": 29.9,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": null,
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "3701395000244"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m17324474/k$af40d928cb47cd1b77f4bb845673bbfb/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m17324476/k$b31a8a5e751b3bae54724761a10d5e2b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m17335985/k$98ea9ac26eb29a166bd51ec5b6627ac2/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m17324470/k$f41d98bf365c05dcba18d10d6518a6d9/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m14501583/k$a2ab57eed606dd0f703bf5e645f149ca/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:06:47.447Z"
+}

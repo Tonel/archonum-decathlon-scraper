@@ -1,0 +1,127 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-mizuno-morelia-ii-club/fa0204d3-9863-46a4-af6c-477296bdf45d/c1c3",
+  "productKey": "fa0204d3-9863-46a4-af6c-477296bdf45d_c1c3",
+  "variantId": "c1c3",
+  "productId": null,
+  "name": "Botas De Fútbol Mizuno Morelia Ii Club",
+  "brand": "MIZUNO",
+  "description": "Botas de fútbol Mizuno Morelia II Club, robustas y cómodas, perfectas para un rendimiento constante en el campo.",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas Mizuno"
+  ],
+  "price": {
+    "amount": 50.85,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "16,95 € al mes",
+  "sizes": [
+    "40.5 (UK 6)",
+    "41 (UK 7.5)",
+    "42 (UK 7.5)",
+    "42.5 (UK 8.5)",
+    "43 (UK 10)",
+    "44.5 (UK 10)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos fijos"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Nivel de práctica",
+          "value": "Todos los niveles"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        },
+        {
+          "name": "Temporada",
+          "value": "Todas las estaciones"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "5059431843101"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m17029957/k$ce530cf8eec8a563af1eaaf1f9af811b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m17029961/k$62d9bb97895a8bdfd24c77bd1dd1fc8e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m17029959/k$f8418ebe6b16e87d8be9ace5816259f1/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m17029958/k$f4188d8468cdd0c08802ee44b78ce47a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m17029960/k$4bdf899a7d13b96eb6854ab6734b7247/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28440421/k$fda4df3dccd280c9a0347c350016795a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28440399/k$c075d6e1e80d59fe57b9b450f2d2fc16/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:13:30.952Z"
+}

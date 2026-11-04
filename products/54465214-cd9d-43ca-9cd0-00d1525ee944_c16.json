@@ -1,0 +1,114 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatillas-futbol-junior-puma-ultra-play-mg-jr-107911-01/54465214-cd9d-43ca-9cd0-00d1525ee944/c16",
+  "productKey": "54465214-cd9d-43ca-9cd0-00d1525ee944_c16",
+  "variantId": "c16",
+  "productId": null,
+  "name": "ZAPATILLAS FÚTBOL JUNIOR PUMA ULTRA PLAY MG Jr. 107911 01",
+  "brand": "PUMA",
+  "description": "Las Zapatillas de Fútbol Junior Puma Ultra 5 Play MG Jr. son la elección ideal para los jóvenes futbolistas que buscan un equilibrio perfecto entre estilo, comodidad y rendimiento.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "copia botas niños"
+  ],
+  "price": {
+    "amount": 29.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": null,
+  "sizes": [
+    "33 (UK 1)",
+    "35 (UK 2)",
+    "34cm",
+    "38 (UK 12)"
+  ],
+  "colors": [
+    {
+      "name": "morado",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "azul",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del dom, 8 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4067979286572"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m17244930/k$36d604b44139f1b8e347f2eb955f389f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m17244658/k$0021535c7ad56e84a7641605690520c7/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m17244651/k$bfdefd274429fbdc0aa39e23e6c649c2/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m17244655/k$3b65fc9b97ab5c9965cba8e22456d0e8/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m18280393/k$6616419b97fe814ab859ddfc1ba2e1df/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38793014/k$e59bc7304abf0953ecfc7724cabe597a/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:13:09.197Z"
+}

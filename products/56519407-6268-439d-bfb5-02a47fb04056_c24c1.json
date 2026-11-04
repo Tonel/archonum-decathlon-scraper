@@ -1,0 +1,114 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/nike-mercurial-vapor-16-pro-fg-botas-futbol-adulto/56519407-6268-439d-bfb5-02a47fb04056/c24c1",
+  "productKey": "56519407-6268-439d-bfb5-02a47fb04056_c24c1",
+  "variantId": "c24c1",
+  "productId": null,
+  "name": "Nike Mercurial Vapor 16 Pro FG, botas fútbol adulto",
+  "brand": "NIKE",
+  "description": "Botas de fútbol Nike Mercurial Vapor 16 Pro FG, velocidad y control en césped natural.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Nike",
+    "Botas de fútbol nike"
+  ],
+  "price": {
+    "amount": 167.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "41,99 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos fijos"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Terreno duro"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Colección",
+          "value": "Mercurial"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "0198482710200"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m35581147/k$7c4fd375d487416b58784e34b4ecbaaa/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35581169/k$a8efa2037635e94445c7985593ceedcb/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35581165/k$d8e7816f6b6922d47ab2244d9d7d3909/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35581161/k$f66b2fda2d765b7245e24de718ca0f7d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35581157/k$addb1add4f5b7a60311427044d7127fb/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35581153/k$0bc57b2574e02ed231954f5ca93e7d63/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:39:44.933Z"
+}

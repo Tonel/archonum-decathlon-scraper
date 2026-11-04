@@ -1,0 +1,107 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/calzado-de-futbol-adidas-f50-club-tf-blanca/72e5cd72-fa9d-4b26-beed-f8849e59a09b/c4",
+  "productKey": "72e5cd72-fa9d-4b26-beed-f8849e59a09b_c4",
+  "variantId": "c4",
+  "productId": null,
+  "name": "Calzado de fútbol adidas F50 Club TF Blanca",
+  "brand": "ADIDAS",
+  "description": "Diseñadas para jóvenes futbolistas, estas botas ofrecen confort y tracción en terreno artificial.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "Zapatillas niños fútbol sala"
+  ],
+  "price": {
+    "amount": 47.3,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "15,77 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de terreno",
+          "value": "Césped artificial"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4067889673431"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m19479780/k$20e92569a97167e8835ede6f10152540/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19479852/k$e5eb18a41b97080ef11c860446de6109/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19479827/k$bd5895d99228fd80c4eda9972ea054ca/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19479844/k$1b7cf0873cad0143ffcbaf0faa118174/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19479801/k$6dbbb7fcfcb2209c8cd2d3ff3bcc31e0/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19479793/k$cab9d874650ef0c11a67d9d3799ecddf/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19479846/k$9b53dba822c4fb5b3d53c76ef5850386/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:42:45.920Z"
+}

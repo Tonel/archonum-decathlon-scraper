@@ -1,0 +1,83 @@
+{
+  "url": "https://www.decathlon.es/es/p/secador-botas-ropa/376070/m8976012",
+  "productKey": "376070_m8976012",
+  "variantId": "m8976012",
+  "productId": "8976012",
+  "name": "Secador Botas + Ropa",
+  "brand": "PERCUSSION",
+  "description": "Permite secar múltiples materiales: piel, piel sintética, algodón, goma... Conéctalo a un toma de corriente, pulsa el botón y déjalo actuar. También se adapta a la ropa y se puede guardar en cualquier lugar.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Caza",
+    "Modalidades de caza",
+    "Caza mayor",
+    "Batida"
+  ],
+  "price": {
+    "amount": 34.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "11,66 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "2 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 2 años."
+    }
+  ],
+  "features": [
+    {
+      "title": "Facilidad de uso",
+      "text": "Conéctalo a una toma de corriente y enciéndelo pulsando el botón central."
+    },
+    {
+      "title": "Tiempo de secado",
+      "text": "Este accesorio acelera el proceso de secado de los zapatos y la ropa."
+    },
+    {
+      "title": "Peso",
+      "text": "Con solo 480 g, un equipo ligero que puedes llevar a cualquier parte."
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p2875630/k$bff6a21548ab133f13c0ac3d7b1cdc35/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2875622/k$f02c666e54a16c33c98eaddcc81db816/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2875627/k$d2e4122aaf85e4a71ba10f40024f9101/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T17:59:37.420Z"
+}

@@ -1,0 +1,131 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-f50-hyperfast-league-sin-cordones-para-cesped-artificial/f3b49447-f6bf-4377-8133-42fd7ec0c61a/c9c145c22",
+  "productKey": "f3b49447-f6bf-4377-8133-42fd7ec0c61a_c9c145c22",
+  "variantId": "c9c145c22",
+  "productId": null,
+  "name": "Botas de fútbol F50 HYPERFAST LEAGUE sin cordones para césped artificial",
+  "brand": "ADIDAS",
+  "description": "Unas botas de fútbol con empeine Haloskin: toque de balón preciso y seguro",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "Botas de futbol adidas niños",
+    "Botas de futbol adidas niños F50"
+  ],
+  "price": {
+    "amount": 75,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "25,00 € al mes",
+  "sizes": [
+    "33 (UK 1)",
+    "34 (UK 2)",
+    "28 (UK 10C)",
+    "28.5 (UK 10.5C)",
+    "30.5 (UK 12C)",
+    "31.5 (UK 13C)"
+  ],
+  "colors": [
+    {
+      "name": "verde / azul marino / amarillo",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "blanco / morado / rosa",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Sin apriete"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Césped artificial"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "F50"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4069994815041"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m38123305/k$70b0005d942d44dd8e84367ac282ded1/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38123438/k$c17ccd5e44d3bcb37f9ac309b6dd7821/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38123412/k$5f70f52627fe45370e4486ae5a0e4a75/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38123389/k$053b6dc7962e90451f3883e422390bed/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38123369/k$400a0e93767a61630ce1f7e7713cf825/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38123347/k$645fc7d342f26586ef89a74974ceca14/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38123334/k$f5a6b942b3c8d6788e6acc18ffb902a7/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38123320/k$24c736099b3cde5783da5e15362868a8/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:30:39.318Z"
+}

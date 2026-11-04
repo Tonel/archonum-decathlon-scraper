@@ -1,0 +1,119 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatos-y-complementos-new-balance-de-hombre-mevozru4-mevozv4/ec918f21-8302-452c-9463-defe1b3a5d37/c1",
+  "productKey": "ec918f21-8302-452c-9463-defe1b3a5d37_c1",
+  "variantId": "c1",
+  "productId": null,
+  "name": "ZAPATOS Y COMPLEMENTOS NEW BALANCE DE HOMBRE MEVOZRU4 MEVOZV4",
+  "brand": "NEW BALANCE",
+  "description": "MEVOZRU4 MEVOZV4",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Running",
+    "Marcas",
+    "New balance",
+    "Zapatillas new balance"
+  ],
+  "price": {
+    "amount": 103.8,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 119,
+    "currency": "EUR"
+  },
+  "financing": "34,60 € al mes",
+  "sizes": [
+    "41.5 (UK 7.5)",
+    "42 (UK 8)",
+    "44 (UK 9.5)",
+    "46.5 (UK 11)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del mar, 10 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Material",
+          "value": "Tejido"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Amortiguación"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "198686468150"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m37937409/k$0c1410ce1211a3c3460d708c9b8cdeeb/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m37937609/k$93f0a11452187fd8d841b0c598df1491/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m37937565/k$740e427504bcc1deb2288af981c87669/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m37937511/k$6b8e97b2a01ba28b138f25246fb7af97/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m37937445/k$88198449de0f9221f698b40e4af5e36d/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:16:21.123Z"
+}

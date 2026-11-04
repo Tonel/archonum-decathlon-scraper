@@ -1,0 +1,117 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatillas-de-futbol-para-hombre-joma-liga-5-turf-2602/c67db203-2f33-48e7-845a-22b86297af65/c4",
+  "productKey": "c67db203-2f33-48e7-845a-22b86297af65_c4",
+  "variantId": "c4",
+  "productId": null,
+  "name": "Zapatillas de fútbol para hombre Joma Liga 5 Turf 2602",
+  "brand": "JOMA",
+  "description": "Zapatillas ligeras y ventiladas Joma Liga 5 para entrenamientos sobre césped artificial.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Joma",
+    "Botas de fútbol joma"
+  ],
+  "price": {
+    "amount": 47.3,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "15,77 € al mes",
+  "sizes": [
+    "41/42 (UK 7/8)",
+    "42/44 (UK 8/9.5)",
+    "43/49 (UK 9/12.5)",
+    "44/47 (UK 9.5/12)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos estabilizados"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Césped artificial"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Aviso legal",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8447368910015"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m28694274/k$57f6184c61c694c6338397b598bd94d8/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28694344/k$d303da1c5e548d0834633e3314ba864c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28694300/k$8ca4d8c717e7d259258603fbd4c74c03/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28694372/k$9ba20c0986c3083e65fd0a918af69612/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:16:24.879Z"
+}

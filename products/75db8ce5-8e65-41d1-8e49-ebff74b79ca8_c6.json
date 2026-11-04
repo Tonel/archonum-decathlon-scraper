@@ -1,0 +1,108 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-hombre-tecnologia-nikeskin-phantom-gx-2-academy-mg/75db8ce5-8e65-41d1-8e49-ebff74b79ca8/c6",
+  "productKey": "75db8ce5-8e65-41d1-8e49-ebff74b79ca8_c6",
+  "variantId": "c6",
+  "productId": null,
+  "name": "Botas de fútbol hombre tecnología NikeSkin PHANTOM GX 2 ACADEMY MG",
+  "brand": "NIKE",
+  "description": "Nike Phantom GX 2 Academy MG tacos de fútbol de perfil bajo diseñados para elevar tu juego con precisión y control.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Nike",
+    "Botas de fútbol nike"
+  ],
+  "price": {
+    "amount": 76.1,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "25,37 € al mes",
+  "sizes": [
+    "39 (UK 6)",
+    "40 (UK 6.5)"
+  ],
+  "colors": [
+    {
+      "name": "azul claro",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "verde",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "verde / verde aguamarina / gris oscuro",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del mar, 10 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "197859029792"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m36696991/k$732e6ed7562bcf90e6e648299ca6aca2/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:28:40.241Z"
+}

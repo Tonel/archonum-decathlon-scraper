@@ -1,0 +1,150 @@
+{
+  "url": "https://www.decathlon.es/es/p/top-de-entrenamiento-1-4-cremallera-puma-individualliga-nino-negro-amarillo/380253/c1m9034641",
+  "productKey": "380253_c1m9034641",
+  "variantId": "c1m9034641",
+  "productId": "9034641",
+  "name": "Top de entrenamiento 1/4 cremallera Puma IndividualLIGA Niño Negro/Amarillo",
+  "brand": "PUMA",
+  "description": "Las atrevidas mangas contraste animan tu juego, mientras que la tecnología dryCELL te mantiene concentrado cuando la acción se intensifica.",
+  "stickers": [
+    "EXCLUSIVO DECATHLON"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Puma",
+    "Sudaderas de fútbol puma"
+  ],
+  "price": {
+    "amount": 29.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": null,
+  "sizes": [
+    "7-8 AÑOS",
+    "9-10 AÑOS",
+    "11-12 AÑOS",
+    "13-14 AÑOS"
+  ],
+  "colors": [
+    {
+      "name": "negro",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "negro / rojo",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "1 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 1 año."
+    }
+  ],
+  "features": [
+    {
+      "title": "Transpirabilidad",
+      "text": "dryCELL:La tecnología PUMA te protege del sudor durante el esfuerzo."
+    },
+    {
+      "title": "Libertad de movimientos",
+      "text": "Fabricada con poliéster, permite una libertad de movimientos máxima."
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Personalización",
+          "value": "Personalizable"
+        },
+        {
+          "name": "Tipo de cremallera",
+          "value": "Media cremallera"
+        },
+        {
+          "name": "Impermeable",
+          "value": "No impermeable"
+        },
+        {
+          "name": "Capucha",
+          "value": "Sin capucha"
+        },
+        {
+          "name": "Bolsillo",
+          "value": "Sin bolsillo"
+        },
+        {
+          "name": "Material",
+          "value": "Polyester"
+        },
+        {
+          "name": "Estilo",
+          "value": "Liso"
+        },
+        {
+          "name": "Corte",
+          "value": "Clásico"
+        },
+        {
+          "name": "Tipo de longitud",
+          "value": "Largo"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        },
+        {
+          "name": "Cortavientos",
+          "value": "No cortavientos"
+        },
+        {
+          "name": "Sistema de ventilación",
+          "value": "Fijo"
+        },
+        {
+          "name": "Longitud de las mangas",
+          "value": "Manga larga"
+        }
+      ]
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p3192417/k$7be81edd810f7ec1d6b0b1231d0d63d8/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3192414/k$f5e2fc6a1743353d8801d962a225de96/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3192421/k$af7957b1144344e8c887f8204cc20710/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3192420/k$715dbfe111a98ff03b991d2b85efe3d7/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3192419/k$ec70f328ff80d9a45241145a3df48008/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3192418/k$90f7062c48632b24be0599ddbee9353f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3192416/k$c819d59633e6548bd9265bb7a6e2feed/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3192415/k$cf30173bd63d6d500d6a819e79d5d63a/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:56:48.662Z"
+}

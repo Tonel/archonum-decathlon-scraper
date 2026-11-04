@@ -1,0 +1,86 @@
+{
+  "url": "https://www.decathlon.es/es/p/top-de-entrenamiento-1-4-cremallera-puma-individualliga-nino-negro-y-rojo/380253/c1c14m8997574",
+  "productKey": "380253_c1c14m8997574",
+  "variantId": "c1c14m8997574",
+  "productId": "8997574",
+  "name": "Top de entrenamiento 1/4 cremallera Puma IndividualLIGA Niño Negro y rojo",
+  "brand": "PUMA",
+  "description": "Las atrevidas mangas contraste animan tu juego, mientras que la tecnología dryCELL te mantiene concentrado cuando la acción se intensifica.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Puma",
+    "Sudaderas de fútbol puma"
+  ],
+  "price": {
+    "amount": 29.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": null,
+  "sizes": [
+    "7-8 AÑOS",
+    "9-10 AÑOS",
+    "11-12 AÑOS",
+    "13-14 AÑOS"
+  ],
+  "colors": [
+    {
+      "name": "negro / rojo",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "negro",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "1 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 1 año."
+    }
+  ],
+  "features": [
+    {
+      "title": "Transpirabilidad",
+      "text": "dryCELL:La tecnología PUMA te protege del sudor durante el esfuerzo."
+    },
+    {
+      "title": "Libertad de movimientos",
+      "text": "Fabricada con poliéster, permite una libertad de movimientos máxima."
+    }
+  ],
+  "specifications": [],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p3205436/k$fe61ea9d31fbcaf7586eb501aa8ff5cc/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3205437/k$43dd670857c6ba623f237caa049918af/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3205438/k$48c8ff30762b2fe2f280b198620ac4a2/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3205435/k$dec9ca1317ed1af9e5f16ab92bd5b2b5/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:23:16.063Z"
+}

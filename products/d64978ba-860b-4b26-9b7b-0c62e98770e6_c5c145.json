@@ -1,0 +1,133 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/bolsa-para-zapatillas-joma-x5/d64978ba-860b-4b26-9b7b-0c62e98770e6/c5c145",
+  "productKey": "d64978ba-860b-4b26-9b7b-0c62e98770e6_c5c145",
+  "variantId": "c5c145",
+  "productId": null,
+  "name": "Bolsa para zapatillas Joma (x5)",
+  "brand": "JOMA",
+  "description": "Protege tus zapatos con estilo gracias al bolso de zapatos Joma (x5), diseñado con esmero por la reconocida marca de deporte.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Accesorios para botas",
+    "Todo accesorios"
+  ],
+  "price": {
+    "amount": 19.15,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": null,
+  "sizes": [],
+  "colors": [
+    {
+      "name": "azul / azul marino",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "rojo",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "azul / azul royal / azul eléctrico",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Reflectante",
+          "value": "Con zonas reflectantes"
+        },
+        {
+          "name": "Material",
+          "value": "Polyester"
+        },
+        {
+          "name": "Bolsillo",
+          "value": "Con bolsillo"
+        },
+        {
+          "name": "Estilo",
+          "value": "Liso"
+        },
+        {
+          "name": "Volumen (en l)",
+          "value": "No afectado"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        },
+        {
+          "name": "Nº de bolsillos",
+          "value": "1 bolsillo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "9995184645097"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m11030628/k$2e2da488607d695986b9d588566feacc/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22961356/k$c8db82c2a31120a55272c8ea1599778d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22961355/k$35de1c8b410c0e2c31a53cb4d1250449/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m11940956/k$face0e666dbef0584480d36899a25600/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22961357/k$f29ef3184f7c2fb10540b456d8804ee6/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:19:17.626Z"
+}

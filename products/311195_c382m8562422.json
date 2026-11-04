@@ -1,0 +1,155 @@
+{
+  "url": "https://www.decathlon.es/es/p/bolsa-para-botas-de-futbol-kipsta-negro/311195/c382m8562422",
+  "productKey": "311195_c382m8562422",
+  "variantId": "c382m8562422",
+  "productId": "8562422",
+  "name": "Bolsa para botas de fútbol Kipsta negro",
+  "brand": "KIPSTA",
+  "description": "Lleva y protege tus zapatillas deportivas y accesorios en esta bolsa para zapatillas de 10 litros. Su base perlante y sus compartimentos ventilados facilitan el secado.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Accesorios para botas",
+    "Todo accesorios"
+  ],
+  "price": {
+    "amount": 6.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": null,
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "2 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 2 años."
+    }
+  ],
+  "features": [
+    {
+      "title": "Volumen",
+      "text": "Volumen de 10 litros. Zapatillas hasta la talla 48. Dimensiones: 36 × 21 × 15 cm"
+    },
+    {
+      "title": "Compartimentación",
+      "text": "3 compartimentos: para zapatillas, para accesorios de juego y para enseres."
+    },
+    {
+      "title": "Aireación del contenido",
+      "text": "2 orificios de ventilación para facilitar el secado de tus botas."
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Nivel de práctica",
+          "value": "Perfeccionamiento, Experto, Todos los niveles"
+        },
+        {
+          "name": "Intensidad",
+          "value": "Intensidad media"
+        },
+        {
+          "name": "Tipo de apertura / cierre",
+          "value": "Cremallera"
+        },
+        {
+          "name": "Nº de bolsillos",
+          "value": "3 bolsillos"
+        },
+        {
+          "name": "Nº de compartimentos",
+          "value": "3 compartimentos"
+        },
+        {
+          "name": "Volumen/formato",
+          "value": "Pequeño, 10 l"
+        },
+        {
+          "name": "Tipo de bolsa",
+          "value": "Bolsa pequeña"
+        },
+        {
+          "name": "Plegable",
+          "value": "No plegable"
+        },
+        {
+          "name": "Impermeable",
+          "value": "No impermeable, Repelente al agua"
+        },
+        {
+          "name": "Opciones",
+          "value": "Bolsillo para calzado, Tamaño cabina, Con zona reforzada, Multiusos, Bolsillo para efectos personales, Bolsillo ventilado"
+        },
+        {
+          "name": "Material",
+          "value": "Tejido"
+        },
+        {
+          "name": "Volumen (en l)",
+          "value": "10 l"
+        },
+        {
+          "name": "Peso (en g)",
+          "value": "160 g"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        },
+        {
+          "name": "Tipo de cubierta",
+          "value": "Tapa blanda"
+        },
+        {
+          "name": "Colección",
+          "value": "Academic"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p1839897/k$74ee7c6efc8ff76e234aa3f15ee95491/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p1839900/k$1b2a8015868212d0e138d5ab596bc17d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p1839899/k$d6d6c78298c4bb11a8a299f36527bbd7/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p1839898/k$50231a5cb2a8e683cb3559c28449a77b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p1839896/k$b9cd20242a62709b560a70a30210d85b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p1839895/k$448be733c7666367386abb08bad7b9b1/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p1891326/k$5f8ee51eaf2cb06724589c76b7c41f20/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:06:35.700Z"
+}

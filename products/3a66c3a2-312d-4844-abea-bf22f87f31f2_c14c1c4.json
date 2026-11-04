@@ -1,0 +1,116 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatilla-de-futbol-con-correa-autoadherente-predator-club-moqueta/3a66c3a2-312d-4844-abea-bf22f87f31f2/c14c1c4",
+  "productKey": "3a66c3a2-312d-4844-abea-bf22f87f31f2_c14c1c4",
+  "variantId": "c14c1c4",
+  "productId": null,
+  "name": "Zapatilla de fútbol con correa autoadherente PREDATOR CLUB moqueta",
+  "brand": "ADIDAS",
+  "description": "Bota de fútbol con correa autoadherente que garantiza la comodidad y un ajuste seguro",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas de futbolistas",
+    "Botas de Bellingham"
+  ],
+  "price": {
+    "amount": 39.45,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "13,15 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Tira autoadherente y correa elástica"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "Predator"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Aviso legal",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4068812297250"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m40000489/k$b1094ca936952b7605b5a96449a5d3a2/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40001288/k$4a4d506e1a095a2e75004522310822d0/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40000628/k$24ee4d2c385cb0b6320d9881f236c87c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40000599/k$672cb7c4cc21832f2cd52be37bb40a4c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40000570/k$3dd2b0addf943131ed8a584af6d2f5f7/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40000548/k$524bf9dc065433d0744a45d8410c1dad/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40000528/k$7d7bcb39e9de5d1f2686407b6c66782e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40000507/k$0190406e6a7b53fa30e0261cfd55b267/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:18:09.290Z"
+}

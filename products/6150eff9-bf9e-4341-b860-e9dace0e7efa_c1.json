@@ -1,0 +1,93 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/shoedry-secador-de-botas-uv-y-ambientador-de-botas-secador-de-botas/6150eff9-bf9e-4341-b860-e9dace0e7efa/c1",
+  "productKey": "6150eff9-bf9e-4341-b860-e9dace0e7efa_c1",
+  "variantId": "c1",
+  "productId": null,
+  "name": "ShoeDry secador de botas UV y ambientador de botas - secador de botas",
+  "brand": "SHOEDRY",
+  "description": "Con el ShoeDry UV Shoe Dryer & Shoe Freshener, sus zapatos estarán secos y frescos en poco tiempo.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Accesorios para botas",
+    "Secador para botas"
+  ],
+  "price": {
+    "amount": 24.95,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": null,
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Aviso legal",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8719689946074"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m21863048/k$2e61faa4054d5a963f3df556ad8333fa/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m21863013/k$f64206f6bf7e02f3ff0c4a9091bc4fd4/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m21863025/k$8ab1a5f081f274c341b0bc09c3412f69/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m21863107/k$b9ef82036aceb4bbc8659f322c853150/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m21863060/k$f96614205f4488c484071dec7b16d622/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T17:51:28.318Z"
+}

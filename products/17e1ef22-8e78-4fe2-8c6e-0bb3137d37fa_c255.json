@@ -1,0 +1,114 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/munich-pista-01-zapatillas-futbol-sala-de-diseno-tecnico-blanco-y-negro/17e1ef22-8e78-4fe2-8c6e-0bb3137d37fa/c255",
+  "productKey": "17e1ef22-8e78-4fe2-8c6e-0bb3137d37fa_c255",
+  "variantId": "c255",
+  "productId": null,
+  "name": "MUNICH PISTA 01 Zapatillas fútbol sala de diseño técnico blanco y negro",
+  "brand": "MUNICH",
+  "description": "MUNICH es la marca de zapatillas más usada por profesionales de la LNFS y aficionad@s al futsal y pádel de España, Italia y Portugal.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol sala",
+    "Zapatillas",
+    "Zapatillas hombre",
+    "Zapatillas hombre Munich"
+  ],
+  "price": {
+    "amount": 62.49,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "20,83 € al mes",
+  "sizes": [
+    "39 (UK 6)",
+    "40 (UK 6)",
+    "41 (UK 8)",
+    "42 (UK 8.5)",
+    "43 (UK 9)",
+    "44 (UK 11)",
+    "45 (UK 11)",
+    "46 (UK 11.5)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado bajo"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8445648463695"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m18453081/k$b146055749bf94f5b3ee479e67f9930d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m18453105/k$aab188a4b2dcfe2ce664af65258278d7/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m18453046/k$3ee19afdd524899effdf9e0dbabdbf0a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m18453020/k$9d27a57f12a9c207f2a86be4f1aafdef/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m18453067/k$d670eb01e75028e41afa700ac7aee012/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:15:17.092Z"
+}

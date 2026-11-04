@@ -1,0 +1,133 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatos-de-futbol-sala-puma-ultra-6-play-azul/c7f63b8e-efa9-4a25-88b9-a5df645f5cc6/c5c183",
+  "productKey": "c7f63b8e-efa9-4a25-88b9-a5df645f5cc6_c5c183",
+  "variantId": "c5c183",
+  "productId": null,
+  "name": "Zapatos de fútbol sala PUMA Ultra 6 Play Azul",
+  "brand": "PUMA",
+  "description": "Diseñadas para los jóvenes futbolistas, estas zapatillas de fútbol sala ofrecen confort y apoyo ligero para un juego rápido.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Puma",
+    "Botas de fútbol puma"
+  ],
+  "price": {
+    "amount": 33.15,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "11,05 € al mes",
+  "sizes": [],
+  "colors": [
+    {
+      "name": "azul / blanco algodón",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "azul",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos multisuperficies"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Interior"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Colección",
+          "value": "Puma dreamrush pack"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Aviso legal",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4069161192463"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m38311685/k$29d27b108b5f5fe0dfe048ae59649416/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38781631/k$54506b006270b0eacc92773731005773/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38781604/k$3156ebe4a2bfa32848c8e0e8891d08a5/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38781588/k$55ef90333c3dae0bd3338577dc8b81af/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38781555/k$042e63ecac081ccd32f57b5f5b9eb54e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38781557/k$3d44bf3da3af9d4da6462e0c6898cc06/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:21:06.795Z"
+}

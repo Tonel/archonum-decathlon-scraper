@@ -1,0 +1,124 @@
+{
+  "url": "https://www.decathlon.es/es/p/zapatillas-futbol-sala-puma-king-in-adulto-negro/X8845699/m8845699",
+  "productKey": "X8845699_m8845699",
+  "variantId": "m8845699",
+  "productId": "8845699",
+  "name": "ZAPATILLAS FÚTBOL SALA PUMA KING IN ADULTO NEGRO",
+  "brand": "PUMA",
+  "description": "El diseño sencillo y retro de la KING21 IT la convierten en un modelo perfecto para cualquier ocasión, tanto si vas a entrenar al gimnasio como a pasear por la ciudad",
+  "stickers": [
+    "Últimas unidades"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol sala",
+    "Zapatillas",
+    "Zapatillas mujer",
+    "Zapatillas mujer Puma"
+  ],
+  "price": {
+    "amount": 48.99,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 79.99,
+    "currency": "EUR"
+  },
+  "financing": "16,33 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "3 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 3 años."
+    }
+  ],
+  "features": [
+    {
+      "title": "Comodidad",
+      "text": "Caña de piel flexible con revestimiento de piel de ante."
+    },
+    {
+      "title": "Sujeción del producto",
+      "text": "Entresuela de goma de perfil bajo."
+    },
+    {
+      "title": "Resistencia",
+      "text": "Refuerzo de lengüeta y ojal clásico."
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de taco",
+          "value": "Sin tacos"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado bajo"
+        },
+        {
+          "name": "Material",
+          "value": "Piel"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Control"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Interior"
+        },
+        {
+          "name": "Tipo de plantilla",
+          "value": "Simple"
+        },
+        {
+          "name": "Colección",
+          "value": "King"
+        }
+      ]
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p2541800/k$5fddeb4070a6b9cd4f7c809dd5b7e434/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2485787/k$ea649492fcaf9dac94431491908201b8/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2541799/k$d1286c9b81facf0446ce8a265c6b8569/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2541796/k$cf96804d66529704bc4894888b077092/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2541798/k$09a5fcef99010b58b51f03a33bb0ae2e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2541797/k$2fb9d27a79efb5e74ca11980bc764b70/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2541795/k$d4a5eb4799385d2a0495a7944f2bd112/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:27:06.987Z"
+}

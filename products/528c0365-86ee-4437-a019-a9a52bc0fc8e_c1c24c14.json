@@ -1,0 +1,100 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-future-8-match-fg-ag/528c0365-86ee-4437-a019-a9a52bc0fc8e/c1c24c14",
+  "productKey": "528c0365-86ee-4437-a019-a9a52bc0fc8e_c1c24c14",
+  "variantId": "c1c24c14",
+  "productId": null,
+  "name": "Botas de fútbol FUTURE 8 MATCH FG/AG PUMA",
+  "brand": "PUMA",
+  "description": "Da Rienda Suelta A Tu Creatividad En Terrenos Firmes Y Artificiales Con Las Future 8 Match.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas césped artificial",
+    "Botas de fútbol AG"
+  ],
+  "price": {
+    "amount": 57.5,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "19,17 € al mes",
+  "sizes": [
+    "39 (UK 5)",
+    "40 (UK 6)",
+    "40.5 (UK 6)",
+    "41 (UK 8)",
+    "42 (UK 8)",
+    "42.5 (UK 8.5)",
+    "42.5 (UK 10)",
+    "43 (UK 10)",
+    "44 (UK 10)",
+    "44.5 (UK 10)",
+    "45 (UK 10)",
+    "46 (UK 10.5)"
+  ],
+  "colors": [
+    {
+      "name": "negro / rosa / rojo",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "amarillo / negro / rosa",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m19648416/k$e661cd207bcbf4eeb3e3dc77839042d3/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19648422/k$d38a13e5b5712c8cd4d938f64d2c308c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19648407/k$c267f3c3a872f70a837ee71b05f551ec/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19648421/k$0e58e9414ff429e7d9f62c9d0dbc8632/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19648414/k$bfc6a6c2bf624a561a295e085e0fa8b8/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19648409/k$e003638dcf05fb63c8d41280cbdb20ab/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19620868/k$bda4f8d5b6a1bcc130d778c206428d8e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35754792/k$257cc353ef5e4651d4d19fbe2ab28778/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35456208/k$2461ccc62047d3fb9b94881e6b9f6372/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35456214/k$748d16b9595ec456be4097454c8ff33b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35754998/k$d21c6f280d7f0782bfcb4ab571a5dfc8/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35754952/k$d10f015e7353320df32dbd1a58dc2752/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35754904/k$1af276189af93f94dbf4de27905901fa/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35754837/k$bc2018c06fc41d779066ae4088179dbe/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34288922/k$71c06dda7f539468d77e6be5e828f850/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:10:12.461Z"
+}

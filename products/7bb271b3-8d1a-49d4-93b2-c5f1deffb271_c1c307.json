@@ -1,0 +1,132 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-futbol-adulto-joma-top-flex-21-tf-negro/7bb271b3-8d1a-49d4-93b2-c5f1deffb271/c1c307",
+  "productKey": "7bb271b3-8d1a-49d4-93b2-c5f1deffb271_c1c307",
+  "variantId": "c1c307",
+  "productId": null,
+  "name": "Botas fútbol Adulto Joma Top flex 21 tf negro",
+  "brand": "JOMA",
+  "description": "Botas Fútbol Joma TOP FLEX 21 con suela Turf color Negro para Adulto",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Joma",
+    "Botas de fútbol joma"
+  ],
+  "price": {
+    "amount": 56.59,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "18,86 € al mes",
+  "sizes": [
+    "36cm",
+    "40 (UK 6.5)",
+    "40.5 (UK 6.5)",
+    "41 (UK 7.5)",
+    "42 (UK 8)",
+    "42.5 (UK 8.5)",
+    "43 (UK 9)",
+    "44 (UK 10)",
+    "44.5 (UK 10)",
+    "46 (UK 11.5)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos estabilizados"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Terreno duro"
+        },
+        {
+          "name": "Material",
+          "value": "Piel"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "Top flex"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8424309410179"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m15968738/k$7f842a42b6fec7549195ac9779f95b23/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m15966729/k$058847d4950169d99085b0d5a8e6a402/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m15966725/k$b664ba616f08b3f34863f638bf722607/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m15966728/k$90aa9c62781df88d9f5bbd68ab37cda5/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m3668233/k$ec029343c0c07de5fee0930d35c5f7a0/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:12:30.599Z"
+}

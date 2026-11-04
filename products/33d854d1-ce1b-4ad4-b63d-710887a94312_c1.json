@@ -1,0 +1,109 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-umbro-decc-negras-para-hombre/33d854d1-ce1b-4ad4-b63d-710887a94312/c1",
+  "productKey": "33d854d1-ce1b-4ad4-b63d-710887a94312_c1",
+  "variantId": "c1",
+  "productId": null,
+  "name": "Botas de fútbol Umbro Decc Negras para Hombre",
+  "brand": "UMBRO",
+  "description": "¡Elige estas zapatillas de fútbol de la marca Umbro a bajo precio!",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Oferta completa"
+  ],
+  "price": {
+    "amount": 26.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": null,
+  "sizes": [
+    "41 (UK 7.5)",
+    "47 (UK 11)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de terreno",
+          "value": "Carretera"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "3661712754802"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m39403476/k$d559cb5b8db7b95bdaf9f05d8ce0810b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m39403476/k$d559cb5b8db7b95bdaf9f05d8ce0810b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m39403599/k$e4888d1a3170866ed1da3ffb3ae0fc79/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m39403570/k$671f9a623486fb90ac0077f9af6b840e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m39403550/k$d82ea44277db46d0597fa6c7c8fa13f8/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m39403526/k$1937505e5a48b2cdc682f7bb42952292/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m39403495/k$51d4bd6d6299fb0fadd9ddb13e05a712/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:50:42.068Z"
+}

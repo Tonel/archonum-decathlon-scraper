@@ -1,0 +1,132 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-para-ninos-unisex-joma-toledo-2401-en-color-negro/c2cbe959-79f5-43e7-9dc6-fa152df7ab1c/c1",
+  "productKey": "c2cbe959-79f5-43e7-9dc6-fa152df7ab1c_c1",
+  "variantId": "c1",
+  "productId": null,
+  "name": "Botas de futbol para niños unisex Joma Toledo 2401 en color negro",
+  "brand": "JOMA",
+  "description": "('Botas de Futbol Joma modelo Toledo 2401 para Niños Unisex en color Negro de la temporada Primavera-Verano 2024',)",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "copia botas niños"
+  ],
+  "price": {
+    "amount": 32.9,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "10,97 € al mes",
+  "sizes": [
+    "33 (UK 1)",
+    "36 (UK 3.5)",
+    "38 (UK 4.5)",
+    "37 (UK 5)",
+    "39 (UK 6)",
+    "32 (UK 13C)"
+  ],
+  "colors": [
+    {
+      "name": "negro",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "amarillo",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "azul",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del dom, 8 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8445954885747"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m18257822/k$8714b652a3c4d2724071c636f22af720/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m18257832/k$99fa4e98867b81e23e76cb03def15bf6/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m20370822/k$ac29a0557e51157d4d42b54ce43d2105/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m18257813/k$5c01c7986dd7728a63b506d6e100dfe8/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m18257845/k$f255ad2ce9ec8c40069fd430616ce6a2/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:54:09.882Z"
+}

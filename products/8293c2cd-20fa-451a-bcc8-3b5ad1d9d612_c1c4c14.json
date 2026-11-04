@@ -1,0 +1,113 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatilla-de-futbol-sala-predator-edge-3-indoor/8293c2cd-20fa-451a-bcc8-3b5ad1d9d612/c1c4c14",
+  "productKey": "8293c2cd-20fa-451a-bcc8-3b5ad1d9d612_c1c4c14",
+  "variantId": "c1c4c14",
+  "productId": null,
+  "name": "Zapatilla de fútbol sala Predator Edge.3 Indoor",
+  "brand": "ADIDAS",
+  "description": "Ganar es el trato",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "Botas de futbol adidas niños",
+    "Botas de futbol adidas niños Predator"
+  ],
+  "price": {
+    "amount": 48.85,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "16,28 € al mes",
+  "sizes": [
+    "36",
+    "36 2/3",
+    "33.5 (UK 1.5)",
+    "34 (UK 2)",
+    "35 (UK 2.5)",
+    "35.5 (UK 3)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del mar, 10 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de terreno",
+          "value": "Interior"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4065418196697"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m11233128/k$df5dc653d84fbd961088e57f7dff7b6c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m11233133/k$dd473424527d6b02afdc22189d5ba309/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m11233122/k$87674b73285f3eb0b7d1e5bff0cfcb0f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m11233117/k$8fe3d7ae8208533137057d9a808c517b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m11512875/k$00f05f5c3781c8f73d3fdc95cc6cc689/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:08:41.005Z"
+}

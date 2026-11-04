@@ -1,0 +1,112 @@
+{
+  "url": "https://www.decathlon.es/es/p/botas-de-futbol-pro-playful-fg-adulto/X8990131/m8990131",
+  "productKey": "X8990131_m8990131",
+  "variantId": "m8990131",
+  "productId": "8990131",
+  "name": "Botas de fútbol Pro playful FG. Adulto",
+  "brand": "HUMMEL",
+  "description": "Diseñadas para jugadores de fútbol clásicos que quieren destacar en el campo. Con suela FG de tacos de goma.",
+  "stickers": [
+    "Últimas unidades"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas césped artificial",
+    "Todo Botas césped artificial"
+  ],
+  "price": {
+    "amount": 29.99,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 59.99,
+    "currency": "EUR"
+  },
+  "financing": null,
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "3 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 3 años."
+    }
+  ],
+  "features": [
+    {
+      "title": "Adaptabilidad",
+      "text": "Parte superior de materiales de alta calidad que proporcionan un ajuste cómodo."
+    },
+    {
+      "title": "Estabilidad",
+      "text": "Suela con tacos garantiza tracción y estabilidad en el campo."
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de terreno",
+          "value": "Césped artificial, Terreno seco"
+        },
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos fijos"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado bajo"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Control"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordón tradicional"
+        },
+        {
+          "name": "Tipo de plantilla",
+          "value": "Simple"
+        }
+      ]
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p3013745/k$234f5eee33d9093769eba69d1a9d5890/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3013743/k$7585fec808a980bb4e41722589b7b681/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3013742/k$a629a530044fc2f88a0fe522219bd3f2/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:34:30.047Z"
+}

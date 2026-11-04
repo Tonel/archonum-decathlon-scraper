@@ -1,0 +1,67 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-infantiles-joma-cancha-jr-in/62c3d977-c554-45ee-82d6-6a9a6d5ea016/c22",
+  "productKey": "62c3d977-c554-45ee-82d6-6a9a6d5ea016_c22",
+  "variantId": "c22",
+  "productId": null,
+  "name": "Botas de fútbol infantiles Joma Cancha Jr IN",
+  "brand": "JOMA",
+  "description": "Botas de fútbol infantiles Joma Cancha Jr IN",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "copia botas niños"
+  ],
+  "price": {
+    "amount": 35.12,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "11,71 € al mes",
+  "sizes": [
+    "35 (UK 3)",
+    "29 (UK 11C)",
+    "32 (UK 13C)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m28633957/k$624c198ac20c19c94470e1fb1d392ae6/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28633921/k$0ef04a9967abd3434d7da46bc5a551c4/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:25:46.598Z"
+}

@@ -1,0 +1,135 @@
+{
+  "url": "https://www.decathlon.es/es/p/botas-de-futbol-multitacos-ultra-play-turf-adulto/X8897627/m8897627",
+  "productKey": "X8897627_m8897627",
+  "variantId": "m8897627",
+  "productId": "8897627",
+  "name": "Botas de fútbol multitacos ULTRA Play Turf Adulto",
+  "brand": "PUMA",
+  "description": "Elige estas zapatillas PUMA ULTRA para entregarte al máximo durante tus partidos en hierba artificial corta.",
+  "stickers": [
+    "Últimas unidades"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas césped artificial",
+    "Botas multitacos y turf"
+  ],
+  "price": {
+    "amount": 24.99,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 59.99,
+    "currency": "EUR"
+  },
+  "financing": null,
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "3 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 3 años."
+    }
+  ],
+  "features": [
+    {
+      "title": "Estabilidad",
+      "text": "Marco de soporte en relieve diseñado para añadir estabilidad a la parte exterior ligera."
+    },
+    {
+      "title": "Flexibilidad",
+      "text": "Indicadas para superficies naturales duras y césped artificial."
+    },
+    {
+      "title": "Comodidad",
+      "text": "La lengüeta regular se adapta a las diferentes formas del pie."
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Personalización",
+          "value": "Personalizable"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado bajo"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos estabilizados"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Hierba sintética corta"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "Ultra"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Velocidad"
+        },
+        {
+          "name": "Tipo de plantilla",
+          "value": "Simple"
+        },
+        {
+          "name": "Jugadores",
+          "value": "Coman"
+        }
+      ]
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p2751613/k$eee0fd3b4d5d7cb5b8b1492f5b42ede8/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2751614/k$a6c246e43ad79811081a62ebbddc34cd/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2751610/k$bae2d89993c90aa12c78175359baca64/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2751611/k$f0abec6910e04f5c644ca251b2e37308/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2751612/k$882a0ecf0dbe2acb4d4dd8db7579c7c2/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2751609/k$6024e263782538a865c9c5a644625004/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:50:03.678Z"
+}

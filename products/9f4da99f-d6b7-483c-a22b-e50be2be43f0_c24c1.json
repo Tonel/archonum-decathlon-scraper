@@ -1,0 +1,107 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/bota-futbol-nike-superfly-11-club/9f4da99f-d6b7-483c-a22b-e50be2be43f0/c24c1",
+  "productKey": "9f4da99f-d6b7-483c-a22b-e50be2be43f0_c24c1",
+  "variantId": "c24c1",
+  "productId": null,
+  "name": "Bota Futbol Nike Superfly 11 Club",
+  "brand": "NIKE",
+  "description": "Botas de fútbol Nike Mercurial Superfly 11 Club FG/MG de caña alta, diseñadas para ofrecer velocidad, estabilidad y tracción.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Nike",
+    "Botas de fútbol nike"
+  ],
+  "price": {
+    "amount": 69.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "23,33 € al mes",
+  "sizes": [
+    "43 (UK 8.5)",
+    "44 (UK 9.5)",
+    "45 (UK 11)",
+    "41 (UK 7)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del dom, 8 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "0198729740274"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m36415118/k$92ad8ad3f042e137c8a6cb3ed0c3083a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36415215/k$3286c49c65d4ce62197bec28976eb1f8/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36415176/k$7e46d3c56f0f845460febccc8344fc3b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36415143/k$f09756ac782ff11d6c4891b77e77bb38/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38974448/k$9ca68381ddc366c4199ffcfcf353dbe1/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38974416/k$9eb3b1e663ca11ac8672ae93f7b5d653/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:34:34.169Z"
+}

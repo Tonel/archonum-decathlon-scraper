@@ -1,0 +1,134 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatillas-de-futbol-sala-hombre-joma-dribling-2404-royal-indoor-azul-ligeras/7ee443d9-de6c-4370-be9b-e01d921b1d5c/c5c20c4",
+  "productKey": "7ee443d9-de6c-4370-be9b-e01d921b1d5c_c5c20c4",
+  "variantId": "c5c20c4",
+  "productId": null,
+  "name": "Zapatillas de Fútbol Sala Hombre Joma Dribling 2404 Royal Indoor Azul. Ligeras",
+  "brand": "JOMA",
+  "description": "Zapatillas de Fútbol Sala Hombre Joma Dribling 2404 Royal Indoor Sala Color Azul y Naranja-DRIW2404IN",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas Joma"
+  ],
+  "price": {
+    "amount": 43.09,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 51.42,
+    "currency": "EUR"
+  },
+  "financing": "14,36 € al mes",
+  "sizes": [],
+  "colors": [
+    {
+      "name": "azul / naranja / blanco",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "azul / blanco",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de taco",
+          "value": "Sin tacos"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Parquet/gimnasio"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Aviso legal",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8445954831621"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m21102708/k$ae253bba9c08a6cadcb71f352addd60b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m21102712/k$ab8d5ed7623b9d6e7024754435d19e8d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m21102707/k$707fec7423530a81b602cd0cee5a610c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m21102711/k$5eb2681aae051b3c21427e423e9309aa/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m21102709/k$46e0380de4b69c4839db5173a94ac300/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m18121512/k$34df5c2705319076673da444f1c6e166/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35043625/k$6176eedaceb747b0f554d9c9b244ed00/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:04:35.078Z"
+}

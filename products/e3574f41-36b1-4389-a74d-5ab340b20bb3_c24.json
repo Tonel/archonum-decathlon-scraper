@@ -1,0 +1,97 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-nike-modelo-mercurial-superfly-11-academy-para-ninos-unisex/e3574f41-36b1-4389-a74d-5ab340b20bb3/c24",
+  "productKey": "e3574f41-36b1-4389-a74d-5ab340b20bb3_c24",
+  "variantId": "c24",
+  "productId": null,
+  "name": "Botas de futbol Nike modelo Mercurial Superfly 11 Academy para niños unisex",
+  "brand": "NIKE",
+  "description": "Botas de futbol Nike modelo Mercurial Superfly 11 Academy para Niños Unisex en color rosa. De la temporada Primavera-Verano 2026.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Nike",
+    "Botas de fútbol nike"
+  ],
+  "price": {
+    "amount": 76,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "25,33 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "198958355645"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m38929122/k$6ce6f0b093a7687590802351720b019d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38929188/k$9e60e0f0fdb61973d8d09463cb22a1fe/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38929162/k$8552925ca9dbb1e082a0ab096f92ec13/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38929156/k$0e0950f868a2abc1ecd4bd0e451ae1ab/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38929140/k$d5a3239317410eac8ccdd0b6cca5917b/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:07:40.786Z"
+}

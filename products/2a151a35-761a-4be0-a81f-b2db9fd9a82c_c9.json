@@ -1,0 +1,145 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-futbol-puma-ultra-5-play-mg/2a151a35-761a-4be0-a81f-b2db9fd9a82c/c9",
+  "productKey": "2a151a35-761a-4be0-a81f-b2db9fd9a82c_c9",
+  "variantId": "c9",
+  "productId": null,
+  "name": "Botas Futbol Niño Puma ULTRA 5 PLAY MG Verde",
+  "brand": "PUMA",
+  "description": "Botas Futbol , flexibles y ligeras para no parar de marcar goles en tus entrenamientos , como en los partidos de tu liga , para ser el pichichi de tu equipo",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "copia botas niños"
+  ],
+  "price": {
+    "amount": 30.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "10,33 € al mes",
+  "sizes": [
+    "33 (UK 1)",
+    "34 (UK 2)",
+    "35 (UK 2.5)",
+    "36 (UK 3.5)",
+    "37 (UK 4)",
+    "37.5 (UK 4.5)",
+    "38.5 (UK 6)",
+    "32 (UK 13C)",
+    "38 (UK 12)"
+  ],
+  "colors": [
+    {
+      "name": "verde",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "verde / naranja",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "rosa / blanco",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del dom, 8 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4067979513340"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m35084713/k$b2ee2208f58bbf51170d4ac7f7884bd9/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35449770/k$8010fbe89e334e3d1f6e9b6c1c99f300/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35449729/k$4b0e4db5b45d38d0cb04716b37a19d38/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35449752/k$d059b75e4b3ad1305f0c7e9a68624595/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35742252/k$3d02b024866190cac26a5f2f0f77c560/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35742224/k$1c817e0cafec4ceec32e2153c5e2f32e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35742197/k$1ccbcbbd3156f1827e5806304e62b8b8/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35742170/k$496bd862208ff89cfbf728d876207f8f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35449752/k$d059b75e4b3ad1305f0c7e9a68624595/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35084654/k$a5762d079cdd1e41879686af50e87162/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35084625/k$a826b433d33f6eb0bcd253cc727c1604/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35084774/k$694bb68fd066e1d893af3134a7e71500/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35084684/k$077cdfed792e0cb8edabf57c54ce4f2d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35084799/k$3deb6a50cae3185b15692aff1bfa83a8/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35084746/k$77b94862f6141a5f110f68e52bfe3752/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:52:27.213Z"
+}

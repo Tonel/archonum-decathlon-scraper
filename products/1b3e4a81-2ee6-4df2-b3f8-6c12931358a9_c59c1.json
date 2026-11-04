@@ -1,0 +1,120 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatillas-de-futbol-sala-para-lotto-pacer/1b3e4a81-2ee6-4df2-b3f8-6c12931358a9/c59c1",
+  "productKey": "1b3e4a81-2ee6-4df2-b3f8-6c12931358a9_c59c1",
+  "variantId": "c59c1",
+  "productId": null,
+  "name": "Zapatillas de fútbol sala para niños Lotto Pacer",
+  "brand": "LOTTO",
+  "description": "Las zapatillas Lotto Pacer son ideales para el fútbol sala, diseñadas para ofrecer comodidad y soporte a los más pequeños.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "Zapatillas niños fútbol sala"
+  ],
+  "price": {
+    "amount": 42.8,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "14,27 € al mes",
+  "sizes": [
+    "36 (UK 3.5)",
+    "37 (UK 4)",
+    "39 (UK 5)",
+    "38 (UK 12)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del mar, 10 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Correa"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "Classic"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4068577011849"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m35182140/k$1d3c9d3f07395034b261d1f78d32cee4/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35182075/k$e1e6a62f5be9d43f0dd7df6334d98b86/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35182014/k$74ca3b2c5a0b7652fa8cf98ccc5b2f64/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35182145/k$d4b676413db327a29b029ce13983dca4/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35182129/k$b9255358d22f456afaadaf56140a7e41/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35182152/k$8eb6cdb5804dcf168fa9d2baa8dad505/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m17309783/k$9aaa3732cf3c18c7c84664e89efb2794/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:37:19.764Z"
+}

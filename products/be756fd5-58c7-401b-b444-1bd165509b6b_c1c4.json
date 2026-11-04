@@ -1,0 +1,102 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-king-top-fg-ag-unisex-puma/be756fd5-58c7-401b-b444-1bd165509b6b/c1c4",
+  "productKey": "be756fd5-58c7-401b-b444-1bd165509b6b_c1c4",
+  "variantId": "c1c4",
+  "productId": null,
+  "name": "Botas de fútbol KING TOP FG/AG unisex PUMA",
+  "brand": "PUMA",
+  "description": "Deja Que Tu Toque Hable Con Las Botas King Top. El Empeine Está Diseñado Para Un Toque Suave Y Natural, Y La Lengüeta Plegable Se Ajusta A La Forma Del Pie.",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Puma",
+    "Botas de fútbol puma"
+  ],
+  "price": {
+    "amount": 126.35,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 126.85,
+    "currency": "EUR"
+  },
+  "financing": "31,58 € al mes",
+  "sizes": [
+    "39 (UK 5)",
+    "40 (UK 6)",
+    "40.5 (UK 6)",
+    "41 (UK 7.5)",
+    "42 (UK 7.5)",
+    "42.5 (UK 8.5)",
+    "43 (UK 10)",
+    "44 (UK 10)",
+    "46 (UK 10.5)"
+  ],
+  "colors": [
+    {
+      "name": "negro / blanco",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "blanco / negro",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m26883326/k$ee4bde59c274a365cf21bfe04f3e8262/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26883305/k$b26eef6161f2a48dc826282f9ce194cc/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26883293/k$a414cbbfa1c961fd2bb8857fca1fa176/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26883337/k$3334cf98bc05d6db626b3ae349edcb4a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26883315/k$007d30c7bce40ed6425885cda3a5cda7/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26883341/k$08e1e31b49211d9c5edca2ed7fa9ea55/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35720538/k$9b14d32e7c132c407af0d91a4b05d7c3/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35720516/k$b199b638c17eb1667278feb5951dba93/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35442809/k$6f11d47de009d33fc8a76bd0636cbaf2/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35442780/k$5fb700ddf4b1ab56a1528c91c01e4147/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35720619/k$339d62a391c19492ee7b77d480bc26d4/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35720603/k$21d9b20d154cfaaa43ad359d5ec7fafc/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35720587/k$0a1e7d98d991859d40a8b74f0285918f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35720566/k$9624590a0af61fdfe58f47f3d3c38c4e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35044593/k$6808eb0907f33a7e56b8f159010272e0/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T17:56:24.930Z"
+}

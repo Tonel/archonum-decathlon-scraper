@@ -1,0 +1,77 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatilla-de-futbol-super-sala-competition-iii-indoor/48ac6810-73a4-4284-b0f4-43e4d7e8fdb2/c4c183c22",
+  "productKey": "48ac6810-73a4-4284-b0f4-43e4d7e8fdb2_c4c183c22",
+  "variantId": "c4c183c22",
+  "productId": null,
+  "name": "Zapatilla de fútbol SUPER SALA COMPETITION III Indoor",
+  "brand": "ADIDAS",
+  "description": "Una bota de fútbol con suela de goma que no deja marcas para partidos en pista cubierta.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "copia botas niños"
+  ],
+  "price": {
+    "amount": 47.95,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "15,98 € al mes",
+  "sizes": [
+    "33.5 (UK 1.5)",
+    "35.5 (UK 3)",
+    "36 2/3 (UK 4)",
+    "29 (UK 10.5C)"
+  ],
+  "colors": [
+    {
+      "name": "blanco / blanco algodón / amarillo",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "azul / blanco",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "blanco / morado / rosa",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m25882938/k$90e44124d9cca597ffc2158471e35d99/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m25882923/k$5993ea7ff400fb1491de6319a90dba84/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m25882914/k$db1cd0807287ede7b7a9c94875e46285/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m25882962/k$c5085c0fb424c249a8f4729efc049ac3/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m25882930/k$f7a1711b03a9590f3557ababbecff846/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m25882973/k$8d81c52e22c57c5096bf021bb8586465/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m25882946/k$fe22ad6a974ea8277df40459c0a061b7/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36646047/k$e741a01a8de5df4aa529121dbb8cd486/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:59:23.596Z"
+}

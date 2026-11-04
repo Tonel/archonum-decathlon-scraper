@@ -1,0 +1,146 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-future-9-play-turf-ninos-puma/b075f939-4133-4d3b-91c2-97e5aec061de/c14c4c1",
+  "productKey": "b075f939-4133-4d3b-91c2-97e5aec061de_c14c4c1",
+  "variantId": "c14c4c1",
+  "productId": null,
+  "name": "Botas de fútbol FUTURE 9 PLAY Turf Niños PUMA",
+  "brand": "PUMA",
+  "description": "Da Rienda Suelta A Tu Creatividad Con Las Future 9 Play Juveniles.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "Botas de futbol Puma niños",
+    "Botas de futbol Puma niños Future"
+  ],
+  "price": {
+    "amount": 40.35,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "13,45 € al mes",
+  "sizes": [
+    "34 (UK 1)",
+    "35 (UK 2)",
+    "35.5 (UK 3)",
+    "36 (UK 3.5)",
+    "37 (UK 4)",
+    "37.5 (UK 4)",
+    "38 (UK 5)",
+    "38.5 (UK 5.5)",
+    "31 (UK 12)"
+  ],
+  "colors": [
+    {
+      "name": "rojo / blanco / negro",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "negro",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "negro / rojo / gris",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "rosa / naranja",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos estabilizados"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Hierba"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Colección",
+          "value": "Future"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4069162585790"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m26162189/k$e5d5b2faca30351feba93a881b9a28a8/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26162753/k$eb65f8bef3b96a44a7013347d42097c3/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26162751/k$855ee1f0f9b965dca6a1f56d37c33a37/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26162757/k$86e4996fac8003a5cee862eae7e204a2/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26162170/k$0ce3e0fedfab45345604393d039f2a8d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26162214/k$0d0bc276933953fca250bd082c67b538/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:51:42.528Z"
+}

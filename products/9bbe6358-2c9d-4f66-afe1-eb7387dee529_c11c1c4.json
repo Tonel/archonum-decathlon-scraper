@@ -1,0 +1,147 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/bota-de-futbol-copa-pure-iv-league-cesped-natural-seco/9bbe6358-2c9d-4f66-afe1-eb7387dee529/c11c1c4",
+  "productKey": "9bbe6358-2c9d-4f66-afe1-eb7387dee529_c11c1c4",
+  "variantId": "c11c1c4",
+  "productId": null,
+  "name": "Bota de fútbol COPA PURE IV LEAGUE césped natural seco",
+  "brand": "ADIDAS",
+  "description": "Una bota de fútbol con plantilla amortiguada que garantiza el confort en el terreno de juego",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "copia botas niños"
+  ],
+  "price": {
+    "amount": 60,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "20,00 € al mes",
+  "sizes": [
+    "33 (UK 1)",
+    "33.5 (UK 1.5)",
+    "34 (UK 2)",
+    "35 (UK 2.5)",
+    "35.5 (UK 3)",
+    "36 (UK 3.5)",
+    "36 2/3 (UK 4)",
+    "37 1/3 (UK 4.5)",
+    "38 (UK 5)",
+    "28 (UK 10C)",
+    "38 2/3 (UK 5.5)",
+    "28.5 (UK 10.5C)",
+    "29 (UK 11C)",
+    "30 (UK 11.5C)",
+    "30.5 (UK 12C)",
+    "31 (UK 12.5C)",
+    "31.5 (UK 13C)",
+    "32 (UK 13.5C)"
+  ],
+  "colors": [
+    {
+      "name": "verde claro / negro / blanco",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "blanco / azul oscuro / azul",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "rosa",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Terreno duro"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "Copa"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4069987802843"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m38121384/k$5545829cef268da0b7cd6bee9ca5281a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38121602/k$bcb0108a2f42bd17a36ed1b945280a6c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38121580/k$f9f8a88b8701fd65b85a0fc0eedf849a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38121547/k$bde90b0c4f7d7083203b797cc0c9dc64/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38121521/k$4953f7994025bb677fa9b957180eb32d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38121494/k$cb7d4878e2833c12f257bb19f713b403/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38121454/k$73ead6b61b2b20668e7378192e4f4021/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38121416/k$6a910213343db089198688e4b13966da/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:05:05.377Z"
+}

@@ -1,0 +1,124 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatilla-de-futbol-predator-club-hook-and-loop-turf-nino/714a6c08-22d5-45fb-8906-321d5cf6c233/c4c1c23",
+  "productKey": "714a6c08-22d5-45fb-8906-321d5cf6c233_c4c1c23",
+  "variantId": "c4c1c23",
+  "productId": null,
+  "name": "Zapatilla de fútbol Predator Club Hook-and-Loop Turf (niño)",
+  "brand": "ADIDAS",
+  "description": "Botas con correa autoadherente que te ayudarán a marcar en césped artificial.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "Botas de futbol adidas niños",
+    "Botas de futbol adidas niños Predator"
+  ],
+  "price": {
+    "amount": 56.1,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "18,70 € al mes",
+  "sizes": [],
+  "colors": [
+    {
+      "name": "blanco / negro / amarillo claro",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "blanco / negro",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Sin apriete"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Hierba"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "Predator"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4067907505331"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m40000047/k$da6e65b39497a2e7da116cd5f33e9f95/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40000316/k$97d635f360ae931ce263e56fdda8b93a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40000292/k$7f0c832f3604e9d10130294c26a61f42/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40000262/k$f3b445659392481a36c42297320aee38/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40000211/k$d1a044f32910acc6c968b055d5afb956/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40000167/k$d6fcbf8e9b4ada936d4e938c3e6b3569/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40000115/k$3d7b8c6e9803ee95221a1b89ac5d7d4a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40000084/k$a98fdb9f28b0a997b792b808bae98c07/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:57:25.020Z"
+}

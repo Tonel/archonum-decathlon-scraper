@@ -1,0 +1,143 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/bota-de-futbol-f50-league-cesped-natural-humedo/f94ec257-4441-42c4-8f2f-9c6c097d14ed/c1c251c14",
+  "productKey": "f94ec257-4441-42c4-8f2f-9c6c097d14ed_c1c251c14",
+  "variantId": "c1c251c14",
+  "productId": null,
+  "name": "Bota de fútbol F50 League césped natural húmedo",
+  "brand": "ADIDAS",
+  "description": "Anticípate al rival",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "Botas de futbol adidas niños",
+    "Botas de futbol adidas niños F50"
+  ],
+  "price": {
+    "amount": 87.3,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "29,10 € al mes",
+  "sizes": [
+    "39 1/3 (UK 6)",
+    "42 2/3 (UK 8.5)"
+  ],
+  "colors": [
+    {
+      "name": "negro / gris / rojo",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "negro / rojo",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "negro / rojo / gris hierro",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de taco",
+          "value": "Tacoshíbridos"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Terreno blando a suelo medio"
+        },
+        {
+          "name": "Material",
+          "value": "Sintético"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "F50"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4067903780138"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m37484221/k$7ece6cf9d1efd562963d6724ce40a254/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m37484241/k$35b321d0e87daad16c7187eb50597609/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m37484239/k$4575d5981d5fe8db35c432e90e1d348c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m37484237/k$af87b7c6c6f4d07b248b68599b308a3e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m37484235/k$08bbac26880e0588ee796b112301cb78/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m37484233/k$7e583c09448a2ebf8f4a5718d26349b9/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m37484230/k$1da8bafefd99f310c353cf2048d8008a/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:30:34.565Z"
+}

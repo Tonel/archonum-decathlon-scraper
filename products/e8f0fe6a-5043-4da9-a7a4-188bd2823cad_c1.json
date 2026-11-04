@@ -1,0 +1,116 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatillas-de-futbol-con-tacos-para-ninos-joma-toledo-2601/e8f0fe6a-5043-4da9-a7a4-188bd2823cad/c1",
+  "productKey": "e8f0fe6a-5043-4da9-a7a4-188bd2823cad_c1",
+  "variantId": "c1",
+  "productId": null,
+  "name": "Zapatillas de fútbol con tacos para niños Joma Toledo 2601",
+  "brand": "JOMA",
+  "description": "Suela especializada HG con numerosos tacos que garantizan agarre y estabilidad en superficies duras de tierra y césped artificial",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "Botas niños multitacos"
+  ],
+  "price": {
+    "amount": 30.12,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "10,04 € al mes",
+  "sizes": [
+    "35 (UK 3)",
+    "36 (UK 3.5)",
+    "37 (UK 4)",
+    "38 (UK 4)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del mar, 10 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos fijos"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Terreno duro"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8447368919674"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m35150088/k$ac7eb28ae2cfe84f2d2d9b147fecd6a1/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35149882/k$53cb1fd93bf4daf22eea42a61288b942/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35149852/k$8df6f785a32861437b56085d09d289bb/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35150051/k$d2c7f84f6871d03be7922d404f888386/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35149949/k$24b038b7c8a186bcd87930200ea608ff/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35150116/k$c144f9371345b2fb4c248e1fe47f5254/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35149931/k$cfa8c2724455c3bccab91177b9a17790/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:26:03.698Z"
+}

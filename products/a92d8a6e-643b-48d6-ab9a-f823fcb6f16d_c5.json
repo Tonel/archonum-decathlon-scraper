@@ -1,0 +1,119 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/kelme-zapatillas-de-futbol-sala-precision-azul-unisex/a92d8a6e-643b-48d6-ab9a-f823fcb6f16d/c5",
+  "productKey": "a92d8a6e-643b-48d6-ab9a-f823fcb6f16d_c5",
+  "variantId": "c5",
+  "productId": null,
+  "name": "Kelme Zapatillas De Fútbol Sala Precision Azul Unisex",
+  "brand": "KELME",
+  "description": "Kelme Zapatillas De Fútbol Sala Precision Azul Unisex. Suela de Goma de Perfil Bajo. Tallaje correcto, elige tu talla habitual. Kelme, Leave Your Mark.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol sala",
+    "Zapatillas",
+    "Zapatillas hombre",
+    "Zapatillas hombre todo"
+  ],
+  "price": {
+    "amount": 47.92,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "15,97 € al mes",
+  "sizes": [
+    "39 (UK 6)",
+    "41 (UK 8)",
+    "44.5 (UK 10.5)",
+    "45 (UK 11)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordón tradicional"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Amortiguación, soporte y confort"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Aviso legal",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8445664491061"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m33994190/k$d4f6028730365b2663981ad94d0ccd57/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m33994144/k$ba2e8e89b3b48e0cae51bcb360695504/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m33994115/k$73d02202db9646e9c2f3c00d24e18e67/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m33994237/k$29c3d179ba770528de34797c38580e9d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m33994157/k$ac9723627385aa21f350308746fa362c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m33994252/k$166d0c3861f7e019a8ce49412c0831f9/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:38:09.889Z"
+}

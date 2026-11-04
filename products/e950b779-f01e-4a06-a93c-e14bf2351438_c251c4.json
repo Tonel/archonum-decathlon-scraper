@@ -1,0 +1,102 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-future-7-play-fg-ag-puma/e950b779-f01e-4a06-a93c-e14bf2351438/c251c4",
+  "productKey": "e950b779-f01e-4a06-a93c-e14bf2351438_c251c4",
+  "variantId": "c251c4",
+  "productId": null,
+  "name": "Botas de fútbol FUTURE 7 PLAY FG/AG PUMA",
+  "brand": "PUMA",
+  "description": "Pon Un Pie En El Futuro Con Estas Botas De Fútbol. Su Suave Empeine Está Fabricado Con Un Ligero Material Sintético Pero Duradero Y Un Collarín Elástico Para Que Se Ajuste Cómodamente A Tu Pie.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas de futbolistas",
+    "Botas Carvajal"
+  ],
+  "price": {
+    "amount": 32.71,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "10,90 € al mes",
+  "sizes": [],
+  "colors": [
+    {
+      "name": "gris / blanco",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "azul marino oscuro / blanco",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "azul marino / verde / blanco",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "azul marino oscuro / púrpura intenso / blanco",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "gris / púrpura intenso / blanco",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "azul / blanco",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m18310746/k$3ce49ec3003ffc4bd8e425fdea8ce99b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m20664667/k$bf2744e607e0d561a5a340235924bc67/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m20664667/k$bf2744e607e0d561a5a340235924bc67/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m18310718/k$740ba21626799caa9237d10dc24743fe/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m18310734/k$5e9945f76232fb79ddfa918a29874cd1/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m18310726/k$67cdca96e36cf7b159187f517cae7272/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m18310757/k$e181fde528bc1100954cae916dc348a0/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36669914/k$b75df16d7c3c7f89b8e91592d9c8ac78/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36669854/k$adae258028c1221bc43688b5c725e3a1/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36669960/k$1df7cadeda4da6770f50f23115546979/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:32:40.731Z"
+}

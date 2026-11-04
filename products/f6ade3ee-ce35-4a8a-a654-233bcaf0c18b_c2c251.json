@@ -1,0 +1,93 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/secador-robusto-para-botas-secado-rapido-y-seguro-para-calzado-maxxdry/f6ade3ee-ce35-4a8a-a654-233bcaf0c18b/c2c251",
+  "productKey": "f6ade3ee-ce35-4a8a-a654-233bcaf0c18b_c2c251",
+  "variantId": "c2c251",
+  "productId": null,
+  "name": "Secador robusto para botas, secado rápido y seguro para calzado - MaxxDry",
+  "brand": "MAXXDRY",
+  "description": "Secador de botas MaxxDry Heavy Duty - Secado de botas y zapatos",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Accesorios para botas",
+    "Secador para botas"
+  ],
+  "price": {
+    "amount": 89.9,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "29,97 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Agotado"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "3700006090049"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m8861333/k$5e78ad9c5579e95d32da59ca750d31e0/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m8861336/k$e5d2323998f91ce83e42de51f0366b4d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m8861337/k$50339f202ca2102f57920f3df0de38e4/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m8861338/k$6439dc17f11edad625b2ae064fbf2728/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m8861335/k$20dddea70806f59b015426eac6bdb8bd/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T17:59:22.029Z"
+}

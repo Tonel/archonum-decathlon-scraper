@@ -1,0 +1,125 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/hummel/55c57423-d7c3-47df-8a26-225cfcb7fbd3/c502",
+  "productKey": "55c57423-d7c3-47df-8a26-225cfcb7fbd3_c502",
+  "variantId": "c502",
+  "productId": null,
+  "name": "HUMMEL",
+  "brand": "HUMMEL",
+  "description": "Mangas Cortas Cordones Elásticos Turf, Soft Ground, Firm Ground Fútbol Diseño Ligero Hummel",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "copia botas niños"
+  ],
+  "price": {
+    "amount": 41.65,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "13,88 € al mes",
+  "sizes": [],
+  "colors": [
+    {
+      "name": "gris carbón.",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "verde / multicolor",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "gris verdoso",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "negro",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones elásticos"
+        },
+        {
+          "name": "Material",
+          "value": "Polyester"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "5715688298858"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m22880606/k$f3be5fe3135f89eca96994636fab888f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22880576/k$73b575ec2315ef40f5ac5cfdb6ab092e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22880573/k$8738c2ce05c401b89f51eb0805d9e05a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22880585/k$d6385e46702e1fe6cffd0d2651154833/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22880598/k$a5639fa04da5bd110e99f3659a9d08a0/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22880593/k$f229e15bbc846d484a702846551d1594/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22880609/k$d6504d0378a7841057f02733732b8092/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36424071/k$6642a8190675462b0fd5236e48394b0c/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:22:58.309Z"
+}

@@ -1,0 +1,139 @@
+{
+  "url": "https://www.decathlon.es/es/p/botas-de-futbol-future-8-pro-fg-ag-adulto-amarillo/362584/m8934806",
+  "productKey": "362584_m8934806",
+  "variantId": "m8934806",
+  "productId": "8934806",
+  "name": "Botas de fútbol FUTURE 8 Pro FG/AG Adulto Amarillo",
+  "brand": "PUMA",
+  "description": "Una bota que se adapta de forma diferente, diseñada para los jugadores que marcan la diferencia.Jugadores, sed creativos con las FUTURE 8 PRO.",
+  "stickers": [
+    "Últimas unidades"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas de futbolistas",
+    "Botas de Neymar JR"
+  ],
+  "price": {
+    "amount": 59.99,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 139.99,
+    "currency": "EUR"
+  },
+  "financing": "20,00 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "3 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 3 años."
+    }
+  ],
+  "features": [
+    {
+      "title": "Comodidad",
+      "text": "Material de LYCRA® muy elástico para mayor sujeción y flexibilidad."
+    },
+    {
+      "title": "Sujeción del producto",
+      "text": "PWRTAPE en la parte media del pie para un bloqueo y una estabilidad superiores"
+    },
+    {
+      "title": "Toque de balón",
+      "text": "Tecnología GripControl para mejorar el agarre y el control."
+    },
+    {
+      "title": "Flexibilidad multidireccional",
+      "text": "La tecnología Dynamic Motion System ofrece flexibilidad y agilidad excelentes"
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de terreno",
+          "value": "Hierba, Césped artificial"
+        },
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos fijos"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado bajo"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "Future"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Control"
+        },
+        {
+          "name": "Tipo de plantilla",
+          "value": "Simple"
+        },
+        {
+          "name": "Jugadores",
+          "value": "Neymar, Grealish"
+        },
+        {
+          "name": "Nivel de rendimiento",
+          "value": "Pro"
+        }
+      ]
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p2916317/k$8bcb69069ecd6a1b11658d1c69022a8d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2916315/k$473f6700a5de240a965f9244e83b9589/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2916313/k$74c31e3220bf15741777857dc3a3ade3/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2916316/k$c6a4dfc36e7c45ed417f40c82c6299e4/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2916314/k$cec3550e7c7906a41705667c41c857e3/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2916312/k$251808de69aeebec11491cc87a8f0626/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T17:57:29.798Z"
+}

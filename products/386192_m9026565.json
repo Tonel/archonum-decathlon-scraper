@@ -1,0 +1,145 @@
+{
+  "url": "https://www.decathlon.es/es/p/botas-de-futbol-future-9-match-fg-ag-adulto-rojo-puma/386192/m9026565",
+  "productKey": "386192_m9026565",
+  "variantId": "m9026565",
+  "productId": "9026565",
+  "name": "Botas de fútbol FUTURE 9 Match FG/AG Adulto Rojo PUMA",
+  "brand": "PUMA",
+  "description": "Jugadores creativos, dad rienda suelta a vuestra creatividad con las FUTURE 9 MATCH.La ubicación de los tacos dan una libertad de movimientos de 360°, para que puedas deshacerte de los defensas.",
+  "stickers": [
+    "Últimas unidades"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas de futbolistas",
+    "Botas Carvajal"
+  ],
+  "price": {
+    "amount": 56.99,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 94.99,
+    "currency": "EUR"
+  },
+  "financing": "19,00 € al mes",
+  "sizes": [
+    "UK 6 EU 39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "1 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 1 año."
+    }
+  ],
+  "features": [
+    {
+      "title": "Toque de balón",
+      "text": "Zonas de agarre en relieve para un mejor control del balón."
+    },
+    {
+      "title": "Comodidad",
+      "text": "Parte superior de mesh flexible y ligero combinado con un cuello de punto elástico."
+    },
+    {
+      "title": "Sujeción del producto",
+      "text": "Banda de sujeción en la parte central del pie para ofrecer una sujeción y estabilidad óptimas."
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de terreno",
+          "value": "Hierba, Hierba sintética larga"
+        },
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos fijos"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Personalización",
+          "value": "Personalizable"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado de media caña"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "Puma el paquete de llegada, Future"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Control"
+        },
+        {
+          "name": "Tipo de plantilla",
+          "value": "Simple"
+        },
+        {
+          "name": "Nivel de rendimiento",
+          "value": "Partido / Liga"
+        }
+      ]
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p3215310/k$aba97915e35109a600997ffc4d6333de/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3215309/k$8a86b6f6b5f15a16009e1efd96e48490/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3215307/k$f0e5e57421b022fc9365ff2ce90b3757/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3215305/k$12e0426ff43265a48646661169297ab6/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3215311/k$0cb887f6cd2bb77412a6d1b1b67b7df5/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3215306/k$f45ffa51dfa39ac16c6587139d66f0c4/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3215308/k$675d1e18a5ae1a1f7c10d3c8f5b52bb6/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T17:50:55.537Z"
+}

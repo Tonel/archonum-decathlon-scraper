@@ -1,0 +1,17 @@
+{
+  "name": "decathlon-es-scraper",
+  "version": "1.0.0",
+  "description": "Collects Decathlon product URLs for a category and scrapes product data through Archonum browser sessions",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "discover": "node src/discover-urls.js",
+    "scrape": "node src/scrape-products.js"
+  },
+  "dependencies": {
+    "@archonum/sdk": "1.1.0",
+    "playwright": "^1.64.1"
+  }
+}

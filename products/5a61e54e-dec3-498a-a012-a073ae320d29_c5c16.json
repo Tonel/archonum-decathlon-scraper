@@ -1,0 +1,98 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatillas-futbol-adulto-puma-ultra-5-play-mg-107906-01/5a61e54e-dec3-498a-a012-a073ae320d29/c5c16",
+  "productKey": "5a61e54e-dec3-498a-a012-a073ae320d29_c5c16",
+  "variantId": "c5c16",
+  "productId": null,
+  "name": "ZAPATILLAS FÚTBOL ADULTO PUMA ULTRA 5 PLAY MG. 107906 01.",
+  "brand": "PUMA",
+  "description": "Las Zapatillas de Fútbol Adulto Puma Ultra 5 Play MG son la elección ideal para los futbolistas que buscan un equilibrio perfecto entre estilo, comodidad y rendimiento.",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Puma",
+    "Botas de fútbol puma"
+  ],
+  "price": {
+    "amount": 35,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 43.99,
+    "currency": "EUR"
+  },
+  "financing": "11,67 € al mes",
+  "sizes": [
+    "40 (UK 7.5)",
+    "41 (UK 8)",
+    "43 (UK 8.5)",
+    "44 (UK 9.5)",
+    "45 (UK 11)"
+  ],
+  "colors": [
+    {
+      "name": "azul / morado",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "azul royal / morado",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m18854634/k$7d2f11a0bad5cb263d72171fce6aac5a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m18854632/k$2fafed8d8b2f8f5adfd82f8fe6545736/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m18854630/k$5c9596c0f912351c15b782e2ea5ac045/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m18854633/k$fe0ba807a959cfbadac1723d554083f4/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35732606/k$e8a2fec4fea4dcc14f78e7b5147c0126/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35732570/k$8cbc0b710754234d27585f6fdf2dd945/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35732526/k$84d7b87c95a3f35f24b6386369e13187/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35732469/k$93a48ac1cc7e7108ee24d69fd3737cc0/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35447998/k$5d2638a5bf9215bea29ce0eb63b35ad8/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34286663/k$92bfee99ffe5b43ae3efb05456ac9357/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34286608/k$ffc79dce61229aac78dcf7e21ae43876/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34286785/k$9f0dda91040c7c2bb2543ba0087c047d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34286691/k$d26365ce6654e5c8fd0fe7067284006c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34286735/k$d6b1c7f342b1c4e7451c41071ba06f26/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34286676/k$500732e7b576a3984b398f259a46c97e/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:47:50.407Z"
+}

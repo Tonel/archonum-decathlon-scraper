@@ -1,0 +1,122 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-para-unisex-junior-puma-puture-7-play-mg-jr/134ae913-573d-4e9d-958a-4a5643b19305/c255c1c24",
+  "productKey": "134ae913-573d-4e9d-958a-4a5643b19305_c255c1c24",
+  "variantId": "c255c1c24",
+  "productId": null,
+  "name": "Botas de Futbol para UNISEX JUNIOR PUMA PUTURE 7 PLAY MG JR",
+  "brand": "PUMA",
+  "description": "Botas para jugar al futbol, ideales para los campos de futbol artificial",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "Botas de futbol Puma niños",
+    "Botas de futbol Puma niños Future"
+  ],
+  "price": {
+    "amount": 52.5,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "17,50 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Césped artificial"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "Future"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4099686021894"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m36146537/k$c13faf254b9cde2d0317bbd3a8fcdffb/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m25874875/k$7520de62cd5e28b75aae44d1870084f7/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m25874870/k$a209cb9e8c1edddc58ef09f71128b55a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m25874887/k$8f948208240af305b8f7b2e163b2eb8f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m25874884/k$9e4f8f574dfe6a43fe29ce050715e80a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36146537/k$c13faf254b9cde2d0317bbd3a8fcdffb/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36146546/k$6fe8e047f6fa0b0eb04107e30df89880/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:36:43.701Z"
+}

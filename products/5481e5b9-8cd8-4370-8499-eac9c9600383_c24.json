@@ -1,0 +1,90 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatos-de-futbol-nike-mercurial-vapor-16-club-tf-rosa/5481e5b9-8cd8-4370-8499-eac9c9600383/c24",
+  "productKey": "5481e5b9-8cd8-4370-8499-eac9c9600383_c24",
+  "variantId": "c24",
+  "productId": null,
+  "name": "Zapatos de fútbol Nike Mercurial Vapor 16 Club TF Rosa",
+  "brand": "NIKE",
+  "description": "Diseñadas para los jóvenes futbolistas, estas botas ofrecen comodidad y rendimiento con una suela de goma para una tracción óptima.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Nike",
+    "Botas de fútbol nike"
+  ],
+  "price": {
+    "amount": 39.45,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "13,15 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "0198482830410"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m23924635/k$b68c83d4e27e957e5db64a0300dadba4/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m23925637/k$907eebfec2a82f302d1d7b591d3c54e1/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m23924648/k$1f76412f3722f4482459fd185844a7ac/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m23924673/k$e5da8f5042abff4d7799e8413bf1f2e2/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38797071/k$1be2791ca7f41e0e1346a351081110e6/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38797040/k$5c7915a12a00fa19b6d07cc715e6b0dd/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:48:28.876Z"
+}

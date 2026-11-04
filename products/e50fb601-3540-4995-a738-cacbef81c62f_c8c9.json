@@ -1,0 +1,129 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-ninos-future-play-mg-puma-persian-blue-pro-green/e50fb601-3540-4995-a738-cacbef81c62f/c8c9",
+  "productKey": "e50fb601-3540-4995-a738-cacbef81c62f_c8c9",
+  "variantId": "c8c9",
+  "productId": null,
+  "name": "Botas de fútbol Niños FUTURE PLAY MG PUMA Persian Blue Pro Green",
+  "brand": "PUMA",
+  "description": "Un llamamiento a todos los jugadores. Inspiradas en el estilo de juego de Neymar Jr, las nuevas FUTURE PLAY han llegado para dominar el campo. Diseñado con el ADN deportivo de PUMA.",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Puma",
+    "Botas de fútbol puma"
+  ],
+  "price": {
+    "amount": 29.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": null,
+  "sizes": [],
+  "colors": [
+    {
+      "name": "azul oscuro / verde",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "gris",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "blanco / rojo",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "verde / verde",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del dom, 8 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Césped artificial"
+        },
+        {
+          "name": "Colección",
+          "value": "Future"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4099683033555"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m13977156/k$32bc0e9b5491a92869e437c4ced6abf8/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m13977144/k$c375ed6b2a4016dac87a697449094c5e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m13977159/k$63e48ceeb8e8164320ba04690a7ec527/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m13977149/k$1db7a6aba5573ec2609083ef267b997e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m13977187/k$b7b05531dfc9e81a00306185f1354bd6/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m13977189/k$c718fc1a809c273602e5eca28d13d3eb/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:01:35.822Z"
+}

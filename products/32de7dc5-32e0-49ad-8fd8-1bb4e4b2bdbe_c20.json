@@ -1,0 +1,115 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-puma-modelo-108595-03-para-hombre/32de7dc5-32e0-49ad-8fd8-1bb4e4b2bdbe/c20",
+  "productKey": "32de7dc5-32e0-49ad-8fd8-1bb4e4b2bdbe_c20",
+  "variantId": "c20",
+  "productId": null,
+  "name": "Zapatos de fútbol PUMA Future 8 Match MG Naranja",
+  "brand": "PUMA",
+  "description": "Diseñadas para jugadores aficionados, estas botas de fútbol Puma ofrecen agarre y control en todo tipo de superficies.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Puma",
+    "Botas de fútbol puma"
+  ],
+  "price": {
+    "amount": 63.2,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "21,07 € al mes",
+  "sizes": [
+    "39",
+    "40.5 (UK 6.5)",
+    "40 (UK 7)",
+    "41 (UK 7.5)",
+    "42 (UK 8)",
+    "42.5 (UK 8.5)",
+    "43 (UK 9)",
+    "44 (UK 9.5)",
+    "44.5 (UK 10)",
+    "45 (UK 10)",
+    "46 (UK 11)",
+    "46.5 (UK 11.5)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del mar, 10 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Material",
+          "value": "Sintético"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4069156651203"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m38303200/k$4e6474e3cbe24e5b206726bc072fdd6f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38777897/k$6fa8f95a23f30ae7aca23bfe799935cb/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38777875/k$66bd71441b5cb615ca4cefebb0be13f3/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38777857/k$c0a475415bd4c7dd087d43e1242928e7/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38777846/k$60444a32350e2980a5c8bd2d6979e230/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38777837/k$5d617345c5c7bfcfbcad8a7bca040ada/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:03:01.423Z"
+}

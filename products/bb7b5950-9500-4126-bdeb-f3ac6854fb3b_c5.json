@@ -1,0 +1,104 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatos-de-futbol-nike-mercurial-vapor-16-academy-ag-azul/bb7b5950-9500-4126-bdeb-f3ac6854fb3b/c5",
+  "productKey": "bb7b5950-9500-4126-bdeb-f3ac6854fb3b_c5",
+  "variantId": "c5",
+  "productId": null,
+  "name": "Zapatos de fútbol Nike Mercurial Vapor 16 Academy AG Azul",
+  "brand": "NIKE",
+  "description": "Diseñadas para el fútbol en césped artificial, estas botas ofrecen comodidad y agilidad para mejorar tu juego.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Nike",
+    "Botas de fútbol nike"
+  ],
+  "price": {
+    "amount": 83.13,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "27,71 € al mes",
+  "sizes": [
+    "38.5 (UK 5.5)",
+    "39 (UK 5.5)",
+    "40 (UK 6)",
+    "40.5 (UK 6.5)",
+    "41 (UK 7)",
+    "42 (UK 8)",
+    "42.5 (UK 8.5)",
+    "43 (UK 9)",
+    "44 (UK 9.5)",
+    "44.5 (UK 10)",
+    "45 (UK 10.5)",
+    "45.5 (UK 10.5)",
+    "46 (UK 11)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del mié, 11 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "0198726506729"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m38332369/k$5c48b7eb116718631aec3009e555ec89/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38774491/k$e1eef6bbb349d176067540809696a1e0/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38774426/k$ee7d19d55ae1c8b0eccb50cd918d4aa3/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38774390/k$d86e3aad3746b78d1927ea22c1f4019f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38774354/k$1c5925513faad7336fc8f5eb7350b95b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38774321/k$09d7cf3cb54853c508f8999725dad356/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:21:23.302Z"
+}

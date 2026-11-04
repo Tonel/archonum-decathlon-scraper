@@ -1,0 +1,155 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-ultra-6-pro-fg-ag-unisex-puma/45d278f9-dfa2-4a42-aadf-f0742affe973/c1c22c9",
+  "productKey": "45d278f9-dfa2-4a42-aadf-f0742affe973_c1c22c9",
+  "variantId": "c1c22c9",
+  "productId": null,
+  "name": "Botas de fútbol ULTRA 6 PRO FG/AG unisex PUMA",
+  "brand": "PUMA",
+  "description": "Mete La Sexta Marcha Con Las Nuevas Ultra 6, Ahora Con Un Nuevo Empeine De Malla Técnica.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas de futbolistas",
+    "Botas de Coman"
+  ],
+  "price": {
+    "amount": 81,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "27,00 € al mes",
+  "sizes": [
+    "41 (UK 7.5)",
+    "42 (UK 7.5)",
+    "42.5 (UK 8.5)",
+    "43 (UK 10)",
+    "44.5 (UK 10)",
+    "46 (UK 10.5)"
+  ],
+  "colors": [
+    {
+      "name": "negro / amarillo / verde",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "blanco",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "mango / negro / rojo",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "azul / blanco / rojo",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del dom, 8 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Agotado"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Terreno duro"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "Ultra"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4069156834156"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m23140264/k$ab755fd8510ff0d42e89fa9585f1d303/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m23140173/k$81a9f20324b8ac09fefa46811ec10d2a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m23140115/k$ef8825d01950f65d1e561f6addcb01b7/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m23140312/k$08bb5e05c869afa94cbc5439cddd5956/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m23140216/k$56419031f810d364600a728c812b16f7/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m23140342/k$34a1f65b8bdd1cc2f778d2be1ea1afe1/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35712617/k$e841e07e8d90d472e1d7e3c6bbf153fd/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35712583/k$3b831d5dbd15931fd837097bcb3c57d2/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35440122/k$98e991c302c3bf3ed820eab1bbcea217/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35440096/k$01ec87f5e2c4e51180a568ddebdd2231/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35712716/k$ae46ce64fa45eda1dbabc90cec76dbd7/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35712694/k$55276b01c7002db3f25a7ac71efd0914/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35712673/k$fc53d728c4ec7855bc2c46c6e8dd0095/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35712651/k$51b0ab2fa5674ee730925fb1d8e532c5/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34285300/k$620b68e41c273eac8a88b3027f48f160/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:10:33.798Z"
+}

@@ -1,0 +1,125 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/cierre-de-velcro-turf-soft-ground-firm-ground-top-star-futbol-los-ninos-unisex/04782b14-5066-4fc4-bb06-f81000dc68b9/c181",
+  "productKey": "04782b14-5066-4fc4-bb06-f81000dc68b9_c181",
+  "variantId": "c181",
+  "productId": null,
+  "name": "Cierre De Velcro Turf, Soft Ground, Firm Ground Top Star Fútbol Los Niños Unisex",
+  "brand": "HUMMEL",
+  "description": "Mangas Cortas Cierre De Velcro Turf, Soft Ground, Firm Ground Fútbol Diseño Ligero Hummel",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "copia botas niños"
+  ],
+  "price": {
+    "amount": 32.5,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 38,
+    "currency": "EUR"
+  },
+  "financing": "10,83 € al mes",
+  "sizes": [
+    "34 (UK 2)",
+    "35 (UK 2.5)",
+    "24 (UK 7C)",
+    "36 (UK 3.5)",
+    "25 (UK 7.5C)",
+    "26 (UK 8C)",
+    "37 (UK 4)",
+    "27 (UK 9C)",
+    "38 (UK 5)",
+    "28 (UK 9.5C)",
+    "29 (UK 10C)",
+    "30 (UK 11.5C)",
+    "31 (UK 12)",
+    "32 (UK 13C)",
+    "33 (UK 13.5C)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Agotado"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Tira autoadherente"
+        },
+        {
+          "name": "Material",
+          "value": "Polyester"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "5715917279924"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m39486325/k$4a86a3dcd2d61da93533bb3bb87c3520/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38825731/k$399d2dba7186b8886366fcd68c203f47/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38825879/k$74075331920449fafebb2f7724223374/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38825858/k$1ac77dd708084a825bfc571940a87a1f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38825837/k$cea2580fee6134058121c7e124f196cf/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38825816/k$c34a464f2cde05c30faaf6436d0a538a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38825799/k$73857f8d3c5f7da7ae114d3482e9f456/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38825875/k$8c4e926648c259759632ecdb61e99916/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:12:38.239Z"
+}

@@ -1,0 +1,88 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatilla-de-futbol-f50-league-indoor/4fed2ad2-8068-4763-861d-a016b0a8560b/c5c22c238",
+  "productKey": "4fed2ad2-8068-4763-861d-a016b0a8560b_c5c22c238",
+  "variantId": "c5c22c238",
+  "productId": null,
+  "name": "Zapatilla de fútbol F50 League Indoor",
+  "brand": "ADIDAS",
+  "description": "Zapatilla de fútbol sala con suela de goma resistente al desgaste para jugar con precisión",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol sala",
+    "Zapatillas",
+    "Zapatillas niños",
+    "Zapatillas niños Adidas"
+  ],
+  "price": {
+    "amount": 68,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "22,67 € al mes",
+  "sizes": [
+    "35 (UK 3)",
+    "37 1/3 (UK 4.5)"
+  ],
+  "colors": [
+    {
+      "name": "azul / amarillo / turquesa",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "amarillo / negro / rojo",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "blanco / negro / rojo",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m28116879/k$6b4c6cb17084397336acbb29849b4d0e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28116874/k$64fee723b2f71ceebfce4c01df1de9c9/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28116870/k$722115427a6811e46d73b9aee6eda31d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28115880/k$ab4dc911df035aa05df61c211c1cb3f6/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28115773/k$c68f1e564fd66c0610f51f2c093c06e7/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28115902/k$446813cb3cd8bcb2d3e8293109c039fe/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28115838/k$92e6f062e4867361b58ef0e9858751ef/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36646032/k$ee4d727924a38446f2c7785af81870ec/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:57:51.644Z"
+}

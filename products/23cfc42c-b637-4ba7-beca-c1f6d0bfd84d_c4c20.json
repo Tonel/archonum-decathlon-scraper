@@ -1,0 +1,126 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-futbol-futbol-adulto-joma-dribling-24-tf-blanco/23cfc42c-b637-4ba7-beca-c1f6d0bfd84d/c4c20",
+  "productKey": "23cfc42c-b637-4ba7-beca-c1f6d0bfd84d_c4c20",
+  "variantId": "c4c20",
+  "productId": null,
+  "name": "Botas Fútbol Fútbol Adulto Joma Dribling 24 TF Blanco",
+  "brand": "JOMA",
+  "description": "Botas Fútbol Fútbol Adulto Joma Dribling 24 TF Blanco",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Joma",
+    "Botas de fútbol joma"
+  ],
+  "price": {
+    "amount": 39.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "13,33 € al mes",
+  "sizes": [
+    "40 (UK 6.5)",
+    "42 (UK 8)",
+    "43 (UK 8.5)",
+    "44 (UK 9.5)",
+    "45 (UK 10.5)",
+    "46 (UK 11)"
+  ],
+  "colors": [
+    {
+      "name": "blanco / naranja",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "blanco / naranja / blanco",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8445954832314"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m19252012/k$fcd435910da94819b624ea49519aff74/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19252010/k$09bf31981657db1d4c9e833545399e5d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19252021/k$98542525cac3f466eee2c1d3e7460f48/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19252014/k$058c347cb32141ba660abe875d2717a3/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19252019/k$6898607896c7d98d2adebe24eadd0639/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m8521602/k$cc5b8d0d11a3b6f587cf74806ede8c96/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:33:51.629Z"
+}

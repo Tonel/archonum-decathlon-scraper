@@ -1,0 +1,119 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-futbol-futbol-ninos-joma-gol-jr-26-tf-verde/38643179-0b69-4316-9319-0df0a763df80/c9",
+  "productKey": "38643179-0b69-4316-9319-0df0a763df80_c9",
+  "variantId": "c9",
+  "productId": null,
+  "name": "Botas Fútbol Fútbol Niños Joma Gol Jr 26 TF Verde",
+  "brand": "JOMA",
+  "description": "Botas Fútbol Fútbol Niños Joma Gol Jr 26 TF Verde",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "copia botas niños"
+  ],
+  "price": {
+    "amount": 37.51,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "12,50 € al mes",
+  "sizes": [
+    "34 (UK 1)",
+    "24",
+    "35 (UK 2)",
+    "27 (UK 9C)",
+    "28 (UK 9.5C)",
+    "29 (UK 10C)",
+    "30 (UK 11C)",
+    "31 (UK 12C)",
+    "32 (UK 13C)",
+    "33 (UK 13.5C)"
+  ],
+  "colors": [
+    {
+      "name": "verde",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "azul marino",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8447534960332"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m36794265/k$1b8e211d3c1a7f097be103a8999988f8/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36765551/k$4e1b155a4a2bcce3ef8ae83cbefedd4e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36218893/k$c8962c9bfbd2b470a8e7412fbb6e5f7d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36218868/k$6456d520f2f875494220f194dcea243b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36794292/k$f4a0c38b16acd94572100de363de34a8/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T17:46:11.639Z"
+}

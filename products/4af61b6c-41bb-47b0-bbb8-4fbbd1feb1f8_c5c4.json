@@ -1,0 +1,132 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-mizuno-monarcida-neo-iii-pro-azul/4af61b6c-41bb-47b0-bbb8-4fbbd1feb1f8/c5c4",
+  "productKey": "4af61b6c-41bb-47b0-bbb8-4fbbd1feb1f8_c5c4",
+  "variantId": "c5c4",
+  "productId": null,
+  "name": "Botas De Fútbol Mizuno Monarcida Neo Iii Pro Azul",
+  "brand": "MIZUNO",
+  "description": "Botas de fútbol moldeadas para un rendimiento impecable en terreno seco. Estabilidad, ligereza y confort óptimo para un juego controlado en todo momento.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas césped artificial",
+    "Todo Botas césped artificial"
+  ],
+  "price": {
+    "amount": 101.85,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "33,95 € al mes",
+  "sizes": [],
+  "colors": [
+    {
+      "name": "azul / blanco",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "negro / gris oscuro",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos fijos"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Terreno seco"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Nivel de práctica",
+          "value": "Todos los niveles"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        },
+        {
+          "name": "Temporada",
+          "value": "Todas las estaciones"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "5059882285734"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m17690368/k$e908f6668af7b717ac0f7a55acf1a5f6/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m17690357/k$87bb0336132390a7de453ece381a88a8/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m17690362/k$66e317e84fef75b9bbcbda1ff4b19bf5/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m17690344/k$afdfbe954e8445832e0eca85f7fde0e6/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m17690355/k$bf7be1857dd689845a12aade9f1ee17f/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:22:21.306Z"
+}

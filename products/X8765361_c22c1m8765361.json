@@ -1,0 +1,130 @@
+{
+  "url": "https://www.decathlon.es/es/p/botas-de-futbol-adulto-puma-ultra-3-fg-ag/X8765361/c22c1m8765361",
+  "productKey": "X8765361_c22c1m8765361",
+  "variantId": "c22c1m8765361",
+  "productId": "8765361",
+  "name": "Botas de fútbol Adulto Puma Ultra.3 FG/AG",
+  "brand": "PUMA",
+  "description": "La nueva ULTRA convierte los segundos en récords. La caña está hecha de GripControl, una segunda piel con mayor ligereza para un control decisivo de la pelota.",
+  "stickers": [
+    "Últimas unidades"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Puma",
+    "Botas de fútbol puma"
+  ],
+  "price": {
+    "amount": 47.99,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 59.99,
+    "currency": "EUR"
+  },
+  "financing": "16,00 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "3 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 3 años."
+    }
+  ],
+  "features": [
+    {
+      "title": "Ligereza",
+      "text": "Exterior ligero y resistente"
+    },
+    {
+      "title": "Impulso",
+      "text": "Suela de TPU SpeedUnit ultrarrápida para una aceleración notable"
+    },
+    {
+      "title": "Toque de balón",
+      "text": "GripControl Pro: revestimiento para un control decisivo del balón."
+    },
+    {
+      "title": "Resistencia a la abrasión",
+      "text": "Contrafuerte integrado para una sujeción de primera calidad."
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Nivel de práctica",
+          "value": "Todos los niveles"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Hierba, Hierba sintética larga"
+        },
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos fijos"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado bajo"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "Ultra"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Velocidad"
+        },
+        {
+          "name": "Tipo de plantilla",
+          "value": "Simple"
+        }
+      ]
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p2332388/k$5153814e8bc0eb3680188f54ab39008e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2332389/k$222b648628926ebfe36cfb770b59a79e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2332387/k$c86189330000a953934a9db22fce40e6/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2332386/k$b1e2d05c1f05eab418eac500bbd7cdd5/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2332391/k$8eb334b43576fcbec5b6ff6284a552be/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:13:43.057Z"
+}

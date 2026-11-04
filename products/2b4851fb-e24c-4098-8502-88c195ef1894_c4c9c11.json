@@ -1,0 +1,111 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/joma-indoor-football-zapatillas-futbol-sala-unisex-blanco/2b4851fb-e24c-4098-8502-88c195ef1894/c4c9c11",
+  "productKey": "2b4851fb-e24c-4098-8502-88c195ef1894_c4c9c11",
+  "variantId": "c4c9c11",
+  "productId": null,
+  "name": "Joma Indoor Football - zapatillas fútbol sala unisex blanco",
+  "brand": "JOMA",
+  "description": "Joma Indoor Football - zapatillas fútbol sala unisex blanco",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas Joma"
+  ],
+  "price": {
+    "amount": 23.95,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": null,
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Interior"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8447150445312"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m39493143/k$cac10adcf3a21eace52f523a4e1ec9f3/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m39493197/k$e91f529574bf3133b2491a4b907095bf/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m39493172/k$b384e61f88829161800827822a8b09b2/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m39493153/k$2ef030ec0508e0d82a34763979129d02/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22008642/k$58bdcd394e76191d381da929551dfe76/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35116870/k$33cdd56d6531aa5482348332ca2dca0a/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:16:37.183Z"
+}

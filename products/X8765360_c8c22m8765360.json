@@ -1,0 +1,135 @@
+{
+  "url": "https://www.decathlon.es/es/p/botas-de-futbol-fg-ag-adulto-puma-future-z-3-4/X8765360/c8c22m8765360",
+  "productKey": "X8765360_c8c22m8765360",
+  "variantId": "c8c22m8765360",
+  "productId": "8765360",
+  "name": "Botas de fútbol FG/AG Adulto Puma Future Z 3.4",
+  "brand": "PUMA",
+  "description": "Sujección y comodidad inmejorables. Banda de sujeción adaptable FUZIONFIT+.",
+  "stickers": [
+    "Últimas unidades"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas de futbolistas",
+    "Botas de Neymar JR"
+  ],
+  "price": {
+    "amount": 47.99,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 79.99,
+    "currency": "EUR"
+  },
+  "financing": "16,00 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "3 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 3 años."
+    }
+  ],
+  "features": [
+    {
+      "title": "Comodidad",
+      "text": "FUZIONFIT: tira de compresión adaptativa para una sujeción inigualable."
+    },
+    {
+      "title": "Flexibilidad",
+      "text": "Exterior flexible concebido para mejorar las sensaciones del pie."
+    },
+    {
+      "title": "Toque de balón",
+      "text": "GripControl Pro: revestimiento para un control decisivo del balón."
+    },
+    {
+      "title": "Resistencia a la abrasión",
+      "text": "Contrafuerte integrado para una sujeción de primera calidad."
+    },
+    {
+      "title": "Agarre",
+      "text": "Estructura con tacos concebida para una tracción multidireccional reforzada."
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Nivel de práctica",
+          "value": "Todos los niveles"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Hierba, Hierba sintética larga"
+        },
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos fijos"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado alto"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "Future"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Control"
+        },
+        {
+          "name": "Tipo de plantilla",
+          "value": "Simple"
+        }
+      ]
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p2340866/k$8eab8d2715264bb50468419ee5051a37/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2340863/k$04b8d0693201c0d3651f500e0d8fa31e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2340865/k$e57eda6463c8716bfef23dbc878e9db2/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2340862/k$6ea7546c288d600aac647c8311d7d75a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2340861/k$b994b20a1cb2cbcd01a09834ea847a2a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2340864/k$fb7655d2c748e46559a2ed5ba41281ed/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:55:34.185Z"
+}

@@ -1,0 +1,130 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/k-swiss-ultra-court-padel-negro-04436/7e23a836-e7b5-4daf-97c7-d7e4c5235f05/c251c73c4",
+  "productKey": "7e23a836-e7b5-4daf-97c7-d7e4c5235f05_c251c73c4",
+  "variantId": "c251c73c4",
+  "productId": null,
+  "name": "K-swiss Ultra Court Padel Negro 04436",
+  "brand": "K-SWISS",
+  "description": "Las K-Swiss Ultra Court Padel están diseñadas con una suela especial para pádel que mejora el agarre y facilita movimientos rápidos.",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas de futbolistas",
+    "Botas de Coman"
+  ],
+  "price": {
+    "amount": 85.9,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "28,63 € al mes",
+  "sizes": [
+    "40 (UK 7.5)",
+    "41.5 (UK 7.5)",
+    "42 (UK 8.5)",
+    "42.5 (UK 8.5)",
+    "41 (UK 9)",
+    "43 (UK 9)",
+    "44 (UK 9.5)",
+    "44.5 (UK 10.5)",
+    "46 (UK 11)",
+    "47 (UK 11)",
+    "45 (UK 12)",
+    "49 (UK 14)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Lugar de práctica",
+          "value": "Estadio"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Multicancha"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        },
+        {
+          "name": "Temporada",
+          "value": "Todas las estaciones"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "0199286135459"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m36781619/k$d749677ab36582354f2224e505ba1e12/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36781720/k$a54a929770dbd82e3946a8df1df8b8ad/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36781694/k$5b5238388cc7c1b6117230b6b535216a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36781678/k$c728f2d69715f443a8a707323236787f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36781659/k$52b0bd5006d810df8a78c5be7db8db18/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36781641/k$745c6b4bd95fc0147215697548afa01a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m37138845/k$369139b1a88543c90784b60edb9bc148/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:48:09.675Z"
+}

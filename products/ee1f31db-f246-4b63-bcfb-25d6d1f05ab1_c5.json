@@ -1,0 +1,160 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-future-9-match-fg-ag-ninos-puma/ee1f31db-f246-4b63-bcfb-25d6d1f05ab1/c5",
+  "productKey": "ee1f31db-f246-4b63-bcfb-25d6d1f05ab1_c5",
+  "variantId": "c5",
+  "productId": null,
+  "name": "Botas de fútbol FUTURE 9 MATCH FG/AG Niños PUMA",
+  "brand": "PUMA",
+  "description": "Da Rienda Suelta A Tu Creatividad Con Las Future 9 Match.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "Botas de futbol Puma niños",
+    "Botas de futbol Puma niños Future"
+  ],
+  "price": {
+    "amount": 51.95,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "17,32 € al mes",
+  "sizes": [
+    "34 (UK 1)",
+    "35.5 (UK 3)",
+    "36 (UK 3.5)",
+    "37 (UK 4)",
+    "38 (UK 5)",
+    "31 (UK 12)",
+    "32 (UK 13.5C)",
+    "32.5 (UK 13.5C)",
+    "33 (UK 13.5C)"
+  ],
+  "colors": [
+    {
+      "name": "azul",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "negro / rojo",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "rojo / blanco / negro",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "rosa / naranja / azul pastel",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "negro / rojo / gris",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos fijos"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Terreno duro"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Colección",
+          "value": "Future"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Aviso legal",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4069161163500"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m28081109/k$d0671cfe876f44f120fc27e18ddeec4b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28080957/k$53bebb2a1f9c021cf08d7b337151dbc6/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28080561/k$200535e3de7491a9e9e9eccd6251cdd9/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28080767/k$faf5c8b394401fdf4002981234d07243/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28080662/k$27866ff6a7643a3cd81866890b9e32d8/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28080823/k$6b19618c553842cb1ece25353a631105/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38769992/k$12877517e0d894c9518a08fa50825afb/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:10:11.664Z"
+}

@@ -1,0 +1,112 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatillas-de-futbol-nike-phantom-gx-2-academy-negro/4cd65294-0f4f-4454-98b8-69a67fe8f446/c1",
+  "productKey": "4cd65294-0f4f-4454-98b8-69a67fe8f446_c1",
+  "variantId": "c1",
+  "productId": null,
+  "name": "Zapatillas de fútbol Nike Phantom GX 2 Academy Negro",
+  "brand": "NIKE",
+  "description": "Diseñadas para el fútbol, estas botas Nike Phantom GX 2 Academy ofrecen un excelente tacto y una tracción óptima en todos los terrenos.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas Nike"
+  ],
+  "price": {
+    "amount": 96.55,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "32,18 € al mes",
+  "sizes": [],
+  "colors": [
+    {
+      "name": "negro",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "negro / verde jungla",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "0197597386003"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m21287885/k$6604354c3c4c8850f00c1a0af16b99f2/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m21291386/k$c4ddcae98f8c748d8c4c7da7049ef927/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38834150/k$da944f44ce14c14dd1f14e8a0613baf1/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38834125/k$63bae7891acd6da40505440fbe347a7b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38834094/k$a68fd8e6ccbae84b288424f583aa5c10/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38834052/k$dd6b51efcaefbeb58ee1a822c4e7fa8b/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:32:51.607Z"
+}

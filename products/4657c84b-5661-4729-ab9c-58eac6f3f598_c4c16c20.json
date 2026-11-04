@@ -1,0 +1,120 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatillas-indoor-para-ninos-adidas-top-sala-competition-ii/4657c84b-5661-4729-ab9c-58eac6f3f598/c4c16c20",
+  "productKey": "4657c84b-5661-4729-ab9c-58eac6f3f598_c4c16c20",
+  "variantId": "c4c16c20",
+  "productId": null,
+  "name": "Zapatillas indoor para niños adidas Top sala competition II",
+  "brand": "ADIDAS",
+  "description": "Ofrez a su hijo los adidas Top Sala Competition II para una comodidad y un rendimiento inigualables en el campo de fútbol indoor.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol sala",
+    "Zapatillas",
+    "Zapatillas niños",
+    "Zapatillas niños Adidas"
+  ],
+  "price": {
+    "amount": 50.15,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "16,72 € al mes",
+  "sizes": [
+    "33.5 (UK 1.5)",
+    "35.5 (UK 3)",
+    "28.5 (UK 10.5C)",
+    "30.5 (UK 11.5C)",
+    "31.5 (UK 12.5C)"
+  ],
+  "colors": [
+    {
+      "name": "blanco / morado / naranja",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "blanco / azul / amarillo",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Material",
+          "value": "Caucho"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4068818617588"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m34757455/k$adc4c9aa0cf13f4e27e62ad4db3f0ef3/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34757392/k$4898829fc4b14c46f99d45bc2c14de19/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34757366/k$5ba4e006313184f25c62e600620a509f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34757515/k$7244f492de0188f23ad84b3e81647af1/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34757419/k$df0be05df1cfb0a6fae07fb195187c7e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34757540/k$b9e7f45743afe3e05e3e54d74aba7316/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34757487/k$ab08b48530056e7dd8af007a7b348c4e/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:11:41.506Z"
+}

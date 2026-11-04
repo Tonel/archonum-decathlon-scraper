@@ -1,0 +1,129 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/asics-gel-resolution-x-clay-azul-mujer-1042a277/c65e5b53-a0ac-4189-90e8-c65551618861/c5",
+  "productKey": "c65e5b53-a0ac-4189-90e8-c65551618861_c5",
+  "variantId": "c5",
+  "productId": null,
+  "name": "Asics Gel-resolution X Clay Azul Mujer 1042a277",
+  "brand": "ASICS",
+  "description": "Las Asics Gel-Resolution X Clay Azul para Mujer son una elección excelente para jugadoras que buscan estabilidad, amortiguación y control en pistas de tierra batida y pádel.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Pádel",
+    "Zapatillas",
+    "Hombre",
+    "Asics"
+  ],
+  "price": {
+    "amount": 142.53,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "35,63 € al mes",
+  "sizes": [
+    "39 (UK 6)",
+    "39.5 (UK 6)",
+    "40 (UK 6)",
+    "40.5 (UK 7)",
+    "41.5 (UK 7.5)",
+    "42 (UK 8)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Motivo",
+          "value": "Sin patrón"
+        },
+        {
+          "name": "Lugar de práctica",
+          "value": "Estadio"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Tierra batida"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado bajo"
+        },
+        {
+          "name": "Tipo de pisada",
+          "value": "Neutra"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        },
+        {
+          "name": "Temporada",
+          "value": "Todas las estaciones"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4571633405327"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m36244647/k$570aa0ecb6c938f9696b5816fa39eca0/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36244679/k$223a7ab4e3303ccfa8de67bbb958c3f8/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36242822/k$6784fcead9d4575ae0309db792bd7dff/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36244669/k$6216cf437dc2e0e43b0c5d7d2493add6/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36242772/k$a961d90268656adef2a0ee6527a552b4/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38211550/k$f4d27db34444b66ff857eb9a11faa167/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:13:14.018Z"
+}

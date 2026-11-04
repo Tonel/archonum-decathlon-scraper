@@ -1,0 +1,140 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/bota-de-futbol-sin-cordones-f50-league-cesped-natural-seco-multisuperficie/a58e6cfd-52eb-4845-bc4a-3246e3f59f15/c22c1c14",
+  "productKey": "a58e6cfd-52eb-4845-bc4a-3246e3f59f15_c22c1c14",
+  "variantId": "c22c1c14",
+  "productId": null,
+  "name": "Bota de fútbol sin cordones F50 LEAGUE césped natural seco / multisuperficie",
+  "brand": "ADIDAS",
+  "description": "Bota de fútbol con parte superior de Fiberskin para mejorar el control.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas de futbolistas",
+    "Botas de Messi"
+  ],
+  "price": {
+    "amount": 104,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "34,67 € al mes",
+  "sizes": [
+    "44 (UK 9.5)",
+    "44.5 (UK 10.5)",
+    "45.5 (UK 11)"
+  ],
+  "colors": [
+    {
+      "name": "amarillo / negro / rojo",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "negro",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "azul / amarillo / turquesa",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del mar, 10 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Sin apriete"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Terreno duro"
+        },
+        {
+          "name": "Material",
+          "value": "Sintético"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "F50"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4068812207891"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m26900304/k$ffe6b1d3c16f3c3e98825301ddb3b18d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26900247/k$9c1cf0727a3fc12d883afe6ba98fce1e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26900227/k$f969bc5393bec6f7a642b9421b23869c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26900348/k$61c513e6e1821a298ebd69169f945279/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26900279/k$cf8d2d131950e33023211559293455c9/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26900373/k$db849bace4953e50d5f4c71a21d4b4f7/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26900325/k$bb317df97df84fa63e9e309ff477c3cd/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36644467/k$da86245579d3def1edc7aa636271807f/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:03:35.797Z"
+}

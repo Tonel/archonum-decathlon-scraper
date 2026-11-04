@@ -1,0 +1,70 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/bota-futbol-joma-aguila-ag/0b07b9f4-d7b0-4dfc-9811-bda3ccc69af2/c1",
+  "productKey": "0b07b9f4-d7b0-4dfc-9811-bda3ccc69af2_c1",
+  "variantId": "c1",
+  "productId": null,
+  "name": "Bota Futbol Joma Aguila AG",
+  "brand": "JOMA",
+  "description": "Botas de futbol Joma para Hombre en color negro de la temporada Otoño-Invierno 2024.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Joma",
+    "Botas de fútbol joma"
+  ],
+  "price": {
+    "amount": 34.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "11,66 € al mes",
+  "sizes": [
+    "41 (UK 7.5)",
+    "43 (UK 8.5)",
+    "44 (UK 9)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m38473190/k$513b26d418fe2ed9ad134a204af04ad5/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38473262/k$32befa87dcb9c6419f244717cad84fa2/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38473227/k$66a8781b81345f748ebf4b13543d0b65/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38473206/k$49b0d785a61571a069e486694bdd5b51/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m20240366/k$e3c0094d91455707d67b2d487c4a3ae4/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:31:17.181Z"
+}

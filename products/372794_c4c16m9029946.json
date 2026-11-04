@@ -1,0 +1,138 @@
+{
+  "url": "https://www.decathlon.es/es/p/botas-de-futbol-multitacos-f50-nino-blanco-violeta-turf-adidas/372794/c4c16m9029946",
+  "productKey": "372794_c4c16m9029946",
+  "variantId": "c4c16m9029946",
+  "productId": "9029946",
+  "name": "Botas de fútbol multitacos F50 Niño Blanco/Violeta Turf adidas",
+  "brand": "ADIDAS",
+  "description": "Al igual que Dembélé, supera tus límites con las adidas F50, gracias sobre todo a su suela Sprintplate 360, que garantiza un movimiento dinámico en terrenos sintéticos.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "Botas de futbol adidas niños",
+    "Botas de futbol adidas niños F50"
+  ],
+  "price": {
+    "amount": 49.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "16,66 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "1 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 1 año."
+    }
+  ],
+  "features": [
+    {
+      "title": "Impulso",
+      "text": "La suela te permite jugar con la velocidad de un rayo en terrenos de césped."
+    },
+    {
+      "title": "Comodidad",
+      "text": "La caña Fiberskin te ofrece la máxima comodidad y sujeción en desplazamientos."
+    },
+    {
+      "title": "Transpirabilidad",
+      "text": "La caña Fiberskin mantiene los pies ventilados."
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Personalización",
+          "value": "Personalizable"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado bajo"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos estabilizados"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Hierba sintética corta"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Velocidad"
+        },
+        {
+          "name": "Tipo de plantilla",
+          "value": "Simple"
+        },
+        {
+          "name": "Jugadores",
+          "value": "Messi, Dembélé"
+        },
+        {
+          "name": "Colección",
+          "value": "F50"
+        },
+        {
+          "name": "Nivel de rendimiento",
+          "value": "Palo"
+        }
+      ]
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p3210190/k$c257684872e3bef1dd9959bfd96ec4b0/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3210208/k$31a776175115be6315d0f3de4585120e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3210201/k$ee16e901471bfa4c3e37439757dc154d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3210193/k$3fc70d2908c0befc78a823036debf092/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3210194/k$5d77d017b439d962c36bb2f9f8495654/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3210198/k$f863eac8979cea3fcf9a894139fbb8cf/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3210209/k$eaaacd6f4f7a15ae9dd22dd397bf8dbc/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3210204/k$a112af3283eb227d4643bcc697b04b22/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3210203/k$ea85e0213aefd1b9bd305936927342c3/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:04:50.375Z"
+}

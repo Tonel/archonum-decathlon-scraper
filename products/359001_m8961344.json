@@ -1,0 +1,114 @@
+{
+  "url": "https://www.decathlon.es/es/p/zapatillas-de-futbol-sala-king-adulto-blanco/359001/m8961344",
+  "productKey": "359001_m8961344",
+  "variantId": "m8961344",
+  "productId": "8961344",
+  "name": "Zapatillas de Fútbol sala KING Adulto Blanco",
+  "brand": "PUMA",
+  "description": "El diseño sencillo y retro de la KING21 IT la convierten en un modelo perfecto para cualquier ocasión, tanto si vas a entrenar en el gimnasio como a pasear por la ciudad.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol sala",
+    "Zapatillas",
+    "Zapatillas hombre",
+    "Zapatillas hombre Puma"
+  ],
+  "price": {
+    "amount": 74.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "25,00 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "1 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 1 año."
+    }
+  ],
+  "features": [
+    {
+      "title": "Sujeción del producto",
+      "text": "Cordones para un ajuste perfecto."
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Personalización",
+          "value": "Personalizable"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado bajo"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Control"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Interior"
+        },
+        {
+          "name": "Tipo de plantilla",
+          "value": "Simple"
+        },
+        {
+          "name": "Tipo de taco",
+          "value": "Suela suave"
+        },
+        {
+          "name": "Colección",
+          "value": "King"
+        }
+      ]
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p2988855/k$ee2f809305aaf80f3457ffed61353f0e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2955973/k$7614778cf3d617d379a944d3af1a4198/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2955975/k$aa1f64887a981f5823406a95e2de5947/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2955974/k$ea989af6f03c9907c3c6913d0e26adb5/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2955976/k$64b7bd895e2fc94ac4fa4bb473b76d3e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2955977/k$b86169f0a37db565bad006b6fab51109/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:28:19.104Z"
+}

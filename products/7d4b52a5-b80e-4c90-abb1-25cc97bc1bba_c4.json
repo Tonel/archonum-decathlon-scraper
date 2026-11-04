@@ -1,0 +1,96 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/munich-mundial-u25-zapatillas-futbol-sala-de-piel-estilo-clasico-blanco/7d4b52a5-b80e-4c90-abb1-25cc97bc1bba/c4",
+  "productKey": "7d4b52a5-b80e-4c90-abb1-25cc97bc1bba_c4",
+  "variantId": "c4",
+  "productId": null,
+  "name": "MUNICH MUNDIAL U25 Zapatillas fútbol sala de piel estilo clásico Blanco",
+  "brand": "MUNICH",
+  "description": "MUNICH es la marca de zapatillas más usada por profesionales de la LNFS y aficionad@s al futsal y pádel de España, Italia y Portugal.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Oferta completa"
+  ],
+  "price": {
+    "amount": 96.11,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "32,04 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8435289093498"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m33483392/k$e7e48a85d35c4d074c47541c3838478a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m33483317/k$9f4e7d7bd610dd75dc4a65d3fc7ede38/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m33483287/k$3d859674ad605426444116d79cf0132a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m33483359/k$0afebd2e05f9cff671a87cfb5da2dc1b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m25108545/k$18706fce25abe9f64c72c2ac79ed79a0/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:15:14.418Z"
+}

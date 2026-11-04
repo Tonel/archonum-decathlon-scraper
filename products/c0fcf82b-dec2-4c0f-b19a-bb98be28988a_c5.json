@@ -1,0 +1,149 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-future-9-play-fg-ag-ninos-puma/c0fcf82b-dec2-4c0f-b19a-bb98be28988a/c5",
+  "productKey": "c0fcf82b-dec2-4c0f-b19a-bb98be28988a_c5",
+  "variantId": "c5",
+  "productId": null,
+  "name": "Botas de fútbol FUTURE 9 PLAY FG/AG Niños PUMA",
+  "brand": "PUMA",
+  "description": "Da Rienda Suelta A Tu Creatividad Con Las Future 9 Play.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "copia botas niños"
+  ],
+  "price": {
+    "amount": 36.6,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "12,20 € al mes",
+  "sizes": [
+    "34 (UK 2)",
+    "35 (UK 2.5)",
+    "34.5 (UK 3)",
+    "36 (UK 3.5)",
+    "37 (UK 4)",
+    "37.5 (UK 4.5)",
+    "38 (UK 5)",
+    "38.5 (UK 5.5)",
+    "28 (UK 10.5C)",
+    "32 (UK 13C)",
+    "32.5 (UK 13.5C)",
+    "33 (UK 13.5C)"
+  ],
+  "colors": [
+    {
+      "name": "azul",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "rojo / blanco",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "rojo / blanco / negro",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "rosa / naranja / rosa magenta",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "negro / rojo",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de terreno",
+          "value": "Terreno duro"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Colección",
+          "value": "Future"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4069161163838"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m28081154/k$95a20ce65995bda1fdd0a76919f8cf42/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28081137/k$f63044bc7d2bf0ef20ae690fb60743da/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28081124/k$7a55495a6ddd791b48fdc9b0be5f2dd0/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28081165/k$9649f66a2d27bbb57f765592f6e0c092/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28081146/k$b55287a28a88eb847efdd8ba79e38e51/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28081032/k$9cb25d7a741a515ed241b975edb131d8/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:00:34.402Z"
+}

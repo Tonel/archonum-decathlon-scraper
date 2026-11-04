@@ -1,0 +1,139 @@
+{
+  "url": "https://www.decathlon.es/es/p/zapatillas-de-futbol-sala-predator-club-adulto-blanco-adidas/362860/c4m9029985",
+  "productKey": "362860_c4m9029985",
+  "variantId": "c4m9029985",
+  "productId": "9029985",
+  "name": "Zapatillas de Fútbol sala Predator Club Adulto Blanco adidas",
+  "brand": "ADIDAS",
+  "description": "Elige esta zapatilla de fútbol sala Predator, diseñada para controlar el terreno de juego y el balón durante los entrenamientos y partidos.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol sala",
+    "Zapatillas",
+    "Zapatillas mujer",
+    "Zapatillas mujer Adidas"
+  ],
+  "price": {
+    "amount": 49.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "16,66 € al mes",
+  "sizes": [
+    "39 1/3",
+    "40",
+    "41 1/3",
+    "42",
+    "43 1/3",
+    "44",
+    "45 1/3",
+    "46"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "1 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 1 año."
+    }
+  ],
+  "features": [
+    {
+      "title": "Resistencia",
+      "text": "Forro de TPU resistente en las zonas propensas a la abrasión."
+    },
+    {
+      "title": "Transpirabilidad",
+      "text": "El exterior de mesh favorece la circulación del aire."
+    },
+    {
+      "title": "Agarre",
+      "text": "Suela de caucho optimizada que no deja marcas para jugar en superficies cubiertas"
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado bajo"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "Predator"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Control"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Interior"
+        },
+        {
+          "name": "Tipo de plantilla",
+          "value": "Simple"
+        },
+        {
+          "name": "Tipo de taco",
+          "value": "Suela suave"
+        },
+        {
+          "name": "Nivel de rendimiento",
+          "value": "Palo"
+        }
+      ]
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p3211314/k$4863f7648f6868e568de4caa6330eb65/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3211316/k$e37ffc727d268fd32ec988a033771c72/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3211312/k$8edee076655549fe080340afd88ea3d3/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3211315/k$aaa965c017bc30f68cb5f7b91220cc4d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3211313/k$f565c256819d2ef4da748f2d93080012/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3211311/k$321564fd3738a2a9eeb3f9227c2dd06e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3211310/k$f9c99146852abfaf1dd2ed4891642409/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3211309/k$c6dc2ab30736b5310946339de4267f1a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3211308/k$774cafb819658429ce952039bba03c66/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3211307/k$2b283d7bdd3233f8131801d3d43d4b4a/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T17:49:54.972Z"
+}

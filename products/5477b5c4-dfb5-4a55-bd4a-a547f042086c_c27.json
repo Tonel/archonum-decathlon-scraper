@@ -1,0 +1,157 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatillas-para-hombre-skechers-slip-ins-relaxed-fit-marron/5477b5c4-dfb5-4a55-bd4a-a547f042086c/c27",
+  "productKey": "5477b5c4-dfb5-4a55-bd4a-a547f042086c_c27",
+  "variantId": "c27",
+  "productId": null,
+  "name": "Zapatillas para Hombre Skechers Slip-ins relaxed fit Marrón",
+  "brand": "SKECHERS",
+  "description": "Descubre el estilo cómodo y sencillo de las Skechers Hands Free Slip-ins® Relaxed Fit: Slade Ultra - Ronan. Diseñado con el sistema Heel Pillow, el modelo slip-on presenta una",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Montaña trekking",
+    "Calzado de montaña",
+    "Zapatillas de Trekking",
+    "Zapatillas de Trekking hombre",
+    "Zapatillas hombre"
+  ],
+  "price": {
+    "amount": 62.99,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 77.99,
+    "currency": "EUR"
+  },
+  "financing": "21,00 € al mes",
+  "sizes": [
+    "40 (UK 7.5)",
+    "41.5 (UK 7.5)",
+    "42 (UK 7.5)",
+    "41 (UK 8)",
+    "43 (UK 8.5)",
+    "42.5 (UK 8.5)",
+    "44 (UK 9.5)",
+    "45 (UK 11)",
+    "46 (UK 11.5)",
+    "47.5 (UK 12)"
+  ],
+  "colors": [
+    {
+      "name": "marrón",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "negro",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Carretera"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado bajo"
+        },
+        {
+          "name": "Tipo de práctica",
+          "value": "Entrenamiento"
+        },
+        {
+          "name": "Material",
+          "value": "Punto"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "Ultra"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        },
+        {
+          "name": "Distancia",
+          "value": "Todas las distancias"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "0199252815606"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m40146944/k$f0b2c15167bf09f0ac238b64a83be460/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40147133/k$87e9839d7c52dc61a702484bf5513bc6/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40147109/k$f0b22d38a6f9294bf374f92cbfacd692/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40147080/k$26cabef35bdd15e925dfe3867b463fe0/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40147005/k$c713ef0802dff0c32f6f914a9bc0dc33/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T17:53:49.600Z"
+}

@@ -1,0 +1,109 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/calzado-de-futbol-nike-phantom-gx-ii-club-azul-blanco/bc8905d0-97ee-4595-8038-7d02b078afec/c5",
+  "productKey": "bc8905d0-97ee-4595-8038-7d02b078afec_c5",
+  "variantId": "c5",
+  "productId": null,
+  "name": "Calzado de fútbol Nike Phantom GX II Club Azul/Blanco",
+  "brand": "NIKE",
+  "description": "Diseñadas para los jóvenes futbolistas, estas botas Nike Jr. Phantom GX II Club ofrecen ligereza y comodidad para un juego óptimo.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas Nike"
+  ],
+  "price": {
+    "amount": 50,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "16,67 € al mes",
+  "sizes": [],
+  "colors": [
+    {
+      "name": "azul",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "azul / blanco",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "0197597370750"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m38671570/k$3540f8f994d4dfcf137c8ac7b72093a8/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38834100/k$41a1a39f8a386bd84b1218bb738e1f2e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38834064/k$6f6b664feee4537debb8e4e397fb1a5a/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:14:54.623Z"
+}

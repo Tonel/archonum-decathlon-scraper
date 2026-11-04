@@ -1,0 +1,117 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/kelme-zapatillas-de-nino-precision-shadow-naranja-unisex-kids/f603c465-cf14-4ce9-af80-5be67ae746e4/c20",
+  "productKey": "f603c465-cf14-4ce9-af80-5be67ae746e4_c20",
+  "variantId": "c20",
+  "productId": null,
+  "name": "Kelme Zapatillas De Niño Precision Shadow Naranja Unisex Kids",
+  "brand": "KELME",
+  "description": "Kelme Zapatillas De Niño Precision Shadow Naranja Unisex Kids. Fabricada en 45% Piel sintética + 35% Microfibra + 20% Textil. Tallaje correcto, elige tu talla habitual. Kelme, Leave Your Mark.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Fútbol sala",
+    "Zapatillas fútbol sala"
+  ],
+  "price": {
+    "amount": 24.95,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": null,
+  "sizes": [
+    "28 (UK 9.5C)",
+    "29 (UK 12C)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del mar, 10 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordón tradicional"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Amortiguación, soporte y confort"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Aviso legal",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8433823418172"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m27515366/k$d0710e916dd334d5585b6484981dcdb9/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m27515364/k$7b80a240c6cae2d456e1552f66c37a3a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m27515362/k$e11bf9ecf00fe5eecbf659bd84f0c9d8/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m33632940/k$10445bb0d01f44bab0808b1fcd49f153/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m33632937/k$245406fa122815c6d0456454ad20ee0d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m33632942/k$b6e3646ec41f1264a49157d4af2bf7a7/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m33632939/k$4ee391c9778e8f80f59eaa66d6be428b/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:41:48.565Z"
+}

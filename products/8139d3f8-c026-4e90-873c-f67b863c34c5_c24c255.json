@@ -1,0 +1,124 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatillas-de-tacos-nike-mercurial-superfly-10-academy-rosa/8139d3f8-c026-4e90-873c-f67b863c34c5/c24c255",
+  "productKey": "8139d3f8-c026-4e90-873c-f67b863c34c5_c24c255",
+  "variantId": "c24c255",
+  "productId": null,
+  "name": "Zapatillas de tacos Nike Mercurial superfly 10 academy Rosa",
+  "brand": "NIKE",
+  "description": "Bota de futbol Nike Mercurial Superfly 10 Academy para niño/a, confeccionada en piel sintética, malla elástica que envuelve el pie, suela interior amortiguada y suela de tacos.",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas Nike"
+  ],
+  "price": {
+    "amount": 59.92,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 74.9,
+    "currency": "EUR"
+  },
+  "financing": "19,97 € al mes",
+  "sizes": [
+    "25/27 (UK 7.5/9C)",
+    "25/27 (UK 7.5/9C)",
+    "25/27 (UK 7.5/9C)",
+    "25/27 (UK 7.5/9C)",
+    "25/27 (UK 7.5/9C)",
+    "25/27 (UK 7.5/9C)"
+  ],
+  "colors": [
+    {
+      "name": "rosa / multicolor",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "rosa",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "0198482764517"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m23611939/k$14fc4aa30a05fe40d67c3bd6e4c49753/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m23611915/k$ecd0d68cad74213690d9748317c6998d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m23611909/k$1ea69af3729c2f0a14e7762eac48c027/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m23611934/k$dd25f91ae7bb8e97d50c687993c5ed22/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m23611928/k$e79af9a0624f1ec84fa7aae4dbfebe7a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m23611963/k$2afe0732091247fc0e01cb1fb6e12161/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m23611921/k$b2d027c290c5ec337c07e7c26321a039/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38779712/k$380d6f37960bfbf5cd1a854ea4a6f0c7/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38779295/k$cdfa8cfe434ef268f10a1b9be93c3a49/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38779387/k$15ce83c6dee31fd1f4794a0b45e0a9f3/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:58:44.479Z"
+}

@@ -1,0 +1,131 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/bota-de-futbol-con-lengueta-plegable-predator-elite-jb-cesped-natural-seco/b5a5993b-3128-4658-917c-f548ec93905f/c1c4c225",
+  "productKey": "b5a5993b-3128-4658-917c-f548ec93905f_c1c4c225",
+  "variantId": "c1c4c225",
+  "productId": null,
+  "name": "Bota de fútbol con lengüeta plegable Predator Elite JB césped natural seco",
+  "brand": "ADIDAS",
+  "description": "Chuta como Jude Bellingham con estas botas para césped natural seco.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "Botas de futbol adidas niños",
+    "Botas de futbol adidas niños Predator"
+  ],
+  "price": {
+    "amount": 102.5,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "34,17 € al mes",
+  "sizes": [
+    "28 (UK 10.5C)",
+    "28.5 (UK 10.5C)",
+    "29 (UK 10.5C)",
+    "30 (UK 11.5C)",
+    "30.5 (UK 11.5C)",
+    "31 (UK 12)",
+    "31.5 (UK 12.5C)",
+    "32 (UK 13.5C)",
+    "33 (UK 13.5C)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Terreno duro"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "Predator"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4068806309457"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m40000023/k$36a9e4df9b3426369d2ab1bb87401f99/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40000305/k$59770b1a40bab1f0c88fcb075d6a0883/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40000280/k$0029a503f8e45545f25f8a0559e4424e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40000236/k$5068487b139e92287025da80b55e4af3/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40000187/k$be2c56d7cb05a7757efec8c313a5c57d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40000150/k$647a9b4b5f474c78274a9f7200c2b72b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40000116/k$744b58cc4381ae640acf9312ef30de8c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40000067/k$a8562e64f260b5c4a2cff864da075224/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:20:12.945Z"
+}

@@ -1,0 +1,139 @@
+{
+  "url": "https://www.decathlon.es/es/p/botas-new-balance-furon-team-v8-fg-adulto-amarillo/381889/m9003382",
+  "productKey": "381889_m9003382",
+  "variantId": "m9003382",
+  "productId": "9003382",
+  "name": "Botas New Balance FURON TEAM V8 FG Adulto Amarillo",
+  "brand": "NEW BALANCE",
+  "description": "Mejora tu velocidad y precisión con las Furon v8, ya que se han diseñado para ofrecer un control inigualable a los jugadores más rápidos.Las llevan Bukayo Saka, Jeremie Frimpong y Sadio Mané.",
+  "stickers": [
+    "Últimas unidades"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas césped artificial",
+    "Botas de fútbol AG"
+  ],
+  "price": {
+    "amount": 89.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "30,00 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "1 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 1 año."
+    }
+  ],
+  "features": [
+    {
+      "title": "Velocidad",
+      "text": "Suela de TPU reactiva de doble inyección para una velocidad multidireccional."
+    },
+    {
+      "title": "Toque de balón",
+      "text": "Cordones descentrados para liberar la zona de golpeo y conseguir un toque puro."
+    },
+    {
+      "title": "Comodidad",
+      "text": "Espuma en el talón para mayor comodidad."
+    },
+    {
+      "title": "Sujeción del producto",
+      "text": "Cordones descentrados:mayor zona de golpeo y mejor bloqueo del pie."
+    },
+    {
+      "title": "Agarre",
+      "text": "Tacos en forma de «espigas» para una mejor tracción y facilitar las aceleraciones."
+    },
+    {
+      "title": "Flexibilidad",
+      "text": "Cuello en forma de U:garantiza un mejor ajuste para cualquier forma de pie."
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de terreno",
+          "value": "Hierba, Hierba sintética larga"
+        },
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos fijos"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Personalización",
+          "value": "Personalizable"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado bajo"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Velocidad"
+        },
+        {
+          "name": "Material",
+          "value": "Tpu"
+        },
+        {
+          "name": "Tipo de plantilla",
+          "value": "Simple"
+        }
+      ]
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p3119045/k$dd821eb41ea55313f62265079cfb49ea/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3119183/k$909488ba9b8d22950beb84af9a124154/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3119184/k$344f45640045a74f74d020c294aca26b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3119037/k$93513ac946ab40e60b889472d304098b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3119039/k$42a08c36a43bc858a22fe9c1c4e45501/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3119038/k$065e8611257df1fe2540cc14bc229b4e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3119040/k$713f6a6235d7f0b2ec4ed07efd9226d8/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3119036/k$5b4cf7d789336e5e08b1d23b90c7db70/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2987285/k$622882e57f4b7ae2c72bcb75460aef84/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T17:52:59.533Z"
+}

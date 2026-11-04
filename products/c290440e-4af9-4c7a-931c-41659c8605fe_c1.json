@@ -1,0 +1,112 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/bullpadel-xplo-vibram-26v-gris-oscuro-dc95006000/c290440e-4af9-4c7a-931c-41659c8605fe/c1",
+  "productKey": "c290440e-4af9-4c7a-931c-41659c8605fe_c1",
+  "variantId": "c1",
+  "productId": null,
+  "name": "Bullpadel Xplo Vibram 26v Gris Oscuro Dc95006000",
+  "brand": "BULLPADEL",
+  "description": "El modelo Bullpadel Xplo Vibram 26V Coral combina tecnologías avanzadas para ofrecer un rendimiento superior en la pista, garantizando agilidad, seguridad y un diseño atractivo.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Pádel",
+    "Marcas de pádel",
+    "Bullpadel"
+  ],
+  "price": {
+    "amount": 93.9,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "31,30 € al mes",
+  "sizes": [
+    "40 (UK 6)",
+    "41 (UK 8)",
+    "43 (UK 9)",
+    "42.5 (UK 10)",
+    "44.5 (UK 10)",
+    "43,5 (UK 11)"
+  ],
+  "colors": [
+    {
+      "name": "negro",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "gris",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8445402954421"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m26983429/k$f875e29f85254ab08e49f8c3aa8020b3/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26983427/k$d6655dabddeb54b279124f1cc6b1f7f1/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26983426/k$d944262ba1ed6b5789e665e9e957df8c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26983430/k$e8cd18c1de1607c0b9a0cedf37b96ad0/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34230006/k$2f998bf6314a336a1cc420913b534f95/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34230006/k$2f998bf6314a336a1cc420913b534f95/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34230006/k$2f998bf6314a336a1cc420913b534f95/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:12:56.277Z"
+}

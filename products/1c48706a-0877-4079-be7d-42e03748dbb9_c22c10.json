@@ -1,0 +1,140 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/kelme-botas-de-futbol-neo-mg-lima-unisex/1c48706a-0877-4079-be7d-42e03748dbb9/c22c10",
+  "productKey": "1c48706a-0877-4079-be7d-42e03748dbb9_c22c10",
+  "variantId": "c22c10",
+  "productId": null,
+  "name": "Kelme Botas De Fútbol Neo Mg Lima Unisex",
+  "brand": "KELME",
+  "description": "Kelme Botas De Fútbol Neo Mg Lima Unisex. Suela de TPU con tacos de AG. Tallaje correcto, elige tu talla habitual. Kelme, Leave Your Mark.",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas césped artificial",
+    "Todo Botas césped artificial"
+  ],
+  "price": {
+    "amount": 27.45,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": null,
+  "sizes": [
+    "42 (UK 7.5)",
+    "43 (UK 8.5)",
+    "44 (UK 9.5)",
+    "45 (UK 11)"
+  ],
+  "colors": [
+    {
+      "name": "amarillo / gris verdoso",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "blanco / negro / amarillo",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos multisuperficies"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordón tradicional"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Césped artificial"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Aviso legal",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8445664241666"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m22365602/k$acc4c3c57ae348ce05d7f3951e81154c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22365439/k$1b55f8706d92e604f0e7a9cbfdafdad7/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22365545/k$a694ef2560f4bb1cda9ed9a05e501596/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22365487/k$8bfc2e82f6277e73f4f90ada40914a69/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22365463/k$946cceb313bdc0b91193630ed4235e0e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22365521/k$c9ee655c6fc607c6a15d36a711e352b7/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:22:56.629Z"
+}

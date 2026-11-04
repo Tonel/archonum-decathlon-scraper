@@ -1,0 +1,148 @@
+{
+  "url": "https://www.decathlon.es/es/p/botas-de-futbol-adidas-x-crazyfast-pro-fg-adulto/X8870942/c22m8870942",
+  "productKey": "X8870942_c22m8870942",
+  "variantId": "c22m8870942",
+  "productId": "8870942",
+  "name": "Botas de fútbol Adidas X Crazyfast PRO FG Adulto",
+  "brand": "ADIDAS",
+  "description": "Deja atrás a tus rivales como si fueras Messi con la bota ligera Adidas X Crazyfast.",
+  "stickers": [
+    "Últimas unidades"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas de futbolistas",
+    "Botas de Benzema"
+  ],
+  "price": {
+    "amount": 80.99,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 149.99,
+    "currency": "EUR"
+  },
+  "financing": "27,00 € al mes",
+  "sizes": [
+    "45 1/3",
+    "46"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "3 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 3 años."
+    }
+  ],
+  "features": [
+    {
+      "title": "Impulso",
+      "text": "Dos tacos adicionales en la punta del pie para una aceleración explosiva."
+    },
+    {
+      "title": "Resistencia",
+      "text": "Caña de tejido mesh reforzado con capas adicionales."
+    },
+    {
+      "title": "Toque de balón",
+      "text": "Caña de tejido mesh técnico."
+    },
+    {
+      "title": "Ligereza",
+      "text": "Diseñadas con los materiales más ligeros para driblar rápidamente."
+    },
+    {
+      "title": "Comodidad",
+      "text": "Ajuste Adidas PRIMEKNIT para una sujeción perfecta."
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de terreno",
+          "value": "Hierba, Hierba sintética larga"
+        },
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos fijos"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Personalización",
+          "value": "Personalizable"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado bajo"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "X crazyfast, X"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Velocidad"
+        },
+        {
+          "name": "Tipo de plantilla",
+          "value": "Simple"
+        },
+        {
+          "name": "Jugadores",
+          "value": "Messi, Benzema"
+        }
+      ]
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p2661571/k$b5eb12330a8a4059f37e19f755d528e3/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2661570/k$850d12f3b0cb62b434831ead9d127744/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2661572/k$ccf930c90ae7288706f594e2f58f1435/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2664989/k$e2a288d3b9301a268303a79ad485776e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2661573/k$739c58cbb225e7077c3559c94ed01ba9/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2661566/k$01b905afd19667ad5aeb2700620871a1/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2661574/k$f384aa2d38464c0103ffb9e869115a72/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2661569/k$fbcbe80da006d20d42b1b643761cf957/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2661568/k$70f8a7dffa8bca5937199dfc7274a28d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2661567/k$4a7d9efab36c7e7774e25c366a88756a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2661565/k$4071f3c6b651d7bbdc9ceec947eb43b3/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2664990/k$20a6b487606cfca71493eb153dadad67/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:59:46.638Z"
+}

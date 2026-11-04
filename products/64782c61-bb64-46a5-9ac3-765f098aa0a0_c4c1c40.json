@@ -1,0 +1,163 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/bota-para-pista-cubierta-super-sala-competition-3-infantil/64782c61-bb64-46a5-9ac3-765f098aa0a0/c4c1c40",
+  "productKey": "64782c61-bb64-46a5-9ac3-765f098aa0a0_c4c1c40",
+  "variantId": "c4c1c40",
+  "productId": null,
+  "name": "Bota para pista cubierta Super Sala Competition 3 (infantil)",
+  "brand": "ADIDAS",
+  "description": "Una bota resistente para dominar la pista cubierta.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol sala",
+    "Zapatillas",
+    "Zapatillas niños",
+    "Zapatillas niños Adidas"
+  ],
+  "price": {
+    "amount": 53.25,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "17,75 € al mes",
+  "sizes": [],
+  "colors": [
+    {
+      "name": "blanco / negro / azul lago",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "azul royal / blanco / amarillo",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "blanco",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Motivo",
+          "value": "Sin patrón"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Interior"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado bajo"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Impermeable",
+          "value": "No impermeable"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "Copa"
+        },
+        {
+          "name": "Nivel de práctica",
+          "value": "Perfeccionamiento"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        },
+        {
+          "name": "Temporada",
+          "value": "Todas las estaciones"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4067907532207"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m23920059/k$05abca4d976a893475708490b2418e93/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22206552/k$f8f0b27325b9982b71ec760a47b6a775/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22206593/k$58b50a35af1a694fe3f5f13eb98c2352/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22206646/k$31f6b710a37f1c021a1c53ba315fcdf8/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22206615/k$66e946d8f6572774490f3ef330fbfa57/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22206571/k$eb80a8625c018f4117eeaec692eb500c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22206635/k$2530163f942aa8b67ab68c013e7dfb9e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22206627/k$116fcbe99966ee7ad9cacc965cbc26b0/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35468914/k$b64ba3171b8528565eeeab1cc002d9ff/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35468889/k$d02239bb76e07d109dcc41c0ddf62025/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35758764/k$d4907118c0a28f7720890287f2a4c1c5/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35758759/k$6418e0b5831e3cbc4662ab0342d77755/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35758753/k$813c0c0b2d7cb8072f4ddcf246f116d9/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35758746/k$cbd7a586f4b752e3923d57078bc69517/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35758737/k$12bc1828ca4ad127b95eece9a065a2c8/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:22:21.083Z"
+}

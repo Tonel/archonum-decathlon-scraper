@@ -1,0 +1,105 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-joma-xpander-2204-tf/5486d524-500a-472f-b52d-59e3af8adde4/c5",
+  "productKey": "5486d524-500a-472f-b52d-59e3af8adde4_c5",
+  "variantId": "c5",
+  "productId": null,
+  "name": "Botas de fútbol Joma Xpander 2204 TF",
+  "brand": "JOMA",
+  "description": "Botas de fútbol de césped Joma Xpander 2204 TF, ideal para el rendimiento en el campo.",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas césped artificial",
+    "Botas multitacos y turf"
+  ],
+  "price": {
+    "amount": 19.99,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 29.99,
+    "currency": "EUR"
+  },
+  "financing": null,
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Terreno duro"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8445757020383"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m10826941/k$1a9600c9683511be56d0cbae8d5158ce/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m10826937/k$7d75a6308bd56744e287cf2b2621858b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m10826924/k$352386aeb9cbcab884e6fcc945520e24/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m10826933/k$10c9db665c5a630c8e764f2f014e4e5a/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:37:02.988Z"
+}

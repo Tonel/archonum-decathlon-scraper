@@ -1,0 +1,123 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-puma-modelo-future-8-match-mg-para-hombre/c87486e3-7652-4512-afc3-9b255cdcba2d/c227",
+  "productKey": "c87486e3-7652-4512-afc3-9b255cdcba2d_c227",
+  "variantId": "c227",
+  "productId": null,
+  "name": "Botas de futbol Puma modelo Future 8 Match MG para hombre",
+  "brand": "PUMA",
+  "description": "Botas de futbol Puma modelo Future 8 Match MG para Hombre en color blanco.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Puma",
+    "Botas de fútbol puma"
+  ],
+  "price": {
+    "amount": 96.9,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "32,30 € al mes",
+  "sizes": [],
+  "colors": [
+    {
+      "name": "ultra blanco",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "blanco",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "multicolor",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del mar, 10 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4069156650930"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m28206429/k$054890c4126d6a30afa3ae2d0584fa70/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28206422/k$15ed92752cae342849de348a6b40c435/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28206416/k$f3ffeabb075759250c0f2ea2ef488771/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26097864/k$eb6469b7ca249822f07af4a77d7a165c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26097843/k$01e5e5dfe0c2d7ea9a02698eb45810c9/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34148976/k$c56a4ddec9d379da20c5e7d06595a8a2/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34148972/k$94d06d4dace499caa9fb2e9b57af2785/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:09:40.033Z"
+}

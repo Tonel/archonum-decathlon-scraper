@@ -1,0 +1,117 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/deportivo-joma-futbol-maxima-2302-blanco-turf-cmsport/7b5a4670-6a32-4e39-b8c3-bab2ef4f5036/c4",
+  "productKey": "7b5a4670-6a32-4e39-b8c3-bab2ef4f5036_c4",
+  "variantId": "c4",
+  "productId": null,
+  "name": "Deportivo Joma FUTBOL MAXIMA 2302 BLANCO TURF CMSport",
+  "brand": "JOMA",
+  "description": "Deportivo Joma FUTBOL MAXIMA 2302 BLANCO TURF CMSport",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Joma",
+    "Botas de fútbol joma"
+  ],
+  "price": {
+    "amount": 39.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "13,33 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos estabilizados"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Césped artificial"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8445757888549"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m13103421/k$a4b1d9b0eb081172a1474f35b65c1166/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m13103397/k$44dc9e5058bf4ec973d642bef68696d7/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m13103502/k$712d1f865ecceeaaf735e962ce3f97e0/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m13103424/k$de7e36b2d76c32f70aa7947ac5382b0e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m18785805/k$468bdda66d631006ea93b9448c6e4441/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m18785798/k$2fb393738f94090cc5cceb52e1b4d8ec/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m18785801/k$6472668fe3e4f4edb7cdc81321ad1232/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:09:07.983Z"
+}

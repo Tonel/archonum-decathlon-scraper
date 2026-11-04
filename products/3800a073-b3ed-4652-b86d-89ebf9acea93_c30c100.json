@@ -1,0 +1,151 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatillas-de-skate-globe-encore-2-gris-goma-tabaco/3800a073-b3ed-4652-b86d-89ebf9acea93/c30c100",
+  "productKey": "3800a073-b3ed-4652-b86d-89ebf9acea93_c30c100",
+  "variantId": "c30c100",
+  "productId": null,
+  "name": "Zapatillas de skate Globe Encore-2 Gris Goma Tabaco",
+  "brand": "GLOBE",
+  "description": "Comodidad y estilo con plantilla acolchada y suela duradera.",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Skate y longboard",
+    "Zapatillas",
+    "Copia zapatillas"
+  ],
+  "price": {
+    "amount": 59.95,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 84.95,
+    "currency": "EUR"
+  },
+  "financing": "19,98 € al mes",
+  "sizes": [],
+  "colors": [
+    {
+      "name": "beige / beige cachemira",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "gris / beige cachemira",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "gris",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Motivo",
+          "value": "Sin patrón"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones elásticos"
+        },
+        {
+          "name": "Material",
+          "value": "Piel"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Flexibilidad"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Estilo",
+          "value": "Liso"
+        },
+        {
+          "name": "Colección",
+          "value": "Predator"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Aviso legal",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "0194604531166"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m38525151/k$76fb977247f80f72f461c09db50c5a28/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m39756789/k$d82fed0d6f7457f026b591b0d21f7115/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m39465808/k$801a9c481e0ae0362d90cbb357cb1d87/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m39465806/k$6cc441f5bbe29d6c54c0efdab7e0d8d1/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m39465801/k$b1f98e529b37a27a42e954602a6727a7/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m39465798/k$3208cdb301dea2f20973d6908c663a56/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m39465794/k$4ca90ca39a591a02604bb9979e193be5/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:31:18.324Z"
+}

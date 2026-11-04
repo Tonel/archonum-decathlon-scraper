@@ -1,0 +1,149 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatilla-de-futbol-f50-club-indoor/18cbc2a0-f9b8-4ce3-ac1f-014a3385f59b/c22c1c14",
+  "productKey": "18cbc2a0-f9b8-4ce3-ac1f-014a3385f59b_c22c1c14",
+  "variantId": "c22c1c14",
+  "productId": null,
+  "name": "Zapatilla de fútbol F50 CLUB Indoor",
+  "brand": "ADIDAS",
+  "description": "Zapatilla de fútbol sala con material de ingeniería para mayor suavidad y sujeción.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol sala",
+    "Zapatillas",
+    "Zapatillas niños",
+    "Zapatillas niños Adidas"
+  ],
+  "price": {
+    "amount": 66.05,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "22,02 € al mes",
+  "sizes": [
+    "42 2/3 (UK 8.5)",
+    "43 1/3 (UK 9)",
+    "42.5 (UK 10)",
+    "44 (UK 10)",
+    "45 1/3 (UK 10.5)"
+  ],
+  "colors": [
+    {
+      "name": "amarillo / negro / rojo",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "blanco / negro / rojo",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Motivo",
+          "value": "Sin patrón"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Interior"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado bajo"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Impermeable",
+          "value": "No impermeable"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "F50"
+        },
+        {
+          "name": "Nivel de práctica",
+          "value": "Perfeccionamiento"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4068812135248"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m26900315/k$d13badedd9c23668e4618cd5ee4edeee/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26900265/k$df5270fd49e8933d02bd9f40d59a73e5/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26900225/k$023d972acb6da64136e17dc5be3d910d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26900393/k$4a0e234a6a153f0d2efc4f6535eda704/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26900292/k$151eda2bdf83511592b6eb407968d653/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26900429/k$8ce361a38c4e7bb0512cb83cefff6d2d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26900356/k$3fabb00a7f6599ed3b91d72b6383178e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36646062/k$ab51ec56c2fffd58938f5b15ad805925/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:44:51.705Z"
+}

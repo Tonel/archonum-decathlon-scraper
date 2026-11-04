@@ -1,0 +1,102 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-sala-para-hombre-joma-fs-reactive-2602/83bd227b-c788-44f5-be13-216190ff0064/c4",
+  "productKey": "83bd227b-c788-44f5-be13-216190ff0064_c4",
+  "variantId": "c4",
+  "productId": null,
+  "name": "Botas de Futbol Sala para HOMBRE JOMA FS REACTIVE 2602",
+  "brand": "JOMA",
+  "description": "Botas para jugar al futbol sala, tanto en pistas indoor como en superficies más duras",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Joma",
+    "Botas de fútbol joma"
+  ],
+  "price": {
+    "amount": 62.9,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "20,97 € al mes",
+  "sizes": [
+    "40 2/3 (UK 7)",
+    "41 (UK 7.5)",
+    "42 (UK 8)",
+    "43 (UK 8.5)",
+    "44 (UK 9)",
+    "45 (UK 10.5)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8447534306673"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m38380526/k$069e491ecfee8fcf65eae76fa2395a53/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35251460/k$d289ce3c327086719ca822f8a9c52079/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35251412/k$f5b0ad7922ccce4586503f561b4cf06d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35251575/k$e1151826d643448bc6b422af39db17a9/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35251522/k$33c7db27a0f2cb2c5c776a629255cf80/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35251360/k$5ba9a40a6b0d1f538587f3a43247d4bf/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35251310/k$c0b2172ea25430fb7ed3d48c58232095/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:04:39.475Z"
+}

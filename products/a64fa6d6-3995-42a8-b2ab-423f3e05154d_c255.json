@@ -1,0 +1,137 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-para-ninos-nike-zoom-mercurial-vapor-16-academy-tf/a64fa6d6-3995-42a8-b2ab-423f3e05154d/c255",
+  "productKey": "a64fa6d6-3995-42a8-b2ab-423f3e05154d_c255",
+  "variantId": "c255",
+  "productId": null,
+  "name": "Botas de fútbol para niños Nike Zoom Mercurial Vapor 16 Academy TF",
+  "brand": "NIKE",
+  "description": "Nike Zoom Mercurial Vapor 16 Academy TF: botas de fútbol ligeras para niños, ideales para superficies artificiales.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas Nike"
+  ],
+  "price": {
+    "amount": 62,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "20,67 € al mes",
+  "sizes": [],
+  "colors": [
+    {
+      "name": "multicolor",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "rojo",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "rosa",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del mar, 10 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos multisuperficies"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Césped artificial"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Aviso legal",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "198482499549"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m28695748/k$a6a0f2e2b395eeb359f1ae71487eca45/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28695836/k$5a7b7f7f782b8257e1bc0a1a3d3538fd/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28695780/k$eaeac1dd1184d55c7a9a42619407b989/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28695896/k$d79c0f7cf4dbe712ea4c549d621f26e2/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28695864/k$e9d92d2e6f0706d54535e0c678e41d62/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28695803/k$4f364922973d19ecef871fe0c52528ff/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28757672/k$b7b49b92c83fe953fd8518729744e403/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36269314/k$784f6d38e7cd4c8e358088cafc7a486e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36269308/k$79b880a12bd335a88ae2a0ad8d0cf51b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36269323/k$6883601bc892d5d47a3a426e75ff7e48/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:16:04.251Z"
+}

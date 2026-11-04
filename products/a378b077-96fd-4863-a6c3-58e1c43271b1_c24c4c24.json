@@ -1,0 +1,142 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/bota-de-futbol-de-media-cana-f50-sparkfusion-league-moqueta/a378b077-96fd-4863-a6c3-58e1c43271b1/c24c4c24",
+  "productKey": "a378b077-96fd-4863-a6c3-58e1c43271b1_c24c4c24",
+  "variantId": "c24c4c24",
+  "productId": null,
+  "name": "Bota de fútbol de media caña F50 Sparkfusion League moqueta",
+  "brand": "ADIDAS",
+  "description": "Una bota de fútbol de media caña con suela de goma que favorece la sujeción del pie y el agarre fiable",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "Botas de futbol adidas niños",
+    "Botas de futbol adidas niños F50"
+  ],
+  "price": {
+    "amount": 75,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "25,00 € al mes",
+  "sizes": [
+    "33 (UK 1)",
+    "33.5 (UK 1.5)",
+    "34 (UK 2)",
+    "35 (UK 2.5)",
+    "35.5 (UK 3)",
+    "36 (UK 3.5)",
+    "36 2/3 (UK 4)",
+    "37 1/3 (UK 4.5)",
+    "38 (UK 5)",
+    "38 2/3 (UK 5.5)",
+    "30 (UK 11.5C)",
+    "31.5 (UK 13C)",
+    "32 (UK 13.5C)"
+  ],
+  "colors": [
+    {
+      "name": "rosa / blanco / rosa",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "verde claro / blanco / morado",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos estabilizados"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Hierba"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "F50"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4068818000908"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m36062016/k$230ac3f9a9a23bf4b550abbd940bfc3e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36062204/k$950cddc79801da497192276ff7cd59af/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36062184/k$990bd9bc0d4bd71bfadca2dc27d7de60/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36062156/k$d6125a86ca3987a312eb6f5920c258c2/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36062119/k$f662b1cd20a25405d7b040ceeef1bf40/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36062083/k$3192bb5bffa565df8ed4537dafd5da64/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36062044/k$9a63f0ac57eff2bf864ed0def29a33c9/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36650575/k$3c1146bf4ae05587e9e97089a1556b77/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:25:10.248Z"
+}

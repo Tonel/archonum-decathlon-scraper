@@ -1,0 +1,97 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/de-futbol-joma-toledo-ag-jr/8c1f2e1b-cd53-4e43-ad0c-fcf9f4938cdd/c5",
+  "productKey": "8c1f2e1b-cd53-4e43-ad0c-fcf9f4938cdd_c5",
+  "variantId": "c5",
+  "productId": null,
+  "name": "Botas de fútbol Joma Toledo AG JR",
+  "brand": "JOMA",
+  "description": "Botas de fútbol para niños con gran agarre y comodidad, ideales para césped artificial. Joma, tecnología de calidad para jóvenes futbolistas.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "copia botas niños"
+  ],
+  "price": {
+    "amount": 41.5,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "13,83 € al mes",
+  "sizes": [
+    "33 (UK 1)",
+    "35 (UK 2.5)",
+    "36 (UK 3)",
+    "37 (UK 4)",
+    "38 (UK 5)",
+    "39 (UK 5.5)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8447368106548"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m23243816/k$27b68eba035fd862805750d865d704f3/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m21263755/k$28978fb5db77ed152d9c177be9bac83c/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:31:57.974Z"
+}

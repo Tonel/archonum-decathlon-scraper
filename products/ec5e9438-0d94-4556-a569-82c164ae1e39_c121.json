@@ -1,0 +1,101 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-nike-legend-10-club-azul/ec5e9438-0d94-4556-a569-82c164ae1e39/c121",
+  "productKey": "ec5e9438-0d94-4556-a569-82c164ae1e39_c121",
+  "variantId": "c121",
+  "productId": null,
+  "name": "Botas Nike Legend 10 club Azul",
+  "brand": "NIKE",
+  "description": "Incluso las leyendas encuentran formas de evolucionar. Ya sea que estés empezando o solo juegues por diversión, la última versión de estos botines Club te permite ingresar al campo sin comprometer la",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "Botas niños tacos"
+  ],
+  "price": {
+    "amount": 37.46,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 42.46,
+    "currency": "EUR"
+  },
+  "financing": "12,49 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "0197597389110"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m22672488/k$2f1bfd8394face955763b610f98db322/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28252804/k$1a58359e57ab1334bed1f45350a87bc5/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28252799/k$da504abb297c9d047863aab0d2d28f86/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28252805/k$3adbe5c48cb0f50bad04f652d4f44820/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:49:24.034Z"
+}

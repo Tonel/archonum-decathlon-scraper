@@ -1,0 +1,35 @@
+{
+  "updatedAt": "2026-11-04T20:56:21.253Z",
+  "failures": [
+    {
+      "url": "https://www.decathlon.es/es/p/botas-de-futbol-viralto-iii-3d-airmesh-mg-ag-naranja/342925/c137c383m8843847",
+      "error": "page navigated away from c137c383m8843847; now at https://www.decathlon.es/es/p/botas-de-futbol-viralto-iii-3d-airmesh-mg-ag-legacy/342925/c1m8917474",
+      "at": "2026-11-04T20:49:19.250Z"
+    },
+    {
+      "url": "https://www.decathlon.es/es/p/mp/bota-de-futbol-f50-messi-league-para-cesped-natural-seco/5ab71698-0729-4f85-bde6-aaa82851433b/c307c5c5",
+      "error": "page navigated away from c307c5c5; now at https://www.decathlon.es/es/p/mp/bota-de-futbol-f50-messi-league-para-cesped-natural-seco/5ab71698-0729-4f85-bde6-aaa82851433b/c307c5",
+      "at": "2026-11-04T20:49:41.116Z"
+    },
+    {
+      "url": "https://www.decathlon.es/es/p/mp/bota-de-futbol-f50-messi-club-cesped-natural-seco-y-multisuperficie/ba453de0-13e5-4a71-a8e2-417347cdf2a7/c307c5c5",
+      "error": "still on bot-wall challenge page after 15s (title: \"Just a moment...\")",
+      "at": "2026-11-04T20:51:07.500Z"
+    },
+    {
+      "url": "https://www.decathlon.es/es/p/botas-de-futbol-predator-fg-nino-rojo/380169/c14m8997534",
+      "error": "locator.waitFor: Timeout 60000ms exceeded.",
+      "at": "2026-11-04T20:51:25.376Z"
+    },
+    {
+      "url": "https://www.decathlon.es/es/p/zapatillas-futbol-sala-ninos-barrio-azul/325574/c218c227m8615895",
+      "error": "Product price is missing",
+      "at": "2026-11-04T20:51:50.373Z"
+    },
+    {
+      "url": "https://www.decathlon.es/es/p/zapatillas-futbol-sala-ninos-barrio-negro/325574/c383c227m8587556",
+      "error": "locator.waitFor: Timeout 60000ms exceeded.",
+      "at": "2026-11-04T20:56:21.253Z"
+    }
+  ]
+}

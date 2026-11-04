@@ -1,0 +1,156 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/bota-de-futbol-predator-club-cesped-natural-seco-multisuperficie/55354f68-9684-4e67-8403-b96e87eb73b3/c4",
+  "productKey": "55354f68-9684-4e67-8403-b96e87eb73b3_c4",
+  "variantId": "c4",
+  "productId": null,
+  "name": "Bota de fútbol Predator Club césped natural seco / multisuperficie",
+  "brand": "ADIDAS",
+  "description": "Una bota de fútbol con tecnología PowerSpine para jugar con estabilidad y chutar con fuerza",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas césped artificial",
+    "Botas multitacos y turf"
+  ],
+  "price": {
+    "amount": 60,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "20,00 € al mes",
+  "sizes": [
+    "40 2/3 (UK 7)",
+    "42 (UK 7.5)",
+    "43 1/3 (UK 9)",
+    "44 2/3 (UK 10)",
+    "45 1/3 (UK 10.5)"
+  ],
+  "colors": [
+    {
+      "name": "blanco",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "negro",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "azul claro / azul royal / amarillo",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Motivo",
+          "value": "Sin patrón"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Terreno duro"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado bajo"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "Predator"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4068812990908"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m40000042/k$8d645dc2e9df37064857141da6e04225/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40000324/k$59dc4699ce1f5164015c82206e7060ea/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40000303/k$0571246a127466a129147674e839f7d4/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40000274/k$b710a80e828b0b2f76d5f1b85a2e9989/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40000217/k$8983c33353b41f5f7229b04fad6e720b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40000180/k$cb37622323b127b06954a9a7c1ed8fe7/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40000131/k$3b6b0b65f4681144cbf908f6043ddc1b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m40000077/k$885a2305fdc9f00b10ccbf8a7b95993a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35459981/k$4a44ca84318a9689e876ac688c617a1c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35756421/k$8b5b59b2c1069588a866792b0dacc026/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35756415/k$c87408b66d8e1e1394502e987260f467/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35756407/k$90e5955e872c94fc854361396e01e152/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35756400/k$b5958ec4983a1c00cc750a97880e0015/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35756393/k$543ba4f1cf076a023d8f0a41a80cb1bf/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:17:35.327Z"
+}

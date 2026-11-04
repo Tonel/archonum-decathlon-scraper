@@ -1,0 +1,126 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/kelme-zapatillas-de-futbol-sala-stiletto-negro-unisex/373d91e0-e9b9-4bc1-8533-2a03753f3f00/c1c16",
+  "productKey": "373d91e0-e9b9-4bc1-8533-2a03753f3f00_c1c16",
+  "variantId": "c1c16",
+  "productId": null,
+  "name": "Kelme Zapatillas De Fútbol Sala Stiletto Negro Unisex",
+  "brand": "KELME",
+  "description": "Kelme Zapatillas De Fútbol Sala Stiletto Negro Unisex. Suela de Goma de Perfil Medio. Tallaje correcto, elige tu talla habitual. Kelme, Leave Your Mark.",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol sala",
+    "Zapatillas",
+    "Zapatillas hombre",
+    "Zapatillas hombre todo"
+  ],
+  "price": {
+    "amount": 34.95,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 41.94,
+    "currency": "EUR"
+  },
+  "financing": "11,65 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del mar, 10 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Motivo",
+          "value": "Sin patrón"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordón tradicional"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Amortiguación, soporte y confort"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Estilo",
+          "value": "Bitonal"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Aviso legal",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8445664372711"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m33134899/k$ecbeb1c1f6d94c6c878aee8b524cf421/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26835422/k$803367829e290efc44f41703131593af/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26835420/k$52338a2bbc0377db377ad4b6bdd43b6a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26835446/k$4916de4052615df2e95ed8a9cd4d75b8/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26835429/k$4cb3b2ecadbf8fdf8c138cb11ee3e28e/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:41:41.039Z"
+}

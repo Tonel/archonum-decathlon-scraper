@@ -1,0 +1,119 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-futbol-futbol-adulto-joma-aguila-25-ag-negro/9da0255c-5174-4b7c-bbbb-4ee2d73ae75a/c1",
+  "productKey": "9da0255c-5174-4b7c-bbbb-4ee2d73ae75a_c1",
+  "variantId": "c1",
+  "productId": null,
+  "name": "Botas Fútbol Fútbol Adulto Joma Aguila 25 AG Negro",
+  "brand": "JOMA",
+  "description": "Botas Fútbol Fútbol Adulto Joma Aguila 25 AG Negro",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas césped artificial",
+    "Botas de fútbol AG"
+  ],
+  "price": {
+    "amount": 43.27,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "14,42 € al mes",
+  "sizes": [
+    "41 (UK 7.5)",
+    "42 (UK 8)",
+    "42.5 (UK 8.5)",
+    "43 (UK 9)",
+    "43.5 (UK 9)",
+    "44.5 (UK 10)",
+    "45 (UK 10.5)",
+    "46 (UK 11.5)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Hierba sintética corta"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8447150562941"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m26133330/k$363ce198c654f5ad83161ca022e7c468/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26133309/k$f33a4b98871502b5a8c268f748f8b535/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26133298/k$56f3ea2f00b6b33dadd8c5331dfeb243/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26133341/k$826c448a40e0cf6aa6d3b98f44b02836/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26133319/k$a3ab6b709f67e1ce63d4bffd5ee043c4/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m20588484/k$3d9f8b3bedaebe9317b381ecab1e711b/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:12:24.529Z"
+}

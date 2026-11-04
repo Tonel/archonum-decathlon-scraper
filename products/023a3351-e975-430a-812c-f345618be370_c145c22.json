@@ -1,0 +1,112 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/munich-g-3-kid-459-zapatillas-futbol-sala-junior-indoor/023a3351-e975-430a-812c-f345618be370/c145c22",
+  "productKey": "023a3351-e975-430a-812c-f345618be370_c145c22",
+  "variantId": "c145c22",
+  "productId": null,
+  "name": "MUNICH G-3 KID 459 – Zapatillas Fútbol Sala Junior Indoor",
+  "brand": "MUNICH",
+  "description": "Zapatillas fútbol sala junior MUNICH G-3 KID 459 Indoor. Ligeras, resistentes y con gran agarre para pista interior.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "copia botas niños"
+  ],
+  "price": {
+    "amount": 51.9,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "17,30 € al mes",
+  "sizes": [
+    "34 (UK 2)",
+    "35 (UK 3)",
+    "36 (UK 3.5)",
+    "37 (UK 4)",
+    "38 (UK 4)",
+    "33 (UK 13.5C)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Lugar de práctica",
+          "value": "Interior"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de pisada",
+          "value": "Neutra"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8445648718566"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m27159036/k$8171fc166f9f7d49b0e8b9f7192a3891/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m27159037/k$0f0eba41354d7707a4c325730cfe77c5/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m27965114/k$79a8e4d367805b6db4f8c38d217f3f24/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m27965117/k$b3228f195c4e44215a4e790ebd7b15e0/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m27965115/k$5cfbbfd4d69d9f2ee211772f88eb192b/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:35:56.168Z"
+}

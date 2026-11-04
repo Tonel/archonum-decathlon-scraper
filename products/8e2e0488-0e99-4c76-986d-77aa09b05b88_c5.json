@@ -1,0 +1,117 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatillas-de-futbol-nike-mercurial-vapor-16-club-fg-mg/8e2e0488-0e99-4c76-986d-77aa09b05b88/c5",
+  "productKey": "8e2e0488-0e99-4c76-986d-77aa09b05b88_c5",
+  "variantId": "c5",
+  "productId": null,
+  "name": "Zapatillas de fútbol Nike Mercurial Vapor 16 Club FG/MG",
+  "brand": "NIKE",
+  "description": "Comodidad y durabilidad excepcionales en un solo producto, perfectamente adaptado a sus necesidades.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Nike",
+    "Botas de fútbol nike"
+  ],
+  "price": {
+    "amount": 64.15,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "21,38 € al mes",
+  "sizes": [],
+  "colors": [
+    {
+      "name": "azul",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "multicolor",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Hierba"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "197597337296"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m23646143/k$e337f45db6d20cfe38109a928cdfbd06/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m23646127/k$154ed712bd96d8dbb08db01bdbb43dae/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m23646114/k$42e87e747e68461a89ba1a3504b6c76f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m23646157/k$3934526ad20342aa503e20a357cf0d59/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m23646137/k$821a5aeaeedeaddd7b5eb2d07a86fa78/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m23646162/k$7f92bee3b3925d4ab97131fc7f0cae0a/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:58:30.149Z"
+}

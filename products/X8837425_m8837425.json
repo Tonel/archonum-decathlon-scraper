@@ -1,0 +1,131 @@
+{
+  "url": "https://www.decathlon.es/es/p/botas-de-futbol-adidas-predator-accuracy-3-sg-adulto/X8837425/m8837425",
+  "productKey": "X8837425_m8837425",
+  "variantId": "m8837425",
+  "productId": "8837425",
+  "name": "Botas de Fútbol adidas Predator Accuracy.3 SG Adulto",
+  "brand": "ADIDAS",
+  "description": "Por toda la escuadra, al fondo de la red. Las botas Adidas Predator Accuracy.3 SG para adulto están diseñadas para marcar siempre en todos los rincones de la portería como Bellingham.",
+  "stickers": [
+    "Últimas unidades"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "Botas de futbol adidas niños",
+    "Botas de futbol adidas niños Predator"
+  ],
+  "price": {
+    "amount": 51.99,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 94.99,
+    "currency": "EUR"
+  },
+  "financing": "17,33 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "3 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 3 años."
+    }
+  ],
+  "features": [
+    {
+      "title": "Toque de balón",
+      "text": "Exterior recubierto de textura de alta definición para un mejor toque de balón."
+    },
+    {
+      "title": "Resistencia a la abrasión",
+      "text": "Puntera de tela con revestimiento duradero."
+    },
+    {
+      "title": "Agarre",
+      "text": "Suela para cambios rápidos de dirección en terrenos resbaladizos."
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de terreno",
+          "value": "Terreno resbaladizo"
+        },
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos recambiables"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Personalización",
+          "value": "Personalizable"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado bajo"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "Predator"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Control"
+        },
+        {
+          "name": "Tipo de plantilla",
+          "value": "Simple"
+        },
+        {
+          "name": "Jugadores",
+          "value": "Pogba, Pedri, Bellingham"
+        }
+      ]
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p2574745/k$4380b5cd36733ec843a851cdd5139a66/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2574752/k$211b70d960aa02a013dea3770ffccc00/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2574751/k$a83eb53a3b1ec850923a4702d6355888/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2574746/k$67b033ce036957bebd077a8fc9e16709/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2574749/k$62a192104e76a55b0ad2e3e237498e61/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:40:39.980Z"
+}

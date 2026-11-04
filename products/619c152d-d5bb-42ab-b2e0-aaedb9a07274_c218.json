@@ -1,0 +1,108 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatillas-futbol-sala-ninos-joma-top-flex-junior-barefoot-26-in-royal/619c152d-d5bb-42ab-b2e0-aaedb9a07274/c218",
+  "productKey": "619c152d-d5bb-42ab-b2e0-aaedb9a07274_c218",
+  "variantId": "c218",
+  "productId": null,
+  "name": "Zapatillas Fútbol Sala Niños Joma Top Flex Junior Barefoot 26 IN Royal",
+  "brand": "JOMA",
+  "description": "Zapatillas Fútbol Sala Niños Joma Top Flex Junior Barefoot 26 IN Royal",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol sala",
+    "Zapatillas",
+    "Zapatillas niños",
+    "Zapatillas niños Joma"
+  ],
+  "price": {
+    "amount": 51.9,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "17,30 € al mes",
+  "sizes": [
+    "37 (UK 4)",
+    "38 (UK 12)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de terreno",
+          "value": "Carretera"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8447628100934"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m36210224/k$4da48a35fcd05d532f938e7525e6c23a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36210334/k$b7d7076c1f20e044dc56ef6abad75f5e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36210321/k$323326449cbd165bb840da0e4bd5ae07/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36210304/k$0676c4e3938bef5b34e1726df26c863d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36224319/k$5ce8b4a25210dc8a5a6d999ff5127c04/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:41:23.630Z"
+}

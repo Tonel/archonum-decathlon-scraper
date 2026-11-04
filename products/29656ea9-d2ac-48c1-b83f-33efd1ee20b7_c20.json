@@ -1,0 +1,97 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/nino-futbol-zapatillas-multitaco-cesped-artificial-puma-evospeed-5-4-tt/29656ea9-d2ac-48c1-b83f-33efd1ee20b7/c20",
+  "productKey": "29656ea9-d2ac-48c1-b83f-33efd1ee20b7_c20",
+  "variantId": "c20",
+  "productId": null,
+  "name": "Niño Fútbol - Zapatillas multitaco césped artificial - Puma evoSPEED 5.4 TT",
+  "brand": "PUMA",
+  "description": "La evoSPEED 5.4 TT de Puma es una zapatilla de fútbol de niño ideal para hierba artificial de primera generación, aunque se adapta a diversas superficies. Características: talla infantil.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Puma",
+    "Botas de fútbol puma"
+  ],
+  "price": {
+    "amount": 26,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": null,
+  "sizes": [
+    "35 (UK 2.5)",
+    "36 (UK 3.5)",
+    "38 (UK 5)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4055263075896"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m27902696/k$de04b752a48f9be49e6c0be81f92b1c9/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m27902701/k$f4d28df2a157f8e8e4cc2d278b601879/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m27902699/k$8c734f8870710e571e1c28349ba7fa5f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m27902707/k$37145874e4f9a25078ac1955233c2d4b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m27902704/k$3553c4ee27371cfd2e5eb444c7d102cf/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:21:25.142Z"
+}

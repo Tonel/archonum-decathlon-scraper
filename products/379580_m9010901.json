@@ -1,0 +1,133 @@
+{
+  "url": "https://www.decathlon.es/es/p/botas-de-futbol-multitacos-future-9-play-turf-nino-amarillo-azul-puma/379580/m9010901",
+  "productKey": "379580_m9010901",
+  "variantId": "m9010901",
+  "productId": "9010901",
+  "name": "Botas de fútbol multitacos FUTURE 9 Play Turf Niño Amarillo/Azul Puma",
+  "brand": "PUMA",
+  "description": "Con suela exterior de goma, tacos múltiples y de perfil bajo, son ideales para superficies naturales duras y césped artificial (2G), para que puedas esquivar fácilmente a los defensas.",
+  "stickers": [
+    "EXCLUSIVO DECATHLON"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "Botas de futbol Puma niños",
+    "Botas de futbol Puma niños Future"
+  ],
+  "price": {
+    "amount": 49.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "16,66 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "1 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 1 año."
+    }
+  ],
+  "features": [
+    {
+      "title": "Comodidad",
+      "text": "Parte superior sintética ligera con lengüeta elástica."
+    },
+    {
+      "title": "Toque de balón",
+      "text": "Zonas de agarre en relieve para un mejor control del balón."
+    },
+    {
+      "title": "Adherencia",
+      "text": "Suela exterior de goma con tacos múltiples y de perfil bajo."
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de terreno",
+          "value": "Césped artificial"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Personalización",
+          "value": "Personalizable"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado bajo"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos estabilizados"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "Puma unleashed pack, Future"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Control"
+        },
+        {
+          "name": "Tipo de plantilla",
+          "value": "Simple"
+        },
+        {
+          "name": "Nivel de rendimiento",
+          "value": "Palo"
+        }
+      ]
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p3192796/k$3857f43b37190c5a36c71204cf0e4d9c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3192412/k$c9ca04ca927c9fdaa2706e6807c006f4/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3192411/k$a45be54a4d940fd850777f0d2c4b0252/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3192410/k$e26bd3163d1ecffec3175b5cd9d06f35/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3192409/k$a5caa6e82ab1a66b401d8b9cc9d7db1d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3192408/k$f8589669643dd86ddd076400ba2589b3/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:04:06.180Z"
+}

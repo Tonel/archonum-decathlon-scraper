@@ -1,0 +1,186 @@
+{
+  "url": "https://www.decathlon.es/es/p/botas-de-futbol-viralto-ii-matador-mg-ag-piel-blanco-verde/342950/c227m8933377",
+  "productKey": "342950_c227m8933377",
+  "variantId": "c227m8933377",
+  "productId": "8933377",
+  "name": "BOTAS DE FÚTBOL VIRALTO II MATADOR MG/AG PIEL BLANCO VERDE",
+  "brand": "KIPSTA",
+  "description": "¿Buscas una bota de fútbol cómoda? Con su caña de cuero, suela FLEX-H, refuerzos de gamuza y sistema anti-irritación, las VIRALTO II MATADOR te brindan comodidad y control.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas césped natural",
+    "Botas de fútbol FG"
+  ],
+  "price": {
+    "amount": 38.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "13,00 € al mes",
+  "sizes": [],
+  "colors": [
+    {
+      "name": "ultra blanco",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "negro",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "negro grafito",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "2 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 2 años."
+    }
+  ],
+  "features": [
+    {
+      "title": "Comodidad",
+      "text": "Exterior de piel de calidad, refuerzo de ante sintético y plantilla preformada"
+    },
+    {
+      "title": "Resistencia",
+      "text": "Mayor vida útil que la media del mercado de botas de fútbol de piel."
+    },
+    {
+      "title": "Flexibilidad",
+      "text": "Flexibilidad multidireccional con tecnología FLEX-H y sistema DUAL HARDNESS"
+    },
+    {
+      "title": "Toque de balón",
+      "text": "El componente de piel aumenta la flexibilidad y el contacto con el balón."
+    },
+    {
+      "title": "Agarre",
+      "text": "Múltiples tacos para un buen agarre en terrenos sintéticos."
+    },
+    {
+      "title": "Sujeción del producto",
+      "text": "Lengüeta fijada a la base que permanece durante el juego, y no se tuerce."
+    },
+    {
+      "title": "Limitación de las irritaciones",
+      "text": "La plantilla cuenta con un revestimiento que limita las irritaciones"
+    },
+    {
+      "title": "Cuidado fácil",
+      "text": "Piel natural de muy alta calidad que requiere un tratamiento adecuado para una mayor duración."
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Intensidad",
+          "value": "Intensidad media"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Césped artificial, Terreno seco"
+        },
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos redondos, Minitacos, Tacos fijos"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Personalización",
+          "value": "Personalizable"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado bajo"
+        },
+        {
+          "name": "Material",
+          "value": "Piel"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "Viralto"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        },
+        {
+          "name": "Peso (en g)",
+          "value": "265 g"
+        },
+        {
+          "name": "Vida útil mínima",
+          "value": "95 entrenamientos"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Control"
+        },
+        {
+          "name": "Tipo de plantilla",
+          "value": "Preformado"
+        },
+        {
+          "name": "Nivel de rendimiento",
+          "value": "Partido / Liga"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p3006730/k$649a62905e4671c11d0f8c3f945618f6/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3006732/k$2ea81a7b76a047ba41cb5d731ff6e40f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3006734/k$285a6a95acfd6c0dfbffe79de357fc2a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3006735/k$41c7edf4b7a87eae8ad4612800084dff/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3006731/k$955daa1aa2e2fc97e6d631ffdd9e56ed/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3006733/k$1c9f814993c50e873aa77c2cb4ac3641/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T17:52:26.756Z"
+}

@@ -1,0 +1,139 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/kelme-botas-de-futbol-spear-mg-negro-unisex/f84cb88e-2d5a-43fb-a901-abd9a8a91f77/c1",
+  "productKey": "f84cb88e-2d5a-43fb-a901-abd9a8a91f77_c1",
+  "variantId": "c1",
+  "productId": null,
+  "name": "Kelme Botas De Fútbol Spear Mg Negro Unisex",
+  "brand": "KELME",
+  "description": "Kelme Botas De Fútbol Spear Mg Negro Unisex. Suela de TPU con tacos de AG. Tallaje correcto, elige tu talla habitual. Kelme, Leave Your Mark.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas césped artificial",
+    "Todo Botas césped artificial"
+  ],
+  "price": {
+    "amount": 29.95,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": null,
+  "sizes": [],
+  "colors": [
+    {
+      "name": "negro",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "blanco / negro",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "blanco / negro / amarillo",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos multisuperficies"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordón tradicional"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Césped artificial"
+        },
+        {
+          "name": "Material",
+          "value": "Piel"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Aviso legal",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8445664241208"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m22366168/k$f36d085f412643228bb6ea5086d880d4/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22366191/k$92a7be5ebe7227b61e39359bb80c3621/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22366109/k$0a61c64a8678e71aca5a9673e37fa0a8/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22366227/k$178897856ab6f41e4ca6da16094defb6/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22367373/k$c6484e88f9e1bb21cc50b125fb069863/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22366089/k$bf0361df5ba14f6bbb40b4e7c72ee0fb/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22366249/k$490aa14b127aa0b91f5daad3a7fb4e2d/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:37:35.897Z"
+}

@@ -1,0 +1,143 @@
+{
+  "url": "https://www.decathlon.es/es/p/botas-de-futbol-multitacos-adidas-copa-gloro-turf-adulto-negro/X8899441/m8899441",
+  "productKey": "X8899441_m8899441",
+  "variantId": "m8899441",
+  "productId": "8899441",
+  "name": "Botas de fútbol multitacos Adidas Copa Gloro Turf Adulto Negro",
+  "brand": "ADIDAS",
+  "description": "Con detalles clásicos, esta zapatilla de fútbol Adidas rinde homenaje al pasado con líneas inspiradas en la Copa Mundial.",
+  "stickers": [
+    "Últimas unidades"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "Botas de futbol adidas niños",
+    "Botas de futbol adidas niños Copa"
+  ],
+  "price": {
+    "amount": 56.99,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 89.99,
+    "currency": "EUR"
+  },
+  "financing": "19,00 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "3 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 3 años."
+    }
+  ],
+  "features": [
+    {
+      "title": "Amortiguación",
+      "text": "La entresuela de espuma EVA proporciona una amortiguación óptima en cada paso"
+    },
+    {
+      "title": "Resistencia",
+      "text": "Materiales reforzados para una mayor vida útil"
+    },
+    {
+      "title": "Toque de balón",
+      "text": "Exterior de piel para un toque de balón excelente"
+    },
+    {
+      "title": "Flexibilidad multidireccional",
+      "text": "Parte superior que se adapta a la forma de tu pie"
+    },
+    {
+      "title": "Agarre",
+      "text": "La suela exterior de caucho con tacos te asegura una estabilidad superior"
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Personalización",
+          "value": "Personalizable"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado bajo"
+        },
+        {
+          "name": "Material",
+          "value": "Piel"
+        },
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos estabilizados"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Hierba sintética corta"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "Copa"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Control"
+        },
+        {
+          "name": "Tipo de plantilla",
+          "value": "Simple"
+        }
+      ]
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p2731910/k$f68471c3ef39de48dc37bd2c0ac89c41/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2731907/k$178c09ae7664e65da3aa6291ae9ef3c0/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2731903/k$9ca2497d527c5a2090d16ec1928da06e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2731909/k$53932ee4d07a47bbb5f9b4ec382608d0/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2731905/k$42cc346761003a5df67c7b12e573c862/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2731908/k$970d0e6a28119b1a3ab2d756a8d985e6/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2731902/k$ef0cc7e6dcec82605f73902baeb7a9a0/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2731904/k$182e85a5f69ba873c85f57f6c34eb9d5/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2731906/k$9e5fa095db321c89de6355085c0ca20c/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:39:41.030Z"
+}

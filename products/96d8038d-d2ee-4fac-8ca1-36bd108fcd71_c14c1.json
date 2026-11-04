@@ -1,0 +1,169 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/kelme-zapatillas-de-futbol-sala-de-nino-precision-elastic-rojo-unisex-kids/96d8038d-d2ee-4fac-8ca1-36bd108fcd71/c14c1",
+  "productKey": "96d8038d-d2ee-4fac-8ca1-36bd108fcd71_c14c1",
+  "variantId": "c14c1",
+  "productId": null,
+  "name": "Kelme Zapatillas De Fútbol Sala De Niño Precision Elastic Rojo Unisex Kids",
+  "brand": "KELME",
+  "description": "Kelme Zapatillas De Fútbol Sala De Niño Precision Elastic Rojo Unisex Kids. Fabricada en 95% Piel sintética + 5% Textil. Tallaje correcto, elige tu talla habitual. Kelme, Leave Your Mark.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Fútbol sala",
+    "Zapatillas fútbol sala"
+  ],
+  "price": {
+    "amount": 35.63,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "11,88 € al mes",
+  "sizes": [
+    "33 (UK 1)",
+    "34 (UK 1.5)",
+    "25 (UK 7.5C)",
+    "26 (UK 8C)",
+    "27 (UK 9C)",
+    "28 (UK 9.5C)",
+    "29 (UK 10.5C)",
+    "30 (UK 11.5C)",
+    "31 (UK 12C)",
+    "32 (UK 13C)"
+  ],
+  "colors": [
+    {
+      "name": "rojo / negro",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "azul",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "azul marino oscuro",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "amarillo / gris",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "gris",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "blanco / rojo",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "azul marino",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Motivo",
+          "value": "Sin patrón"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordón tradicional"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Amortiguación, soporte y confort"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Estilo",
+          "value": "Liso"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Aviso legal",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8445664318184"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m22364840/k$adfd3f10c65c3a515e55cd14658dcd6e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22364894/k$a8e4ff358cec9f6c6d7079d94cc7da48/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26447655/k$d11ccf38a9387a640b2a46cf5ae0abdd/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26447674/k$12c74ff2718bf28661e6f906f7ac8731/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26447663/k$16bfdd9f29800e0dff169a81fc3493c7/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26447677/k$98d4f6aa71bc21ae6d0f5a256ad4a40e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26447670/k$65f3e5b0f824a336cec30b90f5799c98/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:29:19.308Z"
+}

@@ -1,0 +1,142 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/de-futbol-mini-adidas-f50-hyperfast-club-hook-and-loop-fg-mg/d9c758af-16ed-4faa-9eab-8f350509d00c/c1c5",
+  "productKey": "d9c758af-16ed-4faa-9eab-8f350509d00c_c1c5",
+  "variantId": "c1c5",
+  "productId": null,
+  "name": "Zapatillas de fútbol mini bebé adidas F50 Hyperfast Club Hook And Loop FG/MG",
+  "brand": "ADIDAS",
+  "description": "F50 HYPERFAST CLUB VEL FG/MG C CBLACK/CBLACK/LURABL",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "Botas de futbol adidas niños",
+    "Botas de futbol adidas niños F50"
+  ],
+  "price": {
+    "amount": 52,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "17,33 € al mes",
+  "sizes": [
+    "26 (UK 7C)",
+    "27 (UK 8C)"
+  ],
+  "colors": [
+    {
+      "name": "negro / azul",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "negro",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "blanco / morado / rosa",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Agotado"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos fijos"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Tira autoadherente"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Terreno mixto"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Ancho"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Aviso legal",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4068817494104"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m39249737/k$b3ff024185a90477e177f7585927ade8/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m39479060/k$c5ee9b29eecc7fdf79240d7fb23d6e15/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m39479058/k$4f2cb2c85b8167b80448e922a9420a25/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m39479056/k$820579fb0fb107aa812ab90915eff423/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m39479054/k$4f5f0a5a4dfc7da39defc359d2b29677/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m39479053/k$333856b323bbc0992c6d859521293aa5/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:17:44.540Z"
+}

@@ -1,0 +1,140 @@
+{
+  "url": "https://www.decathlon.es/es/p/zapatillas-de-futbol-sala-top-flex-nino-azul/362686/c6c20m9032344",
+  "productKey": "362686_c6c20m9032344",
+  "variantId": "c6c20m9032344",
+  "productId": "9032344",
+  "name": "Zapatillas de fútbol sala TOP FLEX Niño Azul",
+  "brand": "JOMA",
+  "description": "El modelo clásico por excelencia del catálogo de fútbol sala, disponible también para los más pequeños. Este par se ha diseñado para ofrecer comodidad y alto rendimiento.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol sala",
+    "Zapatillas",
+    "Zapatillas niños",
+    "Zapatillas niños Joma"
+  ],
+  "price": {
+    "amount": 34.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "11,66 € al mes",
+  "sizes": [],
+  "colors": [
+    {
+      "name": "azul claro / naranja",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "azul oscuro",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "1 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 1 año."
+    }
+  ],
+  "features": [
+    {
+      "title": "Comodidad",
+      "text": "El sistema VTS proporciona ventilación adicional contra el sudor."
+    },
+    {
+      "title": "Resistencia",
+      "text": "Incluye un refuerzo de PROTECCIÓN de caucho en la punta del pie."
+    },
+    {
+      "title": "Toque de balón",
+      "text": "La parte superior es de material sintético, para los más pequeños"
+    },
+    {
+      "title": "Agarre",
+      "text": "La suela DURABILITY se adhiere a las superficies interiores sin dejar marcas."
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Personalización",
+          "value": "Personalizable"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado bajo"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Control"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Interior"
+        },
+        {
+          "name": "Tipo de plantilla",
+          "value": "Simple"
+        },
+        {
+          "name": "Tipo de taco",
+          "value": "Suela suave"
+        },
+        {
+          "name": "Colección",
+          "value": "Top flex"
+        }
+      ]
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p3216909/k$1abbbe51f852bd22656f7826d31e97c9/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3216646/k$f350a56c5bbc95ad7cdb000a5906a735/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3216645/k$af82569060a430cfbb747ce9e5179539/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3216648/k$4cc294db734c7742aeac5d87cafd92e3/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3216647/k$c283478f82010baa294cf14f2335859c/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:06:15.021Z"
+}

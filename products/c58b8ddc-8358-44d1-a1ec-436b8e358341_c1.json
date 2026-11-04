@@ -1,0 +1,124 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/turf-soft-ground-firm-ground-pro-playful-futbol-hombre/c58b8ddc-8358-44d1-a1ec-436b8e358341/c1",
+  "productKey": "c58b8ddc-8358-44d1-a1ec-436b8e358341_c1",
+  "variantId": "c1",
+  "productId": null,
+  "name": "Turf, Soft Ground, Firm Ground Pro Playful Fútbol Hombre",
+  "brand": "HUMMEL",
+  "description": "Deslizar Turf, Soft Ground, Firm Ground Fútbol Hummel",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Hummel",
+    "Hummel"
+  ],
+  "price": {
+    "amount": 28.4,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": null,
+  "sizes": [
+    "38 (UK 5)",
+    "40 (UK 6.5)"
+  ],
+  "colors": [
+    {
+      "name": "negro",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "azul eléctrico",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Ajuste clásico"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "5715688000024"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m33533091/k$d76920925f739759d4201cd20c592a7f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m33533070/k$b9bc9330357b770566eff9c5aa4d3238/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m33533066/k$6c7e6a58ba1421af7a89040cf77890f3/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m33533074/k$664150a24446818f3cc8ca79fa839516/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m33533084/k$bb78cf1dcae8a10e9d41cabd539c4429/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m33533079/k$a656cb5cb1a3c87b6a29fa6ff429c0d9/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m33533096/k$d9a974ecbe1df54ea5b33ae75b56be69/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m33533096/k$d9a974ecbe1df54ea5b33ae75b56be69/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m33533084/k$bb78cf1dcae8a10e9d41cabd539c4429/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m33533070/k$b9bc9330357b770566eff9c5aa4d3238/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m33533079/k$a656cb5cb1a3c87b6a29fa6ff429c0d9/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m33533066/k$6c7e6a58ba1421af7a89040cf77890f3/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m33533096/k$d9a974ecbe1df54ea5b33ae75b56be69/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m33533084/k$bb78cf1dcae8a10e9d41cabd539c4429/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:26:36.362Z"
+}

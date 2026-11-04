@@ -1,0 +1,135 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/puma-ultra-nitro-7-match-mxsg-zapatillas-de-futbol-blancas-rojas-ultra/5b62a2b6-a811-4cb8-af74-6eb7dbdabc5c/c4c14",
+  "productKey": "5b62a2b6-a811-4cb8-af74-6eb7dbdabc5c_c4c14",
+  "variantId": "c4c14",
+  "productId": null,
+  "name": "Puma Ultra Nitro 7 Match MxSG Zapatillas de fútbol Blancas Rojas Ultra",
+  "brand": "PUMA",
+  "description": "Zapatillas de fútbol unisex con respuesta rápida, ajuste ceñido y aceleración dinámica en campos blandos y mixtos.",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas de futbolistas",
+    "Botas de Coman"
+  ],
+  "price": {
+    "amount": 67.5,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 68.5,
+    "currency": "EUR"
+  },
+  "financing": "22,50 € al mes",
+  "sizes": [
+    "40 (UK 6.5)",
+    "40.5 (UK 7)",
+    "41 (UK 7.5)",
+    "42 (UK 8)",
+    "42.5 (UK 8.5)",
+    "43 (UK 9)",
+    "44 (UK 9.5)",
+    "44.5 (UK 10)",
+    "45 (UK 10.5)",
+    "46 (UK 11)",
+    "47 (UK 12)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de taco",
+          "value": "Tacoshíbridos"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Terreno resbaladizo"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Colección",
+          "value": "Ultra"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4070032982700"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m36874585/k$c9600518be5c697550d0aca320724977/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m37691190/k$d14bade599630dd418b467c0b2d41e78/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m37691139/k$8bb4bedcb7133b0e6ac6292005e26a38/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m37691107/k$f15779722c63809d7f794d8aa1eb4639/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m37691076/k$f9da2a436c6992a5de377c4fa022875d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m37691034/k$68fe9815b7cdcc1ec08f76514ec74b79/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:11:05.948Z"
+}

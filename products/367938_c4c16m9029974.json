@@ -1,0 +1,157 @@
+{
+  "url": "https://www.decathlon.es/es/p/zapatillas-futbol-sala-f50-club-adulto-blanco-violeta-adidas/367938/c4c16m9029974",
+  "productKey": "367938_c4c16m9029974",
+  "variantId": "c4c16m9029974",
+  "productId": "9029974",
+  "name": "Zapatillas fútbol sala F50 Club Adulto Blanco/Violeta adidas",
+  "brand": "ADIDAS",
+  "description": "Al igual que Dembélé, supera tus límites con las adidas F50, gracias sobre todo a su suela Sprintplate 360, que garantiza un movimiento dinámico en campos de interior.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas adidas",
+    "Botas adidas Born for goals pack"
+  ],
+  "price": {
+    "amount": 59.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "20,00 € al mes",
+  "sizes": [
+    "39 1/3",
+    "40",
+    "41 1/3",
+    "42",
+    "43 1/3",
+    "44",
+    "45 1/3",
+    "46"
+  ],
+  "colors": [
+    {
+      "name": "blanco / morado",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "morado oscuro",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "amarillo - agotado",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "1 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 1 año."
+    }
+  ],
+  "features": [
+    {
+      "title": "Comodidad",
+      "text": "La caña Fiberskin te ofrece la máxima comodidad y sujeción en desplazamientos."
+    },
+    {
+      "title": "Transpirabilidad",
+      "text": "La caña Fiberskin mantiene los pies ventilados."
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Personalización",
+          "value": "Personalizable"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado bajo"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Velocidad"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Interior"
+        },
+        {
+          "name": "Tipo de plantilla",
+          "value": "Simple"
+        },
+        {
+          "name": "Tipo de taco",
+          "value": "Suela suave"
+        },
+        {
+          "name": "Jugadores",
+          "value": "Messi, Dembélé"
+        },
+        {
+          "name": "Colección",
+          "value": "F50"
+        },
+        {
+          "name": "Nivel de rendimiento",
+          "value": "Palo"
+        }
+      ]
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p3207382/k$7d266a91b536cc0f757deba071a6b5ee/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3210009/k$aaaf4bf5bc5d033031b09ccd374672c6/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3210006/k$07410b2e027d1a793e8ea5c4fd367f70/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3210019/k$174388723062eee09f17ec0682b7a8cc/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3210018/k$2a0fda5f8baf052a6fbf2c50f23479b5/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3210011/k$b06a8990297c56e05ae349976095ce08/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3210016/k$df25eafbb0b9f270d887e574607ba7e8/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3210012/k$cb5f19898b566c48259abbe15dacdd99/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:06:50.572Z"
+}

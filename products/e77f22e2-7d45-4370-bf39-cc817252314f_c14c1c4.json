@@ -1,0 +1,141 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatilla-de-futbol-con-lengueta-plegable-predator-pro-para-moqueta/e77f22e2-7d45-4370-bf39-cc817252314f/c14c1c4",
+  "productKey": "e77f22e2-7d45-4370-bf39-cc817252314f_c14c1c4",
+  "variantId": "c14c1c4",
+  "productId": null,
+  "name": "Zapatilla de fútbol con lengüeta plegable PREDATOR PRO para moqueta",
+  "brand": "ADIDAS",
+  "description": "Rinde en el campo con el retorno de energía de una zapatilla con amortiguación Lightstrike en la mediasuela.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "Botas de futbol adidas niños",
+    "Botas de futbol adidas niños Predator"
+  ],
+  "price": {
+    "amount": 69.5,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "23,17 € al mes",
+  "sizes": [
+    "41 1/3 (UK 7.5)",
+    "42 (UK 8)",
+    "42 2/3 (UK 8.5)",
+    "43 1/3 (UK 9)",
+    "44 (UK 9.5)",
+    "42.5 (UK 10)",
+    "44.5 (UK 10.5)",
+    "45.5 (UK 11)"
+  ],
+  "colors": [
+    {
+      "name": "rojo / negro / blanco",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "negro / blanco / rojo",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Agotado"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Hierba"
+        },
+        {
+          "name": "Material",
+          "value": "Sintético"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "Predator"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4068812278976"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m26441713/k$1801784b00b29851c16461512b0faf45/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26441695/k$d3f1fc9c7299bed80c34a8d3dd3bd308/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26441683/k$1d30624b899ef2aad6ee7b074595a411/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26441726/k$45a7981b12b8d71f77f98c6c5d4f903a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26441706/k$ec9b3049c46d41fbee92c356e3aa9130/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26441731/k$cf382315b5da35faa76eb055bf359736/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26441720/k$a79e76bb719650017410aa6c9496426e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36644298/k$d0b2aa3b99429e23a9e5bf43b1c3745b/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:33:40.387Z"
+}

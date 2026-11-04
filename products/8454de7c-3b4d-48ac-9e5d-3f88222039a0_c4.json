@@ -1,0 +1,125 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-futbol-ninos-joma-toledo-2507-jr/8454de7c-3b4d-48ac-9e5d-3f88222039a0/c4",
+  "productKey": "8454de7c-3b4d-48ac-9e5d-3f88222039a0_c4",
+  "variantId": "c4",
+  "productId": null,
+  "name": "Botas Fútbol Niños Joma Toledo 2507 JR",
+  "brand": "JOMA",
+  "description": "Botas de fútbol Joma Toledo JR 2507 para niños. Resistentes, cómodas y ligeras. Con suela ideal para césped artificial y diseño coral flúor llamativo. Perfectas para entrenar y jugar.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "copia botas niños"
+  ],
+  "price": {
+    "amount": 34.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "11,66 € al mes",
+  "sizes": [
+    "37 (UK 4)",
+    "39 (UK 6)",
+    "32 (UK 13C)",
+    "33 (UK 13.5C)"
+  ],
+  "colors": [
+    {
+      "name": "blanco",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "multicolor",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8447150445206"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m20370738/k$f8cb4a04d47a5431f1deb5d5da9ee0c8/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m20370757/k$19c7076e50d48a4a1a3eeaa93e4803a6/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m20370837/k$ff67a1aae001ed38c476452a43419654/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m20370719/k$3f6fb2f8d44ceb39bda5e38a71e92408/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19947100/k$af447a223104b624d8da934ac58e2f5c/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:36:38.594Z"
+}

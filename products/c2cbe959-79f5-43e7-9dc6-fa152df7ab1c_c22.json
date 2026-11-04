@@ -1,0 +1,132 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-futbol-nino-joma-toledo-amarillo/c2cbe959-79f5-43e7-9dc6-fa152df7ab1c/c22",
+  "productKey": "c2cbe959-79f5-43e7-9dc6-fa152df7ab1c_c22",
+  "variantId": "c22",
+  "productId": null,
+  "name": "Zapatillas para unisex Joma Toledo 2411 en color amarillo",
+  "brand": "JOMA",
+  "description": "('Zapatillas Joma modelo Toledo 2411 para Unisex en color Amarillo de la temporada Primavera-Verano 2024',)",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "copia botas niños"
+  ],
+  "price": {
+    "amount": 34.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "11,66 € al mes",
+  "sizes": [
+    "33 (UK 1)",
+    "36 (UK 3.5)",
+    "38 (UK 4.5)",
+    "37 (UK 5)",
+    "39 (UK 5.5)",
+    "32 (UK 13C)"
+  ],
+  "colors": [
+    {
+      "name": "amarillo",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "negro",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "azul",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8445954887505"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m18527853/k$8919fa87f81a28d7e1fe80b0d8fbed1b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m18527855/k$45b4d4228511eafa67f87add86329952/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m20370726/k$befaaf64cec4e8f173e0c8c5f700369b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m18527854/k$8125940f0ea4748ea49f8b6faa290b6e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m18527852/k$599ec6b879de7d09ef734f3e8d5bd426/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:16:29.513Z"
+}

@@ -1,0 +1,109 @@
+{
+  "url": "https://www.decathlon.es/es/p/tacos-de-rugby-caucho-10-mm-atornillados-terreno-sintetico-o-seco-lote-de-16/375911/m8975189",
+  "productKey": "375911_m8975189",
+  "variantId": "m8975189",
+  "productId": "8975189",
+  "name": "Tacos de rugby caucho 10 mm atornillados terreno sintético o seco, lote de 16",
+  "brand": "KIPSTA",
+  "description": "Caja de 16 tacos de caucho de 10 mm. Los pasos de rosca son estándar:se adaptan a las botas de rugby híbridas o de 8 tacos. (salvo las híbridas adidas)",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Accesorios para botas",
+    "Tacos de fútbol"
+  ],
+  "price": {
+    "amount": 11.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": null,
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "2 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 2 años."
+    }
+  ],
+  "features": [
+    {
+      "title": "Modularidad",
+      "text": "Adecuados para practicar en terreno seco y sintético."
+    },
+    {
+      "title": "Compatibilidad",
+      "text": "Los pasos de rosca son estándar."
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Nivel de práctica",
+          "value": "Perfeccionamiento, Todos los niveles"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Césped artificial, Terreno seco, Terreno resbaladizo"
+        },
+        {
+          "name": "Material",
+          "value": "Plástico"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Abrazadera de tornillo"
+        },
+        {
+          "name": "Embalaje",
+          "value": "Por 16"
+        },
+        {
+          "name": "Longitud del crampón",
+          "value": "10 mm"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p3095433/k$b667d617e6d2abb7be7c9c7e9499e40d/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T17:48:42.111Z"
+}

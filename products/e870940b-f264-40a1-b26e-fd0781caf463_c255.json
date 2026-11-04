@@ -1,0 +1,123 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/nike-phantom-6-low-academy-ag/e870940b-f264-40a1-b26e-fd0781caf463/c255",
+  "productKey": "e870940b-f264-40a1-b26e-fd0781caf463_c255",
+  "variantId": "c255",
+  "productId": null,
+  "name": "Nike Phantom 6 Low Academy Ag",
+  "brand": "NIKE",
+  "description": "Nike Phantom 6 Low Academy Ag",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Nike",
+    "Botas de fútbol nike"
+  ],
+  "price": {
+    "amount": 89.1,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "29,70 € al mes",
+  "sizes": [
+    "41 (UK 7)",
+    "42 (UK 7.5)",
+    "42.5 (UK 10)",
+    "43 (UK 10)",
+    "44.5 (UK 10)"
+  ],
+  "colors": [
+    {
+      "name": "multicolor",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "verde neón fluorescente",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "morado carmesí",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Material",
+          "value": "Sintético"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "0198482775841"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m28935644/k$e080cc2d3097fc7aa6ffc5e72fd05260/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38843525/k$2f0937573ca5a36605d0f609ab73edfb/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38843492/k$eb0d6cd42cb4a11ad2ba86000f3609f7/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38843460/k$c310417203897574b5d4b764389ae27c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38843415/k$48880cb2e5da44bca46342d804a1c99e/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:47:05.355Z"
+}

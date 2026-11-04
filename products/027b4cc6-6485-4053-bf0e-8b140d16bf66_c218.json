@@ -1,0 +1,97 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatillas-futbol-sala-ninos-joma-supercopa-jr-26-in-royal/027b4cc6-6485-4053-bf0e-8b140d16bf66/c218",
+  "productKey": "027b4cc6-6485-4053-bf0e-8b140d16bf66_c218",
+  "variantId": "c218",
+  "productId": null,
+  "name": "Zapatillas Fútbol Sala Niños Joma Supercopa Jr 26 IN Royal",
+  "brand": "JOMA",
+  "description": "Zapatillas Fútbol Sala Niños Joma Supercopa Jr 26 IN Royal",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol sala",
+    "Zapatillas",
+    "Zapatillas niños",
+    "Zapatillas niños Joma"
+  ],
+  "price": {
+    "amount": 37.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "12,66 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del vie, 13 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8447534969892"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m36206124/k$4bbfc01c964f6ad7ad995afd39644b86/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36206403/k$0041dda599c621e0cce6bec13e0b74a9/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36206348/k$b1db4940122604d6d51daee53ca14d8a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36206285/k$10c4146c33b29e014508da7c75fad91b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36206194/k$48165c88221264f12504f87182ee2d3a/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:19:28.816Z"
+}

@@ -1,0 +1,111 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-juveniles-nike-jr-zm-superfly-10-acad-km-fg-mg/f5089994-fbd0-4c15-adda-10c664d220b6/c20c5",
+  "productKey": "f5089994-fbd0-4c15-adda-10c664d220b6_c20c5",
+  "variantId": "c20c5",
+  "productId": null,
+  "name": "Botas De Fútbol Juveniles Nike JR ZM Superfly 10 Acad KM FG/MG",
+  "brand": "NIKE",
+  "description": "Las botas Nike para jóvenes ofrecen velocidad y control del balón.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Nike",
+    "Botas de fútbol nike"
+  ],
+  "price": {
+    "amount": 75.03,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "25,01 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del mar, 10 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos fijos"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Hierba"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "198482479121"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m34337579/k$49f68bef0957f807099390de53a684c0/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34337528/k$a25984fdd53f11de998516733183b8f1/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34337503/k$d098c54cfe55200ea1c031c2af26bf85/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34337613/k$1062fe827e84c07ace82ce044386a393/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34337558/k$a2209573f7357931c9ec50480ca9cca5/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34337649/k$01531ded4f59e778e683203cdc6df001/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m23680663/k$01adfe9db667244e836e570ae03e1f9a/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:30:49.937Z"
+}

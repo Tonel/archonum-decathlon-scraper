@@ -1,0 +1,117 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatillas-nino-munich-g-3-kid-vco/060d7b25-3b4d-4dbc-8754-3f12273161cd/c4",
+  "productKey": "060d7b25-3b4d-4dbc-8754-3f12273161cd_c4",
+  "variantId": "c4",
+  "productId": null,
+  "name": "Zapatillas niño Munich G-3 Kid Vco",
+  "brand": "MUNICH",
+  "description": "MUNICH es la marca de zapatillas más usada por profesionales de la LNFS y aficionad@s al futsal y pádel de España, Italia y Portugal.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol sala",
+    "Zapatillas",
+    "Zapatillas niños",
+    "Zapatillas niños Munich"
+  ],
+  "price": {
+    "amount": 43.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "14,66 € al mes",
+  "sizes": [
+    "31 (UK 13C)",
+    "32 (UK 0.5)",
+    "26 (UK 8C)",
+    "27 (UK 9.5C)",
+    "28.5 (UK 10C)",
+    "30 (UK 11C)",
+    "29 (UK 12C)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del mié, 4 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del mié, 4 nov"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de terreno",
+          "value": "Carretera"
+        },
+        {
+          "name": "Tipo de práctica",
+          "value": "Entrenamiento"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        },
+        {
+          "name": "Distancia",
+          "value": "Todas las distancias"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8445648671366"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m27379270/k$d3d0380ab7aa3933f9870a0d5cfdc7a2/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m27379276/k$5c07c3dacc259e6c1e080681bf203ccd/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m27379274/k$8d89dcdfaf8d5f8655259eeb3071fb27/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m27379279/k$3d96a395073918780b79caee4712d4c7/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m27379278/k$6ecea9b4bedef789b8ea8cae5cf4c7f1/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:07:27.490Z"
+}

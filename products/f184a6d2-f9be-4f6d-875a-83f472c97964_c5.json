@@ -1,0 +1,116 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/de-futbol-sala-para-ninos/f184a6d2-f9be-4f6d-875a-83f472c97964/c5",
+  "productKey": "f184a6d2-f9be-4f6d-875a-83f472c97964_c5",
+  "variantId": "c5",
+  "productId": null,
+  "name": "Zapatillas de fútbol sala para niños Joma Top Flex 2604",
+  "brand": "JOMA",
+  "description": "Unos zapatos excepcionales, diseñados para que cada paso sea único",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol sala",
+    "Zapatillas",
+    "Zapatillas niños",
+    "Zapatillas niños Joma"
+  ],
+  "price": {
+    "amount": 34.58,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 39.98,
+    "currency": "EUR"
+  },
+  "financing": "11,53 € al mes",
+  "sizes": [
+    "34 (UK 2)",
+    "35 (UK 3)",
+    "36 (UK 3.5)",
+    "37 (UK 4)",
+    "38 (UK 4)",
+    "31 (UK 12C)",
+    "32 (UK 13.5C)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8447368940609"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m34940694/k$9e6e8753373114984bf8554016bc71b4/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34940864/k$6becfa02c8c6f2288eb920283ad0197b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34940730/k$b444347ef17d77a637c1ddd050d8dfed/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34940991/k$4636fe0eaec193a4895b3bd290e30885/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34940953/k$b1ad747a97a0e074ebc5658b3f2dd650/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34940798/k$fc5a2df44851c3511674531d18bca415/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34940914/k$e7ffeee906210750b8ed9743828b6320/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:11:39.462Z"
+}

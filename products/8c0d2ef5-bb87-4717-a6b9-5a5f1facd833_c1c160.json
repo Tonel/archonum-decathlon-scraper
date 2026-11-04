@@ -1,0 +1,64 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatos-de-futbol-nike-mercurial-vapor-16-academy-negro/8c0d2ef5-bb87-4717-a6b9-5a5f1facd833/c1c160",
+  "productKey": "8c0d2ef5-bb87-4717-a6b9-5a5f1facd833_c1c160",
+  "variantId": "c1c160",
+  "productId": null,
+  "name": "Zapatos de fútbol Nike Mercurial Vapor 16 Academy Negro",
+  "brand": "NIKE",
+  "description": "Diseñadas para jugadores aficionados, estas botas de fútbol Nike Mercurial Vapor 16 Academy ofrecen velocidad y control en todos los terrenos.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas Nike"
+  ],
+  "price": {
+    "amount": 94.8,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "31,60 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m19475847/k$ea0cf08342dc93c4958705ef47b30583/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22731637/k$2a2c62b09a7f16c8d88d85babd345860/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22731639/k$205f092b2df324f6ae8ce5849ddbb13e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22731634/k$5603b3a4673e6c2516e3c7519b61c41b/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:37:27.548Z"
+}

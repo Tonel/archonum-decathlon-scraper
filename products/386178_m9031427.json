@@ -1,0 +1,143 @@
+{
+  "url": "https://www.decathlon.es/es/p/botas-de-futbol-ultra-7-match-fg-ag-nino-rojo-puma/386178/m9031427",
+  "productKey": "386178_m9031427",
+  "variantId": "m9031427",
+  "productId": "9031427",
+  "name": "Botas de fútbol Ultra 7 Match FG/AG Niño Rojo PUMA",
+  "brand": "PUMA",
+  "description": "Descubre la ULTRA NITRO 7.Gracias a la tecnología NITRO, la espuma enriquecida con nitrógeno de PUMA que ofrece un retorno de energía excepcional, es tan rápida como su nombre indica.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "Botas de futbol Puma niños",
+    "Botas de futbol Puma niños Ultra"
+  ],
+  "price": {
+    "amount": 38.99,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 64.99,
+    "currency": "EUR"
+  },
+  "financing": "13,00 € al mes",
+  "sizes": [
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37 1/3",
+    "38"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "1 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 1 año."
+    }
+  ],
+  "features": [
+    {
+      "title": "Impulso",
+      "text": "La espuma NITRO, enriquecida con nitrógeno, ofrece un retorno de energía excepcional"
+    },
+    {
+      "title": "Velocidad",
+      "text": "SPEEDSYSTEM 2.0:Suela ligera diseñada para maximizar el retorno de energía."
+    },
+    {
+      "title": "Estabilidad",
+      "text": "La bota se adapta a la forma de tu pie para acelerar tus cambios de dirección."
+    },
+    {
+      "title": "Flexibilidad multidireccional",
+      "text": "Los tacos FastTrax son más redondeados para una tracción óptima"
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de terreno",
+          "value": "Hierba, Hierba sintética larga"
+        },
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos fijos"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado bajo"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "Puma el paquete de llegada, Ultra"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Velocidad"
+        },
+        {
+          "name": "Tipo de plantilla",
+          "value": "Simple"
+        },
+        {
+          "name": "Nivel de rendimiento",
+          "value": "Partido / Liga"
+        }
+      ]
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p3215382/k$bd2a84effebd95886a755b21aff5ed25/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3215383/k$830a9961000e504720bbec0f4ab9a592/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3215379/k$6cd242c6e99d2ddb0b7aac5019c2d83e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3215384/k$868666d76cadffc3e32274ade48be0f8/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3215378/k$49897f5bd1da79589cc805d639e0a6d0/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3215381/k$b9784be30cde6b6c1689a72a54a970c1/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3215380/k$7b9690c70db2c02ca15ffbf0d08d51d1/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:42:13.485Z"
+}

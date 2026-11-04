@@ -1,0 +1,109 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/airo-secador-y-ambientador-para-botas-1-par-secador-de-botas-de-esqui/04d8f559-26d8-44ec-a811-446723e94756/c251",
+  "productKey": "04d8f559-26d8-44ec-a811-446723e94756_c251",
+  "variantId": "c251",
+  "productId": null,
+  "name": "Airo Secador y ambientador para botas 1 par - secador de botas de esquí",
+  "brand": "SHOEDRY",
+  "description": "Con el secador y ambientador de zapatos ShoeDry Airo, tus zapatos estarán secos y frescos en un abrir y cerrar de ojos.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Accesorios para botas",
+    "Secador para botas"
+  ],
+  "price": {
+    "amount": 49.95,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "16,65 € al mes",
+  "sizes": [],
+  "colors": [
+    {
+      "name": "gris",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "negro / rojo",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Aviso legal",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8719689946777"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m35197104/k$5bb6425816cf5dab5a24779f59177dc6/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35196752/k$1a2b8dca015c0934ae26a1fcc8c6721b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35196929/k$679b8728890ea3ed12b04c6275f31a4a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35196824/k$8a3f53da1be0184dcbfb9588e9258665/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m37315871/k$022b463b838658f00028563c06f7a807/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m37315863/k$e001962410865324330143fb9ff113af/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35197012/k$f07f612da9482224079a40b24082df6f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m37315855/k$46fac86da2d8e6d6852e89db17392fbc/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35197073/k$8a4d4b9edbfb6fcb868c9ed2a3e940c5/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35196890/k$8937a5d4e9b29a4023d3b6d99db1e00b/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T17:45:58.682Z"
+}

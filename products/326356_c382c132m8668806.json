@@ -1,0 +1,138 @@
+{
+  "url": "https://www.decathlon.es/es/p/botas-de-futbol-nino-con-tira-adherente-100-easy-turf-tf-negro-y-amarillo/326356/c382c132m8668806",
+  "productKey": "326356_c382c132m8668806",
+  "variantId": "c382c132m8668806",
+  "productId": "8668806",
+  "name": "BOTAS DE FÚTBOL NIÑO CON TIRA ADHERENTE 100 EASY TURF TF NEGRO Y AMARILLO",
+  "brand": "KIPSTA",
+  "description": "¿Buscas un buen calzado para que tu hijo pueda iniciarse en el fútbol? Hemos desarrollado las botas 100 priorizando la comodidad y la flexibilidad para acompañar tus primeros golpes.",
+  "stickers": [
+    "Primer precio técnico"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Gimnasia escolar",
+    "Colecciones",
+    "Vuelta al Cole",
+    "Colección Vuelta al Cole",
+    "Vuelta al cole al mejor precio"
+  ],
+  "price": {
+    "amount": 11.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": null,
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "2 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 2 años."
+    }
+  ],
+  "features": [
+    {
+      "title": "Comodidad",
+      "text": "Empeine más ancho para aportar mayor comodidad."
+    },
+    {
+      "title": "Agarre",
+      "text": "La suela de caucho natural con múltiples tacos asegura buenos apoyos."
+    },
+    {
+      "title": "Toque de balón",
+      "text": "Componente exterior flexible y las costuras favorecen el contacto con el balón."
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Nivel de práctica",
+          "value": "Iniciación"
+        },
+        {
+          "name": "Intensidad",
+          "value": "Intensidad baja"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Hierba sintética corta, Césped artificial, Terreno duro"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Tira autoadherente"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado bajo"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos estabilizados"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Ancho"
+        },
+        {
+          "name": "Colección",
+          "value": "Agility"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Control"
+        },
+        {
+          "name": "Tipo de plantilla",
+          "value": "Simple"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p2380488/k$1944293c7d93a61fedfa8e69e54283a8/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2380486/k$045828a2723bafae611763e8e9ed42e2/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2380485/k$0456dd7d1cce67b9d911f341cc44c31e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2380484/k$00f44d3f92921d134bec3aa8f4f752a4/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2380483/k$6f61da73d4539d6206c731306841d7e8/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2380482/k$81726cbd154491b590e76c42e641d589/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2380481/k$f9ee872641b18992ca3edb3151bc42b2/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:03:47.066Z"
+}

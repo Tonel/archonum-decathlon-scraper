@@ -1,0 +1,93 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatillas-de-futbol-sala-adidas-top-sala-competition-in-rosa/4278aeee-f77d-49ff-a989-3704f124c266/c24",
+  "productKey": "4278aeee-f77d-49ff-a989-3704f124c266_c24",
+  "variantId": "c24",
+  "productId": null,
+  "name": "Zapatillas de fútbol sala adidas Top Sala Compétition IN Rosa",
+  "brand": "ADIDAS",
+  "description": "Diseñadas para el fútbol sala, estas zapatillas adidas ofrecen un excelente soporte y una adherencia óptima gracias a su suela de goma no marcante.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Adidas",
+    "Botas fútbol adidas"
+  ],
+  "price": {
+    "amount": 62.45,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "20,82 € al mes",
+  "sizes": [
+    "39 1/3 (UK 6)",
+    "40 (UK 6)",
+    "41 1/3 (UK 7.5)",
+    "42 (UK 8)",
+    "42 2/3 (UK 8.5)",
+    "44 2/3 (UK 10)",
+    "46 (UK 11)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4067889159553"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m38436710/k$1d79dd2df31d06c4ac9a33005bf77d0a/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:31:33.832Z"
+}

@@ -1,0 +1,124 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/kelme-zapatillas-casual-de-nino-trueno-elastic-blanco-unisex-kids/e0c7582e-2021-4d45-baec-5d79ecc7d34c/c4",
+  "productKey": "e0c7582e-2021-4d45-baec-5d79ecc7d34c_c4",
+  "variantId": "c4",
+  "productId": null,
+  "name": "Kelme Zapatillas Casual De Niño Trueno Elastic Blanco Unisex Kids",
+  "brand": "KELME",
+  "description": "Kelme Zapatillas Casual De Niño Trueno Elastic Blanco Unisex Kids. Fabricada en 62% Piel Sintética + 38% Textil. Tallaje correcto, elige tu talla habitual. Kelme, Leave Your Mark.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "copia botas niños"
+  ],
+  "price": {
+    "amount": 27.45,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": null,
+  "sizes": [
+    "26 (UK 7C)",
+    "27 (UK 9.5C)",
+    "28 (UK 9.5C)",
+    "33 (UK 13.5C)"
+  ],
+  "colors": [
+    {
+      "name": "blanco",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "azul marino",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordón tradicional"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Amortiguación, soporte y confort"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8445664250613"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m22364856/k$883f196405cb7d4e6262558a8d23c13c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22364950/k$c29276d71cb1af67aca7f70ae7b0a596/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22364892/k$ee50539b512f29f5a03282c8d6686d43/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22364813/k$e4f19ef4b39165d421de423305722361/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:24:07.419Z"
+}

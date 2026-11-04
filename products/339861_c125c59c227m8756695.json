@@ -1,0 +1,200 @@
+{
+  "url": "https://www.decathlon.es/es/p/zapatillas-de-futbol-sala-ginka-pro-jr-rojo/339861/c125c59c227m8756695",
+  "productKey": "339861_c125c59c227m8756695",
+  "variantId": "c125c59c227m8756695",
+  "productId": "8756695",
+  "name": "Zapatillas de Fútbol Sala Ginka Pro JR Rojo",
+  "brand": "KIPSTA",
+  "description": "¿Buscas unas zapatillas ligeras y flexibles para jugar a fútbol sala? La Ginka Pro JR te aporta una comodidad excepcional en el juego, gracias a su poco peso y a las estrías de flexión Flex-H.",
+  "stickers": [
+    "Últimas unidades"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "Zapatillas niños fútbol sala"
+  ],
+  "price": {
+    "amount": 22.99,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 34.99,
+    "currency": "EUR"
+  },
+  "financing": null,
+  "sizes": [],
+  "colors": [
+    {
+      "name": "naranja llama fluorescente / azul índigo / ultra blanco",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "amarillo ácido fluorescente / morado amatista",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "2 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 2 años."
+    }
+  ],
+  "features": [
+    {
+      "title": "Flexibilidad",
+      "text": "Las estrías de flexión del concepto FLEX-H acompañan el desarrollo del pie."
+    },
+    {
+      "title": "Ligereza",
+      "text": "Componente PU de 1,4 mm ultrarresistente para reducir el peso de la zapatilla."
+    },
+    {
+      "title": "Amortiguación",
+      "text": "Plantilla de espuma EVA que absorbe las ondas de impacto a lo largo de todo el pie"
+    },
+    {
+      "title": "Adherencia",
+      "text": "Suela de goma para un mejor agarre en terrenos lisos."
+    },
+    {
+      "title": "Sujeción del producto",
+      "text": "Contrafuerte en el talón para sujetar bien el pie"
+    },
+    {
+      "title": "Suela que no deja marcas",
+      "text": "Suela de goma diseñada para no dejar marcas en la pista"
+    },
+    {
+      "title": "Resistencia",
+      "text": "Suela y puntera de caucho resistente a la abrasión."
+    },
+    {
+      "title": "Comodidad",
+      "text": "Plantilla de espuma EVA de 5 mm con un componente mesh 2D."
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Nivel de práctica",
+          "value": "Experto"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado bajo"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Impermeable",
+          "value": "No impermeable"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Plantilla extraíble",
+          "value": "Plantilla extraíble"
+        },
+        {
+          "name": "Tipo de forro",
+          "value": "Forro de tela"
+        },
+        {
+          "name": "Vida útil mínima",
+          "value": "105 entrenamientos"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Velocidad"
+        },
+        {
+          "name": "Peso (en g)",
+          "value": "211 g"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Interior"
+        },
+        {
+          "name": "Colección",
+          "value": "Ginka"
+        },
+        {
+          "name": "Marcas de suela exterior",
+          "value": "No deja marcas"
+        },
+        {
+          "name": "Tipo de plantilla",
+          "value": "Preformado"
+        },
+        {
+          "name": "Tipo de taco",
+          "value": "Suela suave"
+        },
+        {
+          "name": "Nivel de rendimiento",
+          "value": "Pro"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p2498569/k$917e7e4d873cd7727898d8da286e21f7/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2498568/k$85f75e52122a4e15c25cee2eaadd0de5/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2498566/k$d8a4f9d7d2d8271cbb7cf3c3938805cf/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2498563/k$5385c653bc169ae45043db763fe17c43/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2498562/k$e1d3469a2001f0d4255c72fe97c6e87c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2498561/k$f3867817b593880ee6f8eaf8eb977ecf/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2499145/k$69d28de699364c0c3be90988bf5e3abb/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2499146/k$d58b6978e61d0dea543ddcbaa4b452b4/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2495544/k$e267df9b8c42666b634551fd72806b7b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2495541/k$1078e11e2f85fc7d641717b955866a1e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2495552/k$131aeffa3a38f6798c4f0aa03934ecb3/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2495549/k$f9ca66cec0d4cb29687f5ee90d33c375/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T17:54:19.435Z"
+}

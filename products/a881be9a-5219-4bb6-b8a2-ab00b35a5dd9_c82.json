@@ -1,0 +1,104 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatillas-de-tacos-para-nino-nike-phantom-gx-2-academy-coral/a881be9a-5219-4bb6-b8a2-ab00b35a5dd9/c82",
+  "productKey": "a881be9a-5219-4bb6-b8a2-ab00b35a5dd9_c82",
+  "variantId": "c82",
+  "productId": null,
+  "name": "Zapatillas de tacos para Niño Nike Phantom gx 2 academy Coral",
+  "brand": "NIKE",
+  "description": "Bota de Futbol Nike Phantom GX 2 Academy para niño, confeccionada en cuero sintético, cierre de cordones, cuello de malla, plantilla acolchada y suela de tacos de plastico.",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "Botas niños tacos"
+  ],
+  "price": {
+    "amount": 51.92,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 64.9,
+    "currency": "EUR"
+  },
+  "financing": "17,31 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "0197862778229"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m22060858/k$ed7514b50cfc1894ab45f8222d16cef3/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22060899/k$9843d7b6e78dd92edae79e5ba7b837b4/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22060868/k$91f03750d806903c373d9cd68a526e62/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22060875/k$b6324002a0bbe7229e836aa56511d266/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22060885/k$f4fbeb635aa711ceb7ee90ff8644f857/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22060893/k$97d2a11015d3a2cd4e9506bd192b6e00/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22060904/k$280d024aa7d9274cc028e043b3841601/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:31:53.644Z"
+}

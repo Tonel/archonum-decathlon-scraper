@@ -1,0 +1,118 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatillas-futbol-kelme-k-fighting-mg-unisex-blanco/a1aa310d-e613-4307-8aee-d715efd012ec/c4",
+  "productKey": "a1aa310d-e613-4307-8aee-d715efd012ec_c4",
+  "variantId": "c4",
+  "productId": null,
+  "name": "Zapatillas Fútbol Kelme K-fighting Mg Unisex Blanco",
+  "brand": "KELME",
+  "description": "Nueva bota de fútbol para la colección de otroño invierno de Kelme",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas césped artificial",
+    "Todo Botas césped artificial"
+  ],
+  "price": {
+    "amount": 40.43,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "13,48 € al mes",
+  "sizes": [
+    "40 (UK 6.5)",
+    "41 (UK 7)",
+    "42 (UK 8)",
+    "43 (UK 8.5)",
+    "44 (UK 9.5)",
+    "45 (UK 10.5)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del mar, 10 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos multisuperficies"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Césped artificial"
+        },
+        {
+          "name": "Material",
+          "value": "Sintético"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8445664211898"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m17609155/k$12ecb25e47dafac2d72ef335f7482d51/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m17609166/k$d3a2ada3e45e90b1901bf7f38eef7122/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m17609153/k$61b94d68fc0c891ffd6779f30250e347/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m17609133/k$37670ecf5ee79f2f9cc20758b24220a3/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m17609130/k$3869bac0972bdc844d775dc160da0f42/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:45:54.868Z"
+}

@@ -1,0 +1,148 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-ultra-6-match-fg-ag-ninos-puma/368cb3cf-83a4-4f1b-9aea-fd1c84fb1d30/c1c14",
+  "productKey": "368cb3cf-83a4-4f1b-9aea-fd1c84fb1d30_c1c14",
+  "variantId": "c1c14",
+  "productId": null,
+  "name": "Botas de fútbol ULTRA 6 MATCH FG/AG Niños PUMA",
+  "brand": "PUMA",
+  "description": "Pon La Sexta Marcha Con Las Botas De Fútbol Ultra 6 De Puma.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas de futbolistas",
+    "Botas de Coman"
+  ],
+  "price": {
+    "amount": 35,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "11,67 € al mes",
+  "sizes": [
+    "34 (UK 1)",
+    "35 (UK 2)",
+    "34.5 (UK 3)",
+    "35.5 (UK 3)",
+    "37 (UK 4)",
+    "37.5 (UK 4)",
+    "38 (UK 5)",
+    "38.5 (UK 5.5)",
+    "30 (UK 11.5C)",
+    "32 (UK 13.5C)",
+    "33 (UK 13.5C)"
+  ],
+  "colors": [
+    {
+      "name": "negro / rojo",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "azul / blanco",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "amarillo / negro / rojo",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "rosa / blanco",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "azul / blanco / azul",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Agotado"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de terreno",
+          "value": "Terreno duro"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Colección",
+          "value": "Ultra"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4069161179815"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m26851655/k$aacaa5516211ad296cb9e31214d60cf8/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26851617/k$da02bba621c583585e913bf706992a22/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26851602/k$abb8e51d86e760d85994d21f1c0405da/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26851678/k$714860a5e77cdc9e82ab8b08d5e23140/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26851636/k$aa52db8b2ff46253d1a300d2f3e35857/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26851699/k$d7b822579d9368c08cb2880ca4a5011a/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:36:09.582Z"
+}

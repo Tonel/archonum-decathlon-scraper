@@ -1,0 +1,138 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-futbol-futbol-adulto-joma-gol-24-ag-negro/e2c9ffbe-bfd7-4b78-b559-e7b17a35d402/c1c142",
+  "productKey": "e2c9ffbe-bfd7-4b78-b559-e7b17a35d402_c1c142",
+  "variantId": "c1c142",
+  "productId": null,
+  "name": "Botas Fútbol Fútbol Adulto Joma Gol 24 AG Negro",
+  "brand": "JOMA",
+  "description": "Botas Fútbol Fútbol Adulto Joma Gol 24 AG Negro",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Joma",
+    "Botas de fútbol joma"
+  ],
+  "price": {
+    "amount": 44.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "15,00 € al mes",
+  "sizes": [
+    "40 (UK 6.5)",
+    "41 (UK 7)",
+    "44.5 (UK 10)"
+  ],
+  "colors": [
+    {
+      "name": "negro / amarillo neón fluorescente",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "negro / amarillo neón fluorescente / azul eléctrico",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "negro / amarillo neón fluorescente / magenta fluorescente",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "negro / amarillo neón fluorescente / rosa fucsia",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "negro / amarillo neón fluorescente / azul grisáceo",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8445954837180"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m17876146/k$a8dcc85da75c78856ec7aca5258b2dcd/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m17876144/k$56bc830c5ba42395bb75781c11c5f360/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m17876155/k$882e7e5c5f8917d8dfe62494090ac9d7/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m17876142/k$c1b590ac5e6789d0c3c57e25b80b77b9/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:35:39.701Z"
+}

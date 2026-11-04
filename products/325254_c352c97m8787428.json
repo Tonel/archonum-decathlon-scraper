@@ -1,0 +1,201 @@
+{
+  "url": "https://www.decathlon.es/es/p/botas-de-futbol-viralto-iii-3d-airmesh-turf-tf-flamenco/325254/c352c97m8787428",
+  "productKey": "325254_c352c97m8787428",
+  "variantId": "c352c97m8787428",
+  "productId": "8787428",
+  "name": "BOTAS DE FÚTBOL VIRALTO III 3D AIRMESH TURF TF FLAMENCO",
+  "brand": "KIPSTA",
+  "description": "¡Toma el control con la VIRALTO III! Ultracómoda y técnica con su exterior AIR MESH y su suela multidireccional FLEX-H, te aportará excelentes sensaciones para distribuir el juego",
+  "stickers": [
+    "Últimas unidades"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Kipsta",
+    "Colección Viralto"
+  ],
+  "price": {
+    "amount": 24.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": null,
+  "sizes": [],
+  "colors": [
+    {
+      "name": "azul océano / verde turquesa Caribe",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "gris cometa",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "rojo eléctrico fluor",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "negro ahumado / gris grafito / morado carbón",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "azul delicado / azul niebla / verde neón fluorescente",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "naranja pálido fluorescente / gris grafito",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "3 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 3 años."
+    }
+  ],
+  "features": [
+    {
+      "title": "Comodidad",
+      "text": "Exterior 3D AIR MESH, refuerzo de antelina y plantilla con pads de Poron®."
+    },
+    {
+      "title": "Resistencia",
+      "text": "Vida útil de 168 XP*, entre una de las mejores de las botas de fútbol evaluadas."
+    },
+    {
+      "title": "Amortiguación",
+      "text": "Espuma EVA KALENSOLE® de alto rendimiento en toda la bota."
+    },
+    {
+      "title": "Flexibilidad",
+      "text": "Flexibilidad multidireccional con tecnología FLEX-H."
+    },
+    {
+      "title": "Toque de balón",
+      "text": "La tecnología 3D AIR MESH ofrece sensaciones excelentes con el balón en los pies."
+    },
+    {
+      "title": "Agarre",
+      "text": "La suela de caucho natural con múltiples tacos estabilizados para buenos apoyos"
+    },
+    {
+      "title": "Sujeción del producto",
+      "text": "Cuello de punto elástico: abraza perfectamente el pie con cordones para ajustar."
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Nivel de práctica",
+          "value": "Experto"
+        },
+        {
+          "name": "Frecuencia",
+          "value": "Intensiva"
+        },
+        {
+          "name": "Intensidad",
+          "value": "Intensidad alta"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Hierba sintética corta, Césped artificial, Terreno duro"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado alto"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética, Mesh 3d"
+        },
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos estabilizados"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "Viralto"
+        },
+        {
+          "name": "Peso (en g)",
+          "value": "308g"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Control"
+        },
+        {
+          "name": "Tipo de plantilla",
+          "value": "Preformado + almohadillas"
+        },
+        {
+          "name": "Vida útil mínima",
+          "value": "168 usos"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p2380182/k$bbebc1da1275a4cef15694ac98b17655/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2380181/k$74c02302c50e6ae8b8dd1e922434f84f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2380180/k$376ac73da646009b5ffb2ad40f06bc97/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2380179/k$3406d163db976253d47ff49667c969c2/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2380177/k$fcaf3fdb5a3927faf7c797811781ae26/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2380178/k$5a77f3382f298a1ebc8671de52e8c1f7/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2380172/k$d13fa583263840da5ba223bedc3ad0bb/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2380171/k$71f3ac81cf348bcd40d4520596bfb05b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2380173/k$c95e0afa41011137df9634762b8c856d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2380175/k$641ed6769bfd57614ae044e2023d89e5/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2380174/k$1ab2e9e6294750f2b5c7bc9d95e1aa2c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2380176/k$ac452704e0f1e77764185dbfdf964690/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:40:31.196Z"
+}

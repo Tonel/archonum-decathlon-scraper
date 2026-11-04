@@ -1,0 +1,143 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatilla-de-futbol-copa-pure-iv-club-moqueta/9ed407e6-be20-4d1f-96c6-ca2a88c65325/c1c4c14",
+  "productKey": "9ed407e6-be20-4d1f-96c6-ca2a88c65325_c1c4c14",
+  "variantId": "c1c4c14",
+  "productId": null,
+  "name": "Zapatilla de fútbol COPA PURE IV CLUB moqueta",
+  "brand": "ADIDAS",
+  "description": "Zapatilla júnior con impresiones hápticas en 3D para mejorar la adherencia del balón",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "copia botas niños"
+  ],
+  "price": {
+    "amount": 40,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "13,33 € al mes",
+  "sizes": [
+    "34.5 (UK 3)",
+    "35 (UK 3.5)",
+    "36 2/3 (UK 4)",
+    "37 1/3 (UK 4.5)",
+    "38 2/3 (UK 5.5)"
+  ],
+  "colors": [
+    {
+      "name": "negro / blanco / rojo",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "blanco / negro / rojo",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Hierba"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "Copa"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4068812952012"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m33351939/k$76e58e51059958f11aeb4e13620b76a5/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m33351934/k$1ce41e57ddf00fb72b512e9edbd79012/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m33351929/k$8d9018cff281b6a4e46a53f86a1a5ac4/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m33351945/k$0197c07f04420d5f2d6bb1944d26d615/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m33351938/k$7f3c1cdd08164a2b9e21050cec8f6127/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m33351948/k$035d1e8ee509f1e95199facabf7120e5/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m33351942/k$de36d45d0ae42da60082ab913a9fe85d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36644337/k$c92ccdf008520c45da072277afce0017/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35437392/k$79bae91f3216ffe221ff135c6162acf6/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35712515/k$d9dd52a22bf6367a81436e55a07b9574/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35712508/k$1a9ccc07622d5407837eefdf1560ccdf/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35712498/k$971291059c80f0f7d948ee70a852fd3f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35712490/k$e9d1a447baf87cd018084e03cb08e93c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35712480/k$8741d77d188c1ce5812d4861a377cbb6/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:52:09.916Z"
+}

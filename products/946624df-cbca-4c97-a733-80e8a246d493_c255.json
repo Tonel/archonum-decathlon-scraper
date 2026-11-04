@@ -1,0 +1,126 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/joma-mundial-2628-tf/946624df-cbca-4c97-a733-80e8a246d493/c255",
+  "productKey": "946624df-cbca-4c97-a733-80e8a246d493_c255",
+  "variantId": "c255",
+  "productId": null,
+  "name": "Zapatillas de fútbol para hombre Joma Mundial Turf 2628",
+  "brand": "JOMA",
+  "description": "Zapatillas amarillas Joma Mundial Turf 2628 para jugar sobre césped artificial, transpirables y resistentes.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas Joma"
+  ],
+  "price": {
+    "amount": 57.5,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "19,17 € al mes",
+  "sizes": [
+    "39/42 (UK 5/8)",
+    "40/42 (UK 7/8)",
+    "41/42 (UK 7/8)",
+    "42/44 (UK 8/9.5)",
+    "43/49 (UK 9/12.5)",
+    "44/47 (UK 9.5/12)",
+    "45/47 (UK 10.5/12)",
+    "46/48 (UK 12/14)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos estabilizados"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Césped artificial"
+        },
+        {
+          "name": "Material",
+          "value": "Piel"
+        },
+        {
+          "name": "Colección",
+          "value": "Mundial"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Aviso legal",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8447368908784"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m28687998/k$22f2855aced0f90e42a070b21166403e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28688029/k$8c5006c203683c5204ec3c6524bc5c1b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28688013/k$4bb009850cb428a8857309390656a75f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28688036/k$ab75e6027f92a629aac0a863107292dd/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28688033/k$ed17031bbe62022b8c2e082acb934df9/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28688022/k$94dfd5faf825e6fd84b848aaab50866b/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:29:39.086Z"
+}

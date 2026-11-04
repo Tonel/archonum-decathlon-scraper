@@ -1,0 +1,124 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatillas-de-futbol-para-hombre-joma-dribling-indoor-2632/47f31c65-82a9-45a9-8d64-9775602d6c55/c4c238c4",
+  "productKey": "47f31c65-82a9-45a9-8d64-9775602d6c55_c4c238c4",
+  "variantId": "c4c238c4",
+  "productId": null,
+  "name": "Zapatillas de fútbol para hombre Joma Dribling Indoor 2632",
+  "brand": "JOMA",
+  "description": "Cómodas zapatillas de interior Joma Dribling Indoor 2632: precisión y protección en la cancha.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Joma",
+    "Botas de fútbol joma"
+  ],
+  "price": {
+    "amount": 45.49,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "15,16 € al mes",
+  "sizes": [
+    "40/42 (UK 7/8)",
+    "41/42 (UK 7/8)",
+    "42/44 (UK 8/9.5)",
+    "43/49 (UK 9/12.5)",
+    "44/47 (UK 9.5/12)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de taco",
+          "value": "Sin tacos"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Interior"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Aviso legal",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8447368914396"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m28691834/k$af2f8d03aa33b43305d984147714a002/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28691939/k$6a37366b891c312e858710c3c4b51ca4/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28691852/k$327d9509a486a282fe32236089b2f872/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28691998/k$4178c698356eaae3114500f5c2cf6ea5/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28691966/k$1d7ecbd0855b3532f7815bb915395911/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28691884/k$e1c89ab190f245c33353f610d92b136b/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:25:44.882Z"
+}

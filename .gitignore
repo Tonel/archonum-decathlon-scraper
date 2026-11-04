@@ -1,0 +1,15 @@
+# Secrets: the Archonum token must never be committed.
+# .mcp.json and .env.debug currently contain it.
+.env
+.env.*
+!.env.example
+.mcp.json
+
+# Local editor and tool settings
+.claude
+.mcp.json
+.vscode
+
+# Dependencies and temporary files
+node_modules/
+*.tmp

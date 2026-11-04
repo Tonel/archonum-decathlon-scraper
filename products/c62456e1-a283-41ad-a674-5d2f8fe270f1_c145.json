@@ -1,0 +1,120 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatillas-futbol-sala-ninos-joma-cancha-jr-26-in-marino/c62456e1-a283-41ad-a674-5d2f8fe270f1/c145",
+  "productKey": "c62456e1-a283-41ad-a674-5d2f8fe270f1_c145",
+  "variantId": "c145",
+  "productId": null,
+  "name": "Zapatillas Fútbol Sala Niños Joma Cancha Jr 26 IN Marino",
+  "brand": "JOMA",
+  "description": "Zapatillas Fútbol Sala Niños Joma Cancha Jr 26 IN Marino",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol sala",
+    "Zapatillas",
+    "Zapatillas niños",
+    "Zapatillas niños Joma"
+  ],
+  "price": {
+    "amount": 37.81,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 38.98,
+    "currency": "EUR"
+  },
+  "financing": "12,60 € al mes",
+  "sizes": [],
+  "colors": [
+    {
+      "name": "azul marino",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "azul royal",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "negro",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8447534973929"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m36204275/k$8bf45d142c45e68da39c092a0b433e9c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36204453/k$c680894758791ee95dc4faaf9b05e476/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36204395/k$fad8a454b6b74ea605b70c03e6aba18c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36204340/k$000a891e2d04c31b50d8d5291df14901/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36204305/k$3cf1dba8b22bc1e034f993aed3118d2f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38066417/k$a0b18f8ee9f2793e958a1c99b8aa8922/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38066403/k$e7ce47c5837bdb8c70ea1426604bb41d/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:42:47.218Z"
+}

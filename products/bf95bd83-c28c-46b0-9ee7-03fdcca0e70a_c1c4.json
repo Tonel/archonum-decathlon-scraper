@@ -1,0 +1,124 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/bota-de-futbol-americano-adizero-impact-2-moulded-rubber-ninos/bf95bd83-c28c-46b0-9ee7-03fdcca0e70a/c1c4",
+  "productKey": "bf95bd83-c28c-46b0-9ee7-03fdcca0e70a_c1c4",
+  "variantId": "c1c4",
+  "productId": null,
+  "name": "Bota de fútbol americano Adizero Impact.2 Moulded Rubber (Niños)",
+  "brand": "ADIDAS",
+  "description": "Para futuras estrellas del fútbol americano",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "copia botas niños"
+  ],
+  "price": {
+    "amount": 50,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "16,67 € al mes",
+  "sizes": [
+    "33 (UK 1)",
+    "33.5 (UK 1.5)",
+    "34 (UK 2)",
+    "35 (UK 2.5)",
+    "35.5 (UK 3)",
+    "36 (UK 3.5)",
+    "36 2/3 (UK 4)",
+    "37 1/3 (UK 4.5)",
+    "27 (UK 9.5C)",
+    "38 (UK 5)",
+    "38 2/3 (UK 5.5)",
+    "28.5 (UK 10C)",
+    "30 (UK 11.5C)",
+    "31 (UK 12.5C)",
+    "32 (UK 13.5C)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Motivo",
+          "value": "Sin patrón"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4067892729705"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m23920195/k$24cbd0ca5930f7866198f9cde46260c7/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22850391/k$b4918bd3db3dfef4bd0350425a0a463c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22850394/k$35b85a6d07a77bb333c3ba46cfc61967/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22850380/k$aab1a6d57adc1d3d7e57fdb0330ebd25/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22850388/k$1be47eb21adad9883991adb8d3a49d19/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22850378/k$df3a4f6e90ad73b21d0fe3e938199a3e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28102287/k$bb0dfc62314b5be98e3399813c39fbb9/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36638997/k$9be134193001fe47907775a8eb206316/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:33:29.145Z"
+}

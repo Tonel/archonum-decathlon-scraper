@@ -1,0 +1,154 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/bota-de-futbol-f50-hyperfast-league-cesped-artificial/ddab407b-86b3-4e04-b550-4b2c1fbf5269/c4c16c24",
+  "productKey": "ddab407b-86b3-4e04-b550-4b2c1fbf5269_c4c16c24",
+  "variantId": "c4c16c24",
+  "productId": null,
+  "name": "Bota de fútbol F50 Hyperfast League césped artificial",
+  "brand": "ADIDAS",
+  "description": "Una bota de fútbol con empeine Haloskin ligero que optimiza el contacto con el balón",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas de futbolistas",
+    "Botas de Messi"
+  ],
+  "price": {
+    "amount": 90,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "30,00 € al mes",
+  "sizes": [],
+  "colors": [
+    {
+      "name": "blanco / morado / rosa",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "verde / azul marino / amarillo",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "multicolor / morado / rosa",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Motivo",
+          "value": "Sin patrón"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Césped artificial"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado bajo"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Impermeable",
+          "value": "No impermeable"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "F50"
+        },
+        {
+          "name": "Nivel de práctica",
+          "value": "Perfeccionamiento"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4068818070147"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m36063132/k$52a92c8cf8a88b0d931805d35c47e98b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36063242/k$61b342b66d86972268f9f1a5d979f0ef/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36063221/k$051a2b48a87d5e2cd02f1303a723d591/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36063205/k$83ec20f1535f8a1ad692e3b13de5eee4/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36063191/k$76e7fbd4a281746c7de4c0bfca0375a9/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36063171/k$99f151d54688515ae718b24b44ff28fd/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36063147/k$88c5323eb47f60e26180abee5bd400cc/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36650847/k$c0c852be0c4bb0f23b33b3a8f52e5eb8/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36153775/k$a530772a79e370b4252dec1ee7846886/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36153727/k$4a6057383f608461641d654391c257c9/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36153675/k$0a0f53ab5bcef3d361e9fbe9543a4625/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36153628/k$252d071ad6f6fd7b5cc422ace741af04/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36153583/k$5351d3c907b8f90ac7e2f6c1bec28813/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36153553/k$5ba325cf6646ce5d0906b0246fe1b70c/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:52:39.712Z"
+}

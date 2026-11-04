@@ -1,0 +1,106 @@
+{
+  "url": "https://www.decathlon.es/es/p/botas-de-futbol-adulto-x-18-3-hg-negro/X8514648/m8514648",
+  "productKey": "X8514648_m8514648",
+  "variantId": "m8514648",
+  "productId": "8514648",
+  "name": "Botas de fútbol adulto X 18.3 HG negro",
+  "brand": "ADIDAS",
+  "description": "Esta bota es cómoda y envuelve el tobillo gracias al diseño con calcetín integrado.",
+  "stickers": [
+    "Últimas unidades"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas césped artificial",
+    "Botas multitacos y turf"
+  ],
+  "price": {
+    "amount": 54.99,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 59.99,
+    "currency": "EUR"
+  },
+  "financing": "18,33 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "3 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 3 años."
+    }
+  ],
+  "features": [
+    {
+      "title": "Comodidad",
+      "text": "Confección con calcetín integrado para envolver el tobillo."
+    },
+    {
+      "title": "Sujeción del producto",
+      "text": "Exterior de materia sintética."
+    },
+    {
+      "title": "Agarre",
+      "text": "Suela adaptada para terrenos duros o de hierba corta sintética."
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Nivel de práctica",
+          "value": "Perfeccionamiento"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Hierba sintética corta, Terreno duro"
+        },
+        {
+          "name": "Tipo de taco",
+          "value": "Minitacos"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado bajo"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        }
+      ]
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p1524684/k$39158e334b32df8a80d07bb346c966de/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p1524790/k$ad6c96aa7557a2a0c962f087b9b08b0a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p1524688/k$5ede2d3af1234b9f6f69a6a8cf5304d1/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p1524685/k$2033f03427be0eea843e64fc477c833c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p1524686/k$9378923aeaf9ced0ee60b74c48a0c107/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:52:36.029Z"
+}

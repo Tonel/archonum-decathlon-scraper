@@ -1,0 +1,89 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-nike-phantom-gx-ii-academy/1db84063-05d6-43fd-9080-7d993b8c6865/c1c4",
+  "productKey": "1db84063-05d6-43fd-9080-7d993b8c6865_c1c4",
+  "variantId": "c1c4",
+  "productId": null,
+  "name": "Botas De Fútbol Infantiles Nike Jr Phantom Gx Ii Academy Fg/Mg Para Césped",
+  "brand": "NIKE",
+  "description": "Botas de fútbol Nike Jr Phantom GX II Academy FG/MG para niños, con upper que mejora el contacto y precisión. Suela multitaco para gran tracción y comodidad en césped natural.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas césped artificial",
+    "Botas de fútbol AG"
+  ],
+  "price": {
+    "amount": 60.9,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "20,30 € al mes",
+  "sizes": [
+    "36 (UK 3.5)",
+    "37.5 (UK 4.5)",
+    "38.5 (UK 6)",
+    "38 (UK 12)"
+  ],
+  "colors": [
+    {
+      "name": "negro / blanco",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "azul / blanco",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "negro",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m19229286/k$13c02edd2b2cf571f77d368e97c8e030/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19229320/k$dce1ed4de3d9e48e41b2419b4518858e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19229306/k$4a11ebc04aca56452132a34f56c7cf74/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19229278/k$927bc58429bf4cc9d22df20bc8b38f26/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19229297/k$3f88aebafa73e0af68bd351e8aa4b765/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m23330609/k$e0148c148eef8eec0d2c514e20662ca9/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m23330605/k$7bfae940674e6e8b2f99b9afe5931b00/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:17:32.877Z"
+}

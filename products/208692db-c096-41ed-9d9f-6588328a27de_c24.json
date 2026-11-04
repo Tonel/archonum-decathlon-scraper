@@ -1,0 +1,121 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-puma-ultra-play-mxsg/208692db-c096-41ed-9d9f-6588328a27de/c24",
+  "productKey": "208692db-c096-41ed-9d9f-6588328a27de_c24",
+  "variantId": "c24",
+  "productId": null,
+  "name": "Botas de fútbol Puma Ultra Play Mxsg, Púrpura, Unisexo",
+  "brand": "PUMA",
+  "description": "Compra sin preocupaciones, devolución gratuita y fácil siempre. Género: unisexo. Materiales: sintético. Botas de fútbol Puma Ultra Play Mxsg #10776201",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Puma",
+    "Botas de fútbol puma"
+  ],
+  "price": {
+    "amount": 32.65,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "10,88 € al mes",
+  "sizes": [
+    "40.5 (UK 7.5)",
+    "41 (UK 7.5)",
+    "45 (UK 10)",
+    "44.5 (UK 10.5)",
+    "46 (UK 10.5)",
+    "46.5 (UK 11.5)"
+  ],
+  "colors": [
+    {
+      "name": "rosa",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "morado",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4099686011352"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m34852025/k$2fbdcacc545347ad51afbf9778d8ec0e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34852023/k$46eb80cde5324b21d2c9b3bf980bf754/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34852020/k$584c4c64f10f12aa3576e5f28f07905a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m21136611/k$80ca2dec33a634f73176c3c0a2191a43/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m21136608/k$9067b82e3232cde4510a59ba018d6b98/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22106785/k$8ac974a88cd2cb7b912a9522b7a4e4e9/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22106786/k$bf0b513602ae737ff30eac89b665ed50/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:17:54.130Z"
+}

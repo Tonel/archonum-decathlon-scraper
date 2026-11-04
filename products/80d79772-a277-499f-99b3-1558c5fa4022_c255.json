@@ -1,0 +1,90 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/ushuaia-pro-zapatos-de-futsal-us-senda/80d79772-a277-499f-99b3-1558c5fa4022/c255",
+  "productKey": "80d79772-a277-499f-99b3-1558c5fa4022_c255",
+  "variantId": "c255",
+  "productId": null,
+  "name": "USHUAIA PRO Zapatos de Futsal US SENDA",
+  "brand": "SENDA",
+  "description": "Zapatilla de fútbol sala USHUAIA PRO Hombre Blanco/Azul Naranja Ligera, flexible y con extra de agarre, con certificado de comercio justo SENDA",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol sala",
+    "Zapatillas",
+    "Zapatillas hombre",
+    "Zapatillas hombre todo"
+  ],
+  "price": {
+    "amount": 129.95,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "32,48 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del mar, 10 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "0850015164057"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m23338848/k$bde94533dd337028449453b574c72c29/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m23338856/k$38953960d06819f14b7531eff64ad5d1/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m23338852/k$c42fc7d17fb15445414da4f27c813135/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m23338864/k$b45a86628ccffe2416f314fa6b468a33/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m23338858/k$68cbb11fbb14686791149b229840b412/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m23338825/k$328049f1eb8a10d3ec5fda37f222a597/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:56:11.145Z"
+}

@@ -1,0 +1,125 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatilla-de-tacos-para-hombre-nike-phantom-gx-2-academy-azul/facbceb3-72f8-4218-b0d3-d55e33006e7f/c5",
+  "productKey": "facbceb3-72f8-4218-b0d3-d55e33006e7f_c5",
+  "variantId": "c5",
+  "productId": null,
+  "name": "Zapatillas de fútbol Nike Phantom GX 2 Academy AG para hombre",
+  "brand": "NIKE",
+  "description": "Diseñado pensando en tu comodidad y rendimiento todos los días.",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Nike",
+    "Botas de fútbol nike"
+  ],
+  "price": {
+    "amount": 59.47,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 63.71,
+    "currency": "EUR"
+  },
+  "financing": "19,82 € al mes",
+  "sizes": [
+    "39 (UK 6)",
+    "42 (UK 8.5)",
+    "42.5 (UK 8.5)",
+    "44 (UK 11)",
+    "45 (UK 11)",
+    "45.5 (UK 11)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del mar, 10 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del dom, 8 nov"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Césped artificial"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Colección",
+          "value": "Phantom"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "197597303178"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m19229589/k$f7866c14549db5b8d472443b5b87501d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19229593/k$6d648b3e0ceda290658d4e52eedadb15/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19229602/k$83ec3efc1abc7e8dcd2ae9599fc85a03/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19229597/k$bb94949b94de7c6302dafe83f640f321/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19229595/k$f17c6e549e6cef7a7bd78cf14ce41f15/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:26:21.176Z"
+}

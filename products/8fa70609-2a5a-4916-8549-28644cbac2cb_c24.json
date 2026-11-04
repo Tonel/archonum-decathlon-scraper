@@ -1,0 +1,110 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/nike-zoom-mercurial-vapor-16-academy-ag-botas-futbol-nino/8fa70609-2a5a-4916-8549-28644cbac2cb/c24",
+  "productKey": "8fa70609-2a5a-4916-8549-28644cbac2cb_c24",
+  "variantId": "c24",
+  "productId": null,
+  "name": "Nike Zoom Mercurial Vapor 16 Academy AG botas fútbol niño",
+  "brand": "NIKE",
+  "description": "Botas de fútbol infantiles Nike, ideales para entrenamientos en césped artificial largo, colección Scary Good.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Nike",
+    "Botas de fútbol nike"
+  ],
+  "price": {
+    "amount": 62,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "20,67 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos fijos"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Césped artificial"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Aviso legal",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "198482751197"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m28705900/k$b65cfddec292bd256af8db62daad647a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28705959/k$fe213d939a79806247a712babf81a8bd/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28705923/k$94e9b4a1a32b486fb885d9244440f185/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28706005/k$0c7f76bf202ea42614a7dff530b01fbb/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28705974/k$5d114011a6fc3aa38b4c6ca529e170e4/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28705939/k$b7e65e86b6ea3b903cfbf86e1afd8ea0/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:30:11.230Z"
+}

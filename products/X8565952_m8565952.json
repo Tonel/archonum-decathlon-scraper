@@ -1,0 +1,107 @@
+{
+  "url": "https://www.decathlon.es/es/p/tacos-recambiables-8-11-mm-adidas-aluminio/X8565952/m8565952",
+  "productKey": "X8565952_m8565952",
+  "variantId": "m8565952",
+  "productId": "8565952",
+  "name": "TACOS RECAMBIABLES 8-11 MM Adidas Aluminio",
+  "brand": "ADIDAS",
+  "description": "Estos tacos para las botas de rugby Adidas aportan estabilidad a los pies durante los cambios rápidos de dirección, así como un excelente agarre. (caja de 12 tacos)",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Accesorios para botas",
+    "Todo accesorios"
+  ],
+  "price": {
+    "amount": 15.99,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 19.99,
+    "currency": "EUR"
+  },
+  "financing": null,
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "3 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 3 años."
+    }
+  ],
+  "features": [
+    {
+      "title": "Agarre",
+      "text": "Los tacos de aluminio aseguran mayor fuerza y precisión de juego."
+    },
+    {
+      "title": "Compatibilidad",
+      "text": "Tacos compatibles con las gamas RS, X, NEMEZIZ, COPPA, PREDATOR de Adidas"
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos recambiables"
+        },
+        {
+          "name": "Material",
+          "value": "Aluminio"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Abrazadera de tornillo"
+        },
+        {
+          "name": "Embalaje",
+          "value": "Por 12"
+        },
+        {
+          "name": "Longitud del crampón",
+          "value": "11 mm, 8mm"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p2378503/k$2fe46d15f97f7b19fe5c610328622e78/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2378502/k$9a28e409f0c4649af6fc194307c4d495/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2378501/k$c6396479cbd0eda6a723f4492d15fd7b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2378500/k$33e1ccc939b9f158b76de4257cd8d074/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T17:49:53.565Z"
+}

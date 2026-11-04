@@ -1,0 +1,118 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatillas-futbol-sala-hombre-puma-truco-iii-azul/e34d47ff-1e9d-46b2-954d-f91369e10a4c/c5",
+  "productKey": "e34d47ff-1e9d-46b2-954d-f91369e10a4c_c5",
+  "variantId": "c5",
+  "productId": null,
+  "name": "Zapatillas Futbol Sala Hombre Puma Truco III Azul",
+  "brand": "PUMA",
+  "description": "Botas de Futbol Puma, upper sintetico para un gran control del balon y una buena pegada. Para campos de interiores",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol sala",
+    "Zapatillas",
+    "Zapatillas hombre",
+    "Zapatillas hombre todo"
+  ],
+  "price": {
+    "amount": 29.99,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 34.99,
+    "currency": "EUR"
+  },
+  "financing": null,
+  "sizes": [],
+  "colors": [
+    {
+      "name": "azul",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "blanco",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del dom, 8 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4099683006290"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m17772624/k$7b71d365d07723469af35e16a597770d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m17772625/k$95125e738418a28425483b71a266bbe3/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m17772628/k$98fe9974b7966c2e0d60e3e130063b6b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m17772627/k$db5396aebe9eb7c69fb76d3cd9f6143b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m17772626/k$fe57fc1a811c86947627fff0d07feadd/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38853114/k$92ebe30753865113c64dff06691172f4/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:47:29.377Z"
+}

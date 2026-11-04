@@ -1,0 +1,140 @@
+{
+  "url": "https://www.decathlon.es/es/p/botas-new-balance-tekela-team-adulto-negro-amarillo/381884/m9003375",
+  "productKey": "381884_m9003375",
+  "variantId": "m9003375",
+  "productId": "9003375",
+  "name": "Botas New Balance TEKELA TEAM Adulto Negro/Amarillo",
+  "brand": "NEW BALANCE",
+  "description": "Coge ventaja con una sensación dinámica y un control absoluto, diseñadas para que domines cada momento del juego. Las llevan Endrick, Raheem Sterling, Harvey Elliot y Jordyn Huitema.",
+  "stickers": [
+    "Últimas unidades"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas césped artificial",
+    "Botas de fútbol AG"
+  ],
+  "price": {
+    "amount": 89.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "30,00 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "1 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 1 año."
+    }
+  ],
+  "features": [
+    {
+      "title": "Toque de balón",
+      "text": "La parte superior de microfibra facilita la flexión y ofrecen una sensación dinámica."
+    },
+    {
+      "title": "Agarre",
+      "text": "Mezcla de tacos redondos y «láminas finas» para mayor versatilidad."
+    },
+    {
+      "title": "Comodidad",
+      "text": "Espuma en el talón para una comodidad máxima."
+    },
+    {
+      "title": "Velocidad",
+      "text": "Lámina en el antepié:movimiento multidireccional y tracción dinámica."
+    },
+    {
+      "title": "Sujeción del producto",
+      "text": "Cuello de punto alrededor del tobillo para un ajuste seguro y cómodo."
+    },
+    {
+      "title": "Ligereza",
+      "text": "La plantilla de espuma proporciona comodidad y amortiguación bajo el pie."
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de terreno",
+          "value": "Hierba, Hierba sintética larga"
+        },
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos fijos"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Personalización",
+          "value": "Personalizable"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado bajo"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Control"
+        },
+        {
+          "name": "Material",
+          "value": "Tpu"
+        },
+        {
+          "name": "Tipo de plantilla",
+          "value": "Simple"
+        }
+      ]
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p3119145/k$510d8c17f1ad5b746c047795508dd172/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3119149/k$6951a8bcd564aea283947f351366897d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3119169/k$0a72e2c82c2fa3ebc6c558ba5a2e51be/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3119144/k$7b0f8a6725401a8e81fada01a467dc3e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3119151/k$185a45debd3ff85b822f261219e3b6c0/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3119146/k$d5dafe14a392dea50cb578c2291f43c3/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3119155/k$37942c0fdd3af151632993ccdcd92bd0/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3119148/k$670d516686e46ceab59773ce3be7c378/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3119168/k$dcce95051d3122e1130dfe047c275824/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2987285/k$622882e57f4b7ae2c72bcb75460aef84/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:32:34.499Z"
+}

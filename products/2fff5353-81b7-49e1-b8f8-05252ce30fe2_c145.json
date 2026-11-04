@@ -1,0 +1,108 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-futbol-futbol-ninos-joma-supercopa-jr-26-tf-marino/2fff5353-81b7-49e1-b8f8-05252ce30fe2/c145",
+  "productKey": "2fff5353-81b7-49e1-b8f8-05252ce30fe2_c145",
+  "variantId": "c145",
+  "productId": null,
+  "name": "Botas Fútbol Fútbol Niños Joma Supercopa Jr 26 TF Marino",
+  "brand": "JOMA",
+  "description": "Botas Fútbol Fútbol Niños Joma Supercopa Jr 26 TF Marino",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "copia botas niños"
+  ],
+  "price": {
+    "amount": 37.51,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "12,50 € al mes",
+  "sizes": [],
+  "colors": [
+    {
+      "name": "azul marino",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "amarillo neón fluorescente",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8447534969595"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m36206837/k$03af8a83f49055e15cfd53c6a9c89df1/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36206928/k$fd19e35bfd820398398bb5b4dfda1c48/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36206908/k$a76c001d80bef32ba55c53c941a7b625/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36206882/k$a18757cd5d55c2decc831e59166bb0d7/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36206866/k$56d267a0430325c18e18d843d44d1995/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:08:55.343Z"
+}

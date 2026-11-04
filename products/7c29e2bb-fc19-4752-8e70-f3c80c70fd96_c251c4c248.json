@@ -1,0 +1,93 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/blister-tacos-uhlsport-steel-grey-alu-and-nylon-13-16mm/7c29e2bb-fc19-4752-8e70-f3c80c70fd96/c251c4c248",
+  "productKey": "7c29e2bb-fc19-4752-8e70-f3c80c70fd96_c251c4c248",
+  "variantId": "c251c4c248",
+  "productId": null,
+  "name": "Blister Tacos Uhlsport Steel Grey Alu & Nylon 13/16mm",
+  "brand": "UHLSPORT",
+  "description": "Mejora tus botas de fútbol con los tacos Uhlsport Steel Grey Alu & Nylon para un agarre superior en 13/16mm.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Accesorios para botas",
+    "Tacos de fútbol"
+  ],
+  "price": {
+    "amount": 20,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": null,
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del mar, 10 nov"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Embalaje",
+          "value": "Pack"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4051309863250"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m16141632/k$66358d7aa70f7d4f6858b48dc3d2d862/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m4961389/k$2e9b2f371b96bddedfd9043bf31f8811/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m4961392/k$553ad9b465d29357d5a207828522910a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m4961394/k$03492c4b2d77367f3995dd35269af79b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m4961396/k$914a9a7bcc2a5da0c2550bb90cd0333b/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:11:35.219Z"
+}

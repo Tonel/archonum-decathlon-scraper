@@ -1,0 +1,117 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-nike-jr-vapor-16-club-fg-mg/5d1a7a29-c816-47f7-bb93-befc8b305d15/c5",
+  "productKey": "5d1a7a29-c816-47f7-bb93-befc8b305d15_c5",
+  "variantId": "c5",
+  "productId": null,
+  "name": "Botas de fútbol Nike Jr Vapor 16 Club FG/MG",
+  "brand": "NIKE",
+  "description": "Botas de fútbol Nike Jr Vapor 16 Club para niños, ideales para cualquier superficie, con gran adherencia y confort.",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Nike",
+    "Botas de fútbol nike"
+  ],
+  "price": {
+    "amount": 37.62,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 40,
+    "currency": "EUR"
+  },
+  "financing": "12,54 € al mes",
+  "sizes": [
+    "33 (UK 1)",
+    "35 (UK 2.5)",
+    "36 (UK 3.5)",
+    "36.5 (UK 4.5)",
+    "38 (UK 5)"
+  ],
+  "colors": [
+    {
+      "name": "azul",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "multicolor",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del mar, 10 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "198726575800"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m28935606/k$492c081b301945381c2e4d6827fb9fca/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28935649/k$0d279c3eeef59bdbc36c31967383c0ec/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28935631/k$955ca8290dd49e873719ed4edd695165/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28935717/k$dc1074bc07da29b6cb73cb1317eb441d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28935684/k$d4b562b317c18fbfe8bbd58e723b4647/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28757733/k$c7d6a9797a81d7f113f9a3664099cbd2/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28757723/k$03bb57fe95a82b91e3f9026847d6c429/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36268640/k$325f1696c06de2dfbba1106b71f0d6f4/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36268587/k$c33daf2b99bfe3b98f8a07a2849cb949/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36268747/k$df13be9e66972db6a4ce8339c6fd030d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36268692/k$05f36964b320aa6eb2398a98fe248dd0/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:28:11.597Z"
+}

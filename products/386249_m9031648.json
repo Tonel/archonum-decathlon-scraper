@@ -1,0 +1,87 @@
+{
+  "url": "https://www.decathlon.es/es/p/botas-de-futbol-puma-future-9-match-fg-ag-adulto-negro-puma/386249/m9031648",
+  "productKey": "386249_m9031648",
+  "variantId": "m9031648",
+  "productId": "9031648",
+  "name": "Botas de fútbol PUMA FUTURE 9 Match FG/AG Adulto Negro PUMA",
+  "brand": "PUMA",
+  "description": "Jugadores creativos, dad rienda suelta a vuestra creatividad con las FUTURE 9 MATCH.La ubicación de los tacos dan una libertad de movimientos de 360°, para que puedas deshacerte de los defensas.",
+  "stickers": [
+    "Últimas unidades"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas de futbolistas",
+    "Botas Carvajal"
+  ],
+  "price": {
+    "amount": 94.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "31,66 € al mes",
+  "sizes": [
+    "UK 6 EU 39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "1 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 1 año."
+    }
+  ],
+  "features": [
+    {
+      "title": "Toque de balón",
+      "text": "Zonas de agarre en relieve para un mejor control del balón."
+    },
+    {
+      "title": "Comodidad",
+      "text": "Parte superior de mesh flexible y ligero combinado con un cuello de punto elástico."
+    },
+    {
+      "title": "Sujeción del producto",
+      "text": "Banda de sujeción en la parte central del pie para ofrecer una sujeción y estabilidad óptimas."
+    }
+  ],
+  "specifications": [],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p3215588/k$633d9835a37838a503bcb7a65e71e819/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3215585/k$e59934929b9f3b92acd8b0938978dc44/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3215591/k$6072f84f6052a4fa7e08de508cdcd8a2/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3215590/k$66bfa657dcdcf822a43fd3a054b21d10/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3215587/k$af8f6ba8d51556c5733229b355288ba2/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3215589/k$205ae627faece93c591a2bbfc7e372be/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T17:47:37.535Z"
+}

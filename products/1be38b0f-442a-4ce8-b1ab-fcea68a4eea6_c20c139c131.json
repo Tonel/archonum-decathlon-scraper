@@ -1,0 +1,141 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/kelme-botas-de-futbol-all-in-turf-naranja-unisex/1be38b0f-442a-4ce8-b1ab-fcea68a4eea6/c20c139c131",
+  "productKey": "1be38b0f-442a-4ce8-b1ab-fcea68a4eea6_c20c139c131",
+  "variantId": "c20c139c131",
+  "productId": null,
+  "name": "Kelme Botas De Fútbol All In Turf Naranja Unisex",
+  "brand": "KELME",
+  "description": "Kelme Botas De Fútbol All In Turf Naranja Unisex. Suela de Goma con tacos de Turf. Tallaje correcto, elige tu talla habitual. Kelme, Leave Your Mark.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Kelme"
+  ],
+  "price": {
+    "amount": 41.34,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "13,78 € al mes",
+  "sizes": [
+    "39 (UK 6)",
+    "40 (UK 7.5)",
+    "41 (UK 8)",
+    "43 (UK 8.5)",
+    "44 (UK 9.5)",
+    "45 (UK 11)"
+  ],
+  "colors": [
+    {
+      "name": "naranja / rosa coral fluorescente / verde neón fluorescente",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "negro / gris verdoso",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "gris / verde / negro",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "negro",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos estabilizados"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordón tradicional"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Aviso legal",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8445664299520"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m22366757/k$57c623f2cc000518572f9a11da05e844/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22365866/k$281ba859311066b3cfcca6ecee82492d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22365903/k$ba0a4733a3cb2c8d379b46039e9c8ac3/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22365975/k$0ff6c8f21d5c8fc965ccabbfa1d67de9/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22366041/k$00b26741b298ff6a0b75c0b00745b8cc/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22366008/k$ba33157e0f979a25019c20211657c4b9/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:51:21.751Z"
+}

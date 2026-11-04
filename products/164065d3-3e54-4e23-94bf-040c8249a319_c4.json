@@ -1,0 +1,106 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatos-de-futbol-puma-ultra-5-match-mg-blanc/164065d3-3e54-4e23-94bf-040c8249a319/c4",
+  "productKey": "164065d3-3e54-4e23-94bf-040c8249a319_c4",
+  "variantId": "c4",
+  "productId": null,
+  "name": "Zapatos de fútbol PUMA Ultra 5 Match+ Mg Blanc",
+  "brand": "PUMA",
+  "description": "Diseñadas para el fútbol en superficies artificiales, estas zapatillas Puma Ultra 5 Match+ Mg ofrecen velocidad y control para todos los jugadores.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Puma",
+    "Botas de fútbol puma"
+  ],
+  "price": {
+    "amount": 41.3,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "13,77 € al mes",
+  "sizes": [
+    "41 (UK 7.5)",
+    "43 (UK 9)",
+    "44.5 (UK 10)",
+    "46 (UK 11)"
+  ],
+  "colors": [
+    {
+      "name": "blanco",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "multicolor",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4067983051395"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m38374283/k$6d88f91d40c6f78863ddc3103ceac261/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38789172/k$61e80dead9b1dd8b106df6a9e186af30/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38789132/k$37c9f5a3dcd82fed263bc1162e4fdc4e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38789609/k$501a587ba24cae4cc6254cc7a0b9cd22/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38789604/k$29b9e38c57337bd5b6e7b8de85267b04/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38789017/k$dcf5bbe7a8674d87c5a26d7abc28e3d8/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:44:57.920Z"
+}

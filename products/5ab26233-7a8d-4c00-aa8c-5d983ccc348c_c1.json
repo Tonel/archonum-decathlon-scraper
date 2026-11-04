@@ -1,0 +1,133 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatillas-de-trabajo-skechers-antideslizantes-hombre-negras-para-hosteleria/5ab26233-7a8d-4c00-aa8c-5d983ccc348c/c1",
+  "productKey": "5ab26233-7a8d-4c00-aa8c-5d983ccc348c_c1",
+  "variantId": "c1",
+  "productId": null,
+  "name": "Zapatillas de trabajo Skechers antideslizantes hombre negras para hostelería",
+  "brand": "SKECHERS",
+  "description": "Zapatillas de trabajo para hombre, antideslizantes (SR) y cómodas. Ideales para hostelería y suelos mojados/aceitados, con malla técnica transpirable y cordones.",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Caminar",
+    "Zapatillas",
+    "Zapatillas skechers"
+  ],
+  "price": {
+    "amount": 65.25,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 72.94,
+    "currency": "EUR"
+  },
+  "financing": "21,75 € al mes",
+  "sizes": [
+    "39.5 (UK 6)",
+    "40 (UK 6.5)",
+    "41 (UK 7)",
+    "42 (UK 8)",
+    "44 (UK 9)",
+    "45 (UK 9.5)",
+    "46 (UK 10.5)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del dom, 8 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Material",
+          "value": "Mesh"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Confort"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Ancho"
+        },
+        {
+          "name": "Estilo",
+          "value": "Liso"
+        },
+        {
+          "name": "Colección",
+          "value": "Advance"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "198739108842"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m33862766/k$a39f7a6da44db232d231ab7e64ae4cd3/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m33862775/k$e126f9c8749017eb7dff2492049e4f5e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m33862770/k$59c127557040bf6fa4b440ad7ee12c27/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m33862784/k$0fdf5e03b479495463272a6200f0aba0/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m33862780/k$9bc0462114003bf0bf3322e1ed309ac5/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T17:50:16.197Z"
+}

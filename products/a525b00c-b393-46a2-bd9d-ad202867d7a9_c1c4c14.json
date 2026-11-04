@@ -1,0 +1,135 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/bota-de-futbol-predator-club-fold-over-tongue-cesped-natural/a525b00c-b393-46a2-bd9d-ad202867d7a9/c1c4c14",
+  "productKey": "a525b00c-b393-46a2-bd9d-ad202867d7a9_c1c4c14",
+  "variantId": "c1c4c14",
+  "productId": null,
+  "name": "Bota de fútbol PREDATOR CLUB Fold-Over Tongue césped natural",
+  "brand": "ADIDAS",
+  "description": "Botas de fútbol con tecnología Powerspine para un golpeo más fuerte.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "copia botas niños"
+  ],
+  "price": {
+    "amount": 55,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "18,33 € al mes",
+  "sizes": [
+    "33.5 (UK 1.5)",
+    "34.5 (UK 3)",
+    "32 (UK 13.5C)"
+  ],
+  "colors": [
+    {
+      "name": "negro / blanco / rojo",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "negro",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Hierba"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "Predator"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4068815927499"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m26870206/k$b2ae44de920d11d49315777db8775c06/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26870198/k$f95635c35c265a55500cd8c1d9542c18/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26870193/k$94ede1c1cc8551319d356fe83d2780da/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26870216/k$2ba845587e0815c306d0bab58bfd9caa/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26870202/k$ed4d4d62e11fd05c1b0e83d5268c7d20/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26870222/k$80a6c33d4bc15f30c133bcedaaed0f4c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26870211/k$271a28d3119d7a62a825fdc4f993f521/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36644941/k$b77020bc024c72c0cdcca2b3ed7b3a3d/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:07:24.391Z"
+}

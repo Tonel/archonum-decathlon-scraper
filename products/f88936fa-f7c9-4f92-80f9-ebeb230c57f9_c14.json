@@ -1,0 +1,102 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatillas-nike-modelo-mercurial-vapor-17-club-para-ninos-unisex/f88936fa-f7c9-4f92-80f9-ebeb230c57f9/c14",
+  "productKey": "f88936fa-f7c9-4f92-80f9-ebeb230c57f9_c14",
+  "variantId": "c14",
+  "productId": null,
+  "name": "Zapatillas Nike modelo Mercurial Vapor 17 Club para niños unisex",
+  "brand": "NIKE",
+  "description": "Zapatillas Nike modelo Mercurial Vapor 17 Club para Niños Unisex en color rojo. De la temporada Primavera-Verano 2026.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Nike",
+    "Botas de fútbol nike"
+  ],
+  "price": {
+    "amount": 74.9,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "24,97 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del mar, 10 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "198965342751"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m36357449/k$1af0436674a4ba674520077a70d0952a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36357670/k$2f8c10c21a861751cd2bc10adf20af86/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36357661/k$3dd8bcbb9ebacc5359b6b938a1d59b4a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36357651/k$6cb7bfc99ad7ce15a9cb6937503501d4/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36357638/k$a3dd7b43bbc4a108a75cb82247c6aba7/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36357621/k$f2179a8f84dbc52392c26795278aaa99/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36357554/k$087c5a3af6c7794c0f0c313a0841ac0b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36357516/k$049c0e855e2a14479d03b9037a14b73f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36357482/k$84f6b654717906a6553f29ae3f2183bb/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36357678/k$1311596a17584058093e47ca236ef2db/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:37:35.668Z"
+}

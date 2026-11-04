@@ -1,0 +1,112 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/kelme-zapatillas-de-nino-hero-turf-elastic-negro-unisex/c364b85a-53ef-404d-8e56-a94a8cb9f603/c1",
+  "productKey": "c364b85a-53ef-404d-8e56-a94a8cb9f603_c1",
+  "variantId": "c1",
+  "productId": null,
+  "name": "Kelme Zapatillas De Niño Hero Turf Elastic Negro Unisex",
+  "brand": "KELME",
+  "description": "Kelme Zapatillas De Niño Hero Turf Elastic Negro Unisex. Fabricada en 95% Sintético + 5% Textil. Tallaje correcto, elige tu talla habitual. Kelme, Leave Your Mark.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas césped artificial",
+    "Botas multitacos y turf"
+  ],
+  "price": {
+    "amount": 39.92,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "13,31 € al mes",
+  "sizes": [
+    "34 (UK 2)",
+    "28 (UK 9.5C)",
+    "30 (UK 11C)",
+    "29 (UK 12C)",
+    "31 (UK 12.5C)",
+    "32 (UK 13.5C)",
+    "33 (UK 13.5C)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos estabilizados"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Aviso legal",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8445664512896"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m36209326/k$7547448284553321b0fd954747ee9e1c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36209635/k$78205453a366423f3fda6ad569d5268b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36209347/k$b987e21911993d1ebefffc8b62035407/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36209342/k$86a3d58ed714e361bd4226b72c41402a/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:02:34.344Z"
+}

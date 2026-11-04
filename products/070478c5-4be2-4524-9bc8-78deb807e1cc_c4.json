@@ -1,0 +1,109 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatillas-de-tacos-para-hombre-skechers-skx-2-club-blanco/070478c5-4be2-4524-9bc8-78deb807e1cc/c4",
+  "productKey": "070478c5-4be2-4524-9bc8-78deb807e1cc_c4",
+  "variantId": "c4",
+  "productId": null,
+  "name": "Zapatillas de tacos para Hombre Skechers skx_2 club Blanco",
+  "brand": "SKECHERS",
+  "description": "Consigue la máxima comodidad y precisión en el campo con las Skechers Football™: SKX_2 Club MG™. Esta bota ligera para múltiples superficies cuenta con una parte superior suave con",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas de hombre"
+  ],
+  "price": {
+    "amount": 41.97,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 52.46,
+    "currency": "EUR"
+  },
+  "financing": "13,99 € al mes",
+  "sizes": [
+    "39 (UK 6)",
+    "42 (UK 8)",
+    "43 (UK 8.5)",
+    "40",
+    "41",
+    "44",
+    "45"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del dom, 8 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del dom, 8 nov"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "0198739605327"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m22923462/k$9ad6fbdab2d9bf3aec5afbff970fbe7f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22923444/k$18fc853787b0b0c7ea78e4d3f58b7a87/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22923434/k$da7e7340bac6bc40dcb5dc1143b45a7c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22923459/k$005da811b80d86fb7fd16fcd8dedec3d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22923453/k$61bf0094ff6b5cb41ff669fbaab725e7/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:45:57.938Z"
+}

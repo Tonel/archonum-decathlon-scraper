@@ -1,0 +1,111 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-para-joma-gol-2622-indoor/8a91f268-b6cd-44c6-a8bc-dcef65bb9add/c251",
+  "productKey": "8a91f268-b6cd-44c6-a8bc-dcef65bb9add_c251",
+  "variantId": "c251",
+  "productId": null,
+  "name": "Botas de fútbol para niños Joma Gol 2622 Indoor",
+  "brand": "JOMA",
+  "description": "Ofrezca a su hijo un rendimiento futbolístico inigualable con las zapatillas Joma Gol 2622, que combinan comodidad y calidad excepcional.",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "copia botas niños"
+  ],
+  "price": {
+    "amount": 26.21,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 34.95,
+    "currency": "EUR"
+  },
+  "financing": null,
+  "sizes": [
+    "37 (UK 4)",
+    "27 (UK 9C)",
+    "38 (UK 5)",
+    "28.5 (UK 10C)",
+    "29 (UK 12C)",
+    "32 (UK 13.5C)",
+    "33 (UK 13.5C)",
+    "30 (UK 12)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del mar, 10 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del dom, 8 nov"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8447368958857"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m37691929/k$1158f03451a7d7b597453e71a1c89691/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m37691998/k$22a178c414a7798a9b0411077bb99953/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m37691979/k$c8bd6c0b62beba5e2a2043822b9c85ad/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m37691961/k$c713cb3f009817d0a75ddda60f277d36/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m37691941/k$38cdc671513f6a5cfe19b8a3aed0354a/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:50:47.086Z"
+}

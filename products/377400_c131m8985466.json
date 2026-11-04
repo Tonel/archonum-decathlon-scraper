@@ -1,0 +1,128 @@
+{
+  "url": "https://www.decathlon.es/es/p/botas-de-futbol-con-cordones-adulto-160-cesped-verde/377400/c131m8985466",
+  "productKey": "377400_c131m8985466",
+  "variantId": "c131m8985466",
+  "productId": "8985466",
+  "name": "Botas de fútbol con cordones adulto, 160 césped verde",
+  "brand": "KIPSTA",
+  "description": "¿Estás empezando a jugar al fútbol en campos de césped natural o sintético?Estas botas de fútbol priorizan la comodidad y la flexibilidad para acompañarte en tus primeros chutes.",
+  "stickers": [
+    "Novedad"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas césped artificial",
+    "Botas multitacos y turf"
+  ],
+  "price": {
+    "amount": 24.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": null,
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "2 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 2 años."
+    }
+  ],
+  "features": [
+    {
+      "title": "Agarre",
+      "text": "Relieves validados por las pruebas en 3D para un agarre óptimo."
+    },
+    {
+      "title": "Amortiguación",
+      "text": "Almohadillas especiales de espuma para la amortiguación, adaptadas para la práctica del fútbol."
+    },
+    {
+      "title": "Resistencia",
+      "text": "La suela inyectada en la caña protege contra la separación prematura de los dos elementos."
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Intensidad",
+          "value": "Intensidad baja"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Terreno seco"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado de media caña"
+        },
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos estabilizados"
+        },
+        {
+          "name": "Material",
+          "value": "Poliuretano"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Estabilidad y sujeción"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordón tradicional"
+        },
+        {
+          "name": "Tipo de plantilla",
+          "value": "Simple"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p3140621/k$c4d0f28e0dcc3ad3f1eee12f3e9201ff/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3140563/k$83d92cb6e7763b37ec7051a153df368f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3140631/k$b84aff50a448b362d2245cb98a9fc173/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3140553/k$be98aab90da28ee1f7474211f7d5c39b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3140588/k$f73c1c1540607cf4109ee11a23cbf3e5/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3140609/k$c350ad0a59ad6654323ade4f0748544c/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:01:09.166Z"
+}

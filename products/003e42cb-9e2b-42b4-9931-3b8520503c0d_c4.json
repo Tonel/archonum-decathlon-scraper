@@ -1,0 +1,93 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/nino-futbol-botas-tacos-de-goma-para-terreno-duro-hg-puma-esito-finale-r-hg/003e42cb-9e2b-42b4-9931-3b8520503c0d/c4",
+  "productKey": "003e42cb-9e2b-42b4-9931-3b8520503c0d_c4",
+  "variantId": "c4",
+  "productId": null,
+  "name": "Niño Fútbol - Botas tacos de goma para terreno duro HG - Puma esito Finale R HG",
+  "brand": "PUMA",
+  "description": "La esito Finale R HG de Puma es una bota de fútbol de niño diseñada para terrenos de hierba seca, dura y húmeda y campos de última generación. Características: talla infantil, tacos blandos de goma.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Puma",
+    "Botas de fútbol puma"
+  ],
+  "price": {
+    "amount": 25.5,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": null,
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4050795161765"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m27901877/k$ffa163d10ced9c87c5c7fc23391f96f2/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m27901895/k$0f220f79bc59a609e7549dbe8ab92a95/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m27901884/k$c80c1d77d02a20b961df1b94ce46f358/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m27901916/k$8df86a81c7ae59d6a2ea601250a0f628/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m27901907/k$cfad9c6612d1aac3772120946577e8f7/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:14:25.510Z"
+}

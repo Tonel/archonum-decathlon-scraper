@@ -1,0 +1,116 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-mizuno-monarcida-neo-iii-select-ag-para-ninos-unisex/f9fdab78-47d6-42dd-a55b-a482eee9446c/c22c139c83",
+  "productKey": "f9fdab78-47d6-42dd-a55b-a482eee9446c_c22c139c83",
+  "variantId": "c22c139c83",
+  "productId": null,
+  "name": "Botas de futbol Mizuno Monarcida Neo III Select Ag para niños unisex",
+  "brand": "MIZUNO",
+  "description": "Botas de futbol Mizuno Monarcida Neo III Select Ag para niños unisex en color Amarillo de la temporada Primavera-Verano 2024.",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "copia botas niños"
+  ],
+  "price": {
+    "amount": 52.95,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 66.95,
+    "currency": "EUR"
+  },
+  "financing": "17,65 € al mes",
+  "sizes": [
+    "33 (UK 1)",
+    "34 (UK 1.5)"
+  ],
+  "colors": [
+    {
+      "name": "amarillo / rosa coral fluorescente / rojo amapola",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "azul / blanco",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Material",
+          "value": "Sintético"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "5059431737608"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m18676089/k$811e08033beaa5823287bf5a4ee0ae34/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m18676016/k$fc6e354e36f842a4707768e7b27594cd/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m18676111/k$ce7abf8382ee17965bc34d718cba510c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m18676086/k$4bb0fbf1dc686fecede296f34e300aba/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m18676050/k$6ee713645446b7c4330de201b3bcdc76/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:25:15.866Z"
+}

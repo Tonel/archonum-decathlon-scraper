@@ -1,0 +1,130 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-ultra-pro-mg-puma-sun-stream-black-sunset-glow-orange-pink/5b7feb5d-ff97-4b2d-8878-5455a8d67700/c20c24",
+  "productKey": "5b7feb5d-ff97-4b2d-8878-5455a8d67700_c20c24",
+  "variantId": "c20c24",
+  "productId": null,
+  "name": "Botas de fútbol ULTRA PRO MG PUMA Sun Stream Black Sunset Glow Orange Pink",
+  "brand": "PUMA",
+  "description": "Cuando creías que no podrías correr más rápido, vas y te superas. Diseñado con el ADN deportivo de PUMA.",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas de futbolistas",
+    "Botas de Coman"
+  ],
+  "price": {
+    "amount": 74.7,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "24,90 € al mes",
+  "sizes": [
+    "40 (UK 6.5)",
+    "41 (UK 7.5)",
+    "42 (UK 8)",
+    "42.5 (UK 8.5)",
+    "43 (UK 9)",
+    "44 (UK 9.5)",
+    "45 (UK 10.5)",
+    "46 (UK 11)",
+    "46.5 (UK 11.5)",
+    "47 (UK 12)"
+  ],
+  "colors": [
+    {
+      "name": "naranja / rosa",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "rosa / blanco / negro",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Césped artificial"
+        },
+        {
+          "name": "Colección",
+          "value": "Ultra"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4099686526566"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m15865281/k$eca7f50d0b211e6a9fab49b4a5fb46c5/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m15865214/k$40a12653e82864c520de626227c88797/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m15865220/k$14af0c833a77ccbebe9ed4d954b17532/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m15865208/k$f35c2aa0ea082ce33a874bcb87a2ad99/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m15865222/k$7aec2cc9cff9372dee532340c5c79960/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m15865205/k$220ca203afcff652cb955f6fb569bb63/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:31:42.103Z"
+}

@@ -1,0 +1,143 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/bota-f50-messi-league-para-cesped-natural-seco-multisuperficie/3b757154-bb22-41bb-8055-30b0fa8c8829/c4c14c249",
+  "productKey": "3b757154-bb22-41bb-8055-30b0fa8c8829_c4c14c249",
+  "variantId": "c4c14c249",
+  "productId": null,
+  "name": "Bota F50 Messi League para césped natural seco / multisuperficie",
+  "brand": "ADIDAS",
+  "description": "Botas ligeras F50 para que demuestres jugadas tan magistrales como las de Messi en todo tipo de superficies.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "Botas de futbol adidas niños",
+    "Botas de futbol adidas niños F50"
+  ],
+  "price": {
+    "amount": 51.5,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "17,17 € al mes",
+  "sizes": [],
+  "colors": [
+    {
+      "name": "blanco / rojo / plata",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "azul royal / amarillo / azul",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Agotado"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Terreno duro"
+        },
+        {
+          "name": "Jugadores",
+          "value": "Messi"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "F50"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4067906483326"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m23920047/k$d578b547ba6cc9235c51700d0da7ff95/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22206511/k$f1119192220337d2b46d78479206564e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22206559/k$1ed02f39e8f3ba9f51593f264838e1fd/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22206544/k$cc8eb4fee1c937598eaec00e0a113a50/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22206601/k$856dc0ebf65ae441289ec78140b97f20/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22206569/k$0008105bcb9a641feec46cb5809b1415/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22206578/k$94456e4a88ee33be3462a04dcc8cdd37/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22206529/k$f3244e0d090f52041c1022a8097dcb58/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35467912/k$383a85fc7bf9cddfaa0c1a6dbe0980d2/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35467866/k$7a0c09a52654987c231836fe97e0587f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35758620/k$052a5e75a2a63d6a169b8c20b7a400d4/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35758612/k$c69910bc2b61ff92860b98fe280aa412/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35758608/k$eaacde9fdba984578e5acc3cdb3279be/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35758603/k$ad89d712af6e06206f4aba4934b57ac1/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35758598/k$c8e8b7ecd293bd25c6b55312075de6ae/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:14:48.437Z"
+}

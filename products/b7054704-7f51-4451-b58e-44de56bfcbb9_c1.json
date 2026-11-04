@@ -1,0 +1,113 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-mizuno-monarcida-neo-iii-pro-mix-fg-ag/b7054704-7f51-4451-b58e-44de56bfcbb9/c1",
+  "productKey": "b7054704-7f51-4451-b58e-44de56bfcbb9_c1",
+  "variantId": "c1",
+  "productId": null,
+  "name": "Botas de fútbol Mizuno Monarcida Neo III Pro Mix FG/AG",
+  "brand": "MIZUNO",
+  "description": "Mejora tu rendimiento en el campo con los zapatos Mizuno Monarcida Neo III Pro Mix FG/AG, que combinan comodidad y tecnología avanzada.",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "copia botas niños"
+  ],
+  "price": {
+    "amount": 113.35,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 115.3,
+    "currency": "EUR"
+  },
+  "financing": "37,78 € al mes",
+  "sizes": [
+    "38.5 (UK 5.5)",
+    "39 (UK 6)",
+    "40 (UK 6.5)",
+    "40.5 (UK 7)",
+    "41 (UK 7.5)",
+    "42 (UK 8)",
+    "42.5 (UK 8.5)",
+    "43 (UK 9)",
+    "44 (UK 9.5)",
+    "44.5 (UK 10)",
+    "45 (UK 10.5)",
+    "46 (UK 11)",
+    "47 (UK 12)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "5063264086765"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m36911282/k$f125918509aea7a9eec2f57dfa908237/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36911410/k$19dbbf5cea88e754d136a43247d3eccc/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36911353/k$e6ca353f09462bf5ee469918eec7b8c1/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36911330/k$2bf5a2784aeeede80f1e345264a95fa1/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36911315/k$23d685b9f9b291f7cfa8dbb6556ebcca/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36911301/k$73002fcfb7e2fa0fa6e68b550a239aaf/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:31:39.942Z"
+}

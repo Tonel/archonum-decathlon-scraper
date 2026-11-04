@@ -1,0 +1,96 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/bota-de-futbol-predator-league-cesped-artificial/d55e6e1b-c585-4209-993a-68a145b1e33e/c4c24c23",
+  "productKey": "d55e6e1b-c585-4209-993a-68a145b1e33e_c4c24c23",
+  "variantId": "c4c24c23",
+  "productId": null,
+  "name": "Bota de fútbol Predator League césped artificial",
+  "brand": "ADIDAS",
+  "description": "Ganar es el trato",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "Botas de futbol adidas niños",
+    "Botas de futbol adidas niños Predator"
+  ],
+  "price": {
+    "amount": 55.5,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "18,50 € al mes",
+  "sizes": [
+    "40 2/3 (UK 7)",
+    "42 2/3 (UK 8.5)",
+    "43 1/3 (UK 9)",
+    "44 (UK 9.5)",
+    "42.5 (UK 10)",
+    "44.5 (UK 10.5)",
+    "45.5 (UK 11)"
+  ],
+  "colors": [
+    {
+      "name": "blanco / rosa / amarillo claro",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "rojo / blanco / negro",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m23919569/k$73700e26f5e36830fd2a5a5ae29ca9ae/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m20578769/k$8e7126d89255cec5aa0901f4a8945566/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m20578887/k$52589253e52c33f66e6a820979760054/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m20578786/k$e325aebf78e4642684ceed7a9e72a1c8/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m20578797/k$303e812a138794384895b9ee97851540/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m20578943/k$54fa91ec3256bb51f27aee324385ad90/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m20578813/k$3bb230879e920a609153218da7e9898b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36634249/k$145cc65b5fc11d74d4f2d38d917b9769/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35459204/k$357f25765451233cdfbf176175cec64f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35459200/k$88e153b8bb36d9f61acaf1131554bf9e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35755123/k$ff3138fb7500c2d8f815576885841157/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35755076/k$9eb805f8b9b63759a8ef62378fa4dd79/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35755052/k$b1582b44b944786786c4db31875bb4bb/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35755014/k$2722c4b79066352b27386734372cea77/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35754982/k$3138edf1a13a49cc9d2c2d2f737c1ba3/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:22:25.373Z"
+}

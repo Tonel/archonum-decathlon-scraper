@@ -1,0 +1,110 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-joma-evolution-jr-26-evjs-ag/e9760efc-cb96-4836-911f-73b5153ffb4b/c1",
+  "productKey": "e9760efc-cb96-4836-911f-73b5153ffb4b_c1",
+  "variantId": "c1",
+  "productId": null,
+  "name": "Botas de fútbol Joma Evolution Jr 26 EVJS AG",
+  "brand": "JOMA",
+  "description": "Botas de fútbol - tacos, Joma Evolution Jr 26 EVJS AG, ideales para jóvenes futbolistas.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "copia botas niños"
+  ],
+  "price": {
+    "amount": 39.12,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "13,04 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Hierba"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8447368918653"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m28319962/k$4d7a9a07ed224a845395cdc37440d314/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28317964/k$68aadbf80cf8390655c94df439e6c758/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28317959/k$2591f2b64e86f94bb9d811dd656fbb4e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28317974/k$843f464f276790f7ad7660fc1fe5f313/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36540331/k$250f9594eed80bd755a118ccfed28b93/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36540295/k$0715fb0b2158b653c7e0b33bda95f46a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36540229/k$0d607c30cdeed2dd2400084b534841b5/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36540178/k$542582762cd0c39443f39df631201450/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36540117/k$6fcdf3f4adfa84e83f6a6456a17fc874/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36540390/k$734a07fc845d5a9f82ba2325f9f56a9a/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:35:02.343Z"
+}

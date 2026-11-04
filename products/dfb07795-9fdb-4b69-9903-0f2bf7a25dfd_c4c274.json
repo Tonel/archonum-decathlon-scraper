@@ -1,0 +1,110 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatos-de-futbol-mizuno-morelia-neo-v-b-elite-ag-blanco-naranja/dfb07795-9fdb-4b69-9903-0f2bf7a25dfd/c4c274",
+  "productKey": "dfb07795-9fdb-4b69-9903-0f2bf7a25dfd_c4c274",
+  "variantId": "c4c274",
+  "productId": null,
+  "name": "Zapatos de fútbol Mizuno Morelia Neo V β Elite Ag Blanco/Naranja",
+  "brand": "MIZUNO",
+  "description": "Diseñadas para atletas profesionales, estas botas de fútbol Mizuno ofrecen comodidad y agilidad en césped artificial.",
+  "stickers": [
+    "Novedad"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas Mizuno"
+  ],
+  "price": {
+    "amount": 179.4,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "44,85 € al mes",
+  "sizes": [
+    "40.5 (UK 6.5)",
+    "42.5 (UK 8.5)",
+    "43 (UK 9)",
+    "44 (UK 9.5)",
+    "44.5 (UK 10)",
+    "41 (UK 7)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Material",
+          "value": "Polyester"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "5063264124276"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m39955216/k$22006363c1c48b72c454b1987b1a2e0d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m39955401/k$66ef814df09ca74db76419ce00499c9f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m39955379/k$c104834a12f604a3f5a3cb30fcd64015/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m39955351/k$75f045a6c63266b3cd7053dfd5a043be/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m39955299/k$da6f21d2bb73e1c04ff889ef78dbff00/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m39955264/k$a5b8aabb9bbcce1184c8bf1faaae3672/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:31:33.249Z"
+}

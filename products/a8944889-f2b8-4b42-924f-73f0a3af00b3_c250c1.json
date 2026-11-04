@@ -1,0 +1,107 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-adidas-f50-club-messi-turf-or/a8944889-f2b8-4b42-924f-73f0a3af00b3/c250c1",
+  "productKey": "a8944889-f2b8-4b42-924f-73f0a3af00b3_c250c1",
+  "variantId": "c250c1",
+  "productId": null,
+  "name": "Botas de fútbol adidas F50 Club Messi Turf Or",
+  "brand": "ADIDAS",
+  "description": "Diseñadas para el fútbol en superficies artificiales, estos zapatos ofrecen ligereza y tracción para mejorar tu juego.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas adidas",
+    "Oferta market"
+  ],
+  "price": {
+    "amount": 60,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "20,00 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos estabilizados"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4067897588468"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m19448802/k$1eb774fded74138d2a8a3e64b24d4068/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19448776/k$c0bcfb89b67082cd05df3cf3a5eee0a2/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19448778/k$c3733fddd4400e12a1486b8121d479b1/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19448765/k$aa8496aa87477e3f6338fb0764e6c914/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19448783/k$d700e70ea9294b541b6dd2cff885c7fa/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19448771/k$b3e5ca2586b462805999a6e527a505cb/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19448795/k$9fe30e3d37f43feace2dc1ad6ef8a11e/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:36:15.839Z"
+}

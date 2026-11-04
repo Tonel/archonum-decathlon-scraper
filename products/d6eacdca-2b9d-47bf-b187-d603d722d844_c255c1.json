@@ -1,0 +1,137 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-future-7-match-para-hombre-rosa/d6eacdca-2b9d-47bf-b187-d603d722d844/c255c1",
+  "productKey": "d6eacdca-2b9d-47bf-b187-d603d722d844_c255c1",
+  "variantId": "c255c1",
+  "productId": null,
+  "name": "Botas de Fútbol para Suelo Firme Future 7 Match para Adultos Unisex Rosa",
+  "brand": "PUMA",
+  "description": "Producto de alta calidad de marca Puma. Para Senderismo.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas de futbolistas",
+    "Botas de Neymar JR"
+  ],
+  "price": {
+    "amount": 48.75,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "16,25 € al mes",
+  "sizes": [
+    "42 (UK 8)",
+    "42.5 (UK 8.5)",
+    "43 (UK 9)",
+    "44 (UK 10)",
+    "44.5 (UK 10.5)",
+    "45 (UK 11)",
+    "46 (UK 11.5)",
+    "46.5 (UK 11.5)",
+    "47 (UK 12)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos fijos"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Todo tipo de terrenos"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "Future"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Aviso legal",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4099686542931"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m20727743/k$af968467c63f329d00a813d15cdbd9c4/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m20727751/k$3a6b2b6cbc629997d6e0b14e9b800ced/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m20727758/k$80ca14ca6220ef357894d8763b000375/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m20727766/k$a7eba10d1e4df77ee4cc8c6dbfb519f9/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m18057474/k$8cd48ef0fc27c9ef3c233f02df5ce1d2/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m18057480/k$c38f04956bf42897a1b36548b9cdec11/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m18409466/k$16cd2ee068b3d16782ae45309d8531ab/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:11:59.133Z"
+}

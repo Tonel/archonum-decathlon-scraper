@@ -1,0 +1,104 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/munich-legit-kid-17/1c1bddc8-c4bc-496a-9f7b-02e520603222/c5",
+  "productKey": "1c1bddc8-c4bc-496a-9f7b-02e520603222_c5",
+  "variantId": "c5",
+  "productId": null,
+  "name": "MUNICH LEGIT KID 17",
+  "brand": "MUNICH",
+  "description": "MUNICH es la marca de zapatillas más usada por profesionales de la LNFS y aficionad@s al futsal y pádel de España, Italia y Portugal.",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol sala",
+    "Zapatillas",
+    "Zapatillas niños",
+    "Zapatillas niños todo"
+  ],
+  "price": {
+    "amount": 47.36,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 55,
+    "currency": "EUR"
+  },
+  "financing": "15,79 € al mes",
+  "sizes": [
+    "24 (UK 7C)",
+    "25 (UK 7.5C)",
+    "26 (UK 8C)",
+    "27 (UK 9.5C)",
+    "28 (UK 10C)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del mié, 11 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8445648629848"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m34737683/k$9636afa0dc3bc4d0895ef7262d82e057/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34737732/k$8955bdef6cb83f8e3c85d343ea6a2e7c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34737716/k$fd0f15172ec3af1c2cbf3fda68021516/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34737785/k$c84dafe8972f776c32c084e17a2dd7fd/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34737766/k$e3de4ee925f7e3c776dba370e6e026d1/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:54:34.911Z"
+}

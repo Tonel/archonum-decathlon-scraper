@@ -1,0 +1,120 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/de-futbol-mizuno-alpha-pro/c68e2179-0f9c-4941-a83c-d0ae07cbfc7d/c1c5",
+  "productKey": "c68e2179-0f9c-4941-a83c-d0ae07cbfc7d_c1c5",
+  "variantId": "c1c5",
+  "productId": null,
+  "name": "Botas de fútbol Mizuno Alpha Pro MD",
+  "brand": "MIZUNO",
+  "description": "Optimiza tu velocidad en el campo con los zapatos de fútbol Mizuno Alpha Pro MD, ligeros y equipados con la tecnología MIZUNO ENERZY.",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas Mizuno"
+  ],
+  "price": {
+    "amount": 103.1,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 103.6,
+    "currency": "EUR"
+  },
+  "financing": "34,37 € al mes",
+  "sizes": [
+    "41 (UK 7)",
+    "41 (UK 7.5)",
+    "43 (UK 10)",
+    "47 (UK 12)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Hierba"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "5059431860832"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m22894880/k$aaf0872f69e2df2c4a6a6c68769b336b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22894881/k$aeac102538c84b39a47ec98c48d130dc/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22894580/k$d48e26a9087af4577ce398decae85c49/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22894601/k$dbf889fa200178c4dee367b477e7c1e8/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22894594/k$106b22613cb567c6da9c559924644872/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m27095170/k$22a99a3b83a7fe51a3aa469ef27e4357/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m27095166/k$c0279ed5a135a6fc4a46759fe2cb5f82/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:52:54.750Z"
+}

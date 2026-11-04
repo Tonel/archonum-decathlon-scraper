@@ -1,0 +1,85 @@
+{
+  "url": "https://www.decathlon.es/es/p/botas-de-futbol-multitacos-pressing-iv-turf-adulto-negro/379598/m8995328",
+  "productKey": "379598_m8995328",
+  "variantId": "m8995328",
+  "productId": "8995328",
+  "name": "Botas de fútbol multitacos Pressing IV Turf Adulto Negro",
+  "brand": "PUMA",
+  "description": "PRESSING IV TT es una zapatilla de rendimiento diseñada para durar que ofrece una protección máxima gracias a las diversas capas de material en el conjunto del diseño del producto.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas césped artificial",
+    "Botas multitacos y turf"
+  ],
+  "price": {
+    "amount": 59.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "20,00 € al mes",
+  "sizes": [
+    "UK 6 EU 39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "1 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 1 año."
+    }
+  ],
+  "features": [
+    {
+      "title": "Comodidad",
+      "text": "Exterior de materia sintética ligera y flexible."
+    },
+    {
+      "title": "Sujeción del producto",
+      "text": "Contrafuerte interno en el talón para la sujeción del tobillo."
+    },
+    {
+      "title": "Amortiguación",
+      "text": "Espuma EVA flexible en la entresuela para una mayor comodidad."
+    }
+  ],
+  "specifications": [],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p3092467/k$641a5af6c37374b5da59a80033c22359/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3092468/k$062c216d1335ea5c0371e0b3137b5105/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3092469/k$985d0c51d55afa96b286bdc011cfdea8/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3092471/k$ca0eb2d36e8de70a6fb00d1b4e6a29c7/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3092472/k$8b9f3d502e99a735f4cb390893557040/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3092470/k$682a6fb1db11d6904f31e37c46f55873/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:17:58.493Z"
+}

@@ -1,0 +1,130 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatilla-de-futbol-para-mujer-f50-sparkfusion-league-para-cesped-natural-seco/bdcd5f55-2896-4e0c-b7e8-c86969ee01b2/c4c251c22",
+  "productKey": "bdcd5f55-2896-4e0c-b7e8-c86969ee01b2_c4c251c22",
+  "variantId": "c4c251c22",
+  "productId": null,
+  "name": "Zapatilla de fútbol para mujer F50 SPARKFUSION LEAGUE para césped natural seco",
+  "brand": "ADIDAS",
+  "description": "Zapatilla de fútbol con suela Sprintplate Fusion para una tracción óptima.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas de futbolistas",
+    "Botas de Messi"
+  ],
+  "price": {
+    "amount": 63,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "21,00 € al mes",
+  "sizes": [
+    "36 2/3 (UK 4)",
+    "37 1/3 (UK 4.5)",
+    "38 (UK 5)",
+    "38 2/3 (UK 5.5)",
+    "39 1/3 (UK 6)",
+    "40 (UK 6.5)",
+    "40 2/3 (UK 7)",
+    "41 1/3 (UK 7.5)",
+    "42 (UK 8)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Terreno duro"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "F50"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4068814496637"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m26440884/k$2ad753de44cd01d4090d6cee5969c7b0/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26440863/k$e6f764e9b8c7e38485d87c0391c296d2/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26440849/k$ea92643827ecdd618fb593258e15dc05/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26440896/k$dc12bd8e910016751a0ee6bd0e40747b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26440873/k$7e422ebfb6f82caaf4f9edacac1dd73c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26441745/k$afcec5721ba153a5b2b05b5a1fb44fc6/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26442024/k$2d746c854e2aac83a7aefc8bd376882b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36644609/k$468f9818be444c6afc3700888d05c7b5/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:46:24.079Z"
+}

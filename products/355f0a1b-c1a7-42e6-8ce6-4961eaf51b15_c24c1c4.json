@@ -1,0 +1,119 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/guante-de-portero-predator-training-junior/355f0a1b-c1a7-42e6-8ce6-4961eaf51b15/c24c1c4",
+  "productKey": "355f0a1b-c1a7-42e6-8ce6-4961eaf51b15_c24c1c4",
+  "variantId": "c24c1c4",
+  "productId": null,
+  "name": "Guante de portero Predator Training junior",
+  "brand": "ADIDAS",
+  "description": "Unos guantes de portero orientados al training, con palma de látex Soft Grip para un agarre fiable",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Portero",
+    "Guantes de portero",
+    "Guantes adidas"
+  ],
+  "price": {
+    "amount": 25,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": null,
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Sin apriete"
+        },
+        {
+          "name": "Material",
+          "value": "Poliuretano"
+        },
+        {
+          "name": "Impermeable",
+          "value": "No impermeable"
+        },
+        {
+          "name": "Colección",
+          "value": "Predator"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        },
+        {
+          "name": "Temporada",
+          "value": "Todas las estaciones"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4069999196305"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m36599704/k$7aeb706b7d292ca3e83861477c99d7ad/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36599732/k$db9566220c2924e0ca34f84d9c0d67a2/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36599719/k$b569e7d0cb4faac902c2ddef3a27e3a1/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m39479218/k$81ca7e8f01a30f881744238e65a9f178/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m39479211/k$4fb00b09f6dbd93a8e28808c50be2beb/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m39479194/k$9b3b8c0b67493a765be85428068319c0/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m39479183/k$89475d0ad27989ea12d3740f622132e9/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35080149/k$358359eeca99646f4836c5cc226ffd07/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35077316/k$15ab567184ef4aa3bc433197e1d48c87/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35077378/k$f99014ba218b797354b4c64190730cf7/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35077359/k$95b410df5aeb9c132325a45a179eca24/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:19:00.276Z"
+}

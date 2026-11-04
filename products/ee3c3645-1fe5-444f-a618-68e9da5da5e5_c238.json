@@ -1,0 +1,86 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatos-de-futbol-nike-mercurial-vapor-15-academy-turquesa/ee3c3645-1fe5-444f-a618-68e9da5da5e5/c238",
+  "productKey": "ee3c3645-1fe5-444f-a618-68e9da5da5e5_c238",
+  "variantId": "c238",
+  "productId": null,
+  "name": "Zapatos de fútbol Nike Mercurial Vapor 15 Academy Turquesa",
+  "brand": "NIKE",
+  "description": "Diseñadas para los jóvenes jugadores, estas botas de fútbol Nike Mercurial Vapor 15 Academy ofrecen comodidad y rendimiento en el campo.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas Nike"
+  ],
+  "price": {
+    "amount": 59.25,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "19,75 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del mar, 10 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "0196969021146"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m38632978/k$107e1eb30f92989525bc380c053cf8ef/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38820516/k$49a57f735512d3b3ef1ddca9e43f70e8/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38820479/k$72f10c20ff17e59c9c99da1caecf6faa/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:36:47.277Z"
+}

@@ -1,0 +1,117 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatillas-joma-modelo-scjs2431tf-para-ninos-unisex/11d2c324-5270-4862-973c-7d07206f0958/c1",
+  "productKey": "11d2c324-5270-4862-973c-7d07206f0958_c1",
+  "variantId": "c1",
+  "productId": null,
+  "name": "Zapatillas Joma modelo SCJS2431TF para niños unisex",
+  "brand": "JOMA",
+  "description": "Zapatillas Joma modelo SCJS2431TF para Niños Unisex en color negro De la temporada Primavera-Verano 2024.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "Botas niños multitacos"
+  ],
+  "price": {
+    "amount": 37.87,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "12,62 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del mar, 10 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos estabilizados"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Terreno duro"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8445954324321"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m15964722/k$373e7f58d3dc4e36c9a8f8c204cfc013/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m15964564/k$8d7bf4338d8c78d8df0f7c212c05319d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m15855053/k$e23d1792d6c94859f2d14b54472090a6/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m15854691/k$c7e7b60743f1296a1fb3c0a08afd4121/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m20244405/k$c2405c8010cd10b89b3a53913fdd4647/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:57:22.914Z"
+}

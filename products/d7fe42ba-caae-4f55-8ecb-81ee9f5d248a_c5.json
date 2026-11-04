@@ -1,0 +1,126 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/deportivo-joma-futbol-aguila-2504-royal-turf-cmsport/d7fe42ba-caae-4f55-8ecb-81ee9f5d248a/c5",
+  "productKey": "d7fe42ba-caae-4f55-8ecb-81ee9f5d248a_c5",
+  "variantId": "c5",
+  "productId": null,
+  "name": "Deportivo Joma FUTBOL AGUILA 2504 ROYAL TURF CMSport",
+  "brand": "JOMA",
+  "description": "Deportivo Joma FUTBOL AGUILA 2504 ROYAL TURF CMSport",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Joma",
+    "Botas de fútbol joma"
+  ],
+  "price": {
+    "amount": 46.38,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "15,46 € al mes",
+  "sizes": [],
+  "colors": [
+    {
+      "name": "azul",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "azul / azul eléctrico",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del mar, 10 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de taco",
+          "value": "Minitacos"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Césped artificial"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8447150157581"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m19947094/k$0125592f116046c5960c3cb43853e307/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19947093/k$0d5935c10b328a073863728a0a7ccd04/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19947092/k$157e734db57203c6edebb33c03277d2a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m19947091/k$c933a5e5191c9c7ed7a017d9241f972d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m20387863/k$b484db44add017bc055ab6e8cf2c9d93/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38958321/k$b332470d837351d814c6d86d68486e73/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m21263755/k$28978fb5db77ed152d9c177be9bac83c/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:40:32.482Z"
+}

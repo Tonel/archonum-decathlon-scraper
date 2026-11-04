@@ -1,0 +1,137 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-mizuno-monarcida-neo-3-select-ag/223446d5-d7cb-42d6-a185-7c2c0d928f50/c1",
+  "productKey": "223446d5-d7cb-42d6-a185-7c2c0d928f50_c1",
+  "variantId": "c1",
+  "productId": null,
+  "name": "Botas de fútbol Mizuno Monarcida Neo 3 Select AG",
+  "brand": "MIZUNO",
+  "description": "Descubre las botas de fútbol Mizuno Monarcida Neo 3 Select AG, una elección ideal para combinar rendimiento y comodidad en el campo.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Mizuno"
+  ],
+  "price": {
+    "amount": 53.55,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "17,85 € al mes",
+  "sizes": [
+    "40.5 (UK 6)",
+    "41 (UK 7.5)",
+    "42 (UK 7.5)",
+    "42.5 (UK 8.5)",
+    "44 (UK 10)",
+    "44.5 (UK 10)",
+    "45 (UK 10)",
+    "46 (UK 10.5)"
+  ],
+  "colors": [
+    {
+      "name": "negro",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "negro / rojo",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "negro / multicolor",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "negro / verde ácido",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "verde / verde ácido",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordón tradicional"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "5059882634785"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m33515587/k$9a2466c69917eaf5f25a7652c2f7abf9/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m27168592/k$048cc537f563923bc968cce31b16255d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m27168584/k$bd76f1c637dbf9bcbb5814a32193910b/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:57:30.194Z"
+}

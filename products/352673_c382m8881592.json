@@ -1,0 +1,171 @@
+{
+  "url": "https://www.decathlon.es/es/p/botas-de-futbol-sala-club-jr-laces-negro-rojo/352673/c382m8881592",
+  "productKey": "352673_c382m8881592",
+  "variantId": "c382m8881592",
+  "productId": "8881592",
+  "name": "Botas de fútbol Sala Club JR LACES Negro Rojo",
+  "brand": "KIPSTA",
+  "description": "¿Buscas unas zapatillas de fútbol sala dinámicas y resistentes? Este modelo es flexible y agradable de llevar.Favorecen el juego rápido gracias a su ligereza y a la flexibilidad de la suela.",
+  "stickers": [
+    "Novedad"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol sala",
+    "Zapatillas",
+    "Zapatillas niños",
+    "Zapatillas niños todo"
+  ],
+  "price": {
+    "amount": 19.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": null,
+  "sizes": [],
+  "colors": [
+    {
+      "name": "negro ahumado",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "amarillo ácido fluorescente / ultra blanco",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "2 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 2 años."
+    }
+  ],
+  "features": [
+    {
+      "title": "Resistencia",
+      "text": "Materia resistente para proteger la zapatilla entera de la abrasión."
+    },
+    {
+      "title": "Adherencia",
+      "text": "La suela de caucho favorece los apoyos en terrenos lisos."
+    },
+    {
+      "title": "Ligereza",
+      "text": "Sus materiales ligeros favorecen desplazamientos rápidos y velocidad de juego."
+    },
+    {
+      "title": "Flexibilidad",
+      "text": "Flex-H, estrías de flexión que hacen que la suela sea más flexible."
+    },
+    {
+      "title": "Suela que no deja marcas",
+      "text": "Una suela que no deja marcas en la pista mientras juegas"
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Nivel de práctica",
+          "value": "Perfeccionamiento"
+        },
+        {
+          "name": "Tipo de taco",
+          "value": "Sin tacos"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado bajo"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Impermeable",
+          "value": "No impermeable"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Plantilla extraíble",
+          "value": "Plantilla extraíble"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Velocidad"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Interior"
+        },
+        {
+          "name": "Colección",
+          "value": "Ginka"
+        },
+        {
+          "name": "Marcas de suela exterior",
+          "value": "No deja marcas"
+        },
+        {
+          "name": "Tipo de forro",
+          "value": "Forro transpirable"
+        },
+        {
+          "name": "Tipo de plantilla",
+          "value": "Simple"
+        },
+        {
+          "name": "Nivel de rendimiento",
+          "value": "Palo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p3056680/k$60c11466e7d98d26b8a09ef359204db4/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3056925/k$6cef969074bcb77735fa2ba5386f5ffc/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3056751/k$a88a048b1992fa6f51d0dba55dee2868/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3056764/k$0f103600ba9fae66535acb06e1048e7a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3056598/k$1d79ce907ba97ece772ba7b9048cb532/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3056822/k$37097a976c73a78c9f7586b15d4dbf37/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:05:03.800Z"
+}

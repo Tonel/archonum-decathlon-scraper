@@ -1,0 +1,100 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatillas-joma-top-flex-jr-2303-navy-yellow-indoor/ae29b7d5-b408-4f00-9355-c4d3b496454e/c8c22",
+  "productKey": "ae29b7d5-b408-4f00-9355-c4d3b496454e_c8c22",
+  "variantId": "c8c22",
+  "productId": null,
+  "name": "Zapatillas Joma Top Flex Jr. 2303 Navy Yellow Indoor.",
+  "brand": "JOMA",
+  "description": "Zapatillas de fútbol sala para niño/niña. Deja que tus pequeños se conviertan en verdaderos futbolistas con el modelo fútbol sala de Joma más icónico y completo.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol sala",
+    "Zapatillas",
+    "Zapatillas niños",
+    "Zapatillas niños Joma"
+  ],
+  "price": {
+    "amount": 43.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "14,66 € al mes",
+  "sizes": [
+    "27 (UK 9C)",
+    "28 (UK 9.5C)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Correa"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8445757950314"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m13183494/k$76e4237ce9ff0cc4370fc09a827a4aa2/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m13183489/k$dca16166b49382baaec042442767cf75/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m13183565/k$4c6e0114450b46c297648fb77c24c5f5/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m13183566/k$453968d5a9f2df79b7caa9dbb9dc006c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m21263755/k$28978fb5db77ed152d9c177be9bac83c/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:32:25.948Z"
+}

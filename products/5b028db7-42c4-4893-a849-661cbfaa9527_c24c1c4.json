@@ -1,0 +1,144 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatillas-de-futbol-nino-ultra-play-it-puma-poison-pink-white-black/5b028db7-42c4-4893-a849-661cbfaa9527/c24c1c4",
+  "productKey": "5b028db7-42c4-4893-a849-661cbfaa9527_c24c1c4",
+  "variantId": "c24c1c4",
+  "productId": null,
+  "name": "Zapatillas de fútbol Niño ULTRA PLAY IT PUMA Poison Pink White Black",
+  "brand": "PUMA",
+  "description": "HISTORIA DEL PRODUCTOJusto cuando parece que no puedes ir más rápido, lo haces. Los ULTRA PLAY presentan un empeine sintético ligero y duradero, con detalles impresos y en bajo relieve.",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "Botas de futbol Puma niños",
+    "Botas de futbol Puma niños Ultra"
+  ],
+  "price": {
+    "amount": 29.99,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 44.99,
+    "currency": "EUR"
+  },
+  "financing": null,
+  "sizes": [
+    "37.5 (UK 4.5)",
+    "38 (UK 5)",
+    "28 (UK 10C)"
+  ],
+  "colors": [
+    {
+      "name": "rosa / negro / blanco",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "negro / cobre",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "rosa",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Interior"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "Ultra"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4099686024093"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m14859996/k$9c9d9227e0890d77bd996e7b20838e78/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m14859776/k$798fdc2bbc6bd1226829aa355d78570e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m14859767/k$79a4bd6cdbea7029aab57dc7aabd0c27/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m14859591/k$8078d8ab47c1c28e2af47348af2a5aef/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m14859573/k$dd27e64f35a5d601081dcc86949c7bde/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m14859599/k$f2d5035014a870eb0e093b0510c74191/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:22:32.414Z"
+}

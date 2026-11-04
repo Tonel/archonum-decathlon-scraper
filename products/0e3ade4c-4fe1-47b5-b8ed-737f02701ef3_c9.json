@@ -1,0 +1,101 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatillas-deportivas-adidas-para-hombre/0e3ade4c-4fe1-47b5-b8ed-737f02701ef3/c9",
+  "productKey": "0e3ade4c-4fe1-47b5-b8ed-737f02701ef3_c9",
+  "variantId": "c9",
+  "productId": null,
+  "name": "Zapatillas deportivas ADIDAS para hombre",
+  "brand": "ADIDAS",
+  "description": "Parte superior textil, refuerzos sintéticos, suela de goma, fabricado con al menos 20% de materiales reciclados.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas de futbolistas",
+    "Botas de Benzema"
+  ],
+  "price": {
+    "amount": 65,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "21,67 € al mes",
+  "sizes": [
+    "43 (UK 9)",
+    "44 (UK 10)",
+    "44.5 (UK 10.5)"
+  ],
+  "colors": [
+    {
+      "name": "verde",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "verde / gris / negro",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "verde aceituna / gris / negro",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "gris",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m28013617/k$c4fac9bc9bb1f7bc50bf8058317361a5/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28013528/k$601e2dd4f97ce56293d71cd1376dc210/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28013510/k$645b603c01fd58f784adc871cf7c3403/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28013599/k$4ec6ced059e99b2ca17d1219b1b4adf5/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28013571/k$6557fcfc92e0239270465749dc137fbe/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28013615/k$2e6b32c67077120fb511f4a774dcde12/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28013533/k$be3d1f2c103045e34de9a169c21e4c2f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35729193/k$8b4d90ed0c47580e9ed20c1377296bf1/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35447279/k$a8405709aa2ba5d11d49593e85756ee8/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35447277/k$8e3f1cf4ea609538533e987e213fcaff/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35729355/k$5d7786d7bb57976311fbc17458679436/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35729321/k$8a59f07f52ccc44839fb847cdf41746c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35729294/k$bfd67efd12a39b0b612c7defa8abcdd2/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35729262/k$21c0e1c68f7e3da4ef1c68671871c0f9/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35729227/k$2a923b5a2590ee100a3b35ee6d18b98a/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:24:23.932Z"
+}

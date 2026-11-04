@@ -1,0 +1,137 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/kelme-zapatillas-de-futbol-sala-de-nino-final-elastic-indoor-azul-unisex-kids/8818560f-bf9e-46de-8ba0-f0e0780c96c0/c5",
+  "productKey": "8818560f-bf9e-46de-8ba0-f0e0780c96c0_c5",
+  "variantId": "c5",
+  "productId": null,
+  "name": "Kelme Zapatillas De Fútbol Sala De Niño Final Elastic Indoor Azul Unisex Kids",
+  "brand": "KELME",
+  "description": "Kelme Zapatillas De Fútbol Sala De Niño Final Elastic Indoor Azul Unisex Kids. Fabricada en 95% Piel sintética + 5% Textil. . Kelme, Leave Your Mark.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Fútbol sala",
+    "Zapatillas fútbol sala"
+  ],
+  "price": {
+    "amount": 36.33,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "12,11 € al mes",
+  "sizes": [
+    "25 (UK 7.5C)",
+    "26 (UK 8C)",
+    "28 (UK 9.5C)",
+    "29 (UK 10.5C)",
+    "31 (UK 12C)"
+  ],
+  "colors": [
+    {
+      "name": "azul",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "azul / azul vaquero",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Motivo",
+          "value": "Sin patrón"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordón tradicional"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Amortiguación, soporte y confort"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Estilo",
+          "value": "Liso"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Aviso legal",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8445664402036"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m26836088/k$7f6d7e625112a768460390f99c9f5988/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26836079/k$e256cc2a0c5062e3a89427501c9bf5f7/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26836072/k$0842f7ca76191b74144ab45f545e8946/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26836095/k$491bf8297155d88d303742f18c97c6b3/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26836083/k$d76b732c0cb8583f1480d2dea81b2293/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:24:53.304Z"
+}

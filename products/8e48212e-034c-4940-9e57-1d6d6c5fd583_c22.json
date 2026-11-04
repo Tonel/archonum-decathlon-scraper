@@ -1,0 +1,125 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatillas-de-futbol-sala-joma-maxima-25-maxw-in/8e48212e-034c-4940-9e57-1d6d6c5fd583/c22",
+  "productKey": "8e48212e-034c-4940-9e57-1d6d6c5fd583_c22",
+  "variantId": "c22",
+  "productId": null,
+  "name": "Deportivo Joma FUTBOL MAXIMA 2511 VERDE FLÚOR INDOOR CMSport",
+  "brand": "JOMA",
+  "description": "REF. 3316 - MAXW2511IN (44)",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol sala",
+    "Zapatillas",
+    "Zapatillas hombre",
+    "Zapatillas hombre Joma"
+  ],
+  "price": {
+    "amount": 32.48,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "10,83 € al mes",
+  "sizes": [
+    "44,5",
+    "40 (UK 7.5)",
+    "42 (UK 7.5)",
+    "41 (UK 8)",
+    "43 (UK 8.5)",
+    "44 (UK 9.5)",
+    "45 (UK 11)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Parquet/gimnasio"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado bajo"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8447368028291"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m34468643/k$ee9ae04b7457393aea6c23609de56e7b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34468583/k$28cc058b6834c2669eb98957d7c7348d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34468549/k$8d4a87e7cf9840b99dfa24ccc13f777c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34468661/k$3fb07c91a961e74fa9eaa586304333f4/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34468612/k$1f02249ec95a0342dbc63a6550692f3d/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:12:15.007Z"
+}

@@ -1,0 +1,116 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-futbol-futbol-adulto-joma-powerful-cup-25-ag-negro/5609e4fd-f7cf-4a2c-ba77-44f225487a1c/c1",
+  "productKey": "5609e4fd-f7cf-4a2c-ba77-44f225487a1c_c1",
+  "variantId": "c1",
+  "productId": null,
+  "name": "Botas Fútbol Fútbol Adulto Joma Powerful Cup 25 AG Negro",
+  "brand": "JOMA",
+  "description": "Botas Fútbol Fútbol Adulto Joma Powerful Cup 25 AG Negro",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Joma",
+    "Botas de fútbol joma"
+  ],
+  "price": {
+    "amount": 59,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 65,
+    "currency": "EUR"
+  },
+  "financing": "19,67 € al mes",
+  "sizes": [
+    "39 (UK 5.5)",
+    "43.5 (UK 9)"
+  ],
+  "colors": [
+    {
+      "name": "negro",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "turquesa",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8447150413595"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m22454736/k$46ec6638b025e8723314b5e7ffd0c9ca/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22454725/k$a0469e8c786ee75f556e3679a40fdbf0/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22454772/k$d707ec6cf02e7e5632aa50380e37ac2c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22454748/k$2d88c585fbbc22d7c1c0c6d93b1d728f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m22454783/k$e0ec95f74944155fdb342ff9c9cc9e58/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:36:04.068Z"
+}

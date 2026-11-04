@@ -1,0 +1,97 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/munich-arenga-kid-1459306-negro/ee114208-23d1-4836-bf4f-2c24a906ca70/c1",
+  "productKey": "ee114208-23d1-4836-bf4f-2c24a906ca70_c1",
+  "variantId": "c1",
+  "productId": null,
+  "name": "Munich Arenga Kid 1459306 Negro",
+  "brand": "MUNICH",
+  "description": "Marca tendencia con los productos de Munich",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "copia botas niños"
+  ],
+  "price": {
+    "amount": 72.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "24,33 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Material",
+          "value": "Sintético"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8445648341986"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m22920727/k$e0f39f804e42f828577f39edef153823/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m25108592/k$d784464c571ce015997b0071e866b8c4/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m25108588/k$db3909dc0dd113c23f40c9f6427878d7/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m25108600/k$cc06eec1a583fc47d0831276a23546a4/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m25108595/k$524d03ee43233fe458eb688b77a190dd/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:31:30.043Z"
+}

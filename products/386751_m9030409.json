@@ -1,0 +1,129 @@
+{
+  "url": "https://www.decathlon.es/es/p/botas-de-futbol-ultra-7-pro-fg-adulto-rojo-puma/386751/m9030409",
+  "productKey": "386751_m9030409",
+  "variantId": "m9030409",
+  "productId": "9030409",
+  "name": "Botas de fútbol Ultra 7 Pro FG Adulto Rojo PUMA",
+  "brand": "PUMA",
+  "description": "Descubre la ULTRA NITRO 7.Gracias a la tecnología NITRO, la espuma enriquecida con nitrógeno de PUMA que ofrece un retorno de energía excepcional, es tan rápida como su nombre indica.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas de futbolistas",
+    "Botas de Coman"
+  ],
+  "price": {
+    "amount": 89.99,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 149.99,
+    "currency": "EUR"
+  },
+  "financing": "30,00 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "1 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 1 año."
+    }
+  ],
+  "features": [
+    {
+      "title": "Impulso",
+      "text": "La espuma NITRO, enriquecida con nitrógeno, ofrece un retorno de energía excepcional."
+    },
+    {
+      "title": "Velocidad",
+      "text": "SPEEDSYSTEM 2.0:Suela ligera diseñada para maximizar el retorno de energía."
+    },
+    {
+      "title": "Estabilidad",
+      "text": "La bota se adapta a la forma de tu pie para acelerar tus cambios de dirección."
+    },
+    {
+      "title": "Flexibilidad multidireccional",
+      "text": "Los tacos FastTrax son más redondeados para una tracción óptima"
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de terreno",
+          "value": "Hierba, Hierba sintética larga"
+        },
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos fijos"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado bajo"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "Puma el paquete de llegada, Ultra"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Velocidad"
+        },
+        {
+          "name": "Tipo de plantilla",
+          "value": "Simple"
+        },
+        {
+          "name": "Nivel de rendimiento",
+          "value": "Pro"
+        }
+      ]
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p3215314/k$32592deab72ddfe3c0c12e5ec8f6241e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3215317/k$71b1a6e04e9a6f76e5d11e6741a58017/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3215313/k$04ab9672e6f13bf80af09596927fc960/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3215312/k$228d3bd54e0ee35ab26d5c56ff65e053/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3215315/k$0d00dbed415f236d56ce652f828cd99b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3215316/k$c01ab5c70b93d5a001553fffb4fdb7e8/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:43:40.062Z"
+}

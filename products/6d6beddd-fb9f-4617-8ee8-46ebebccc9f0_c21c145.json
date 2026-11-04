@@ -1,0 +1,104 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatillas-de-futbol-nike-mercurial-superfly-10-academy-naranja-marino/6d6beddd-fb9f-4617-8ee8-46ebebccc9f0/c21c145",
+  "productKey": "6d6beddd-fb9f-4617-8ee8-46ebebccc9f0_c21c145",
+  "variantId": "c21c145",
+  "productId": null,
+  "name": "Zapatillas de fútbol Nike Mercurial Superfly 10 Academy Naranja/Marino",
+  "brand": "NIKE",
+  "description": "Diseñadas para los jugadores que buscan velocidad y agilidad, estas botas de fútbol ofrecen un soporte óptimo y una comodidad superior.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas Nike"
+  ],
+  "price": {
+    "amount": 58.7,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "19,57 € al mes",
+  "sizes": [
+    "45.5 (UK 10.5)",
+    "47.5 (UK 12.5)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Material",
+          "value": "Sintético"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "0197597374215"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m18053489/k$42a5ee1de7b8dd5424e941fb23c0f457/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m18053491/k$77e06d1aed2e08242345839e77a161df/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38836650/k$fb40f81901cb7cd8a69f68cd00bdfd44/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m39658618/k$f82a4e2a6d5d900ffd0363c84ad3892f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m39658610/k$641a981a770030a92fbcf036a07ce27c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m39658596/k$1fd2be55d9b4cebf61c3322cb9b9564d/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:43:22.891Z"
+}

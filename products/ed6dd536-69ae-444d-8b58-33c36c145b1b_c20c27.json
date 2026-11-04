@@ -1,0 +1,172 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/calzado-trail-running-mujer-ultra-glide-4/ed6dd536-69ae-444d-8b58-33c36c145b1b/c20c27",
+  "productKey": "ed6dd536-69ae-444d-8b58-33c36c145b1b_c20c27",
+  "variantId": "c20c27",
+  "productId": null,
+  "name": "Calzado Trail Running Mujer ULTRA GLIDE 4",
+  "brand": "SALOMON",
+  "description": "Zapatillas de trail para mujer ligeras y amortiguadas diseñadas para rutas largas que ofrecen comodidad y versatilidad.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Running",
+    "Zapatillas",
+    "Zapatillas trail",
+    "Zapatillas mujer"
+  ],
+  "price": {
+    "amount": 147.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "36,99 € al mes",
+  "sizes": [
+    "36 (UK 3.5)",
+    "36 2/3 (UK 4)",
+    "37 1/3 (UK 4.5)",
+    "38 (UK 5)",
+    "38 2/3 (UK 5.5)",
+    "39 1/3 (UK 6)",
+    "40 (UK 6.5)",
+    "40 2/3 (UK 7)",
+    "41 1/3 (UK 7.5)",
+    "42 (UK 8)",
+    "42 2/3 (UK 8.5)",
+    "43 1/3 (UK 9)",
+    "44 (UK 9.5)"
+  ],
+  "colors": [
+    {
+      "name": "naranja / marrón",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "verde",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de terreno",
+          "value": "Terreno accidentado"
+        },
+        {
+          "name": "Calzado carbono",
+          "value": "Sin carbono"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado bajo"
+        },
+        {
+          "name": "Tipo de pisada",
+          "value": "Neutra"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Tracción"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Drop",
+          "value": "6 mm"
+        },
+        {
+          "name": "Colección",
+          "value": "Ultra"
+        },
+        {
+          "name": "Peso (en g)",
+          "value": "255 g"
+        },
+        {
+          "name": "Plantilla extraíble",
+          "value": "Plantilla extraíble"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        },
+        {
+          "name": "Tecnología de suela",
+          "value": "Contagrip"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "0198720303201"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m34987694/k$d30e4ba4aa1f152dcee673cbf836fab4/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34987284/k$5322aeb88bcca5848c386f16cb9cdb1b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34987602/k$1201b232118b2f523f475dfc86cd7a5d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34987512/k$63506746052b48c99846024cad7103b3/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34987811/k$55099a4f9fbd581b6b3df386e6cc5a33/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34987417/k$8e1c744f482e8f714dc8dc769fe2eecf/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34992732/k$6e992dbe6e960064c18ad9e149b25dba/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:35:36.281Z"
+}

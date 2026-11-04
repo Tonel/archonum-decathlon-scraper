@@ -1,0 +1,121 @@
+{
+  "url": "https://www.decathlon.es/es/p/f50-fg-pack-club-26-negro/380303/m8997701",
+  "productKey": "380303_m8997701",
+  "variantId": "m8997701",
+  "productId": "8997701",
+  "name": "F50 FG PACK CLUB 26 NEGRO",
+  "brand": "ADIDAS",
+  "description": "Libera tu velocidad con las botas de fútbol para terreno firme y múltiples superficies F50 Club.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "Botas de futbol adidas niños",
+    "Botas de futbol adidas niños F50"
+  ],
+  "price": {
+    "amount": 54.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "18,33 € al mes",
+  "sizes": [
+    "39 1/3",
+    "40",
+    "41 1/3",
+    "42",
+    "43 1/3",
+    "44",
+    "45 1/3",
+    "46"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "1 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 1 año."
+    }
+  ],
+  "features": [
+    {
+      "title": "Ligereza",
+      "text": null
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de terreno",
+          "value": "Hierba, Hierba sintética larga, Césped artificial"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado bajo"
+        },
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos redondos, Tacos multisuperficies"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Estrecho"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Transpirable, Velocidad, Ligereza"
+        },
+        {
+          "name": "Tipo de plantilla",
+          "value": "Simple"
+        },
+        {
+          "name": "Colección",
+          "value": "F50"
+        }
+      ]
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p3117803/k$095a7842b41a6b5b559c2153f3b6295c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3117798/k$d16d9ad56060982aaaa656f2b436aca0/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3117801/k$d8665a53962690bfe4f53c98b075a452/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3117807/k$bf7ed14aaaf485eff3025a66ead7c135/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3117795/k$58fbf19d4d34364b93453a8d6ff6043e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3117791/k$5007180203f89c109f07e1f029715b95/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3117793/k$4cd31a82dc6accb8f45eeb099b36e1d2/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:06:50.177Z"
+}

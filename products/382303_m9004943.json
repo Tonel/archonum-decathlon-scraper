@@ -1,0 +1,113 @@
+{
+  "url": "https://www.decathlon.es/es/p/botas-mizuno-morelia-ii-pro-ag-adulto-blanco/382303/m9004943",
+  "productKey": "382303_m9004943",
+  "variantId": "m9004943",
+  "productId": "9004943",
+  "name": "Botas Mizuno MORELIA II PRO AG Adulto Blanco",
+  "brand": "MIZUNO",
+  "description": "La MORELIA II PRO ofrece un ajuste de calidad superior gracias a su piel de canguro flexible en la parte delantera del pie.Se ha diseñado para ser versátil en todo tipo de superficies, combinando comodidad y rendimiento.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas césped artificial",
+    "Botas de fútbol AG"
+  ],
+  "price": {
+    "amount": 119.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "40,00 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "1 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 1 año."
+    }
+  ],
+  "features": [
+    {
+      "title": "Toque de balón",
+      "text": "Piel de canguro suave que proporciona un toque de balón preciso."
+    },
+    {
+      "title": "Comodidad",
+      "text": "Forro de ante que aporta comodidad y una sujeción óptima."
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos fijos"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado bajo"
+        },
+        {
+          "name": "Material",
+          "value": "Piel"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Hierba sintética corta, Hierba sintética larga"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Confort"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        },
+        {
+          "name": "Tipo de plantilla",
+          "value": "Simple"
+        }
+      ]
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p3120339/k$4ef18e4a2e84dcd8e6606d661755f28d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3120340/k$d566fd411b21d149e204a64a0dd1a062/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3120337/k$63db887885ec7ba79b6c431ebd463f0c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3120338/k$da8885961e7cc766fedd90d12bd7652a/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3120341/k$618da0c71391406f7c7ed412626a5365/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:41:29.955Z"
+}

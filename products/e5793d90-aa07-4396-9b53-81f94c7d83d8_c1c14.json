@@ -1,0 +1,110 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-para-ninos-puma-ultra-play-fg-ag/e5793d90-aa07-4396-9b53-81f94c7d83d8/c1c14",
+  "productKey": "e5793d90-aa07-4396-9b53-81f94c7d83d8_c1c14",
+  "variantId": "c1c14",
+  "productId": null,
+  "name": "Botas de fútbol para niños Puma Ultra Play FG/AG",
+  "brand": "PUMA",
+  "description": "Ofrez a su joven jugador los zapatos Puma Ultra Play FG/AG, que combinan rendimiento, comodidad y estilo para el fútbol.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fitness cardio",
+    "Marcas",
+    "Puma"
+  ],
+  "price": {
+    "amount": 30.5,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "10,17 € al mes",
+  "sizes": [
+    "34 (UK 2)",
+    "34.5 (UK 3)",
+    "35.5 (UK 3)",
+    "30 (UK 11.5C)",
+    "31 (UK 12)",
+    "32 (UK 13C)",
+    "32.5 (UK 13.5C)",
+    "33 (UK 13.5C)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Material",
+          "value": "Sintético"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4069161180248"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m28244545/k$5536fc8989cf3d5194b0e9c0d32799e6/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28244517/k$773e07166a4ae8b46845dd227a2ecd3b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28244506/k$e3204a0591541d5fd390bfb02573d330/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28244563/k$6dd3dcb2eed88a8fb9c1136ec37ca5a2/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28260274/k$edd2e485c7e080bad0b2bdcdc0bc695d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38962835/k$02c5cf57a12987787392554beceba52b/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:08:08.658Z"
+}

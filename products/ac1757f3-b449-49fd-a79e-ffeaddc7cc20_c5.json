@@ -1,0 +1,118 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/kelme-zapatillas-de-nino-hero-turf-elastic-azul-verde-unisex-kids/ac1757f3-b449-49fd-a79e-ffeaddc7cc20/c5",
+  "productKey": "ac1757f3-b449-49fd-a79e-ffeaddc7cc20_c5",
+  "variantId": "c5",
+  "productId": null,
+  "name": "Kelme Zapatillas De Niño Hero Turf Elastic Azul-verde Unisex Kids",
+  "brand": "KELME",
+  "description": "Kelme Zapatillas De Niño Hero Turf Elastic Azul-verde Unisex Kids. Fabricada en 95% Piel sintética + 5% Textil. . Kelme, Leave Your Mark.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas césped artificial",
+    "Botas multitacos y turf"
+  ],
+  "price": {
+    "amount": 34.93,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "11,64 € al mes",
+  "sizes": [
+    "33 (UK 1)",
+    "34 (UK 1.5)",
+    "29 (UK 10.5C)",
+    "30 (UK 11.5C)",
+    "31 (UK 12C)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos estabilizados"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordón tradicional"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Aviso legal",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8445664403149"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m26441378/k$cbd37a369ac6fd33bba5f8e5f5d9583e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26441373/k$557caa3f9e9ddc0cbe16ca0ed00a933e/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26441493/k$d0f26f033550d84a64ce0bc236641e43/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m26441382/k$b5bb520aab5298815c6083bbd6b0daf2/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:10:02.447Z"
+}

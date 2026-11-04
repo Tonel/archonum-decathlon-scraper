@@ -1,0 +1,179 @@
+{
+  "url": "https://www.decathlon.es/es/p/botas-de-futbol-nino-con-velcro-nino-viralto-i-turf-violeta/343072/c195m8917489",
+  "productKey": "343072_c195m8917489",
+  "variantId": "c195m8917489",
+  "productId": "8917489",
+  "name": "Botas de fútbol niño con velcro niño, Viralto I Turf violeta",
+  "brand": "KIPSTA",
+  "description": "Unas botas amplias y cómodas que permitirán al joven futbolista controlar el balón, mejorar su técnica y ¡calzarse sus botas con facilidad gracias a la tira autoadherente!",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "Botas niños multitacos"
+  ],
+  "price": {
+    "amount": 21.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": null,
+  "sizes": [],
+  "colors": [
+    {
+      "name": "azul marino oscuro",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "naranja girasol fluorescente",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "azul acero / morado lavanda",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "2 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 2 años."
+    }
+  ],
+  "features": [
+    {
+      "title": "Comodidad",
+      "text": "Exterior flexible, refuerzo textil y plantilla preformada."
+    },
+    {
+      "title": "Flexibilidad",
+      "text": "Flexibilidad multidireccional con tecnología FLEX-H"
+    },
+    {
+      "title": "Toque de balón",
+      "text": "Optimal Strike Zone: asimetría del eje de los cordones de -10 °C"
+    },
+    {
+      "title": "Agarre",
+      "text": "Suela adherente de caucho natural con múltiples tacos cortos."
+    },
+    {
+      "title": "Adaptabilidad",
+      "text": "Diseñadas con un podólogo. Corte ancho adaptado al pie del niño."
+    },
+    {
+      "title": "Facilidad para poner / quitar",
+      "text": "Sistema de lazada EASY y acabado con tira autoadherente ¡para un calzado más fácil!"
+    },
+    {
+      "title": "Sujeción del producto",
+      "text": "Sistema de lazada perfectamente cerrado con una tira autoadherente lateral"
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Intensidad",
+          "value": "Intensidad media"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Hierba sintética corta, Césped artificial, Terreno duro"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones, Tira autoadherente"
+        },
+        {
+          "name": "Personalización",
+          "value": "Personalizable"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado bajo"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos estabilizados"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Colección",
+          "value": "Viralto"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Control"
+        },
+        {
+          "name": "Tipo de plantilla",
+          "value": "Preformado"
+        },
+        {
+          "name": "Nivel de rendimiento",
+          "value": "Palo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p2814822/k$b7d6a6697739a388fef6d7e3acc2c3c3/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2814817/k$fd980cdf9adff312f9af224a5e4831d8/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2814823/k$5fc2b8bd2060c83f1cadf41dd343674b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2814826/k$6353e6cd0e67a2f46056096a7488caff/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2814820/k$cb0b5289741668c87044c485675ff6db/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2814821/k$8942f68cdad33a6f481a900a978a780f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2814818/k$5a818cabc846cdd8e2743851424b62df/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2814819/k$476203a99a7de884dc383ae3f674d2f7/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2814816/k$6c2be2c51b4e809fc2994747ff0b54f7/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2814825/k$0504baa118bb9f1906f7407d77e6dd35/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2814824/k$8cebec4a6379ac4f830e74632422e770/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:17:50.194Z"
+}

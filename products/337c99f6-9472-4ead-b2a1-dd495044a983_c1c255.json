@@ -1,0 +1,109 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatilla-futbol-sala-nino-joma-evolution-indoor-2431-negro/337c99f6-9472-4ead-b2a1-dd495044a983/c1c255",
+  "productKey": "337c99f6-9472-4ead-b2a1-dd495044a983_c1c255",
+  "variantId": "c1c255",
+  "productId": null,
+  "name": "Zapatilla Futbol Sala Niño Joma Evolution Indoor 2431 Negro",
+  "brand": "JOMA",
+  "description": "Zapatillas con un gran diseño para presumir en el terreno de juego, muy polivalentes tanto dentro como fuera de los terrenos de juego, uno de los iconos para la vuelta al cole.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "copia botas niños"
+  ],
+  "price": {
+    "amount": 34.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "11,66 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8445954833298"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m17799914/k$1dcc44df8bca8a32cd708e18db4731da/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m17799918/k$402f132ae94a2a99b6d47c0b02eb79d0/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m17799911/k$06608aaffd5ecbd0cc09105472e01dc6/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m17799921/k$3517caafe85e32cdb68378d19a3f1f4f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m17683926/k$94341e988805ada9220e992c3016a960/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:06:49.048Z"
+}

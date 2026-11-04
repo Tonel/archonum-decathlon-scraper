@@ -1,0 +1,118 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-puma-ultra-9-play-tf/5d5124cf-f325-4f22-a566-eda88415d74e/c30",
+  "productKey": "5d5124cf-f325-4f22-a566-eda88415d74e_c30",
+  "variantId": "c30",
+  "productId": null,
+  "name": "Botas de fútbol Puma Ultra 9 Play TF",
+  "brand": "PUMA",
+  "description": "Descubre las zapatillas de fútbol Puma Ultra 9 Play TF, que combinan una comodidad excepcional y un rendimiento en todos los terrenos.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Puma",
+    "Botas de fútbol puma"
+  ],
+  "price": {
+    "amount": 53,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "17,67 € al mes",
+  "sizes": [
+    "36 (UK 3.5)",
+    "39 (UK 6)",
+    "40 (UK 6.5)",
+    "40.5 (UK 7)",
+    "41 (UK 7.5)",
+    "42 (UK 8)",
+    "42.5 (UK 8.5)",
+    "43 (UK 9)",
+    "44 (UK 9.5)",
+    "44.5 (UK 10)",
+    "45 (UK 10.5)",
+    "46 (UK 11)"
+  ],
+  "colors": [
+    {
+      "name": "beige",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "negro",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4070032958927"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m37715451/k$95cd6a8dd7f9f295499bc9c334b64a82/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m37715539/k$5b708c97a0bc5fe867550d8eff944904/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m37715523/k$d81128acc6de933513e8260edd311775/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m37715508/k$04c000e921cf4b71856da59c16db8b38/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m37715492/k$2697cab86b79943a6ce869fb9914379f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m37715474/k$fb2614598ca1edf9bc6ef33200bfbf24/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:20:22.553Z"
+}

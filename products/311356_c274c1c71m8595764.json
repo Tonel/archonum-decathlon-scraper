@@ -1,0 +1,141 @@
+{
+  "url": "https://www.decathlon.es/es/p/bota-futbol-5-flex-turf-adulto/311356/c274c1c71m8595764",
+  "productKey": "311356_c274c1c71m8595764",
+  "variantId": "c274c1c71m8595764",
+  "productId": "8595764",
+  "name": "Bota Fútbol 5 Flex Turf Adulto",
+  "brand": "FIFTER",
+  "description": "¿Buscas una bota para practicar fútbol en terrenos pequeños (5, urban...)? Estas botas de fútbol Fifter Flex te aportarán comodidad y flexibilidad.",
+  "stickers": [
+    "Últimas unidades"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas césped artificial",
+    "Botas multitacos y turf"
+  ],
+  "price": {
+    "amount": 31.99,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 44.99,
+    "currency": "EUR"
+  },
+  "financing": "10,66 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "3 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 3 años."
+    }
+  ],
+  "features": [
+    {
+      "title": "Flexibilidad",
+      "text": "Sistema Flex que permite una flexibilidad multidireccional."
+    },
+    {
+      "title": "Amortiguación",
+      "text": "Espuma EVA."
+    },
+    {
+      "title": "Agarre",
+      "text": "La suela de caucho natural favorece los apoyos en terrenos duros."
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Nivel de práctica",
+          "value": "Perfeccionamiento"
+        },
+        {
+          "name": "Frecuencia",
+          "value": "Regular"
+        },
+        {
+          "name": "Intensidad",
+          "value": "Intensidad media"
+        },
+        {
+          "name": "Tipo de terreno",
+          "value": "Hierba sintética corta, Terreno duro"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Altura del calzado",
+          "value": "Calzado alto"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Tipo de taco",
+          "value": "Tacos estabilizados"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Control"
+        },
+        {
+          "name": "Colección",
+          "value": "Academic"
+        },
+        {
+          "name": "Tipo de plantilla",
+          "value": "Preformado"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p2055074/k$740b76f0502b9c12d5ed6e5e4e8607c8/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2055071/k$0dba1588524450269e09d3fdd5ec1ff2/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2055073/k$22e08e45740da55ea4414ca89d24cfdf/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p2055064/k$37351456a9dd325a68097d95eed9893b/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:40:21.014Z"
+}

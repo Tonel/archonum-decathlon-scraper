@@ -1,0 +1,116 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-nike-phantom-6-academy-ag-azul-naranja/8ec49af5-73c0-4084-af1a-7b9e41099bb3/c1c403c1",
+  "productKey": "8ec49af5-73c0-4084-af1a-7b9e41099bb3_c1c403c1",
+  "variantId": "c1c403c1",
+  "productId": null,
+  "name": "Botas de fútbol Nike Phantom 6 Academy AG Azul/Naranja",
+  "brand": "NIKE",
+  "description": "Diseñadas para el fútbol en césped artificial, estas botas Nike Phantom 6 Academy AG ofrecen un control de balón mejorado y una zona de golpeo NikeSkin.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas Nike"
+  ],
+  "price": {
+    "amount": 83.95,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "27,98 € al mes",
+  "sizes": [
+    "40.5 (UK 6.5)",
+    "42 (UK 8)",
+    "43 (UK 8.5)"
+  ],
+  "colors": [
+    {
+      "name": "negro / morado carmesí / negro",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "azul",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del mar, 10 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "0198482751753"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m38357539/k$4a49fb54c62c16962432e7cd221c4e45/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38789788/k$024938f76712f9e5be0eb9b194ff5950/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38789767/k$d6d36c61486ad96c9d64d5dd8eba6948/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38790154/k$0b30c3c47c13ace158b424edf7690036/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38790150/k$d82edf3c46aeced81833a43962cd09e7/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38789828/k$a855492aa0bdc5cb96197c02891e714c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38357539/k$4a49fb54c62c16962432e7cd221c4e45/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38790147/k$daab01991f429c02020fa1dd37caf3b0/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38790144/k$5277d2b106579c0918441ca0d0e70502/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m38789755/k$e23d98b7dd3ef0e7871aee217109ed12/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:55:31.124Z"
+}

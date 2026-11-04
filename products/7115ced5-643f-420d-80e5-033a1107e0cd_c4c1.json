@@ -1,0 +1,151 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/guantes-de-portero-de-entrenamiento-predator/7115ced5-643f-420d-80e5-033a1107e0cd/c4c1",
+  "productKey": "7115ced5-643f-420d-80e5-033a1107e0cd_c4c1",
+  "variantId": "c4c1",
+  "productId": null,
+  "name": "GUANTES DE PORTERO DE ENTRENAMIENTO PREDATOR",
+  "brand": "ADIDAS",
+  "description": "Guantes de portero con adherencia suave para un control fiable en diversas condiciones meteorológicas.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Portero",
+    "Guantes de portero",
+    "Guantes adidas"
+  ],
+  "price": {
+    "amount": 25,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": null,
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del vie, 6 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Antideslizamiento",
+          "value": "Antideslizamiento"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Sin apriete"
+        },
+        {
+          "name": "Zona de protección",
+          "value": "Protección mano"
+        },
+        {
+          "name": "Tipo de guantes",
+          "value": "Penalti córner"
+        },
+        {
+          "name": "Material",
+          "value": "Poliuretano"
+        },
+        {
+          "name": "Impermeable",
+          "value": "No impermeable"
+        },
+        {
+          "name": "Opciones",
+          "value": "Con latex preformado"
+        },
+        {
+          "name": "Tipo de costura",
+          "value": "Con costura"
+        },
+        {
+          "name": "Transpirabilidad",
+          "value": "Transpirable"
+        },
+        {
+          "name": "Zonas de impacto",
+          "value": "Latex"
+        },
+        {
+          "name": "Colección",
+          "value": "Predator"
+        },
+        {
+          "name": "Nivel de práctica",
+          "value": "Todos los niveles"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        },
+        {
+          "name": "Temporada",
+          "value": "Todas las estaciones"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "4068818522684"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m36599718/k$a7a80c426a99034031121dfc040fcc08/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36599744/k$fae6f34eb90710b008d20f0f492e9768/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36599742/k$082e49522dc31d2762b59785886d5102/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36599741/k$c00b44eb80270c7ee3e9587e25d0c2bd/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36599734/k$dc7d74a39f5a6d434987af6c2522cfd5/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28696713/k$998563a175850e3ea34a4f11874140bc/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28696739/k$1ace426b041ab08039f3325c86b9a35d/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T17:55:46.317Z"
+}

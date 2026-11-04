@@ -1,0 +1,118 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-nike-tiempo-legend-10-academy-mg-talla-42-5/b0591665-d525-474e-8e2b-83e5f41fea9e/c41",
+  "productKey": "b0591665-d525-474e-8e2b-83e5f41fea9e_c41",
+  "variantId": "c41",
+  "productId": null,
+  "name": "Botas de Fútbol NIKE TIEMPO LEGEND 10 ACADEMY MG Talla 42.5",
+  "brand": "NIKE",
+  "description": "Scarpe Calcio Adulto NIKE TIEMPO LEGEND 10 ACADEMY MG 9 (42.5) 401 COPA/WHITE",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Nike",
+    "Botas de fútbol nike"
+  ],
+  "price": {
+    "amount": 93.99,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "31,33 € al mes",
+  "sizes": [],
+  "colors": [
+    {
+      "name": "aguamarina",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "blanco / blanco",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "azul",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Aviso legal",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "0197862735796"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m23308535/k$ca9c0dcaf952411939c8b9198cad3587/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m23308547/k$d11c56cfcd5811b2cdd9599aad7af2bc/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m23308546/k$12de17acf49387b9a1ad90a3690a7d6c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m23308548/k$ddc50d958b6f7bce46c4be424db70f41/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m25482708/k$190e710109c0344faf7ed3383a18ae04/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m25482711/k$2b522426fae404431877b594cd04054c/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:30:11.342Z"
+}

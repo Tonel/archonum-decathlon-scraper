@@ -1,0 +1,123 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-sala-ninos-joma-top-flex-jr-2504/8e97af84-db0a-4498-9d41-ba69d4d0fb30/c218c5c20",
+  "productKey": "8e97af84-db0a-4498-9d41-ba69d4d0fb30_c218c5c20",
+  "variantId": "c218c5c20",
+  "productId": null,
+  "name": "Botas de Futbol Sala Niños Joma Top Flex Jr 2504",
+  "brand": "JOMA",
+  "description": "Botas para jugar al futbol sala, tanto en pistas indoor como en superficies más duras.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "copia botas niños"
+  ],
+  "price": {
+    "amount": 43.9,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "14,63 € al mes",
+  "sizes": [
+    "34 (UK 2)",
+    "35 (UK 3)",
+    "27 (UK 9.5C)",
+    "30 (UK 11C)",
+    "33 (UK 13.5C)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del lun, 9 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Motivo",
+          "value": "Motivo"
+        },
+        {
+          "name": "Tipo de ajuste",
+          "value": "Tira autoadherente"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Agarre"
+        },
+        {
+          "name": "Estilo",
+          "value": "Liso"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8447368123811"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m28336864/k$decf91301d7aaa0c46d7127314583cdd/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28336858/k$8590d448dc37e909a0dd7f72f079054c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28336856/k$e9b8ccb5d982d82e751d9270b8b69b7c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28336862/k$a8ecea691ece3df42355e4e79127a282/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28336860/k$7eca773dac7d1fe5081980f9bc3f2b96/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T20:19:22.697Z"
+}

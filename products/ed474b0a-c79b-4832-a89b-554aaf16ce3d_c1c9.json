@@ -1,0 +1,119 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatillas-futbol-sala-nino-joma-powerful-jr-negras-indoor-con-velcro/ed474b0a-c79b-4832-a89b-554aaf16ce3d/c1c9",
+  "productKey": "ed474b0a-c79b-4832-a89b-554aaf16ce3d_c1c9",
+  "variantId": "c1c9",
+  "productId": null,
+  "name": "Zapatillas fútbol sala niño Joma Powerful JR negras indoor con velcro",
+  "brand": "JOMA",
+  "description": "Zapatillas de fútbol sala junior Joma en negro: suela indoor que no marca, buen agarre y cierre con velcro para calce rápido. Ideales para entrenos y partidos en pista.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Botas niños",
+    "copia botas niños"
+  ],
+  "price": {
+    "amount": 38.72,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "12,91 € al mes",
+  "sizes": [
+    "27 (UK 9.5C)",
+    "29 (UK 11C)",
+    "30 (UK 12C)",
+    "31 (UK 12.5C)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Material",
+          "value": "Materia sintética"
+        },
+        {
+          "name": "Tipo de calzado",
+          "value": "Confort"
+        },
+        {
+          "name": "Ancho de pie",
+          "value": "Medio"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8447368951582"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m28112084/k$ce95d4e2d1f311bec77d5235101df19b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28112122/k$143fb94faeaa9f2a5d1508ab64f498f9/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28112097/k$9751ab03620e7a133849e2dfb677fef9/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28112167/k$3da2cdf4aaa62498c4b80a25e9e2c25b/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m28112144/k$1e6a97027c1257f4b265ad574452409d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34974592/k$910e0eb6d6db44abb43616c40bb471a9/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34974567/k$6e6c98336cbd08517608c39c7575dcdf/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34974592/k$910e0eb6d6db44abb43616c40bb471a9/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m36561266/k$5c2a33d0a15e68fa6f1d310731536a44/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m34974567/k$6e6c98336cbd08517608c39c7575dcdf/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:55:38.026Z"
+}

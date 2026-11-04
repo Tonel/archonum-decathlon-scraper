@@ -1,0 +1,101 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/zapatilla-de-futbol-munich-arenga-olympix-plateado/4bd3db54-a2d3-4a8f-8d15-f10611ef6aa3/c249",
+  "productKey": "4bd3db54-a2d3-4a8f-8d15-f10611ef6aa3_c249",
+  "variantId": "c249",
+  "productId": null,
+  "name": "Zapatilla de futbol MUNICH Arenga olympix plateado",
+  "brand": "MUNICH",
+  "description": "MUNICH es la marca de zapatillas más usada por profesionales de la LNFS y aficionad@s al futsal y pádel de España, Italia y Portugal.",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Oferta completa"
+  ],
+  "price": {
+    "amount": 57.98,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": "19,33 € al mes",
+  "sizes": [
+    "42 (UK 8)",
+    "46 (UK 11)"
+  ],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del sáb, 7 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Tipo de ajuste",
+          "value": "Cordones"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "8445648452873"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m18453890/k$5ed4a3b3cb0cec29eb22a904ec4a1c5d/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m18453887/k$52ff896fc6165a47345d58cad9a004c7/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m18452897/k$104055ab23673c6c1846774051ee93a9/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m18452915/k$d5526621f1785b2f8fbcfb02d5843368/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m18452927/k$7225bc848f04f6acc14a85b84804cf2b/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T19:05:58.457Z"
+}

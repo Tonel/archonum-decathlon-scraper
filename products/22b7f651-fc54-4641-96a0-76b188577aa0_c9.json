@@ -1,0 +1,98 @@
+{
+  "url": "https://www.decathlon.es/es/p/mp/botas-de-futbol-nike-jr-mercurial-zoom-vapor-16-acad-fg-mg/22b7f651-fc54-4641-96a0-76b188577aa0/c9",
+  "productKey": "22b7f651-fc54-4641-96a0-76b188577aa0_c9",
+  "variantId": "c9",
+  "productId": null,
+  "name": "Botas de fútbol Nike Jr Mercurial Zoom Vapor 16 Acad FG/MG",
+  "brand": "NIKE",
+  "description": "Las botas de fútbol Nike Jr Mercurial Zoom Vapor 16 Acad optimizan la velocidad y el control para jóvenes talentos en el campo.",
+  "stickers": [
+    "Promoción"
+  ],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Marcas de fútbol",
+    "Nike",
+    "Botas de fútbol nike"
+  ],
+  "price": {
+    "amount": 31.56,
+    "currency": "EUR"
+  },
+  "originalPrice": {
+    "amount": 34.95,
+    "currency": "EUR"
+  },
+  "financing": "10,52 € al mes",
+  "sizes": [],
+  "colors": [],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del mar, 10 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": "No disponible"
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "No disponible"
+    }
+  ],
+  "soldBy": null,
+  "assurances": [
+    {
+      "title": "30 días para devoluciones",
+      "description": "Puedes devolver los artículos directamente al vendedor en un plazo de 30 días utilizando sus métodos de envío disponibles."
+    },
+    {
+      "title": "Socio de confianza de Decathlon",
+      "description": "Compra artículos de nuestros vendedores verificados para un extra de tranquilidad."
+    },
+    {
+      "title": "Exclusivo online",
+      "description": "Productos disponibles exclusivamente online. Compra desde cualquier lugar y elige cómo quieres que se entregue."
+    }
+  ],
+  "features": [],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        }
+      ]
+    },
+    {
+      "group": "Número de artículo europeo",
+      "items": [
+        {
+          "name": "Código EAN",
+          "value": "198482584047"
+        }
+      ]
+    },
+    {
+      "group": "Marca",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/m29996307/k$950765d3be54ee9fabdc66b3116f09e4/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m29996356/k$ab94924e763f7aa46ef859fe9b934a73/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m29996334/k$4467d0bc423bd64b44f50aed31a350ac/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m29996501/k$912f0cfd1183e02cfc08d383cb260b2f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m29996469/k$30095c3a771fa9e247d2958ee833363c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m29996409/k$85bbab5663f4e51621a5170cb60d6516/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m29996435/k$eaef43c0b8e552147f449a0d15d16d66/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35822614/k$d480778d51ea031e2e8ba411a7649b19/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/m35822565/k$f1ebee12bbfacaa06ca6e6c526290880/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:35:30.041Z"
+}

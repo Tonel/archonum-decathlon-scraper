@@ -1,0 +1,176 @@
+{
+  "url": "https://www.decathlon.es/es/p/bolsa-zapatillas-plegable-10-litros/184792/c425c425m8937058",
+  "productKey": "184792_c425c425m8937058",
+  "variantId": "c425c425m8937058",
+  "productId": "8937058",
+  "name": "Bolsa Zapatillas Plegable 10 Litros",
+  "brand": "DECATHLON",
+  "description": "Esta ligera bolsa para calzado te permite llevar tus zapatillas de cardio sin que se ensucien el resto de tus cosas. Se pliega muy fácilmente en su propio bolsillo integrado.",
+  "stickers": [],
+  "breadcrumbs": [
+    "Deportes",
+    "Fútbol",
+    "Botas de fútbol",
+    "Accesorios para botas",
+    "Todo accesorios"
+  ],
+  "price": {
+    "amount": 2.49,
+    "currency": "EUR"
+  },
+  "originalPrice": null,
+  "financing": null,
+  "sizes": [],
+  "colors": [
+    {
+      "name": "carbón / carbón",
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "negro ahumado",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "azul índigo / azul índigo",
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "azul petróleo",
+      "selected": false,
+      "available": true
+    }
+  ],
+  "delivery": [
+    {
+      "method": "Entrega a domicilio",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    },
+    {
+      "method": "Recoger en Decathlon",
+      "status": null
+    },
+    {
+      "method": "Recogida cerca de ti",
+      "status": "Recíbelo a partir del jue, 5 nov"
+    }
+  ],
+  "soldBy": "Vendido y enviado porDecathlon",
+  "assurances": [
+    {
+      "title": "Plazo de devolución ampliado",
+      "description": "Dispones de 60 días para devolver artículos de marca Decathlon (Quechua, Btwin, etc.) y 30 días para otras marcas (Adidas, Asics, etc.)"
+    },
+    {
+      "title": "2 años de garantía",
+      "description": "Disfruta de una calidad duradera. Este producto tiene una garantía de 2 años."
+    }
+  ],
+  "features": [
+    {
+      "title": "compacidad",
+      "text": "Se pliega en su bolsillo para guardarla fácilmente y llevarla a cualquier parte."
+    },
+    {
+      "title": "Facilidad de uso",
+      "text": "Ayuda a mantener las pertenencias limpias. Fácil de cerrar gracias al cordón."
+    }
+  ],
+  "specifications": [
+    {
+      "group": "Detalles",
+      "items": [
+        {
+          "name": "Nivel de práctica",
+          "value": "Todos los niveles"
+        },
+        {
+          "name": "Nº de compartimentos",
+          "value": "1 compartimento"
+        },
+        {
+          "name": "Plegable",
+          "value": "Sí"
+        },
+        {
+          "name": "Tipo de bolsa",
+          "value": "Bolsa flexible"
+        },
+        {
+          "name": "Tipo de apertura / cierre",
+          "value": "Without zip"
+        },
+        {
+          "name": "Impermeable",
+          "value": "No impermeable"
+        },
+        {
+          "name": "Material",
+          "value": "Polyester"
+        },
+        {
+          "name": "Nº de bolsillos",
+          "value": "Sin bolsillos"
+        },
+        {
+          "name": "Volumen (en l)",
+          "value": "10 l, 12 l"
+        },
+        {
+          "name": "Condición",
+          "value": "Nuevo"
+        },
+        {
+          "name": "Peso (en g)",
+          "value": "42 g"
+        },
+        {
+          "name": "Anchura",
+          "value": "35 cm"
+        },
+        {
+          "name": "Longitud (en cm)",
+          "value": "40 cm"
+        },
+        {
+          "name": "Tipo de cubierta",
+          "value": "Tapa blanda"
+        },
+        {
+          "name": "Altura (en cm)",
+          "value": "0.4 cm"
+        },
+        {
+          "name": "Bloqueable",
+          "value": "No bloqueable"
+        },
+        {
+          "name": "Carga máxima",
+          "value": "4 kg"
+        }
+      ]
+    },
+    {
+      "group": "Composición",
+      "items": []
+    },
+    {
+      "group": "Contacto de seguridad del producto (UE)",
+      "items": []
+    }
+  ],
+  "careAndUse": null,
+  "images": [
+    "https://contents.mediadecathlon.com/p3161307/k$476514f3516214764cc9325aadbade7f/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3161350/k$e20cfd174ffd33ae9a960e8c2a35bf35/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3164006/k$661445f1064b0cf355c46fd58046c54c/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3161245/k$3bf01ca593068b7ce056a9f1b0081be1/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3161283/k$d5e226602d4c70817ac5a9e847ba7c30/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3161288/k$6df6f9d1a66f576abaaec0cfab5c0bf3/picture.jpg?format=auto&f=3000x0",
+    "https://contents.mediadecathlon.com/p3163929/k$25c9f28200545273b0d4f5dc6e7f2515/picture.jpg?format=auto&f=3000x0"
+  ],
+  "sourceCategory": "https://www.decathlon.es/es/deportes/futbol/botas",
+  "scrapedAt": "2026-11-04T18:12:26.524Z"
+}
